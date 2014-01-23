@@ -92,7 +92,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 11
@@ -195,7 +195,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 6
@@ -335,7 +335,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 7
@@ -438,7 +438,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 4
@@ -446,7 +446,7 @@
           {
             "code": "M53",
             "nameCht": "水塘北角/勞工事務局",
-            "namePor": "R Bend / Dsal",
+            "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
             "seq": 5
@@ -462,7 +462,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 7
@@ -530,7 +530,7 @@
           {
             "code": "M214",
             "nameCht": "順景廣場總站-1",
-            "namePor": "P. Serenidade / Terminal-1",
+            "namePor": "P. Serenidade / Terminal - 1",
             "lat": 22.212609,
             "lng": 113.553599,
             "seq": 21
@@ -817,7 +817,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 15
@@ -865,7 +865,7 @@
           {
             "code": "M214",
             "nameCht": "順景廣場總站-1",
-            "namePor": "P. Serenidade / Terminal-1",
+            "namePor": "P. Serenidade / Terminal - 1",
             "lat": 22.212609,
             "lng": 113.553599,
             "seq": 21
@@ -1076,7 +1076,7 @@
           {
             "code": "M226",
             "nameCht": "勞動節街/中葡職業技術學校",
-            "namePor": "R. 1 de Maio / Escola Luso-chinesa Técnico-profissional",
+            "namePor": "R. 1 de Maio / Escola Luso-Chinesa Técnico-Profissional",
             "lat": 22.209609,
             "lng": 113.554125,
             "seq": 11
@@ -1184,7 +1184,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 9
@@ -1256,7 +1256,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 18
@@ -1343,7 +1343,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 9
@@ -1499,7 +1499,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 9
@@ -1515,7 +1515,7 @@
           {
             "code": "M265",
             "nameCht": "孫逸仙大馬路/友誼大馬路",
-            "namePor": "Av. Dr. Sun Yat-sen / Av. Amizade",
+            "namePor": "Av. Dr. Sun Yat-Sen / Av. Amizade",
             "lat": 22.194959,
             "lng": 113.555207,
             "seq": 11
@@ -1523,7 +1523,7 @@
           {
             "code": "M264",
             "nameCht": "孫逸仙大馬路/漁人碼頭",
-            "namePor": "Av. Dr. Sun Yat-sen / Fisherman's Wharf",
+            "namePor": "Av. Dr. Sun Yat-Sen / Fisherman's Wharf",
             "lat": 22.190049,
             "lng": 113.55588,
             "seq": 12
@@ -1690,7 +1690,7 @@
           {
             "code": "M259",
             "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "Av. Dr. Sun Yat-sen / Sands",
+            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
             "lat": 22.190054,
             "lng": 113.55573,
             "seq": 10
@@ -1838,7 +1838,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 7
@@ -1970,7 +1970,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 11
@@ -2094,7 +2094,7 @@
           {
             "code": "M105",
             "nameCht": "望廈炮台",
-            "namePor": "Forte Mong-há",
+            "namePor": "Forte Mong-Há",
             "lat": 22.205698,
             "lng": 113.547939,
             "seq": 6
@@ -2353,7 +2353,7 @@
           {
             "code": "M105",
             "nameCht": "望廈炮台",
-            "namePor": "Forte Mong-há",
+            "namePor": "Forte Mong-Há",
             "lat": 22.205698,
             "lng": 113.547939,
             "seq": 2
@@ -2429,7 +2429,7 @@
           {
             "code": "M214",
             "nameCht": "順景廣場總站-1",
-            "namePor": "P. Serenidade / Terminal-1",
+            "namePor": "P. Serenidade / Terminal - 1",
             "lat": 22.212609,
             "lng": 113.553599,
             "seq": 1
@@ -2549,7 +2549,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 16
@@ -2645,7 +2645,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 28
@@ -2733,7 +2733,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 39
@@ -2781,7 +2781,7 @@
           {
             "code": "M214",
             "nameCht": "順景廣場總站-1",
-            "namePor": "P. Serenidade / Terminal-1",
+            "namePor": "P. Serenidade / Terminal - 1",
             "lat": 22.212609,
             "lng": 113.553599,
             "seq": 45
@@ -3053,7 +3053,7 @@
           {
             "code": "M33",
             "nameCht": "望廈體育館",
-            "namePor": "Campo Desportivo Mong-há",
+            "namePor": "Campo Desportivo Mong-Há",
             "lat": 22.207107,
             "lng": 113.550641,
             "seq": 6
@@ -3384,7 +3384,7 @@
           {
             "code": "M33",
             "nameCht": "望廈體育館",
-            "namePor": "Campo Desportivo Mong-há",
+            "namePor": "Campo Desportivo Mong-Há",
             "lat": 22.207107,
             "lng": 113.550641,
             "seq": 3
@@ -3787,7 +3787,7 @@
           {
             "code": "M259",
             "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "Av. Dr. Sun Yat-sen / Sands",
+            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
             "lat": 22.190054,
             "lng": 113.55573,
             "seq": 20
@@ -3818,7 +3818,7 @@
           {
             "code": "M264",
             "nameCht": "孫逸仙大馬路/漁人碼頭",
-            "namePor": "Av. Dr. Sun Yat-sen / Fisherman's Wharf",
+            "namePor": "Av. Dr. Sun Yat-Sen / Fisherman's Wharf",
             "lat": 22.190049,
             "lng": 113.55588,
             "seq": 2
@@ -4182,7 +4182,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 19
@@ -5000,7 +5000,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 8
@@ -5239,7 +5239,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 14
@@ -5247,7 +5247,7 @@
           {
             "code": "M53",
             "nameCht": "水塘北角/勞工事務局",
-            "namePor": "R Bend / Dsal",
+            "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
             "seq": 15
@@ -5263,7 +5263,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 17
@@ -5331,7 +5331,7 @@
           {
             "code": "M265",
             "nameCht": "孫逸仙大馬路/友誼大馬路",
-            "namePor": "Av. Dr. Sun Yat-sen / Av. Amizade",
+            "namePor": "Av. Dr. Sun Yat-Sen / Av. Amizade",
             "lat": 22.194959,
             "lng": 113.555207,
             "seq": 2
@@ -5339,7 +5339,7 @@
           {
             "code": "M264",
             "nameCht": "孫逸仙大馬路/漁人碼頭",
-            "namePor": "Av. Dr. Sun Yat-sen / Fisherman's Wharf",
+            "namePor": "Av. Dr. Sun Yat-Sen / Fisherman's Wharf",
             "lat": 22.190049,
             "lng": 113.55588,
             "seq": 3
@@ -5578,7 +5578,7 @@
           {
             "code": "M259",
             "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "Av. Dr. Sun Yat-sen / Sands",
+            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
             "lat": 22.190054,
             "lng": 113.55573,
             "seq": 15
@@ -5710,7 +5710,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 12
@@ -5830,7 +5830,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 27
@@ -5854,7 +5854,7 @@
           {
             "code": "M53",
             "nameCht": "水塘北角/勞工事務局",
-            "namePor": "R Bend / Dsal",
+            "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
             "seq": 30
@@ -6010,7 +6010,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 8
@@ -6482,7 +6482,7 @@
           {
             "code": "M213",
             "nameCht": "順景廣場總站-2",
-            "namePor": "P. Serenidade / Terminal-2",
+            "namePor": "P. Serenidade / Terminal - 2",
             "lat": 22.213449,
             "lng": 113.553347,
             "seq": 1
@@ -6530,7 +6530,7 @@
           {
             "code": "M33",
             "nameCht": "望廈體育館",
-            "namePor": "Campo Desportivo Mong-há",
+            "namePor": "Campo Desportivo Mong-Há",
             "lat": 22.207107,
             "lng": 113.550641,
             "seq": 7
@@ -6642,7 +6642,7 @@
           {
             "code": "M259",
             "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "Av. Dr. Sun Yat-sen / Sands",
+            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
             "lat": 22.190054,
             "lng": 113.55573,
             "seq": 21
@@ -6681,7 +6681,7 @@
           {
             "code": "M265",
             "nameCht": "孫逸仙大馬路/友誼大馬路",
-            "namePor": "Av. Dr. Sun Yat-sen / Av. Amizade",
+            "namePor": "Av. Dr. Sun Yat-Sen / Av. Amizade",
             "lat": 22.194959,
             "lng": 113.555207,
             "seq": 2
@@ -6689,7 +6689,7 @@
           {
             "code": "M264",
             "nameCht": "孫逸仙大馬路/漁人碼頭",
-            "namePor": "Av. Dr. Sun Yat-sen / Fisherman's Wharf",
+            "namePor": "Av. Dr. Sun Yat-Sen / Fisherman's Wharf",
             "lat": 22.190049,
             "lng": 113.55588,
             "seq": 3
@@ -6825,7 +6825,7 @@
           {
             "code": "M213",
             "nameCht": "順景廣場總站-2",
-            "namePor": "P. Serenidade / Terminal-2",
+            "namePor": "P. Serenidade / Terminal - 2",
             "lat": 22.213449,
             "lng": 113.553347,
             "seq": 20
@@ -6948,8 +6948,8 @@
           },
           {
             "code": "T359",
-            "nameCht": "蓮花圓形地—1",
-            "namePor": "Rotunda Flor de Lotus-1",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
             "seq": 13
@@ -6997,7 +6997,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 19
@@ -7005,7 +7005,7 @@
           {
             "code": "C660",
             "nameCht": "路環市區-1",
-            "namePor": "Vila de Coloane-1",
+            "namePor": "Vila de Coloane - 1",
             "lat": 22.117925,
             "lng": 113.552292,
             "seq": 20
@@ -7029,7 +7029,7 @@
           {
             "code": "C666",
             "nameCht": "竹灣馬路-1",
-            "namePor": "Est. Cheoc Van-1",
+            "namePor": "Est. Cheoc Van - 1",
             "lat": 22.114099,
             "lng": 113.559978,
             "seq": 23
@@ -7037,7 +7037,7 @@
           {
             "code": "C677",
             "nameCht": "竹灣燒烤公園-1",
-            "namePor": "Cheoc Van / Picnic-1",
+            "namePor": "Cheoc Van / Picnic - 1",
             "lat": 22.114453,
             "lng": 113.562483,
             "seq": 24
@@ -7053,7 +7053,7 @@
           {
             "code": "C676",
             "nameCht": "竹灣豪園-1",
-            "namePor": "Vila Chok Wan Hou Un-1",
+            "namePor": "Vila Chok Wan Hou Un - 1",
             "lat": 22.113318,
             "lng": 113.566251,
             "seq": 26
@@ -7061,7 +7061,7 @@
           {
             "code": "C680",
             "nameCht": "黑沙/海蘭花苑",
-            "namePor": "Hác-sá / Hellene Garden",
+            "namePor": "Hác-Sá / Hellene Garden",
             "lat": 22.116486,
             "lng": 113.569519,
             "seq": 27
@@ -7077,15 +7077,15 @@
           {
             "code": "C681",
             "nameCht": "黑沙水庫-1",
-            "namePor": "Barragem de Hác-sá-1",
+            "namePor": "Barragem de Hác-Sá - 1",
             "lat": 22.123827,
             "lng": 113.570802,
             "seq": 29
           },
           {
             "code": "C671",
-            "nameCht": "威斯汀酒店-1",
-            "namePor": "Westin Resort-1",
+            "nameCht": "威斯汀酒店 - 1",
+            "namePor": "Westin Resort - 1",
             "lat": 22.127105,
             "lng": 113.576209,
             "seq": 30
@@ -7093,7 +7093,7 @@
           {
             "code": "C673",
             "nameCht": "九澳聖若瑟學校",
-            "namePor": "Escola de S. José de Ká-hó",
+            "namePor": "Escola de S. José de Ká-Hó",
             "lat": 22.133868,
             "lng": 113.581876,
             "seq": 31
@@ -7101,7 +7101,7 @@
           {
             "code": "C672",
             "nameCht": "九澳村",
-            "namePor": "Povoação de Ka-hó",
+            "namePor": "Povoação de Ka-Hó",
             "lat": 22.132112,
             "lng": 113.581603,
             "seq": 32
@@ -7116,15 +7116,15 @@
           {
             "code": "C672",
             "nameCht": "九澳村",
-            "namePor": "Povoação de Ka-hó",
+            "namePor": "Povoação de Ka-Hó",
             "lat": 22.132112,
             "lng": 113.581603,
             "seq": 1
           },
           {
             "code": "C670",
-            "nameCht": "威斯汀酒店-2",
-            "namePor": "Westin Resort-2",
+            "nameCht": "威斯汀酒店 - 2",
+            "namePor": "Westin Resort - 2",
             "lat": 22.12673,
             "lng": 113.575865,
             "seq": 2
@@ -7132,7 +7132,7 @@
           {
             "code": "C679",
             "nameCht": "黑沙水庫-2",
-            "namePor": "Barragem de Hác-sá-2",
+            "namePor": "Barragem de Hác-Sá - 2",
             "lat": 22.123732,
             "lng": 113.571202,
             "seq": 3
@@ -7148,7 +7148,7 @@
           {
             "code": "C658",
             "nameCht": "黑沙青年旅舍",
-            "namePor": "Pousada de Juventude de Hác-sá",
+            "namePor": "Pousada de Juventude de Hác-Sá",
             "lat": 22.116481,
             "lng": 113.569608,
             "seq": 5
@@ -7156,7 +7156,7 @@
           {
             "code": "C675",
             "nameCht": "竹灣豪園-2",
-            "namePor": "Vila Chok Wan Hou Un-2",
+            "namePor": "Vila Chok Wan Hou Un - 2",
             "lat": 22.113174,
             "lng": 113.566673,
             "seq": 6
@@ -7172,7 +7172,7 @@
           {
             "code": "C678",
             "nameCht": "竹灣燒烤公園-2",
-            "namePor": "Cheoc Van / Picnic-2",
+            "namePor": "Cheoc Van / Picnic - 2",
             "lat": 22.113661,
             "lng": 113.562677,
             "seq": 8
@@ -7180,7 +7180,7 @@
           {
             "code": "C665",
             "nameCht": "竹灣馬路-2",
-            "namePor": "Est. Cheoc Van-2",
+            "namePor": "Est. Cheoc Van - 2",
             "lat": 22.114158,
             "lng": 113.5602,
             "seq": 9
@@ -7204,7 +7204,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 12
@@ -7212,7 +7212,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 13
@@ -7260,7 +7260,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 19
@@ -7340,7 +7340,7 @@
           {
             "code": "T327",
             "nameCht": "賽馬會-1",
-            "namePor": "Jockey Club-1",
+            "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
             "seq": 29
@@ -7348,7 +7348,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 30
@@ -7464,7 +7464,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 9
@@ -7684,7 +7684,7 @@
           {
             "code": "M105",
             "nameCht": "望廈炮台",
-            "namePor": "Forte Mong-há",
+            "namePor": "Forte Mong-Há",
             "lat": 22.205698,
             "lng": 113.547939,
             "seq": 6
@@ -7788,7 +7788,7 @@
           {
             "code": "M259",
             "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "Av. Dr. Sun Yat-sen / Sands",
+            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
             "lat": 22.190054,
             "lng": 113.55573,
             "seq": 19
@@ -7804,7 +7804,7 @@
           {
             "code": "M53",
             "nameCht": "水塘北角/勞工事務局",
-            "namePor": "R Bend / Dsal",
+            "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
             "seq": 21
@@ -8475,7 +8475,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 13
@@ -8555,7 +8555,7 @@
           {
             "code": "M226",
             "nameCht": "勞動節街/中葡職業技術學校",
-            "namePor": "R. 1 de Maio / Escola Luso-chinesa Técnico-profissional",
+            "namePor": "R. 1 de Maio / Escola Luso-Chinesa Técnico-Profissional",
             "lat": 22.209609,
             "lng": 113.554125,
             "seq": 23
@@ -8599,7 +8599,7 @@
           {
             "code": "M213",
             "nameCht": "順景廣場總站-2",
-            "namePor": "P. Serenidade / Terminal-2",
+            "namePor": "P. Serenidade / Terminal - 2",
             "lat": 22.213449,
             "lng": 113.553347,
             "seq": 1
@@ -8647,7 +8647,7 @@
           {
             "code": "M33",
             "nameCht": "望廈體育館",
-            "namePor": "Campo Desportivo Mong-há",
+            "namePor": "Campo Desportivo Mong-Há",
             "lat": 22.207107,
             "lng": 113.550641,
             "seq": 7
@@ -8727,7 +8727,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 17
@@ -8831,7 +8831,7 @@
           {
             "code": "M213",
             "nameCht": "順景廣場總站-2",
-            "namePor": "P. Serenidade / Terminal-2",
+            "namePor": "P. Serenidade / Terminal - 2",
             "lat": 22.213449,
             "lng": 113.553347,
             "seq": 30
@@ -8986,8 +8986,8 @@
           },
           {
             "code": "T359",
-            "nameCht": "蓮花圓形地—1",
-            "namePor": "Rotunda Flor de Lotus-1",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
             "seq": 17
@@ -9035,7 +9035,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 23
@@ -9043,7 +9043,7 @@
           {
             "code": "C660",
             "nameCht": "路環市區-1",
-            "namePor": "Vila de Coloane-1",
+            "namePor": "Vila de Coloane - 1",
             "lat": 22.117925,
             "lng": 113.552292,
             "seq": 24
@@ -9067,7 +9067,7 @@
           {
             "code": "C666",
             "nameCht": "竹灣馬路-1",
-            "namePor": "Est. Cheoc Van-1",
+            "namePor": "Est. Cheoc Van - 1",
             "lat": 22.114099,
             "lng": 113.559978,
             "seq": 27
@@ -9075,7 +9075,7 @@
           {
             "code": "C677",
             "nameCht": "竹灣燒烤公園-1",
-            "namePor": "Cheoc Van / Picnic-1",
+            "namePor": "Cheoc Van / Picnic - 1",
             "lat": 22.114453,
             "lng": 113.562483,
             "seq": 28
@@ -9091,7 +9091,7 @@
           {
             "code": "C676",
             "nameCht": "竹灣豪園-1",
-            "namePor": "Vila Chok Wan Hou Un-1",
+            "namePor": "Vila Chok Wan Hou Un - 1",
             "lat": 22.113318,
             "lng": 113.566251,
             "seq": 30
@@ -9099,7 +9099,7 @@
           {
             "code": "C680",
             "nameCht": "黑沙/海蘭花苑",
-            "namePor": "Hác-sá / Hellene Garden",
+            "namePor": "Hác-Sá / Hellene Garden",
             "lat": 22.116486,
             "lng": 113.569519,
             "seq": 31
@@ -9130,7 +9130,7 @@
           {
             "code": "C658",
             "nameCht": "黑沙青年旅舍",
-            "namePor": "Pousada de Juventude de Hác-sá",
+            "namePor": "Pousada de Juventude de Hác-Sá",
             "lat": 22.116481,
             "lng": 113.569608,
             "seq": 2
@@ -9138,7 +9138,7 @@
           {
             "code": "C675",
             "nameCht": "竹灣豪園-2",
-            "namePor": "Vila Chok Wan Hou Un-2",
+            "namePor": "Vila Chok Wan Hou Un - 2",
             "lat": 22.113174,
             "lng": 113.566673,
             "seq": 3
@@ -9154,7 +9154,7 @@
           {
             "code": "C678",
             "nameCht": "竹灣燒烤公園-2",
-            "namePor": "Cheoc Van / Picnic-2",
+            "namePor": "Cheoc Van / Picnic - 2",
             "lat": 22.113661,
             "lng": 113.562677,
             "seq": 5
@@ -9162,7 +9162,7 @@
           {
             "code": "C665",
             "nameCht": "竹灣馬路-2",
-            "namePor": "Est. Cheoc Van-2",
+            "namePor": "Est. Cheoc Van - 2",
             "lat": 22.114158,
             "lng": 113.5602,
             "seq": 6
@@ -9186,7 +9186,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 9
@@ -9194,7 +9194,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 10
@@ -9242,7 +9242,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 16
@@ -9446,7 +9446,7 @@
           {
             "code": "M33",
             "nameCht": "望廈體育館",
-            "namePor": "Campo Desportivo Mong-há",
+            "namePor": "Campo Desportivo Mong-Há",
             "lat": 22.207107,
             "lng": 113.550641,
             "seq": 6
@@ -9849,7 +9849,7 @@
           {
             "code": "T420",
             "nameCht": "蓮花海濱大馬路/銀河-1",
-            "namePor": "Av. M. Flor de Lótus / Galaxy-1",
+            "namePor": "Av. M. Flor de Lótus / Galaxy - 1",
             "lat": 22.151313,
             "lng": 113.550924,
             "seq": 2
@@ -9857,7 +9857,7 @@
           {
             "code": "T422",
             "nameCht": "蓮花海濱大馬路/銀河-2",
-            "namePor": "Av. M. Flor de Lótus / Galaxy-2",
+            "namePor": "Av. M. Flor de Lótus / Galaxy - 2",
             "lat": 22.146131,
             "lng": 113.552612,
             "seq": 3
@@ -9965,7 +9965,7 @@
           {
             "code": "M105",
             "nameCht": "望廈炮台",
-            "namePor": "Forte Mong-há",
+            "namePor": "Forte Mong-Há",
             "lat": 22.205698,
             "lng": 113.547939,
             "seq": 8
@@ -10297,7 +10297,7 @@
           {
             "code": "M105",
             "nameCht": "望廈炮台",
-            "namePor": "Forte Mong-há",
+            "namePor": "Forte Mong-Há",
             "lat": 22.205698,
             "lng": 113.547939,
             "seq": 6
@@ -10456,8 +10456,8 @@
           },
           {
             "code": "T359",
-            "nameCht": "蓮花圓形地—1",
-            "namePor": "Rotunda Flor de Lotus-1",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
             "seq": 26
@@ -10505,7 +10505,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 32
@@ -10513,7 +10513,7 @@
           {
             "code": "C660",
             "nameCht": "路環市區-1",
-            "namePor": "Vila de Coloane-1",
+            "namePor": "Vila de Coloane - 1",
             "lat": 22.117925,
             "lng": 113.552292,
             "seq": 33
@@ -10537,7 +10537,7 @@
           {
             "code": "C666",
             "nameCht": "竹灣馬路-1",
-            "namePor": "Est. Cheoc Van-1",
+            "namePor": "Est. Cheoc Van - 1",
             "lat": 22.114099,
             "lng": 113.559978,
             "seq": 36
@@ -10545,7 +10545,7 @@
           {
             "code": "C677",
             "nameCht": "竹灣燒烤公園-1",
-            "namePor": "Cheoc Van / Picnic-1",
+            "namePor": "Cheoc Van / Picnic - 1",
             "lat": 22.114453,
             "lng": 113.562483,
             "seq": 37
@@ -10561,7 +10561,7 @@
           {
             "code": "C676",
             "nameCht": "竹灣豪園-1",
-            "namePor": "Vila Chok Wan Hou Un-1",
+            "namePor": "Vila Chok Wan Hou Un - 1",
             "lat": 22.113318,
             "lng": 113.566251,
             "seq": 39
@@ -10569,7 +10569,7 @@
           {
             "code": "C680",
             "nameCht": "黑沙/海蘭花苑",
-            "namePor": "Hác-sá / Hellene Garden",
+            "namePor": "Hác-Sá / Hellene Garden",
             "lat": 22.116486,
             "lng": 113.569519,
             "seq": 40
@@ -10600,7 +10600,7 @@
           {
             "code": "C658",
             "nameCht": "黑沙青年旅舍",
-            "namePor": "Pousada de Juventude de Hác-sá",
+            "namePor": "Pousada de Juventude de Hác-Sá",
             "lat": 22.116481,
             "lng": 113.569608,
             "seq": 2
@@ -10608,7 +10608,7 @@
           {
             "code": "C675",
             "nameCht": "竹灣豪園-2",
-            "namePor": "Vila Chok Wan Hou Un-2",
+            "namePor": "Vila Chok Wan Hou Un - 2",
             "lat": 22.113174,
             "lng": 113.566673,
             "seq": 3
@@ -10624,7 +10624,7 @@
           {
             "code": "C678",
             "nameCht": "竹灣燒烤公園-2",
-            "namePor": "Cheoc Van / Picnic-2",
+            "namePor": "Cheoc Van / Picnic - 2",
             "lat": 22.113661,
             "lng": 113.562677,
             "seq": 5
@@ -10632,7 +10632,7 @@
           {
             "code": "C665",
             "nameCht": "竹灣馬路-2",
-            "namePor": "Est. Cheoc Van-2",
+            "namePor": "Est. Cheoc Van - 2",
             "lat": 22.114158,
             "lng": 113.5602,
             "seq": 6
@@ -10656,7 +10656,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 9
@@ -10664,7 +10664,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 10
@@ -10712,7 +10712,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 16
@@ -10988,7 +10988,7 @@
           {
             "code": "T418",
             "nameCht": "輕軌車廠-1",
-            "namePor": "Parque de Materiais e Oficina do Metro Ligeiro-1",
+            "namePor": "Parque de Materiais e Oficina do Metro Ligeiro - 1",
             "lat": 22.149214,
             "lng": 113.573014,
             "seq": 3
@@ -11019,7 +11019,7 @@
           {
             "code": "T419",
             "nameCht": "輕軌車廠-2",
-            "namePor": "Parque de Materiais e Oficina do Metro Ligeiro-2",
+            "namePor": "Parque de Materiais e Oficina do Metro Ligeiro - 2",
             "lat": 22.149129,
             "lng": 113.572831,
             "seq": 2
@@ -11027,7 +11027,7 @@
           {
             "code": "T358_2",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.1547,
             "lng": 113.56929,
             "seq": 3
@@ -11095,7 +11095,7 @@
           {
             "code": "M105",
             "nameCht": "望廈炮台",
-            "namePor": "Forte Mong-há",
+            "namePor": "Forte Mong-Há",
             "lat": 22.205698,
             "lng": 113.547939,
             "seq": 5
@@ -11247,7 +11247,7 @@
           {
             "code": "T414",
             "nameCht": "路氹新城-1",
-            "namePor": "Nova Cidade de Cotai-1",
+            "namePor": "Nova Cidade de Cotai - 1",
             "lat": 22.14545,
             "lng": 113.566955,
             "seq": 24
@@ -11255,7 +11255,7 @@
           {
             "code": "T415",
             "nameCht": "路氹新城-2",
-            "namePor": "Nova Cidade de Cotai-2",
+            "namePor": "Nova Cidade de Cotai - 2",
             "lat": 22.141784,
             "lng": 113.566771,
             "seq": 25
@@ -11263,7 +11263,7 @@
           {
             "code": "T385",
             "nameCht": "蓮花路/蓮花圓形地-1",
-            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus-1",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 1",
             "lat": 22.138448,
             "lng": 113.56462,
             "seq": 26
@@ -11271,7 +11271,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 27
@@ -11579,7 +11579,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 8
@@ -11755,7 +11755,7 @@
           {
             "code": "T358_1",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
             "seq": 30
@@ -11786,8 +11786,8 @@
           },
           {
             "code": "T359",
-            "nameCht": "蓮花圓形地—1",
-            "namePor": "Rotunda Flor de Lotus-1",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
             "seq": 34
@@ -11835,7 +11835,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 40
@@ -11843,7 +11843,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 41
@@ -11858,7 +11858,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 1
@@ -11866,7 +11866,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 2
@@ -11914,7 +11914,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 8
@@ -12018,7 +12018,7 @@
           {
             "code": "T327",
             "nameCht": "賽馬會-1",
-            "namePor": "Jockey Club-1",
+            "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
             "seq": 21
@@ -12026,7 +12026,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 22
@@ -12106,7 +12106,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 32
@@ -12246,7 +12246,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 8
@@ -12373,8 +12373,8 @@
           },
           {
             "code": "T359",
-            "nameCht": "蓮花圓形地—1",
-            "namePor": "Rotunda Flor de Lotus-1",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
             "seq": 24
@@ -12422,7 +12422,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 30
@@ -12430,7 +12430,7 @@
           {
             "code": "C660",
             "nameCht": "路環市區-1",
-            "namePor": "Vila de Coloane-1",
+            "namePor": "Vila de Coloane - 1",
             "lat": 22.117925,
             "lng": 113.552292,
             "seq": 31
@@ -12454,7 +12454,7 @@
           {
             "code": "C666",
             "nameCht": "竹灣馬路-1",
-            "namePor": "Est. Cheoc Van-1",
+            "namePor": "Est. Cheoc Van - 1",
             "lat": 22.114099,
             "lng": 113.559978,
             "seq": 34
@@ -12462,7 +12462,7 @@
           {
             "code": "C677",
             "nameCht": "竹灣燒烤公園-1",
-            "namePor": "Cheoc Van / Picnic-1",
+            "namePor": "Cheoc Van / Picnic - 1",
             "lat": 22.114453,
             "lng": 113.562483,
             "seq": 35
@@ -12478,7 +12478,7 @@
           {
             "code": "C676",
             "nameCht": "竹灣豪園-1",
-            "namePor": "Vila Chok Wan Hou Un-1",
+            "namePor": "Vila Chok Wan Hou Un - 1",
             "lat": 22.113318,
             "lng": 113.566251,
             "seq": 37
@@ -12486,7 +12486,7 @@
           {
             "code": "C680",
             "nameCht": "黑沙/海蘭花苑",
-            "namePor": "Hác-sá / Hellene Garden",
+            "namePor": "Hác-Sá / Hellene Garden",
             "lat": 22.116486,
             "lng": 113.569519,
             "seq": 38
@@ -12517,7 +12517,7 @@
           {
             "code": "C658",
             "nameCht": "黑沙青年旅舍",
-            "namePor": "Pousada de Juventude de Hác-sá",
+            "namePor": "Pousada de Juventude de Hác-Sá",
             "lat": 22.116481,
             "lng": 113.569608,
             "seq": 2
@@ -12525,7 +12525,7 @@
           {
             "code": "C675",
             "nameCht": "竹灣豪園-2",
-            "namePor": "Vila Chok Wan Hou Un-2",
+            "namePor": "Vila Chok Wan Hou Un - 2",
             "lat": 22.113174,
             "lng": 113.566673,
             "seq": 3
@@ -12541,7 +12541,7 @@
           {
             "code": "C678",
             "nameCht": "竹灣燒烤公園-2",
-            "namePor": "Cheoc Van / Picnic-2",
+            "namePor": "Cheoc Van / Picnic - 2",
             "lat": 22.113661,
             "lng": 113.562677,
             "seq": 5
@@ -12549,7 +12549,7 @@
           {
             "code": "C665",
             "nameCht": "竹灣馬路-2",
-            "namePor": "Est. Cheoc Van-2",
+            "namePor": "Est. Cheoc Van - 2",
             "lat": 22.114158,
             "lng": 113.5602,
             "seq": 6
@@ -12573,7 +12573,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 9
@@ -12581,7 +12581,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 10
@@ -12629,7 +12629,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 16
@@ -12757,7 +12757,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 33
@@ -13317,7 +13317,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 33
@@ -13433,7 +13433,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 11
@@ -13641,7 +13641,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 37
@@ -13649,7 +13649,7 @@
           {
             "code": "M53",
             "nameCht": "水塘北角/勞工事務局",
-            "namePor": "R Bend / Dsal",
+            "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
             "seq": 38
@@ -13665,7 +13665,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 40
@@ -13837,7 +13837,7 @@
           {
             "code": "M52",
             "nameCht": "漁翁街/勞工事務局",
-            "namePor": "Rua dos Pescadores / Dsal",
+            "namePor": "Rua dos Pescadores / DSAL",
             "lat": 22.204754,
             "lng": 113.559992,
             "seq": 11
@@ -13941,7 +13941,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 24
@@ -13949,7 +13949,7 @@
           {
             "code": "M53",
             "nameCht": "水塘北角/勞工事務局",
-            "namePor": "R Bend / Dsal",
+            "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
             "seq": 25
@@ -13965,7 +13965,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 27
@@ -14193,7 +14193,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 18
@@ -14959,7 +14959,7 @@
           {
             "code": "M118",
             "nameCht": "高美士/馬六甲街停車場",
-            "namePor": "Gonzaga Gomes / Auto-silo da Rua de Malaca",
+            "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
             "seq": 10
@@ -15091,7 +15091,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 7
@@ -15299,7 +15299,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 33
@@ -15535,7 +15535,7 @@
           {
             "code": "T327",
             "nameCht": "賽馬會-1",
-            "namePor": "Jockey Club-1",
+            "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
             "seq": 20
@@ -15543,7 +15543,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 21
@@ -15686,7 +15686,7 @@
           {
             "code": "M35",
             "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-há",
+            "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
             "seq": 14
@@ -16018,7 +16018,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 31
@@ -16214,7 +16214,7 @@
           {
             "code": "T358_1",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
             "seq": 18
@@ -16278,7 +16278,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 26
@@ -16414,7 +16414,7 @@
           {
             "code": "T551",
             "nameCht": "澳大/研究生宿舍",
-            "namePor": "Um / Residência de E. de Pós-graduação",
+            "namePor": "UM / Residência de E. de Pós-Graduação",
             "lat": 22.1248,
             "lng": 113.546233,
             "seq": 1
@@ -16422,7 +16422,7 @@
           {
             "code": "T552",
             "nameCht": "澳大/中央教學樓",
-            "namePor": "Um / Sala de Aulas:edifício Central",
+            "namePor": "UM / Sala de Aulas: Edifício Central",
             "lat": 22.127462,
             "lng": 113.546503,
             "seq": 2
@@ -16430,7 +16430,7 @@
           {
             "code": "T553",
             "nameCht": "澳大/大學展館",
-            "namePor": "Um / Galeria da Universidade",
+            "namePor": "UM / Galeria da Universidade",
             "lat": 22.129919,
             "lng": 113.546575,
             "seq": 3
@@ -16590,7 +16590,7 @@
           {
             "code": "T552_1",
             "nameCht": "澳大/中央教學樓",
-            "namePor": "Um / Sala de Aulas:edifício Central",
+            "namePor": "UM / Sala de Aulas: Edifício Central",
             "lat": 22.127556,
             "lng": 113.546462,
             "seq": 23
@@ -16598,7 +16598,7 @@
           {
             "code": "T533_1",
             "nameCht": "澳大/大學展館",
-            "namePor": "Um / Galeria da Universidade",
+            "namePor": "UM / Galeria da Universidade",
             "lat": 22.129986,
             "lng": 113.54655,
             "seq": 24
@@ -16606,7 +16606,7 @@
           {
             "code": "T551",
             "nameCht": "澳大/研究生宿舍",
-            "namePor": "Um / Residência de E. de Pós-graduação",
+            "namePor": "UM / Residência de E. de Pós-Graduação",
             "lat": 22.1248,
             "lng": 113.546233,
             "seq": 25
@@ -16782,7 +16782,7 @@
           {
             "code": "T385",
             "nameCht": "蓮花路/蓮花圓形地-1",
-            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus-1",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 1",
             "lat": 22.138448,
             "lng": 113.56462,
             "seq": 12
@@ -16830,7 +16830,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 18
@@ -16838,7 +16838,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 19
@@ -16853,7 +16853,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 1
@@ -16861,7 +16861,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 2
@@ -16909,7 +16909,7 @@
           {
             "code": "T386",
             "nameCht": "蓮花路/蓮花圓形地-2",
-            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus-2",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 2",
             "lat": 22.139006,
             "lng": 113.564925,
             "seq": 8
@@ -17015,7 +17015,7 @@
   {
     "code": "50X",
     "nameCht": "亞馬喇前地 ⇌ 駕考中心",
-    "namePor": "Praca Ferrira Amaral ⇌ Centro A. e Exames de Condução",
+    "namePor": "Centro A. E Exames de Condução",
     "directions": [
       {
         "code": "50X",
@@ -17324,7 +17324,7 @@
           {
             "code": "T358_1",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
             "seq": 14
@@ -17684,7 +17684,7 @@
           {
             "code": "T358_1",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
             "seq": 18
@@ -17732,7 +17732,7 @@
           {
             "code": "T327",
             "nameCht": "賽馬會-1",
-            "namePor": "Jockey Club-1",
+            "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
             "seq": 24
@@ -17740,7 +17740,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 25
@@ -17944,7 +17944,7 @@
           {
             "code": "T358_1",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
             "seq": 18
@@ -18304,7 +18304,7 @@
           {
             "code": "T552",
             "nameCht": "澳大/中央教學樓",
-            "namePor": "Um / Sala de Aulas:edifício Central",
+            "namePor": "UM / Sala de Aulas: Edifício Central",
             "lat": 22.127462,
             "lng": 113.546503,
             "seq": 2
@@ -18312,7 +18312,7 @@
           {
             "code": "T553",
             "nameCht": "澳大/大學展館",
-            "namePor": "Um / Galeria da Universidade",
+            "namePor": "UM / Galeria da Universidade",
             "lat": 22.129919,
             "lng": 113.546575,
             "seq": 3
@@ -18384,7 +18384,7 @@
           {
             "code": "T552_1",
             "nameCht": "澳大/中央教學樓",
-            "namePor": "Um / Sala de Aulas:edifício Central",
+            "namePor": "UM / Sala de Aulas: Edifício Central",
             "lat": 22.127556,
             "lng": 113.546462,
             "seq": 12
@@ -18392,7 +18392,7 @@
           {
             "code": "T533_1",
             "nameCht": "澳大/大學展館",
-            "namePor": "Um / Galeria da Universidade",
+            "namePor": "UM / Galeria da Universidade",
             "lat": 22.129986,
             "lng": 113.54655,
             "seq": 13
@@ -18556,7 +18556,7 @@
           {
             "code": "T386",
             "nameCht": "蓮花路/蓮花圓形地-2",
-            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus-2",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 2",
             "lat": 22.139006,
             "lng": 113.564925,
             "seq": 17
@@ -18580,7 +18580,7 @@
           {
             "code": "T358_2",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.1547,
             "lng": 113.56929,
             "seq": 20
@@ -18620,7 +18620,7 @@
           {
             "code": "T385",
             "nameCht": "蓮花路/蓮花圓形地-1",
-            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus-1",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 1",
             "lat": 22.138448,
             "lng": 113.56462,
             "seq": 25
@@ -18636,7 +18636,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 27
@@ -18684,7 +18684,7 @@
           {
             "code": "T327",
             "nameCht": "賽馬會-1",
-            "namePor": "Jockey Club-1",
+            "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
             "seq": 33
@@ -18692,7 +18692,7 @@
           {
             "code": "T328",
             "nameCht": "賽馬會-2",
-            "namePor": "Jockey Club-2",
+            "namePor": "Jockey Club - 2",
             "lat": 22.157022,
             "lng": 113.547333,
             "seq": 34
@@ -18928,7 +18928,7 @@
           {
             "code": "M132",
             "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-silo",
+            "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 19
@@ -19076,7 +19076,7 @@
           {
             "code": "M125",
             "nameCht": "栢港停車場",
-            "namePor": "Auto-silo Pak Kong",
+            "namePor": "Auto-Silo Pak Kong",
             "lat": 22.197712,
             "lng": 113.536755,
             "seq": 8
@@ -19280,7 +19280,7 @@
           {
             "code": "M264",
             "nameCht": "孫逸仙大馬路/漁人碼頭",
-            "namePor": "Av. Dr. Sun Yat-sen / Fisherman's Wharf",
+            "namePor": "Av. Dr. Sun Yat-Sen / Fisherman's Wharf",
             "lat": 22.190049,
             "lng": 113.55588,
             "seq": 8
@@ -19455,7 +19455,7 @@
           {
             "code": "T358_1",
             "nameCht": "機場圓形地/科大醫院",
-            "namePor": "Rotunda do Aeroporto / M. U. S. T. -hospital",
+            "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
             "seq": 4
@@ -19778,8 +19778,8 @@
           },
           {
             "code": "T359",
-            "nameCht": "蓮花圓形地—1",
-            "namePor": "Rotunda Flor de Lotus-1",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
             "seq": 17
@@ -19819,7 +19819,7 @@
           {
             "code": "C657",
             "nameCht": "路環警察訓練營-1",
-            "namePor": "Est. do Campo / Psp-1",
+            "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
             "seq": 22
@@ -19827,7 +19827,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 23
@@ -19842,7 +19842,7 @@
           {
             "code": "C659",
             "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane-2",
+            "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
             "seq": 1
@@ -19850,7 +19850,7 @@
           {
             "code": "C656",
             "nameCht": "路環警察訓練營-2",
-            "namePor": "Est. do Campo / Psp-2",
+            "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
             "seq": 2
@@ -19890,7 +19890,7 @@
           {
             "code": "T360",
             "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
             "seq": 7
