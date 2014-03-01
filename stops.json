@@ -854,6 +854,13 @@
     "lng": 113.548233
   },
   {
+    "code": "M151",
+    "nameCht": "山頂醫院急診大樓",
+    "namePor": "Urgências do Hospital S. Januário",
+    "lat": 22.194118,
+    "lng": 113.547446
+  },
+  {
     "code": "M153",
     "nameCht": "水坑尾/公共行政大樓",
     "namePor": "R. Campo / Edf. Admin. Pública",
@@ -2031,7 +2038,7 @@
   },
   {
     "code": "T353",
-    "nameCht": "廣東馬路/成都街",
+    "nameCht": "廣東大馬路/成都街",
     "namePor": "Av. Kwong Tung / R. Seng Tou",
     "lat": 22.159632,
     "lng": 113.552577
