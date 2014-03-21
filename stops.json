@@ -1793,8 +1793,8 @@
   },
   {
     "code": "T317",
-    "nameCht": "氹仔花城",
-    "namePor": "Flower City",
+    "nameCht": "雍景灣",
+    "namePor": "Kings Ville",
     "lat": 22.156772,
     "lng": 113.559377
   },
@@ -2065,18 +2065,18 @@
     "lng": 113.574452
   },
   {
-    "code": "T357_1",
-    "nameCht": "路氹邊檢大樓",
-    "namePor": "Posto Fronteiriço de Cotai",
-    "lat": 22.139176,
-    "lng": 113.55946
-  },
-  {
     "code": "T357_2",
     "nameCht": "路氹邊檢大樓",
     "namePor": "Posto Fronteiriço de Cotai",
     "lat": 22.139609,
     "lng": 113.560064
+  },
+  {
+    "code": "T357_1",
+    "nameCht": "路氹邊檢大樓",
+    "namePor": "Posto Fronteiriço de Cotai",
+    "lat": 22.139176,
+    "lng": 113.55946
   },
   {
     "code": "T358_1",
@@ -2520,18 +2520,18 @@
     "lng": 113.546233
   },
   {
-    "code": "T552_1",
-    "nameCht": "澳大/中央教學樓",
-    "namePor": "UM / Sala de Aulas: Edifício Central",
-    "lat": 22.127556,
-    "lng": 113.546462
-  },
-  {
     "code": "T552",
     "nameCht": "澳大/中央教學樓",
     "namePor": "UM / Sala de Aulas: Edifício Central",
     "lat": 22.127462,
     "lng": 113.546503
+  },
+  {
+    "code": "T552_1",
+    "nameCht": "澳大/中央教學樓",
+    "namePor": "UM / Sala de Aulas: Edifício Central",
+    "lat": 22.127556,
+    "lng": 113.546462
   },
   {
     "code": "T553",

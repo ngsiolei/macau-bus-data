@@ -6333,8 +6333,8 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
             "seq": 30
@@ -6908,8 +6908,8 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
             "seq": 8
@@ -9620,20 +9620,12 @@
             "seq": 28
           },
           {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 29
-          },
-          {
             "code": "T311",
             "nameCht": "亞利雅架前地",
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "T312",
@@ -9641,7 +9633,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "T308",
@@ -9649,7 +9641,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "T300",
@@ -9657,7 +9649,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "T330",
@@ -9665,7 +9657,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M172",
@@ -9673,7 +9665,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M69",
@@ -9681,7 +9673,7 @@
             "namePor": "Hotel Lisboa",
             "lat": 22.18927,
             "lng": 113.544951,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M160",
@@ -9689,7 +9681,7 @@
             "namePor": "Praceta 1 de Outubro",
             "lat": 22.190947,
             "lng": 113.546218,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M169",
@@ -9697,7 +9689,7 @@
             "namePor": "Direcção Serviços Educação Juventude",
             "lat": 22.191863,
             "lng": 113.543987,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M144",
@@ -9705,7 +9697,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M76",
@@ -9713,7 +9705,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 40
+            "seq": 39
           },
           {
             "code": "M84",
@@ -9721,7 +9713,7 @@
             "namePor": "Horta e Costa / Esc. Pui Ching",
             "lat": 22.201497,
             "lng": 113.54851,
-            "seq": 41
+            "seq": 40
           },
           {
             "code": "M92",
@@ -9729,7 +9721,7 @@
             "namePor": "Xavier Pereira / Horta e Costa",
             "lat": 22.203206,
             "lng": 113.547304,
-            "seq": 42
+            "seq": 41
           },
           {
             "code": "M39",
@@ -9737,7 +9729,7 @@
             "namePor": "TDM",
             "lat": 22.205917,
             "lng": 113.549569,
-            "seq": 43
+            "seq": 42
           },
           {
             "code": "M28",
@@ -9745,7 +9737,7 @@
             "namePor": "Est. Areia Preta",
             "lat": 22.208122,
             "lng": 113.549751,
-            "seq": 44
+            "seq": 43
           },
           {
             "code": "M227",
@@ -9753,7 +9745,7 @@
             "namePor": "Rua 2 Iao Hon",
             "lat": 22.211525,
             "lng": 113.550242,
-            "seq": 45
+            "seq": 44
           }
         ]
       }
@@ -10766,20 +10758,12 @@
             "seq": 23
           },
           {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 24
-          },
-          {
             "code": "T311",
             "nameCht": "亞利雅架前地",
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "T312",
@@ -10787,7 +10771,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "T308",
@@ -10795,7 +10779,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "T300",
@@ -10803,7 +10787,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "T330",
@@ -10811,7 +10795,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M172",
@@ -10819,7 +10803,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M69",
@@ -10827,7 +10811,7 @@
             "namePor": "Hotel Lisboa",
             "lat": 22.18927,
             "lng": 113.544951,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M160",
@@ -10835,7 +10819,7 @@
             "namePor": "Praceta 1 de Outubro",
             "lat": 22.190947,
             "lng": 113.546218,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M158",
@@ -10843,7 +10827,7 @@
             "namePor": "Rua de Pequim / Holiday Inn",
             "lat": 22.191745,
             "lng": 113.547744,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M243",
@@ -10851,7 +10835,7 @@
             "namePor": "Jardim Comendador Ho Yin",
             "lat": 22.19279,
             "lng": 113.548682,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M157",
@@ -10859,7 +10843,7 @@
             "namePor": "C. P. S. P.",
             "lat": 22.191892,
             "lng": 113.546628,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M169",
@@ -10867,7 +10851,7 @@
             "namePor": "Direcção Serviços Educação Juventude",
             "lat": 22.191863,
             "lng": 113.543987,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M144",
@@ -10875,7 +10859,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M76",
@@ -10883,7 +10867,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M84",
@@ -10891,7 +10875,7 @@
             "namePor": "Horta e Costa / Esc. Pui Ching",
             "lat": 22.201497,
             "lng": 113.54851,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M91",
@@ -10899,7 +10883,7 @@
             "namePor": "Horta e Costa / Rua Manuel Arriaga",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 40
+            "seq": 39
           },
           {
             "code": "M17",
@@ -10907,7 +10891,7 @@
             "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
             "lat": 22.207213,
             "lng": 113.545709,
-            "seq": 41
+            "seq": 40
           },
           {
             "code": "M19",
@@ -10915,7 +10899,7 @@
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 42
+            "seq": 41
           },
           {
             "code": "M10",
@@ -10923,7 +10907,7 @@
             "namePor": "Mercado Tamag. Barbosa",
             "lat": 22.210435,
             "lng": 113.546281,
-            "seq": 43
+            "seq": 42
           },
           {
             "code": "M8",
@@ -10931,7 +10915,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 44
+            "seq": 43
           },
           {
             "code": "M1",
@@ -10939,7 +10923,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 45
+            "seq": 44
           }
         ]
       }
@@ -11325,20 +11309,12 @@
             "seq": 34
           },
           {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 35
-          },
-          {
             "code": "T311",
             "nameCht": "亞利雅架前地",
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "T312",
@@ -11346,7 +11322,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "T308",
@@ -11354,7 +11330,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "T300",
@@ -11362,7 +11338,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "T330",
@@ -11370,7 +11346,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 40
+            "seq": 39
           },
           {
             "code": "M172",
@@ -11378,7 +11354,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 41
+            "seq": 40
           },
           {
             "code": "M69",
@@ -11386,7 +11362,7 @@
             "namePor": "Hotel Lisboa",
             "lat": 22.18927,
             "lng": 113.544951,
-            "seq": 42
+            "seq": 41
           },
           {
             "code": "M160",
@@ -11394,7 +11370,7 @@
             "namePor": "Praceta 1 de Outubro",
             "lat": 22.190947,
             "lng": 113.546218,
-            "seq": 43
+            "seq": 42
           },
           {
             "code": "M158",
@@ -11402,7 +11378,7 @@
             "namePor": "Rua de Pequim / Holiday Inn",
             "lat": 22.191745,
             "lng": 113.547744,
-            "seq": 44
+            "seq": 43
           },
           {
             "code": "M243",
@@ -11410,7 +11386,7 @@
             "namePor": "Jardim Comendador Ho Yin",
             "lat": 22.19279,
             "lng": 113.548682,
-            "seq": 45
+            "seq": 44
           },
           {
             "code": "M157",
@@ -11418,7 +11394,7 @@
             "namePor": "C. P. S. P.",
             "lat": 22.191892,
             "lng": 113.546628,
-            "seq": 46
+            "seq": 45
           },
           {
             "code": "M169",
@@ -11426,7 +11402,7 @@
             "namePor": "Direcção Serviços Educação Juventude",
             "lat": 22.191863,
             "lng": 113.543987,
-            "seq": 47
+            "seq": 46
           },
           {
             "code": "M144",
@@ -11434,7 +11410,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 48
+            "seq": 47
           },
           {
             "code": "M76",
@@ -11442,7 +11418,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 49
+            "seq": 48
           },
           {
             "code": "M84",
@@ -11450,7 +11426,7 @@
             "namePor": "Horta e Costa / Esc. Pui Ching",
             "lat": 22.201497,
             "lng": 113.54851,
-            "seq": 50
+            "seq": 49
           },
           {
             "code": "M91",
@@ -11458,7 +11434,7 @@
             "namePor": "Horta e Costa / Rua Manuel Arriaga",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 51
+            "seq": 50
           },
           {
             "code": "M17",
@@ -11466,7 +11442,7 @@
             "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
             "lat": 22.207213,
             "lng": 113.545709,
-            "seq": 52
+            "seq": 51
           },
           {
             "code": "M19",
@@ -11474,7 +11450,7 @@
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 53
+            "seq": 52
           },
           {
             "code": "M4",
@@ -11482,7 +11458,7 @@
             "namePor": "R. Marginal do Canal das Hortas / Terminal",
             "lat": 22.213657,
             "lng": 113.544863,
-            "seq": 54
+            "seq": 53
           },
           {
             "code": "M1",
@@ -11490,7 +11466,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 55
+            "seq": 54
           }
         ]
       }
@@ -11682,11 +11658,11 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
-            "seq": 22
+            "seq": 13
           },
           {
             "code": "T408",
@@ -12632,7 +12608,7 @@
             "namePor": "Est. Baia N. S. Esperança / Galaxy",
             "lat": 22.150206,
             "lng": 113.556081,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "T363",
@@ -12640,7 +12616,7 @@
             "namePor": "Rotunda da Piscina Olímpica",
             "lat": 22.151671,
             "lng": 113.552313,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "T361",
@@ -12648,7 +12624,7 @@
             "namePor": "Avenida do Estádio",
             "lat": 22.155839,
             "lng": 113.55268,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "T325",
@@ -12656,7 +12632,7 @@
             "namePor": "Av. Olímpica / Edf. Va Pou",
             "lat": 22.155558,
             "lng": 113.555084,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "T339",
@@ -12664,15 +12640,7 @@
             "namePor": "Jardim Cidade das Flores",
             "lat": 22.155853,
             "lng": 113.55679,
-            "seq": 23
-          },
-          {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 24
+            "seq": 22
           },
           {
             "code": "T311",
@@ -12680,7 +12648,7 @@
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 25
+            "seq": 23
           },
           {
             "code": "T312",
@@ -12688,7 +12656,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 26
+            "seq": 24
           },
           {
             "code": "T308",
@@ -12696,7 +12664,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 27
+            "seq": 25
           },
           {
             "code": "T300",
@@ -12704,7 +12672,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 28
+            "seq": 26
           },
           {
             "code": "T330",
@@ -12712,7 +12680,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 29
+            "seq": 27
           },
           {
             "code": "M172",
@@ -12720,7 +12688,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 30
+            "seq": 28
           },
           {
             "code": "M171",
@@ -12728,7 +12696,7 @@
             "namePor": "Centro / Infante D. Henrique",
             "lat": 22.191589,
             "lng": 113.541545,
-            "seq": 31
+            "seq": 29
           },
           {
             "code": "M134",
@@ -12736,7 +12704,7 @@
             "namePor": "Almeida Ribeiro",
             "lat": 22.193897,
             "lng": 113.539178,
-            "seq": 32
+            "seq": 30
           },
           {
             "code": "M132",
@@ -12744,7 +12712,7 @@
             "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
-            "seq": 33
+            "seq": 31
           },
           {
             "code": "M129",
@@ -12752,7 +12720,7 @@
             "namePor": "Mercado Patane",
             "lat": 22.20135,
             "lng": 113.537586,
-            "seq": 34
+            "seq": 32
           },
           {
             "code": "M114",
@@ -12760,7 +12728,7 @@
             "namePor": "R. Ribeira Patane",
             "lat": 22.203049,
             "lng": 113.540063,
-            "seq": 35
+            "seq": 33
           },
           {
             "code": "M113",
@@ -12768,7 +12736,7 @@
             "namePor": "Alm. Lacerda / Mercado Vermelho",
             "lat": 22.204657,
             "lng": 113.543385,
-            "seq": 36
+            "seq": 34
           },
           {
             "code": "M14",
@@ -12776,7 +12744,7 @@
             "namePor": "Piscina Lim Fung",
             "lat": 22.20774,
             "lng": 113.546018,
-            "seq": 37
+            "seq": 35
           },
           {
             "code": "M12",
@@ -12784,7 +12752,7 @@
             "namePor": "Comissariado Nº2 da P. S. P.",
             "lat": 22.210369,
             "lng": 113.546133,
-            "seq": 38
+            "seq": 36
           },
           {
             "code": "M21",
@@ -12792,7 +12760,7 @@
             "namePor": "Cons. Borja / Ka Ieng",
             "lat": 22.210661,
             "lng": 113.543655,
-            "seq": 39
+            "seq": 37
           },
           {
             "code": "M23",
@@ -12800,7 +12768,7 @@
             "namePor": "Cons. Borja / Edf. Mayfair",
             "lat": 22.210821,
             "lng": 113.542418,
-            "seq": 40
+            "seq": 38
           },
           {
             "code": "M95",
@@ -12808,7 +12776,7 @@
             "namePor": "Rua Norte do Patane / Bacia Norte do Patane",
             "lat": 22.209153,
             "lng": 113.54167,
-            "seq": 41
+            "seq": 39
           }
         ]
       }
@@ -13203,20 +13171,12 @@
             "seq": 20
           },
           {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 21
-          },
-          {
             "code": "T311",
             "nameCht": "亞利雅架前地",
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "T312",
@@ -13224,7 +13184,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "T308",
@@ -13232,7 +13192,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "T300",
@@ -13240,7 +13200,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "T330",
@@ -13248,7 +13208,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "M172",
@@ -13256,7 +13216,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "M69",
@@ -13264,7 +13224,7 @@
             "namePor": "Hotel Lisboa",
             "lat": 22.18927,
             "lng": 113.544951,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "M160",
@@ -13272,7 +13232,7 @@
             "namePor": "Praceta 1 de Outubro",
             "lat": 22.190947,
             "lng": 113.546218,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M158",
@@ -13280,7 +13240,7 @@
             "namePor": "Rua de Pequim / Holiday Inn",
             "lat": 22.191745,
             "lng": 113.547744,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M161",
@@ -13288,7 +13248,7 @@
             "namePor": "Gonzaga Gomes / Jardim C. Ho Yin",
             "lat": 22.192648,
             "lng": 113.550116,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M70",
@@ -13296,7 +13256,7 @@
             "namePor": "Instituto Politécnico",
             "lat": 22.193444,
             "lng": 113.552025,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M118",
@@ -13304,7 +13264,7 @@
             "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M239",
@@ -13312,7 +13272,7 @@
             "namePor": "Terminal Marítimo",
             "lat": 22.198089,
             "lng": 113.559575,
-            "seq": 34
+            "seq": 33
           }
         ]
       }
@@ -14619,8 +14579,8 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
             "seq": 28
@@ -15217,20 +15177,12 @@
             "seq": 23
           },
           {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 24
-          },
-          {
             "code": "T311",
             "nameCht": "亞利雅架前地",
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "T312",
@@ -15238,7 +15190,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "T308",
@@ -15246,7 +15198,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "T300",
@@ -15254,7 +15206,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "T330",
@@ -15262,7 +15214,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M172",
@@ -15270,7 +15222,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M171",
@@ -15278,7 +15230,7 @@
             "namePor": "Centro / Infante D. Henrique",
             "lat": 22.191589,
             "lng": 113.541545,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M134",
@@ -15286,7 +15238,7 @@
             "namePor": "Almeida Ribeiro",
             "lat": 22.193897,
             "lng": 113.539178,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M132",
@@ -15294,7 +15246,7 @@
             "namePor": "Porto Interior / Auto-Silo",
             "lat": 22.197817,
             "lng": 113.536681,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M129",
@@ -15302,7 +15254,7 @@
             "namePor": "Mercado Patane",
             "lat": 22.20135,
             "lng": 113.537586,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M114",
@@ -15310,7 +15262,7 @@
             "namePor": "R. Ribeira Patane",
             "lat": 22.203049,
             "lng": 113.540063,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M113",
@@ -15318,7 +15270,7 @@
             "namePor": "Alm. Lacerda / Mercado Vermelho",
             "lat": 22.204657,
             "lng": 113.543385,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M14",
@@ -15326,7 +15278,7 @@
             "namePor": "Piscina Lim Fung",
             "lat": 22.20774,
             "lng": 113.546018,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M12",
@@ -15334,7 +15286,7 @@
             "namePor": "Comissariado Nº2 da P. S. P.",
             "lat": 22.210369,
             "lng": 113.546133,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M31",
@@ -15342,7 +15294,7 @@
             "namePor": "Gen. C. Branco / Canídromo",
             "lat": 22.209492,
             "lng": 113.544938,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M26",
@@ -15350,7 +15302,7 @@
             "namePor": "Fai Chi Kei / Terminal",
             "lat": 22.20903,
             "lng": 113.543306,
-            "seq": 40
+            "seq": 39
           }
         ]
       }
@@ -15629,8 +15581,8 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
             "seq": 9
@@ -17998,20 +17950,12 @@
             "seq": 25
           },
           {
-            "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 26
-          },
-          {
             "code": "T311",
             "nameCht": "亞利雅架前地",
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "T312",
@@ -18019,7 +17963,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "T308",
@@ -18027,7 +17971,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "T300",
@@ -18035,7 +17979,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "T330",
@@ -18043,7 +17987,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M172",
@@ -18051,7 +17995,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M268",
@@ -18059,7 +18003,7 @@
             "namePor": "Praceta 24 de Junho",
             "lat": 22.187225,
             "lng": 113.547838,
-            "seq": 33
+            "seq": 32
           }
         ]
       }
@@ -18219,8 +18163,8 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
             "seq": 18
@@ -19351,8 +19295,8 @@
           },
           {
             "code": "T317",
-            "nameCht": "氹仔花城",
-            "namePor": "Flower City",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
             "seq": 19
