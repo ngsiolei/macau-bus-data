@@ -2798,5 +2798,26 @@
     "namePor": "Seac Pai Van / Edifício Lok Kuan",
     "lat": 22.129603,
     "lng": 113.561212
+  },
+  {
+    "code": "C693",
+    "nameCht": "黑沙村-1",
+    "namePor": "Povoaçáo de Hác-Sá - 1",
+    "lat": 22.118026,
+    "lng": 113.56628
+  },
+  {
+    "code": "C694",
+    "nameCht": "黑沙村-2",
+    "namePor": "Povoaçáo de Hác-Sá - 2",
+    "lat": 22.117512,
+    "lng": 113.566636
+  },
+  {
+    "code": "C695",
+    "nameCht": "九澳水庫郊野公園",
+    "namePor": "Parque de M. da Barragem de Ká-Hó",
+    "lat": 22.133902,
+    "lng": 113.578425
   }
 ]

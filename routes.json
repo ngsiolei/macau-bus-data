@@ -7075,12 +7075,20 @@
             "seq": 28
           },
           {
+            "code": "C693",
+            "nameCht": "黑沙村-1",
+            "namePor": "Povoaçáo de Hác-Sá - 1",
+            "lat": 22.118026,
+            "lng": 113.56628,
+            "seq": 29
+          },
+          {
             "code": "C681",
             "nameCht": "黑沙水庫-1",
             "namePor": "Barragem de Hác-Sá - 1",
             "lat": 22.123827,
             "lng": 113.570802,
-            "seq": 29
+            "seq": 30
           },
           {
             "code": "C671",
@@ -7088,7 +7096,15 @@
             "namePor": "Westin Resort - 1",
             "lat": 22.127105,
             "lng": 113.576209,
-            "seq": 30
+            "seq": 31
+          },
+          {
+            "code": "C695",
+            "nameCht": "九澳水庫郊野公園",
+            "namePor": "Parque de M. da Barragem de Ká-Hó",
+            "lat": 22.133902,
+            "lng": 113.578425,
+            "seq": 32
           },
           {
             "code": "C673",
@@ -7096,7 +7112,7 @@
             "namePor": "Escola de S. José de Ká-Hó",
             "lat": 22.133868,
             "lng": 113.581876,
-            "seq": 31
+            "seq": 33
           },
           {
             "code": "C672",
@@ -7104,7 +7120,7 @@
             "namePor": "Povoação de Ka-Hó",
             "lat": 22.132112,
             "lng": 113.581603,
-            "seq": 32
+            "seq": 34
           }
         ]
       },
@@ -7138,12 +7154,20 @@
             "seq": 3
           },
           {
+            "code": "C694",
+            "nameCht": "黑沙村-2",
+            "namePor": "Povoaçáo de Hác-Sá - 2",
+            "lat": 22.117512,
+            "lng": 113.566636,
+            "seq": 4
+          },
+          {
             "code": "C669",
             "nameCht": "黑沙海灘",
             "namePor": "Praia de Hac Sá",
             "lat": 22.118829,
             "lng": 113.569358,
-            "seq": 4
+            "seq": 5
           },
           {
             "code": "C658",
@@ -7151,7 +7175,7 @@
             "namePor": "Pousada de Juventude de Hác-Sá",
             "lat": 22.116481,
             "lng": 113.569608,
-            "seq": 5
+            "seq": 6
           },
           {
             "code": "C675",
@@ -7159,7 +7183,7 @@
             "namePor": "Vila Chok Wan Hou Un - 2",
             "lat": 22.113174,
             "lng": 113.566673,
-            "seq": 6
+            "seq": 7
           },
           {
             "code": "C668",
@@ -7167,7 +7191,7 @@
             "namePor": "Praia Cheoc Van - 2",
             "lat": 22.112812,
             "lng": 113.563374,
-            "seq": 7
+            "seq": 8
           },
           {
             "code": "C678",
@@ -7175,7 +7199,7 @@
             "namePor": "Cheoc Van / Picnic - 2",
             "lat": 22.113661,
             "lng": 113.562677,
-            "seq": 8
+            "seq": 9
           },
           {
             "code": "C665",
@@ -7183,7 +7207,7 @@
             "namePor": "Est. Cheoc Van - 2",
             "lat": 22.114158,
             "lng": 113.5602,
-            "seq": 9
+            "seq": 10
           },
           {
             "code": "C663",
@@ -7191,7 +7215,7 @@
             "namePor": "Est. Cheoc Van / Piscina - 2",
             "lat": 22.114574,
             "lng": 113.55796,
-            "seq": 10
+            "seq": 11
           },
           {
             "code": "C661",
@@ -7199,7 +7223,7 @@
             "namePor": "Cadeia de Coloane - 2",
             "lat": 22.118066,
             "lng": 113.555007,
-            "seq": 11
+            "seq": 12
           },
           {
             "code": "C659",
@@ -7207,7 +7231,7 @@
             "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
-            "seq": 12
+            "seq": 13
           },
           {
             "code": "C656",
@@ -7215,7 +7239,7 @@
             "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "C654",
@@ -7223,7 +7247,7 @@
             "namePor": "Rotunda da Concórdia",
             "lat": 22.124861,
             "lng": 113.554397,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "C653",
@@ -7231,7 +7255,7 @@
             "namePor": "Centro de Edu. Natural de Seac Pai Van",
             "lat": 22.12736,
             "lng": 113.558309,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "C692",
@@ -7239,7 +7263,7 @@
             "namePor": "Seac Pai Van / Edifício Lok Kuan",
             "lat": 22.129603,
             "lng": 113.561212,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "C690",
@@ -7247,7 +7271,7 @@
             "namePor": "Seac Pai Van / Terminal",
             "lat": 22.129705,
             "lng": 113.562958,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T357_1",
@@ -7255,7 +7279,7 @@
             "namePor": "Posto Fronteiriço de Cotai",
             "lat": 22.139176,
             "lng": 113.55946,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "T360",
@@ -7263,7 +7287,7 @@
             "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "T376",
@@ -7271,7 +7295,7 @@
             "namePor": "Est. do Istmo / Venetian",
             "lat": 22.146645,
             "lng": 113.563538,
-            "seq": 20
+            "seq": 21
           },
           {
             "code": "T306",
@@ -7279,7 +7303,7 @@
             "namePor": "Est. Gov. Nobre Carvalho",
             "lat": 22.153306,
             "lng": 113.56306,
-            "seq": 21
+            "seq": 22
           },
           {
             "code": "T314",
@@ -7287,7 +7311,7 @@
             "namePor": "Largo Ouvidor Arriaga / Chun Iut",
             "lat": 22.156403,
             "lng": 113.55987,
-            "seq": 22
+            "seq": 23
           },
           {
             "code": "T318",
@@ -7295,7 +7319,7 @@
             "namePor": "Fernão M. Pinto / Chun Iut Garden",
             "lat": 22.156261,
             "lng": 113.559495,
-            "seq": 23
+            "seq": 24
           },
           {
             "code": "T319",
@@ -7303,7 +7327,7 @@
             "namePor": "Piscinas do Carmo",
             "lat": 22.154966,
             "lng": 113.559214,
-            "seq": 24
+            "seq": 25
           },
           {
             "code": "T320",
@@ -7311,7 +7335,7 @@
             "namePor": "Rua do Cunha",
             "lat": 22.153048,
             "lng": 113.55714,
-            "seq": 25
+            "seq": 26
           },
           {
             "code": "T321",
@@ -7319,7 +7343,7 @@
             "namePor": "Largo Tamag. Barbosa",
             "lat": 22.152125,
             "lng": 113.555283,
-            "seq": 26
+            "seq": 27
           },
           {
             "code": "T323",
@@ -7327,7 +7351,7 @@
             "namePor": "Ponte Negra / R. do Regedor",
             "lat": 22.154494,
             "lng": 113.556217,
-            "seq": 27
+            "seq": 28
           },
           {
             "code": "T324",
@@ -7335,7 +7359,7 @@
             "namePor": "Estádio de Macau",
             "lat": 22.155454,
             "lng": 113.554995,
-            "seq": 28
+            "seq": 29
           },
           {
             "code": "T327",
@@ -7343,7 +7367,7 @@
             "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
-            "seq": 29
+            "seq": 30
           },
           {
             "code": "T329",
@@ -7351,7 +7375,7 @@
             "namePor": "Rotunda P. J. Silva Loureiro",
             "lat": 22.15669,
             "lng": 113.542872,
-            "seq": 30
+            "seq": 31
           },
           {
             "code": "T337",
@@ -7359,7 +7383,7 @@
             "namePor": "Edifício Beira-mar",
             "lat": 22.158477,
             "lng": 113.542124,
-            "seq": 31
+            "seq": 32
           },
           {
             "code": "T336",
@@ -7367,7 +7391,7 @@
             "namePor": "Terraço Panorâmico",
             "lat": 22.161602,
             "lng": 113.542989,
-            "seq": 32
+            "seq": 33
           }
         ]
       }
@@ -10822,36 +10846,12 @@
             "seq": 31
           },
           {
-            "code": "M158",
-            "nameCht": "北京街/假日酒店",
-            "namePor": "Rua de Pequim / Holiday Inn",
-            "lat": 22.191745,
-            "lng": 113.547744,
-            "seq": 32
-          },
-          {
-            "code": "M243",
-            "nameCht": "何賢公園",
-            "namePor": "Jardim Comendador Ho Yin",
-            "lat": 22.19279,
-            "lng": 113.548682,
-            "seq": 33
-          },
-          {
-            "code": "M157",
-            "nameCht": "治安警察局",
-            "namePor": "C. P. S. P.",
-            "lat": 22.191892,
-            "lng": 113.546628,
-            "seq": 34
-          },
-          {
             "code": "M169",
             "nameCht": "教育暨青年局",
             "namePor": "Direcção Serviços Educação Juventude",
             "lat": 22.191863,
             "lng": 113.543987,
-            "seq": 35
+            "seq": 32
           },
           {
             "code": "M144",
@@ -10859,7 +10859,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 36
+            "seq": 33
           },
           {
             "code": "M76",
@@ -10867,7 +10867,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 37
+            "seq": 34
           },
           {
             "code": "M84",
@@ -10875,7 +10875,7 @@
             "namePor": "Horta e Costa / Esc. Pui Ching",
             "lat": 22.201497,
             "lng": 113.54851,
-            "seq": 38
+            "seq": 35
           },
           {
             "code": "M91",
@@ -10883,31 +10883,15 @@
             "namePor": "Horta e Costa / Rua Manuel Arriaga",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 39
+            "seq": 36
           },
           {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 40
-          },
-          {
-            "code": "M19",
-            "nameCht": "白朗古將軍馬路",
-            "namePor": "Av. Gen. Castelo Branco",
-            "lat": 22.20943,
-            "lng": 113.544766,
-            "seq": 41
-          },
-          {
-            "code": "M10",
-            "nameCht": "台山街市",
-            "namePor": "Mercado Tamag. Barbosa",
-            "lat": 22.210435,
-            "lng": 113.546281,
-            "seq": 42
+            "code": "M14",
+            "nameCht": "蓮峰游泳池",
+            "namePor": "Piscina Lim Fung",
+            "lat": 22.20774,
+            "lng": 113.546018,
+            "seq": 37
           },
           {
             "code": "M8",
@@ -10915,7 +10899,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 43
+            "seq": 38
           },
           {
             "code": "M1",
@@ -10923,7 +10907,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 44
+            "seq": 39
           }
         ]
       }
