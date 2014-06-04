@@ -1721,19 +1721,11 @@
           },
           {
             "code": "M206",
-            "nameCht": "黑沙環新街/海濱",
-            "namePor": "R. Nova Areia Preta / Hoi Pan",
-            "lat": 22.207707,
-            "lng": 113.555439,
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+            "lat": 22.208448,
+            "lng": 113.554416,
             "seq": 15
-          },
-          {
-            "code": "M232",
-            "nameCht": "黑沙環/政府綜合服務大樓",
-            "namePor": "Areia Preta / Centro de Serviços da Raem",
-            "lat": 22.209209,
-            "lng": 113.553306,
-            "seq": 16
           },
           {
             "code": "M216",
@@ -1741,7 +1733,7 @@
             "namePor": "Av. Leste Hipódromo",
             "lat": 22.211811,
             "lng": 113.553879,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M207",
@@ -1749,7 +1741,7 @@
             "namePor": "Av. Norte do Hipódromo",
             "lat": 22.214353,
             "lng": 113.553085,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M1",
@@ -1757,7 +1749,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 19
+            "seq": 18
           }
         ]
       }
@@ -5885,19 +5877,11 @@
           },
           {
             "code": "M206",
-            "nameCht": "黑沙環新街/海濱",
-            "namePor": "R. Nova Areia Preta / Hoi Pan",
-            "lat": 22.207707,
-            "lng": 113.555439,
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+            "lat": 22.208448,
+            "lng": 113.554416,
             "seq": 33
-          },
-          {
-            "code": "M232",
-            "nameCht": "黑沙環/政府綜合服務大樓",
-            "namePor": "Areia Preta / Centro de Serviços da Raem",
-            "lat": 22.209209,
-            "lng": 113.553306,
-            "seq": 34
           },
           {
             "code": "M246",
@@ -5905,7 +5889,7 @@
             "namePor": "R. Mercado Iao Hon",
             "lat": 22.210837,
             "lng": 113.55114,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M223",
@@ -5913,7 +5897,7 @@
             "namePor": "Av. Longevidade",
             "lat": 22.212786,
             "lng": 113.551127,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M225",
@@ -5921,7 +5905,7 @@
             "namePor": "R. da Tribuna / Est. dos Cavaleiros",
             "lat": 22.213254,
             "lng": 113.549406,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M8",
@@ -5929,7 +5913,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M1",
@@ -5937,7 +5921,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 39
+            "seq": 38
           }
         ]
       }
@@ -7739,8 +7723,8 @@
           },
           {
             "code": "M149",
-            "nameCht": "皇都酒店",
-            "namePor": "Hotel Royal",
+            "nameCht": "粵華中學",
+            "namePor": "Yuet Wah College",
             "lat": 22.196995,
             "lng": 113.547706,
             "seq": 11
@@ -7843,19 +7827,11 @@
           },
           {
             "code": "M206",
-            "nameCht": "黑沙環新街/海濱",
-            "namePor": "R. Nova Areia Preta / Hoi Pan",
-            "lat": 22.207707,
-            "lng": 113.555439,
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+            "lat": 22.208448,
+            "lng": 113.554416,
             "seq": 24
-          },
-          {
-            "code": "M232",
-            "nameCht": "黑沙環/政府綜合服務大樓",
-            "namePor": "Areia Preta / Centro de Serviços da Raem",
-            "lat": 22.209209,
-            "lng": 113.553306,
-            "seq": 25
           },
           {
             "code": "M216",
@@ -7863,7 +7839,7 @@
             "namePor": "Av. Leste Hipódromo",
             "lat": 22.211811,
             "lng": 113.553879,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "M207",
@@ -7871,7 +7847,7 @@
             "namePor": "Av. Norte do Hipódromo",
             "lat": 22.214353,
             "lng": 113.553085,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "M1",
@@ -7879,7 +7855,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "M225",
@@ -7887,7 +7863,7 @@
             "namePor": "R. da Tribuna / Est. dos Cavaleiros",
             "lat": 22.213254,
             "lng": 113.549406,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M7",
@@ -7895,7 +7871,7 @@
             "namePor": "Istmo F. Amaral",
             "lat": 22.212353,
             "lng": 113.548544,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M16",
@@ -7903,7 +7879,7 @@
             "namePor": "Av. Alm. Lacerda / Ouvidor Arriaga",
             "lat": 22.206338,
             "lng": 113.545304,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M101",
@@ -7911,7 +7887,7 @@
             "namePor": "Ouvidor Arriaga / Fortuna",
             "lat": 22.204187,
             "lng": 113.547566,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M83",
@@ -7919,7 +7895,7 @@
             "namePor": "Al. Costa Cabral / Esc. Pui Ching",
             "lat": 22.201021,
             "lng": 113.54704,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M82",
@@ -7927,7 +7903,7 @@
             "namePor": "Al. Costa Cabral / Sacadura Cabral",
             "lat": 22.200259,
             "lng": 113.546096,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M123",
@@ -7935,7 +7911,7 @@
             "namePor": "Alm. Costa Cabral / Esc. Tong Nam",
             "lat": 22.198465,
             "lng": 113.543888,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M122",
@@ -7943,7 +7919,7 @@
             "namePor": "R. Tomás Vieira",
             "lat": 22.198511,
             "lng": 113.542296,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M124",
@@ -7951,7 +7927,7 @@
             "namePor": "Jardim Camões / Terminal",
             "lat": 22.199313,
             "lng": 113.539298,
-            "seq": 37
+            "seq": 36
           }
         ]
       }
@@ -8318,19 +8294,11 @@
           },
           {
             "code": "M206",
-            "nameCht": "黑沙環新街/海濱",
-            "namePor": "R. Nova Areia Preta / Hoi Pan",
-            "lat": 22.207707,
-            "lng": 113.555439,
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+            "lat": 22.208448,
+            "lng": 113.554416,
             "seq": 20
-          },
-          {
-            "code": "M232",
-            "nameCht": "黑沙環/政府綜合服務大樓",
-            "namePor": "Areia Preta / Centro de Serviços da Raem",
-            "lat": 22.209209,
-            "lng": 113.553306,
-            "seq": 21
           },
           {
             "code": "M246",
@@ -8338,7 +8306,7 @@
             "namePor": "R. Mercado Iao Hon",
             "lat": 22.210837,
             "lng": 113.55114,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M223",
@@ -8346,7 +8314,7 @@
             "namePor": "Av. Longevidade",
             "lat": 22.212786,
             "lng": 113.551127,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "M225",
@@ -8354,7 +8322,7 @@
             "namePor": "R. da Tribuna / Est. dos Cavaleiros",
             "lat": 22.213254,
             "lng": 113.549406,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M8",
@@ -8362,7 +8330,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "M1",
@@ -8370,7 +8338,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 26
+            "seq": 25
           }
         ]
       }
@@ -14040,8 +14008,8 @@
           },
           {
             "code": "M149",
-            "nameCht": "皇都酒店",
-            "namePor": "Hotel Royal",
+            "nameCht": "粵華中學",
+            "namePor": "Yuet Wah College",
             "lat": 22.196995,
             "lng": 113.547706,
             "seq": 8
@@ -14595,19 +14563,11 @@
           },
           {
             "code": "M206",
-            "nameCht": "黑沙環新街/海濱",
-            "namePor": "R. Nova Areia Preta / Hoi Pan",
-            "lat": 22.207707,
-            "lng": 113.555439,
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+            "lat": 22.208448,
+            "lng": 113.554416,
             "seq": 32
-          },
-          {
-            "code": "M232",
-            "nameCht": "黑沙環/政府綜合服務大樓",
-            "namePor": "Areia Preta / Centro de Serviços da Raem",
-            "lat": 22.209209,
-            "lng": 113.553306,
-            "seq": 33
           },
           {
             "code": "M246",
@@ -14615,7 +14575,7 @@
             "namePor": "R. Mercado Iao Hon",
             "lat": 22.210837,
             "lng": 113.55114,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M244",
@@ -14623,7 +14583,7 @@
             "namePor": "R. Direita do Hipódromo",
             "lat": 22.21232,
             "lng": 113.552069,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M216",
@@ -14631,7 +14591,7 @@
             "namePor": "Av. Leste Hipódromo",
             "lat": 22.211811,
             "lng": 113.553879,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M207",
@@ -14639,7 +14599,7 @@
             "namePor": "Av. Norte do Hipódromo",
             "lat": 22.214353,
             "lng": 113.553085,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M63",
@@ -14647,7 +14607,7 @@
             "namePor": "Parque M. Dr. Sun Yat Sen",
             "lat": 22.215493,
             "lng": 113.545776,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M65",
@@ -14655,7 +14615,7 @@
             "namePor": "Centro Inspecções de Veículos",
             "lat": 22.213237,
             "lng": 113.542778,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M13",
@@ -14663,7 +14623,7 @@
             "namePor": "Rua Lei Pou Chon",
             "lat": 22.212147,
             "lng": 113.546732,
-            "seq": 40
+            "seq": 39
           }
         ]
       }
@@ -19059,19 +19019,11 @@
           },
           {
             "code": "M206",
-            "nameCht": "黑沙環新街/海濱",
-            "namePor": "R. Nova Areia Preta / Hoi Pan",
-            "lat": 22.207707,
-            "lng": 113.555439,
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+            "lat": 22.208448,
+            "lng": 113.554416,
             "seq": 17
-          },
-          {
-            "code": "M232",
-            "nameCht": "黑沙環/政府綜合服務大樓",
-            "namePor": "Areia Preta / Centro de Serviços da Raem",
-            "lat": 22.209209,
-            "lng": 113.553306,
-            "seq": 18
           },
           {
             "code": "M11",
@@ -19079,7 +19031,7 @@
             "namePor": "Est. Arco / Templo Lin Fung",
             "lat": 22.210161,
             "lng": 113.548326,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M12",
@@ -19087,7 +19039,7 @@
             "namePor": "Comissariado Nº2 da P. S. P.",
             "lat": 22.210369,
             "lng": 113.546133,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M21",
@@ -19095,7 +19047,7 @@
             "namePor": "Cons. Borja / Ka Ieng",
             "lat": 22.210661,
             "lng": 113.543655,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M23",
@@ -19103,7 +19055,7 @@
             "namePor": "Cons. Borja / Edf. Mayfair",
             "lat": 22.210821,
             "lng": 113.542418,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M95",
@@ -19111,7 +19063,7 @@
             "namePor": "Rua Norte do Patane / Bacia Norte do Patane",
             "lat": 22.209153,
             "lng": 113.54167,
-            "seq": 23
+            "seq": 22
           }
         ]
       }
@@ -19737,12 +19689,76 @@
             "seq": 22
           },
           {
-            "code": "C659",
-            "nameCht": "路環市區-2",
-            "namePor": "Vila de Coloane - 2",
-            "lat": 22.117846,
-            "lng": 113.551835,
+            "code": "C660",
+            "nameCht": "路環市區-1",
+            "namePor": "Vila de Coloane - 1",
+            "lat": 22.117925,
+            "lng": 113.552292,
             "seq": 23
+          },
+          {
+            "code": "C662",
+            "nameCht": "路環監獄-1",
+            "namePor": "Cadeia de Coloane - 1",
+            "lat": 22.118131,
+            "lng": 113.554977,
+            "seq": 24
+          },
+          {
+            "code": "C664",
+            "nameCht": "竹灣泳池-1",
+            "namePor": "Est. Cheoc Van / Piscina - 1",
+            "lat": 22.114778,
+            "lng": 113.557804,
+            "seq": 25
+          },
+          {
+            "code": "C666",
+            "nameCht": "竹灣馬路-1",
+            "namePor": "Est. Cheoc Van - 1",
+            "lat": 22.114099,
+            "lng": 113.559978,
+            "seq": 26
+          },
+          {
+            "code": "C677",
+            "nameCht": "竹灣燒烤公園-1",
+            "namePor": "Cheoc Van / Picnic - 1",
+            "lat": 22.114453,
+            "lng": 113.562483,
+            "seq": 27
+          },
+          {
+            "code": "C667",
+            "nameCht": "竹灣海灘-1",
+            "namePor": "Praia Cheoc Van - 1",
+            "lat": 22.11312,
+            "lng": 113.563827,
+            "seq": 28
+          },
+          {
+            "code": "C676",
+            "nameCht": "竹灣豪園-1",
+            "namePor": "Vila Chok Wan Hou Un - 1",
+            "lat": 22.113318,
+            "lng": 113.566251,
+            "seq": 29
+          },
+          {
+            "code": "C680",
+            "nameCht": "黑沙/海蘭花苑",
+            "namePor": "Hác-Sá / Hellene Garden",
+            "lat": 22.116486,
+            "lng": 113.569519,
+            "seq": 30
+          },
+          {
+            "code": "C669",
+            "nameCht": "黑沙海灘",
+            "namePor": "Praia de Hac Sá",
+            "lat": 22.118829,
+            "lng": 113.569358,
+            "seq": 1
           }
         ]
       },
@@ -19752,12 +19768,76 @@
         "namePor": "Vila de Coloane ⇀ Barra",
         "stops": [
           {
+            "code": "C669",
+            "nameCht": "黑沙海灘",
+            "namePor": "Praia de Hac Sá",
+            "lat": 22.118829,
+            "lng": 113.569358,
+            "seq": 1
+          },
+          {
+            "code": "C658",
+            "nameCht": "黑沙青年旅舍",
+            "namePor": "Pousada de Juventude de Hác-Sá",
+            "lat": 22.116481,
+            "lng": 113.569608,
+            "seq": 2
+          },
+          {
+            "code": "C675",
+            "nameCht": "竹灣豪園-2",
+            "namePor": "Vila Chok Wan Hou Un - 2",
+            "lat": 22.113174,
+            "lng": 113.566673,
+            "seq": 3
+          },
+          {
+            "code": "C668",
+            "nameCht": "竹灣海灘-2",
+            "namePor": "Praia Cheoc Van - 2",
+            "lat": 22.112812,
+            "lng": 113.563374,
+            "seq": 4
+          },
+          {
+            "code": "C678",
+            "nameCht": "竹灣燒烤公園-2",
+            "namePor": "Cheoc Van / Picnic - 2",
+            "lat": 22.113661,
+            "lng": 113.562677,
+            "seq": 5
+          },
+          {
+            "code": "C665",
+            "nameCht": "竹灣馬路-2",
+            "namePor": "Est. Cheoc Van - 2",
+            "lat": 22.114158,
+            "lng": 113.5602,
+            "seq": 6
+          },
+          {
+            "code": "C663",
+            "nameCht": "竹灣泳池-2",
+            "namePor": "Est. Cheoc Van / Piscina - 2",
+            "lat": 22.114574,
+            "lng": 113.55796,
+            "seq": 7
+          },
+          {
+            "code": "C661",
+            "nameCht": "路環監獄-2",
+            "namePor": "Cadeia de Coloane - 2",
+            "lat": 22.118066,
+            "lng": 113.555007,
+            "seq": 8
+          },
+          {
             "code": "C659",
             "nameCht": "路環市區-2",
             "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
-            "seq": 1
+            "seq": 9
           },
           {
             "code": "C656",
@@ -19765,7 +19845,7 @@
             "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
-            "seq": 2
+            "seq": 10
           },
           {
             "code": "C654",
@@ -19773,7 +19853,7 @@
             "namePor": "Rotunda da Concórdia",
             "lat": 22.124861,
             "lng": 113.554397,
-            "seq": 3
+            "seq": 11
           },
           {
             "code": "C653",
@@ -19781,7 +19861,7 @@
             "namePor": "Centro de Edu. Natural de Seac Pai Van",
             "lat": 22.12736,
             "lng": 113.558309,
-            "seq": 4
+            "seq": 12
           },
           {
             "code": "C692",
@@ -19789,7 +19869,7 @@
             "namePor": "Seac Pai Van / Edifício Lok Kuan",
             "lat": 22.129603,
             "lng": 113.561212,
-            "seq": 5
+            "seq": 13
           },
           {
             "code": "C690",
@@ -19797,7 +19877,7 @@
             "namePor": "Seac Pai Van / Terminal",
             "lat": 22.129705,
             "lng": 113.562958,
-            "seq": 6
+            "seq": 14
           },
           {
             "code": "T360",
@@ -19805,7 +19885,7 @@
             "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 7
+            "seq": 15
           },
           {
             "code": "T376",
@@ -19813,7 +19893,7 @@
             "namePor": "Est. do Istmo / Venetian",
             "lat": 22.146645,
             "lng": 113.563538,
-            "seq": 8
+            "seq": 16
           },
           {
             "code": "T306",
@@ -19821,7 +19901,7 @@
             "namePor": "Est. Gov. Nobre Carvalho",
             "lat": 22.153306,
             "lng": 113.56306,
-            "seq": 9
+            "seq": 17
           },
           {
             "code": "T314",
@@ -19829,7 +19909,7 @@
             "namePor": "Largo Ouvidor Arriaga / Chun Iut",
             "lat": 22.156403,
             "lng": 113.55987,
-            "seq": 10
+            "seq": 18
           },
           {
             "code": "T311",
@@ -19837,7 +19917,7 @@
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 11
+            "seq": 19
           },
           {
             "code": "T312",
@@ -19845,7 +19925,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 12
+            "seq": 20
           },
           {
             "code": "T308",
@@ -19853,7 +19933,7 @@
             "namePor": "Av. Sun Yat Sen / Ctm",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 13
+            "seq": 21
           },
           {
             "code": "T300",
@@ -19861,7 +19941,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 14
+            "seq": 22
           },
           {
             "code": "T330",
@@ -19869,7 +19949,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 15
+            "seq": 23
           },
           {
             "code": "M172",
@@ -19877,7 +19957,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 16
+            "seq": 24
           },
           {
             "code": "M171",
@@ -19885,7 +19965,7 @@
             "namePor": "Centro / Infante D. Henrique",
             "lat": 22.191589,
             "lng": 113.541545,
-            "seq": 17
+            "seq": 25
           },
           {
             "code": "M142",
@@ -19893,7 +19973,7 @@
             "namePor": "Kam Pek Community Centre",
             "lat": 22.195609,
             "lng": 113.537389,
-            "seq": 18
+            "seq": 26
           },
           {
             "code": "M136",
@@ -19901,7 +19981,7 @@
             "namePor": "Ponte Cais N. 14",
             "lat": 22.195758,
             "lng": 113.536366,
-            "seq": 19
+            "seq": 27
           },
           {
             "code": "M139",
@@ -19909,7 +19989,7 @@
             "namePor": "Praça Ponte Horta",
             "lat": 22.193582,
             "lng": 113.535309,
-            "seq": 20
+            "seq": 28
           },
           {
             "code": "M184",
@@ -19917,7 +19997,7 @@
             "namePor": "Alm. Sérgio / Mercado",
             "lat": 22.191195,
             "lng": 113.533952,
-            "seq": 21
+            "seq": 29
           },
           {
             "code": "M188",
@@ -19925,7 +20005,7 @@
             "namePor": "Almirante Sérgio / Praia Manduco",
             "lat": 22.188679,
             "lng": 113.532229,
-            "seq": 22
+            "seq": 30
           },
           {
             "code": "M203",
@@ -19933,7 +20013,7 @@
             "namePor": "Templo Á Ma",
             "lat": 22.187032,
             "lng": 113.531091,
-            "seq": 23
+            "seq": 31
           },
           {
             "code": "M3",
@@ -19941,7 +20021,7 @@
             "namePor": "Barra / Terminal",
             "lat": 22.184697,
             "lng": 113.528953,
-            "seq": 24
+            "seq": 32
           }
         ]
       }

@@ -841,8 +841,8 @@
   },
   {
     "code": "M149",
-    "nameCht": "皇都酒店",
-    "namePor": "Hotel Royal",
+    "nameCht": "粵華中學",
+    "namePor": "Yuet Wah College",
     "lat": 22.196995,
     "lng": 113.547706
   },
@@ -1219,10 +1219,10 @@
   },
   {
     "code": "M206",
-    "nameCht": "黑沙環新街/海濱",
-    "namePor": "R. Nova Areia Preta / Hoi Pan",
-    "lat": 22.207707,
-    "lng": 113.555439
+    "nameCht": "黑沙環新街/建華",
+    "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
+    "lat": 22.208448,
+    "lng": 113.554416
   },
   {
     "code": "M207",
