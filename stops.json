@@ -119,13 +119,6 @@
     "lng": 113.544766
   },
   {
-    "code": "M20",
-    "nameCht": "青洲/逸麗花園",
-    "namePor": "Cons. Borja / Edf. Yat Lai",
-    "lat": 22.21069,
-    "lng": 113.544021
-  },
-  {
     "code": "M21",
     "nameCht": "青洲/嘉應花園",
     "namePor": "Cons. Borja / Ka Ieng",
@@ -369,13 +362,6 @@
     "namePor": "Est. do Reservatório",
     "lat": 22.19979,
     "lng": 113.554654
-  },
-  {
-    "code": "M67",
-    "nameCht": "友誼巷",
-    "namePor": "Trv. da Amizade",
-    "lat": 22.196104,
-    "lng": 113.555351
   },
   {
     "code": "M68",
@@ -826,32 +812,11 @@
     "lng": 113.545937
   },
   {
-    "code": "M147",
-    "nameCht": "山頂醫院總站",
-    "namePor": "Hospital S. Januário / Terminal",
-    "lat": 22.194129,
-    "lng": 113.546249
-  },
-  {
-    "code": "M148",
-    "nameCht": "東望洋斜巷",
-    "namePor": "Calçada da Guia",
-    "lat": 22.195902,
-    "lng": 113.546498
-  },
-  {
     "code": "M149",
     "nameCht": "粵華中學",
     "namePor": "Yuet Wah College",
     "lat": 22.196995,
     "lng": 113.547706
-  },
-  {
-    "code": "M150",
-    "nameCht": "得勝斜巷",
-    "namePor": "Calçada Vitória",
-    "lat": 22.196071,
-    "lng": 113.548233
   },
   {
     "code": "M151",
@@ -1456,13 +1421,6 @@
     "lng": 113.559575
   },
   {
-    "code": "M240",
-    "nameCht": "羅理基/水塘",
-    "namePor": "Av R Rodrigues / Reservatório",
-    "lat": 22.197347,
-    "lng": 113.555888
-  },
-  {
     "code": "M241",
     "nameCht": "旅遊活動中心",
     "namePor": "Centro Actividades Turísticas",
@@ -1535,7 +1493,7 @@
   {
     "code": "M252",
     "nameCht": "新口岸/科英布拉街",
-    "namePor": "Nape / Rua de Coimbra",
+    "namePor": "NAPE / Rua de Coimbra",
     "lat": 22.188419,
     "lng": 113.550113
   },
@@ -1695,8 +1653,8 @@
   },
   {
     "code": "T303",
-    "nameCht": "澳大圖書館",
-    "namePor": "Biblioteca U. M.",
+    "nameCht": "澳大城區中心",
+    "namePor": "UM Colina da Taipa",
     "lat": 22.163493,
     "lng": 113.559334
   },
@@ -1709,8 +1667,8 @@
   },
   {
     "code": "T305",
-    "nameCht": "澳門大學",
-    "namePor": "Universidade Macau",
+    "nameCht": "中福花園",
+    "namePor": "Chong Fok Garden",
     "lat": 22.163836,
     "lng": 113.556374
   },
@@ -1723,8 +1681,8 @@
   },
   {
     "code": "T307",
-    "nameCht": "新世紀酒店",
-    "namePor": "New Century Hotel",
+    "nameCht": "宋玉生博士圓形地",
+    "namePor": "Rotunda Dr. Carlos A. C. P. D'Assumpção",
     "lat": 22.162567,
     "lng": 113.554995
   },
@@ -1869,13 +1827,6 @@
     "lng": 113.55038
   },
   {
-    "code": "T328",
-    "nameCht": "賽馬會-2",
-    "namePor": "Jockey Club - 2",
-    "lat": 22.157022,
-    "lng": 113.547333
-  },
-  {
     "code": "T329",
     "nameCht": "盧伯德圓形地",
     "namePor": "Rotunda P. J. Silva Loureiro",
@@ -1888,13 +1839,6 @@
     "namePor": "Rotunda Leonel Sousa",
     "lat": 22.164073,
     "lng": 113.548627
-  },
-  {
-    "code": "T331",
-    "nameCht": "匯景花園",
-    "namePor": "Edf. Wui Keng",
-    "lat": 22.156898,
-    "lng": 113.55207
   },
   {
     "code": "T332",
@@ -1954,8 +1898,8 @@
   },
   {
     "code": "T341",
-    "nameCht": "徐日昇寅公馬路",
-    "namePor": "Av. Padre T. Pereira",
+    "nameCht": "聖公會中學",
+    "namePor": "Colégio Anglicano",
     "lat": 22.161866,
     "lng": 113.559533
   },
@@ -2065,13 +2009,6 @@
     "lng": 113.574452
   },
   {
-    "code": "T357_2",
-    "nameCht": "路氹邊檢大樓",
-    "namePor": "Posto Fronteiriço de Cotai",
-    "lat": 22.139609,
-    "lng": 113.560064
-  },
-  {
     "code": "T357_1",
     "nameCht": "路氹邊檢大樓",
     "namePor": "Posto Fronteiriço de Cotai",
@@ -2079,16 +2016,23 @@
     "lng": 113.55946
   },
   {
-    "code": "T358_1",
-    "nameCht": "機場圓形地/科大醫院",
-    "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
+    "code": "T357_2",
+    "nameCht": "路氹邊檢大樓",
+    "namePor": "Posto Fronteiriço de Cotai",
+    "lat": 22.139609,
+    "lng": 113.560064
+  },
+  {
+    "code": "T358",
+    "nameCht": "偉龍/科大醫院",
+    "namePor": "Wai Long / M.U.S.T. - Hospital",
     "lat": 22.154771,
     "lng": 113.567933
   },
   {
-    "code": "T358_2",
+    "code": "T429",
     "nameCht": "機場圓形地/科大醫院",
-    "namePor": "Rotunda do Aeroporto / M. U. S. T. - Hospital",
+    "namePor": "Rotunda do Aeroporto / M.U.S.T. - Hospital",
     "lat": 22.1547,
     "lng": 113.56929
   },
@@ -2486,15 +2430,15 @@
   },
   {
     "code": "T426",
-    "nameCht": "橫琴河隧/高爾夫俱樂部",
-    "namePor": "Túnel S. de Hengqin / Clube de Golfe",
+    "nameCht": "澳大河隧/高爾夫俱樂部",
+    "namePor": "Túnel S. da UM / Clube de Golfe",
     "lat": 22.133894,
     "lng": 113.552545
   },
   {
     "code": "T427",
-    "nameCht": "橫琴河隧/西堤馬路",
-    "namePor": "Túnel S. de Hengqin / Est. do Dique Oeste",
+    "nameCht": "澳大河隧/西堤馬路",
+    "namePor": "Túnel S. da UM / Est. do Dique Oeste",
     "lat": 22.133984,
     "lng": 113.552324
   },
@@ -2506,11 +2450,11 @@
     "lng": 113.55888
   },
   {
-    "code": "T533_1",
-    "nameCht": "澳大/大學展館",
-    "namePor": "UM / Galeria da Universidade",
-    "lat": 22.129986,
-    "lng": 113.54655
+    "code": "T550",
+    "nameCht": "澳門大學總站",
+    "namePor": "Universidade de Macau / Terminal",
+    "lat": 22.135625,
+    "lng": 113.546616
   },
   {
     "code": "T551",
@@ -2527,18 +2471,46 @@
     "lng": 113.546503
   },
   {
-    "code": "T552_1",
-    "nameCht": "澳大/中央教學樓",
-    "namePor": "UM / Sala de Aulas: Edifício Central",
-    "lat": 22.127556,
-    "lng": 113.546462
-  },
-  {
     "code": "T553",
     "nameCht": "澳大/大學展館",
     "namePor": "UM / Galeria da Universidade",
     "lat": 22.129919,
     "lng": 113.546575
+  },
+  {
+    "code": "T554",
+    "nameCht": "澳大/大學會堂",
+    "namePor": "UM / Aula Magna da Universidade",
+    "lat": 22.133661,
+    "lng": 113.546429
+  },
+  {
+    "code": "T555",
+    "nameCht": "澳大/綜合體育館",
+    "namePor": "UM /Complexo Desportivo",
+    "lat": 22.133959,
+    "lng": 113.543275
+  },
+  {
+    "code": "T556",
+    "nameCht": "澳大/行政樓",
+    "namePor": "UM / Edifício Administrativo",
+    "lat": 22.133954,
+    "lng": 113.543555
+  },
+  {
+    "code": "T557",
+    "nameCht": "大學北",
+    "namePor": "Norte da Universidade",
+    "lat": 22.133727,
+    "lng": 113.546527
+  },
+  {
+    "code": "T558",
+    "nameCht": "大學大馬路",
+    "namePor": "Avenida da Universidade",
+    "lat": 22.128873,
+    "lng": 113.546822
   },
   {
     "code": "T559",
@@ -2689,15 +2661,15 @@
   },
   {
     "code": "C670",
-    "nameCht": "威斯汀酒店 - 2",
-    "namePor": "Westin Resort - 2",
+    "nameCht": "鷺環海天酒店 - 2",
+    "namePor": "Grand Coloane Resort - 2",
     "lat": 22.12673,
     "lng": 113.575865
   },
   {
     "code": "C671",
-    "nameCht": "威斯汀酒店 - 1",
-    "namePor": "Westin Resort - 1",
+    "nameCht": "鷺環海天酒店 - 1",
+    "namePor": "Grand Coloane Resort - 1",
     "lat": 22.127105,
     "lng": 113.576209
   },
@@ -2777,6 +2749,13 @@
     "namePor": "Centro de Exm. de Condução dos Auto. Pesados",
     "lat": 22.130651,
     "lng": 113.558954
+  },
+  {
+    "code": "C684",
+    "nameCht": "聯生工業邨",
+    "namePor": "Parque Industrial da Concórdia",
+    "lat": 22.126268,
+    "lng": 113.556905
   },
   {
     "code": "C690",
