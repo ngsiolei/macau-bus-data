@@ -17255,12 +17255,28 @@
             "seq": 6
           },
           {
+            "code": "C650",
+            "nameCht": "石排灣馬路",
+            "namePor": "Est. Seak Pai Van",
+            "lat": 22.131346,
+            "lng": 113.561597,
+            "seq": 7
+          },
+          {
+            "code": "C652",
+            "nameCht": "路環石礦場",
+            "namePor": "Pedreira",
+            "lat": 22.128168,
+            "lng": 113.558708,
+            "seq": 8
+          },
+          {
             "code": "C684",
             "nameCht": "聯生工業邨",
             "namePor": "Parque Industrial da Concórdia",
             "lat": 22.126268,
             "lng": 113.556905,
-            "seq": 7
+            "seq": 9
           }
         ]
       }
