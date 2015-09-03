@@ -1877,8 +1877,8 @@
   },
   {
     "code": "T338",
-    "nameCht": "氹仔衛生中心",
-    "namePor": "Centro de Saúde da Taipa",
+    "nameCht": "海洋花園衛生中心",
+    "namePor": "Centro de Saúde dos Jardins do Oceano",
     "lat": 22.158411,
     "lng": 113.54228
   },
@@ -2030,13 +2030,6 @@
     "lng": 113.567933
   },
   {
-    "code": "T429",
-    "nameCht": "機場圓形地/科大醫院",
-    "namePor": "Rotunda do Aeroporto / M.U.S.T. - Hospital",
-    "lat": 22.1547,
-    "lng": 113.56929
-  },
-  {
     "code": "T359",
     "nameCht": "蓮花圓形地-1",
     "namePor": "Rotunda Flor de Lotus - 1",
@@ -2105,6 +2098,13 @@
     "namePor": "Avenida Olímpica",
     "lat": 22.156537,
     "lng": 113.558845
+  },
+  {
+    "code": "T369",
+    "nameCht": "基馬拉斯/濠景",
+    "namePor": "Guimarães / Nova Taipa",
+    "lat": 22.157384,
+    "lng": 113.554674
   },
   {
     "code": "T370",
@@ -2206,8 +2206,8 @@
   },
   {
     "code": "T393",
-    "nameCht": "澳大體育綜合體",
-    "namePor": "Complexo Desportivo da U. M.",
+    "nameCht": "氹仔東北體育中心",
+    "namePor": "Centro Desportivo do Nordeste da Taipa",
     "lat": 22.162943,
     "lng": 113.560542
   },
@@ -2409,8 +2409,8 @@
   },
   {
     "code": "T423",
-    "nameCht": "金都酒店",
-    "namePor": "Grand Waldo Hotel",
+    "nameCht": "蓮花海濱大馬路/百老匯",
+    "namePor": "Av. M. Flor de Lótus / Broadway",
     "lat": 22.144867,
     "lng": 113.552461
   },
@@ -2448,6 +2448,13 @@
     "namePor": "Tjoi Long Sea View / Bloco 1",
     "lat": 22.165623,
     "lng": 113.55888
+  },
+  {
+    "code": "T429",
+    "nameCht": "機場圓形地/科大醫院",
+    "namePor": "Rotunda do Aeroporto / M.U.S.T. - Hospital",
+    "lat": 22.1547,
+    "lng": 113.56929
   },
   {
     "code": "T550",
@@ -2535,15 +2542,15 @@
   },
   {
     "code": "C652",
-    "nameCht": "路環石礦場",
-    "namePor": "Pedreira",
+    "nameCht": "安順大廈",
+    "namePor": "Edifício On Son",
     "lat": 22.128168,
     "lng": 113.558708
   },
   {
     "code": "C653",
-    "nameCht": "石排灣自然教育中心",
-    "namePor": "Centro de Edu. Natural de Seac Pai Van",
+    "nameCht": "金峰南岸/金譽峰",
+    "namePor": "One Oasis / Mahogany Tower",
     "lat": 22.12736,
     "lng": 113.558309
   },
