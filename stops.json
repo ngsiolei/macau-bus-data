@@ -79,7 +79,7 @@
   {
     "code": "M12",
     "nameCht": "第二警司處",
-    "namePor": "Comissariado Nº2 da P. S. P.",
+    "namePor": "Comissariado Noº2 da PSP",
     "lat": 22.210369,
     "lng": 113.546133
   },
@@ -149,7 +149,7 @@
   {
     "code": "M25",
     "nameCht": "青洲/自來水公司",
-    "namePor": "Ilha Verde / S. A. A. M.",
+    "namePor": "Ilha Verde / SAAM",
     "lat": 22.211146,
     "lng": 113.540135
   },
@@ -387,7 +387,7 @@
   {
     "code": "M71",
     "nameCht": "廈門街/理工",
-    "namePor": "Rua de Xiamen / I. P. M.",
+    "namePor": "Rua de Xiamen / IPM",
     "lat": 22.193188,
     "lng": 113.551708
   },
@@ -751,7 +751,7 @@
   {
     "code": "M136",
     "nameCht": "粵通碼頭",
-    "namePor": "Ponte Cais N. 14",
+    "namePor": "Ponte Cais N.14",
     "lat": 22.195758,
     "lng": 113.536366
   },
@@ -856,7 +856,7 @@
   {
     "code": "M157",
     "nameCht": "治安警察局",
-    "namePor": "C. P. S. P.",
+    "namePor": "CPSP",
     "lat": 22.191892,
     "lng": 113.546628
   },
@@ -1325,7 +1325,7 @@
   {
     "code": "M226",
     "nameCht": "勞動節街/中葡職業技術學校",
-    "namePor": "R. 1 de Maio / Escola Luso-Chinesa Técnico-Profissional",
+    "namePor": "R. 1º de Maio / Escola Luso-Chinesa Técnico-Profissional",
     "lat": 22.209609,
     "lng": 113.554125
   },
@@ -1353,7 +1353,7 @@
   {
     "code": "M230",
     "nameCht": "高利亞海軍上將/政府綜合服務大樓",
-    "namePor": "Alm. Magalhães Correia / Centro de Serviços da Raem",
+    "namePor": "Alm. Magalhães Correia / Centro de Serviços da RAEM",
     "lat": 22.208505,
     "lng": 113.552899
   },
@@ -1367,7 +1367,7 @@
   {
     "code": "M232",
     "nameCht": "黑沙環/政府綜合服務大樓",
-    "namePor": "Areia Preta / Centro de Serviços da Raem",
+    "namePor": "Areia Preta / Centro de Serviços da RAEM",
     "lat": 22.209209,
     "lng": 113.553306
   },
@@ -1472,14 +1472,14 @@
   {
     "code": "M249",
     "nameCht": "新口岸/馬德里街",
-    "namePor": "Nape / Rua de Madrid",
+    "namePor": "NAPE / Rua de Madrid",
     "lat": 22.187725,
     "lng": 113.550894
   },
   {
     "code": "M250",
     "nameCht": "新口岸/柏嘉街",
-    "namePor": "Nape / Rua Cidade de Braga",
+    "namePor": "NAPE / Rua Cidade de Braga",
     "lat": 22.186901,
     "lng": 113.550121
   },
@@ -1500,7 +1500,7 @@
   {
     "code": "M253",
     "nameCht": "宋玉生廣場",
-    "namePor": "Al. Dr. C. D’assumpção",
+    "namePor": "Al. Dr. C. D'Assumpção",
     "lat": 22.189107,
     "lng": 113.551073
   },
@@ -1528,7 +1528,7 @@
   {
     "code": "M257",
     "nameCht": "新口岸/文化中心",
-    "namePor": "Nape / Centro Cultural",
+    "namePor": "NAPE / Centro Cultural",
     "lat": 22.187622,
     "lng": 113.554297
   },
@@ -1549,14 +1549,14 @@
   {
     "code": "M261",
     "nameCht": "約翰四世大馬路/馬統領街",
-    "namePor": "Av. D. João Iv / R. Do. Comandante Mata e Oliveria",
+    "namePor": "Av. D. João Iv / R. do Comandante Mata e Oliveria",
     "lat": 22.19189,
     "lng": 113.54268
   },
   {
     "code": "M262",
     "nameCht": "城市日大馬路/波爾圖街",
-    "namePor": "Av. 24 de Junho / R. Do. Porto",
+    "namePor": "Av. 24 de Junho / R. do Porto",
     "lat": 22.187379,
     "lng": 113.54872
   },
@@ -1689,7 +1689,7 @@
   {
     "code": "T308",
     "nameCht": "氹仔電訊",
-    "namePor": "Av. Sun Yat Sen / Ctm",
+    "namePor": "Av. Sun Yat Sen / CTM",
     "lat": 22.160903,
     "lng": 113.556368
   },
@@ -1813,13 +1813,6 @@
     "lng": 113.555084
   },
   {
-    "code": "T326",
-    "nameCht": "柯維納馬路",
-    "namePor": "Estrada Gov. A. Oliveira",
-    "lat": 22.15739,
-    "lng": 113.545425
-  },
-  {
     "code": "T327",
     "nameCht": "賽馬會-1",
     "namePor": "Jockey Club - 1",
@@ -1871,7 +1864,7 @@
   {
     "code": "T337",
     "nameCht": "氹仔海濱花園",
-    "namePor": "Edifício Beira-mar",
+    "namePor": "Edifício Beira-Mar",
     "lat": 22.158477,
     "lng": 113.542124
   },
@@ -2025,7 +2018,7 @@
   {
     "code": "T358",
     "nameCht": "偉龍/科大醫院",
-    "namePor": "Wai Long / M.U.S.T. - Hospital",
+    "namePor": "Wai Long / MUST - Hospital",
     "lat": 22.154771,
     "lng": 113.567933
   },
@@ -2123,21 +2116,21 @@
   {
     "code": "T373",
     "nameCht": "偉龍/科技大學",
-    "namePor": "Wai Long / M. U. S. T.",
+    "namePor": "Wai Long / MUST",
     "lat": 22.152199,
     "lng": 113.565021
   },
   {
     "code": "T374",
     "nameCht": "澳門土木工程實驗室",
-    "namePor": "L. E. C. M",
+    "namePor": "LECM",
     "lat": 22.151825,
     "lng": 113.564419
   },
   {
     "code": "T375",
     "nameCht": "連貫公路/新濠天地",
-    "namePor": "Est. do Istmo / C. O. D.",
+    "namePor": "Est. do Istmo / COD",
     "lat": 22.149708,
     "lng": 113.563999
   },
@@ -2193,14 +2186,14 @@
   {
     "code": "T391",
     "nameCht": "科技大學圓形地/科技大學",
-    "namePor": "Rotunda da U. C. T. / M. U. S. T.",
+    "namePor": "Rotunda da U. C. T. / MUST",
     "lat": 22.150385,
     "lng": 113.565618
   },
   {
     "code": "T392",
     "nameCht": "連貫公路圓形地/新濠天地",
-    "namePor": "Rotunda do Istmo / C. O. D.",
+    "namePor": "Rotunda do Istmo / COD",
     "lat": 22.150213,
     "lng": 113.5656
   },
@@ -2249,7 +2242,7 @@
   {
     "code": "T400",
     "nameCht": "體育館馬路/新濠天地",
-    "namePor": "Av. da Nave Desportiva / C. O. D.",
+    "namePor": "Av. da Nave Desportiva / COD",
     "lat": 22.149129,
     "lng": 113.568811
   },
@@ -2452,7 +2445,7 @@
   {
     "code": "T429",
     "nameCht": "機場圓形地/科大醫院",
-    "namePor": "Rotunda do Aeroporto / M.U.S.T. - Hospital",
+    "namePor": "Rotunda do Aeroporto / MUST - Hospital",
     "lat": 22.1547,
     "lng": 113.56929
   },
