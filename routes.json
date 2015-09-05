@@ -275,186 +275,6 @@
     }
   },
   {
-    "code": "MT5",
-    "nameCht": "湖畔大廈 ↻ 皇朝",
-    "namePor": "Edifício do Lago ⇌ N. A. P. E.",
-    "directions": [
-      {
-        "code": "MT5",
-        "nameCht": "湖畔大廈 ↻ 皇朝",
-        "namePor": "Edifício do Lago ↻ N. A. P. E.",
-        "stops": [
-          {
-            "code": "T408",
-            "nameCht": "湖畔大廈",
-            "namePor": "Edifício do Lago",
-            "lat": 22.158409,
-            "lng": 113.561635,
-            "seq": 1
-          },
-          {
-            "code": "T311",
-            "nameCht": "亞利雅架前地",
-            "namePor": "Largo Ouvidor Arriaga",
-            "lat": 22.157685,
-            "lng": 113.559405,
-            "seq": 2
-          },
-          {
-            "code": "T312",
-            "nameCht": "寶龍花園",
-            "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
-            "lat": 22.158837,
-            "lng": 113.558309,
-            "seq": 3
-          },
-          {
-            "code": "T370",
-            "nameCht": "基馬拉斯/成都街",
-            "namePor": "Guimarães / R. Seng Tou",
-            "lat": 22.157193,
-            "lng": 113.554609,
-            "seq": 4
-          },
-          {
-            "code": "T351",
-            "nameCht": "布拉干薩街",
-            "namePor": "Rua Bragança",
-            "lat": 22.15872,
-            "lng": 113.552628,
-            "seq": 5
-          },
-          {
-            "code": "T353",
-            "nameCht": "廣東大馬路/成都街",
-            "namePor": "Av. Kwong Tung / R. Seng Tou",
-            "lat": 22.159632,
-            "lng": 113.552577,
-            "seq": 6
-          },
-          {
-            "code": "T346",
-            "nameCht": "廣東大馬路/鴻發",
-            "namePor": "Av. Kwong Tung / Edf. Hung Fat",
-            "lat": 22.161867,
-            "lng": 113.554575,
-            "seq": 7
-          },
-          {
-            "code": "T300",
-            "nameCht": "史伯泰/盧廉若",
-            "namePor": "Esparteiro / Lou Lim Ieok",
-            "lat": 22.162646,
-            "lng": 113.552805,
-            "seq": 8
-          },
-          {
-            "code": "T330",
-            "nameCht": "蘇利安圓形地",
-            "namePor": "Rotunda Leonel Sousa",
-            "lat": 22.164073,
-            "lng": 113.548627,
-            "seq": 9
-          },
-          {
-            "code": "M262",
-            "nameCht": "城市日大馬路/波爾圖街",
-            "namePor": "Av. 24 de Junho / R. Do. Porto",
-            "lat": 22.187379,
-            "lng": 113.54872,
-            "seq": 10
-          },
-          {
-            "code": "M249",
-            "nameCht": "新口岸/馬德里街",
-            "namePor": "Nape / Rua de Madrid",
-            "lat": 22.187725,
-            "lng": 113.550894,
-            "seq": 11
-          },
-          {
-            "code": "M251",
-            "nameCht": "捐血中心",
-            "namePor": "Centro Transfusões Sangue",
-            "lat": 22.189042,
-            "lng": 113.550318,
-            "seq": 12
-          },
-          {
-            "code": "M172",
-            "nameCht": "亞馬喇前地",
-            "namePor": "Praça Ferreira Amaral",
-            "lat": 22.189429,
-            "lng": 113.543367,
-            "seq": 13
-          },
-          {
-            "code": "T403",
-            "nameCht": "史伯泰/麗景灣",
-            "namePor": "Esparteiro / Regency",
-            "lat": 22.162727,
-            "lng": 113.553933,
-            "seq": 14
-          },
-          {
-            "code": "T352",
-            "nameCht": "廣東大馬路/濠景",
-            "namePor": "Av. Kwong Tung / Nova Taipa",
-            "lat": 22.159529,
-            "lng": 113.552693,
-            "seq": 15
-          },
-          {
-            "code": "T332",
-            "nameCht": "南新花園",
-            "namePor": "Edf. Nam Sun",
-            "lat": 22.157426,
-            "lng": 113.54956,
-            "seq": 16
-          },
-          {
-            "code": "T369",
-            "nameCht": "基馬拉斯/濠景",
-            "namePor": "Guimarães / Nova Taipa",
-            "lat": 22.157384,
-            "lng": 113.554674,
-            "seq": 17
-          },
-          {
-            "code": "T309",
-            "nameCht": "泉亮花園",
-            "namePor": "Av. Sun Yat Sen / Edf. Chun Luen",
-            "lat": 22.159096,
-            "lng": 113.558219,
-            "seq": 18
-          },
-          {
-            "code": "T310",
-            "nameCht": "孫逸仙馬路/三家村",
-            "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
-            "lat": 22.157756,
-            "lng": 113.559475,
-            "seq": 19
-          },
-          {
-            "code": "T408",
-            "nameCht": "湖畔大廈",
-            "namePor": "Edifício do Lago",
-            "lat": 22.158409,
-            "lng": 113.561635,
-            "seq": 20
-          }
-        ]
-      }
-    ],
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    }
-  },
-  {
     "code": "1A",
     "nameCht": "筷子基 ⇌ 新口岸/科英布拉街",
     "namePor": "Fai Chi Kei ⇌ NAPE / Rua de Coimbra",
@@ -17036,7 +16856,7 @@
   {
     "code": "50X",
     "nameCht": "亞馬喇前地 ⇌ 駕考中心",
-    "namePor": "Centro A. E Exames de Condução",
+    "namePor": "Praca Ferrira Amaral ⇌ Centro A. e Exames de Condução",
     "directions": [
       {
         "code": "50X",
@@ -19269,6 +19089,186 @@
       "namePor": "TRANSMAC",
       "phone": "28271122",
       "website": "http://www.transmac.com.mo/"
+    }
+  },
+  {
+    "code": "MT5",
+    "nameCht": "湖畔大廈 ↻ 皇朝",
+    "namePor": "Edifício do Lago ⇌ N.A.P.E.",
+    "directions": [
+      {
+        "code": "MT5",
+        "nameCht": "湖畔大廈 ↻ 皇朝",
+        "namePor": "Edifício do Lago ↻ N.A.P.E.",
+        "stops": [
+          {
+            "code": "T408",
+            "nameCht": "湖畔大廈",
+            "namePor": "Edifício do Lago",
+            "lat": 22.158409,
+            "lng": 113.561635,
+            "seq": 1
+          },
+          {
+            "code": "T311",
+            "nameCht": "亞利雅架前地",
+            "namePor": "Largo Ouvidor Arriaga",
+            "lat": 22.157685,
+            "lng": 113.559405,
+            "seq": 2
+          },
+          {
+            "code": "T312",
+            "nameCht": "寶龍花園",
+            "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
+            "lat": 22.158837,
+            "lng": 113.558309,
+            "seq": 3
+          },
+          {
+            "code": "T370",
+            "nameCht": "基馬拉斯/成都街",
+            "namePor": "Guimarães / R. Seng Tou",
+            "lat": 22.157193,
+            "lng": 113.554609,
+            "seq": 4
+          },
+          {
+            "code": "T351",
+            "nameCht": "布拉干薩街",
+            "namePor": "Rua Bragança",
+            "lat": 22.15872,
+            "lng": 113.552628,
+            "seq": 5
+          },
+          {
+            "code": "T353",
+            "nameCht": "廣東大馬路/成都街",
+            "namePor": "Av. Kwong Tung / R. Seng Tou",
+            "lat": 22.159632,
+            "lng": 113.552577,
+            "seq": 6
+          },
+          {
+            "code": "T346",
+            "nameCht": "廣東大馬路/鴻發",
+            "namePor": "Av. Kwong Tung / Edf. Hung Fat",
+            "lat": 22.161867,
+            "lng": 113.554575,
+            "seq": 7
+          },
+          {
+            "code": "T300",
+            "nameCht": "史伯泰/盧廉若",
+            "namePor": "Esparteiro / Lou Lim Ieok",
+            "lat": 22.162646,
+            "lng": 113.552805,
+            "seq": 8
+          },
+          {
+            "code": "T330",
+            "nameCht": "蘇利安圓形地",
+            "namePor": "Rotunda Leonel Sousa",
+            "lat": 22.164073,
+            "lng": 113.548627,
+            "seq": 9
+          },
+          {
+            "code": "M262",
+            "nameCht": "城市日大馬路/波爾圖街",
+            "namePor": "Av. 24 de Junho / R. Do. Porto",
+            "lat": 22.187379,
+            "lng": 113.54872,
+            "seq": 10
+          },
+          {
+            "code": "M249",
+            "nameCht": "新口岸/馬德里街",
+            "namePor": "Nape / Rua de Madrid",
+            "lat": 22.187725,
+            "lng": 113.550894,
+            "seq": 11
+          },
+          {
+            "code": "M251",
+            "nameCht": "捐血中心",
+            "namePor": "Centro Transfusões Sangue",
+            "lat": 22.189042,
+            "lng": 113.550318,
+            "seq": 12
+          },
+          {
+            "code": "M172",
+            "nameCht": "亞馬喇前地",
+            "namePor": "Praça Ferreira Amaral",
+            "lat": 22.189429,
+            "lng": 113.543367,
+            "seq": 13
+          },
+          {
+            "code": "T403",
+            "nameCht": "史伯泰/麗景灣",
+            "namePor": "Esparteiro / Regency",
+            "lat": 22.162727,
+            "lng": 113.553933,
+            "seq": 14
+          },
+          {
+            "code": "T352",
+            "nameCht": "廣東大馬路/濠景",
+            "namePor": "Av. Kwong Tung / Nova Taipa",
+            "lat": 22.159529,
+            "lng": 113.552693,
+            "seq": 15
+          },
+          {
+            "code": "T332",
+            "nameCht": "南新花園",
+            "namePor": "Edf. Nam Sun",
+            "lat": 22.157426,
+            "lng": 113.54956,
+            "seq": 16
+          },
+          {
+            "code": "T369",
+            "nameCht": "基馬拉斯/濠景",
+            "namePor": "Guimarães / Nova Taipa",
+            "lat": 22.157384,
+            "lng": 113.554674,
+            "seq": 17
+          },
+          {
+            "code": "T309",
+            "nameCht": "泉亮花園",
+            "namePor": "Av. Sun Yat Sen / Edf. Chun Luen",
+            "lat": 22.159096,
+            "lng": 113.558219,
+            "seq": 18
+          },
+          {
+            "code": "T310",
+            "nameCht": "孫逸仙馬路/三家村",
+            "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
+            "lat": 22.157756,
+            "lng": 113.559475,
+            "seq": 19
+          },
+          {
+            "code": "T408",
+            "nameCht": "湖畔大廈",
+            "namePor": "Edifício do Lago",
+            "lat": 22.158409,
+            "lng": 113.561635,
+            "seq": 20
+          }
+        ]
+      }
+    ],
+    "agency": {
+      "nameCht": "新時代",
+      "namePor": "NEW ERA",
+      "phone": "28777888",
+      "website": "http://www.newera.com.mo/"
     }
   },
   {
