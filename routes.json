@@ -20591,5 +20591,233 @@
       "phone": "28777888",
       "website": "http://www.newera.com.mo/"
     }
+  },
+  {
+    "code": "N5",
+    "nameCht": "石排灣 ↻ 皇朝",
+    "namePor": "Seac Pai Van ↻ NAPE",
+    "directions": [
+      {
+        "code": "N5",
+        "nameCht": "石排灣 ↻ 皇朝",
+        "namePor": "Seac Pai Van ↻ NAPE",
+        "stops": [
+          {
+            "code": "C690",
+            "nameCht": "石排灣總站",
+            "namePor": "Seac Pai Van / Terminal",
+            "lat": 22.129705,
+            "lng": 113.562958,
+            "seq": 1
+          },
+          {
+            "code": "T357_1",
+            "nameCht": "路氹邊檢大樓",
+            "namePor": "Posto Fronteiriço de Cotai",
+            "lat": 22.139176,
+            "lng": 113.55946,
+            "seq": 2
+          },
+          {
+            "code": "T360",
+            "nameCht": "蓮花圓形地-2",
+            "namePor": "Rotunda Flor de Lotus - 2",
+            "lat": 22.140129,
+            "lng": 113.56327,
+            "seq": 3
+          },
+          {
+            "code": "T374",
+            "nameCht": "澳門土木工程實驗室",
+            "namePor": "LECM",
+            "lat": 22.151825,
+            "lng": 113.564419,
+            "seq": 4
+          },
+          {
+            "code": "T406",
+            "nameCht": "機場圓形地/偉龍",
+            "namePor": "Rotunda do Aeroporto / Wai Long",
+            "lat": 22.155069,
+            "lng": 113.56806,
+            "seq": 5
+          },
+          {
+            "code": "T345",
+            "nameCht": "臨時客運碼頭",
+            "namePor": "Terminal Marítimo Provisório",
+            "lat": 22.162192,
+            "lng": 113.577833,
+            "seq": 6
+          },
+          {
+            "code": "T356",
+            "nameCht": "澳門機場",
+            "namePor": "Aeroporto de Macau",
+            "lat": 22.158328,
+            "lng": 113.574452,
+            "seq": 7
+          },
+          {
+            "code": "M239",
+            "nameCht": "外港碼頭",
+            "namePor": "Terminal Marítimo",
+            "lat": 22.198089,
+            "lng": 113.559575,
+            "seq": 8
+          },
+          {
+            "code": "M254",
+            "nameCht": "友誼馬路/行車天橋",
+            "namePor": "Av. Amizade / Viaduto",
+            "lat": 22.194852,
+            "lng": 113.554846,
+            "seq": 9
+          },
+          {
+            "code": "M253",
+            "nameCht": "宋玉生廣場",
+            "namePor": "Al. Dr. C. D'Assumpção",
+            "lat": 22.189107,
+            "lng": 113.551073,
+            "seq": 10
+          },
+          {
+            "code": "M258",
+            "nameCht": "觀音蓮花苑",
+            "namePor": "Centro Ecuménico Kun Iam",
+            "lat": 22.187082,
+            "lng": 113.551966,
+            "seq": 11
+          },
+          {
+            "code": "M256",
+            "nameCht": "澳門文化中心",
+            "namePor": "Centro Cultural de Macau",
+            "lat": 22.187734,
+            "lng": 113.554294,
+            "seq": 12
+          },
+          {
+            "code": "M259",
+            "nameCht": "孫逸仙大馬路/金沙",
+            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
+            "lat": 22.190054,
+            "lng": 113.55573,
+            "seq": 13
+          },
+          {
+            "code": "M242",
+            "nameCht": "友誼馬路/海港街",
+            "namePor": "Av. Amizade / R. do Terminal Maritimo",
+            "lat": 22.196083,
+            "lng": 113.555641,
+            "seq": 14
+          },
+          {
+            "code": "T316",
+            "nameCht": "北安大馬路",
+            "namePor": "Estrada Pac On",
+            "lat": 22.164716,
+            "lng": 113.566588,
+            "seq": 15
+          },
+          {
+            "code": "T316",
+            "nameCht": "北安大馬路",
+            "namePor": "Estrada Pac On",
+            "lat": 22.164716,
+            "lng": 113.566588,
+            "seq": 16
+          },
+          {
+            "code": "T354",
+            "nameCht": "北安出入境事務廳",
+            "namePor": "Serviços da Migração de Pac On",
+            "lat": 22.163737,
+            "lng": 113.571828,
+            "seq": 17
+          },
+          {
+            "code": "T345",
+            "nameCht": "臨時客運碼頭",
+            "namePor": "Terminal Marítimo Provisório",
+            "lat": 22.162192,
+            "lng": 113.577833,
+            "seq": 18
+          },
+          {
+            "code": "T356",
+            "nameCht": "澳門機場",
+            "namePor": "Aeroporto de Macau",
+            "lat": 22.158328,
+            "lng": 113.574452,
+            "seq": 19
+          },
+          {
+            "code": "T358",
+            "nameCht": "偉龍/科大醫院",
+            "namePor": "Wai Long / MUST - Hospital",
+            "lat": 22.154771,
+            "lng": 113.567933,
+            "seq": 20
+          },
+          {
+            "code": "T373",
+            "nameCht": "偉龍/科技大學",
+            "namePor": "Wai Long / MUST",
+            "lat": 22.152199,
+            "lng": 113.565021,
+            "seq": 21
+          },
+          {
+            "code": "T375",
+            "nameCht": "連貫公路/新濠天地",
+            "namePor": "Est. do Istmo / COD",
+            "lat": 22.149708,
+            "lng": 113.563999,
+            "seq": 22
+          },
+          {
+            "code": "T379",
+            "nameCht": "連貫公路/金沙城中心",
+            "namePor": "Est. do Istmo / Sands Cotai Central",
+            "lat": 22.144793,
+            "lng": 113.563755,
+            "seq": 23
+          },
+          {
+            "code": "T359",
+            "nameCht": "蓮花圓形地-1",
+            "namePor": "Rotunda Flor de Lotus - 1",
+            "lat": 22.138762,
+            "lng": 113.564021,
+            "seq": 24
+          },
+          {
+            "code": "T357_1",
+            "nameCht": "路氹邊檢大樓",
+            "namePor": "Posto Fronteiriço de Cotai",
+            "lat": 22.139176,
+            "lng": 113.55946,
+            "seq": 25
+          },
+          {
+            "code": "C690",
+            "nameCht": "石排灣總站",
+            "namePor": "Seac Pai Van / Terminal",
+            "lat": 22.129705,
+            "lng": 113.562958,
+            "seq": 26
+          }
+        ]
+      }
+    ],
+    "agency": {
+      "nameCht": "澳巴",
+      "namePor": "TCM",
+      "phone": "28850060",
+      "website": "http://www.tcm.com.mo/"
+    }
   }
 ]
