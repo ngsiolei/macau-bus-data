@@ -56,13 +56,6 @@
     "lng": 113.547594
   },
   {
-    "code": "M9",
-    "nameCht": "拱形馬路",
-    "namePor": "Estrada do Arco",
-    "lat": 22.210193,
-    "lng": 113.548458
-  },
-  {
     "code": "M10",
     "nameCht": "台山街市",
     "namePor": "Mercado Tamag. Barbosa",
@@ -1232,13 +1225,6 @@
     "lng": 113.552296
   },
   {
-    "code": "M213",
-    "nameCht": "順景廣場總站-2",
-    "namePor": "P. Serenidade / Terminal - 2",
-    "lat": 22.213449,
-    "lng": 113.553347
-  },
-  {
     "code": "M214",
     "nameCht": "順景廣場總站-1",
     "namePor": "P. Serenidade / Terminal - 1",
@@ -1328,13 +1314,6 @@
     "namePor": "R. 1º de Maio / Escola Luso-Chinesa Técnico-Profissional",
     "lat": 22.209609,
     "lng": 113.554125
-  },
-  {
-    "code": "M227",
-    "nameCht": "祐漢第二街",
-    "namePor": "Rua 2 Iao Hon",
-    "lat": 22.211525,
-    "lng": 113.550242
   },
   {
     "code": "M228",
