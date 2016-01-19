@@ -1,0 +1,12 @@
+MT1,0,07:00,10:00,12-16,weekdays
+MT1,0,10:00,15:00,20,weekdays
+MT1,0,15:00,20:00,12-16,weekdays
+MT1,0,20:00,22:30,20,weekdays
+MT1,0,07:00,10:00,12-16,weekends
+MT1,0,10:00,15:00,20,weekends
+MT1,0,15:00,20:00,12-16,weekends
+MT1,0,20:00,22:30,20,weekends
+MT1,0,07:00,10:00,12-16,holidays
+MT1,0,10:00,15:00,20,holidays
+MT1,0,15:00,20:00,12-16,holidays
+MT1,0,20:00,22:30,20,holidays

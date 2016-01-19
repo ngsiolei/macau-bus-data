@@ -1,0 +1,7 @@
+MT3,0,06:50,10:00,6-8,weekdays
+MT3,0,10:00,15:00,12,weekdays
+MT3,0,15:00,20:30,6-8,weekdays
+MT3,0,06:50,10:00,6-8,weekends
+MT3,0,10:00,15:00,12,weekends
+MT3,0,15:00,20:30,6-8,weekends
+MT3,0,06:50,20:30,12,holidays

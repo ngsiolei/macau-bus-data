@@ -1,0 +1,10 @@
+AP1,0,06:00,10:00,4-6,weekdays
+AP1,0,10:00,15:00,6-10,weekdays
+AP1,0,15:00,20:00,5-8,weekdays
+AP1,0,20:00,01:20,10-12,weekdays
+AP1,0,06:00,10:00,4-6,weekends
+AP1,0,10:00,15:00,6-10,weekends
+AP1,0,15:00,20:00,5-8,weekends
+AP1,0,20:00,01:20,10-12,weekends
+AP1,0,06:00,20:00,6-10,holidays
+AP1,0,20:00,01:20,12,holidays
