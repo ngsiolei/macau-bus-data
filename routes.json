@@ -9136,6 +9136,54 @@
             "lat": 22.118829,
             "lng": 113.569358,
             "seq": 32
+          },
+          {
+            "code": "C693",
+            "nameCht": "黑沙村-1",
+            "namePor": "Povoaçáo de Hác-Sá - 1",
+            "lat": 22.118026,
+            "lng": 113.56628,
+            "seq": 33
+          },
+          {
+            "code": "C681",
+            "nameCht": "黑沙水庫-1",
+            "namePor": "Barragem de Hác-Sá - 1",
+            "lat": 22.123827,
+            "lng": 113.570802,
+            "seq": 34
+          },
+          {
+            "code": "C671",
+            "nameCht": "鷺環海天酒店 - 1",
+            "namePor": "Grand Coloane Resort - 1",
+            "lat": 22.127105,
+            "lng": 113.576209,
+            "seq": 35
+          },
+          {
+            "code": "C695",
+            "nameCht": "九澳水庫郊野公園",
+            "namePor": "Parque de M. da Barragem de Ká-Hó",
+            "lat": 22.133902,
+            "lng": 113.578425,
+            "seq": 36
+          },
+          {
+            "code": "C673",
+            "nameCht": "九澳聖若瑟學校",
+            "namePor": "Escola de S. José de Ká-Hó",
+            "lat": 22.133868,
+            "lng": 113.581876,
+            "seq": 37
+          },
+          {
+            "code": "C674",
+            "nameCht": "九澳油庫",
+            "namePor": "T. de Combustíveis do P. de Ká-hó",
+            "lat": 22.133977,
+            "lng": 113.589776,
+            "seq": 38
           }
         ]
       },
@@ -9145,12 +9193,52 @@
         "namePor": "Praia de Hac Sá ⇀ Barra",
         "stops": [
           {
+            "code": "C674",
+            "nameCht": "九澳油庫",
+            "namePor": "T. de Combustíveis do P. de Ká-hó",
+            "lat": 22.133977,
+            "lng": 113.589776,
+            "seq": 1
+          },
+          {
+            "code": "C673",
+            "nameCht": "九澳聖若瑟學校",
+            "namePor": "Escola de S. José de Ká-Hó",
+            "lat": 22.133868,
+            "lng": 113.581876,
+            "seq": 2
+          },
+          {
+            "code": "C670",
+            "nameCht": "鷺環海天酒店 - 2",
+            "namePor": "Grand Coloane Resort - 2",
+            "lat": 22.12673,
+            "lng": 113.575865,
+            "seq": 3
+          },
+          {
+            "code": "C679",
+            "nameCht": "黑沙水庫-2",
+            "namePor": "Barragem de Hác-Sá - 2",
+            "lat": 22.123732,
+            "lng": 113.571202,
+            "seq": 4
+          },
+          {
+            "code": "C694",
+            "nameCht": "黑沙村-2",
+            "namePor": "Povoaçáo de Hác-Sá - 2",
+            "lat": 22.117512,
+            "lng": 113.566636,
+            "seq": 5
+          },
+          {
             "code": "C669",
             "nameCht": "黑沙海灘",
             "namePor": "Praia de Hac Sá",
             "lat": 22.118829,
             "lng": 113.569358,
-            "seq": 1
+            "seq": 6
           },
           {
             "code": "C658",
@@ -9158,7 +9246,7 @@
             "namePor": "Pousada de Juventude de Hác-Sá",
             "lat": 22.116481,
             "lng": 113.569608,
-            "seq": 2
+            "seq": 7
           },
           {
             "code": "C675",
@@ -9166,7 +9254,7 @@
             "namePor": "Vila Chok Wan Hou Un - 2",
             "lat": 22.113174,
             "lng": 113.566673,
-            "seq": 3
+            "seq": 8
           },
           {
             "code": "C668",
@@ -9174,7 +9262,7 @@
             "namePor": "Praia Cheoc Van - 2",
             "lat": 22.112812,
             "lng": 113.563374,
-            "seq": 4
+            "seq": 9
           },
           {
             "code": "C678",
@@ -9182,7 +9270,7 @@
             "namePor": "Cheoc Van / Picnic - 2",
             "lat": 22.113661,
             "lng": 113.562677,
-            "seq": 5
+            "seq": 10
           },
           {
             "code": "C665",
@@ -9190,7 +9278,7 @@
             "namePor": "Est. Cheoc Van - 2",
             "lat": 22.114158,
             "lng": 113.5602,
-            "seq": 6
+            "seq": 11
           },
           {
             "code": "C663",
@@ -9198,7 +9286,7 @@
             "namePor": "Est. Cheoc Van / Piscina - 2",
             "lat": 22.114574,
             "lng": 113.55796,
-            "seq": 7
+            "seq": 12
           },
           {
             "code": "C661",
@@ -9206,7 +9294,7 @@
             "namePor": "Cadeia de Coloane - 2",
             "lat": 22.118066,
             "lng": 113.555007,
-            "seq": 8
+            "seq": 13
           },
           {
             "code": "C659",
@@ -9214,7 +9302,7 @@
             "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
-            "seq": 9
+            "seq": 14
           },
           {
             "code": "C656",
@@ -9222,7 +9310,7 @@
             "namePor": "Est. do Campo / PSP - 2",
             "lat": 22.120534,
             "lng": 113.553447,
-            "seq": 10
+            "seq": 15
           },
           {
             "code": "C654",
@@ -9230,7 +9318,7 @@
             "namePor": "Rotunda da Concórdia",
             "lat": 22.124861,
             "lng": 113.554397,
-            "seq": 11
+            "seq": 16
           },
           {
             "code": "C653",
@@ -9238,7 +9326,7 @@
             "namePor": "One Oasis / Mahogany Tower",
             "lat": 22.12736,
             "lng": 113.558309,
-            "seq": 12
+            "seq": 17
           },
           {
             "code": "C683",
@@ -9246,7 +9334,7 @@
             "namePor": "Centro de Exm. de Condução dos Auto. Pesados",
             "lat": 22.130651,
             "lng": 113.558954,
-            "seq": 13
+            "seq": 18
           },
           {
             "code": "C651",
@@ -9254,7 +9342,7 @@
             "namePor": "Kartódromo de Coloane",
             "lat": 22.131476,
             "lng": 113.56114,
-            "seq": 14
+            "seq": 19
           },
           {
             "code": "T357_1",
@@ -9262,7 +9350,7 @@
             "namePor": "Posto Fronteiriço de Cotai",
             "lat": 22.139176,
             "lng": 113.55946,
-            "seq": 15
+            "seq": 20
           },
           {
             "code": "T360",
@@ -9270,7 +9358,7 @@
             "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 16
+            "seq": 21
           },
           {
             "code": "T376",
@@ -9278,7 +9366,7 @@
             "namePor": "Est. do Istmo / Venetian",
             "lat": 22.146645,
             "lng": 113.563538,
-            "seq": 17
+            "seq": 22
           },
           {
             "code": "T306",
@@ -9286,7 +9374,7 @@
             "namePor": "Est. Gov. Nobre Carvalho",
             "lat": 22.153306,
             "lng": 113.56306,
-            "seq": 18
+            "seq": 23
           },
           {
             "code": "T314",
@@ -9294,7 +9382,7 @@
             "namePor": "Largo Ouvidor Arriaga / Chun Iut",
             "lat": 22.156403,
             "lng": 113.55987,
-            "seq": 19
+            "seq": 24
           },
           {
             "code": "T311",
@@ -9302,7 +9390,7 @@
             "namePor": "Largo Ouvidor Arriaga",
             "lat": 22.157685,
             "lng": 113.559405,
-            "seq": 20
+            "seq": 25
           },
           {
             "code": "T312",
@@ -9310,7 +9398,7 @@
             "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
             "lat": 22.158837,
             "lng": 113.558309,
-            "seq": 21
+            "seq": 26
           },
           {
             "code": "T308",
@@ -9318,7 +9406,7 @@
             "namePor": "Av. Sun Yat Sen / CTM",
             "lat": 22.160903,
             "lng": 113.556368,
-            "seq": 22
+            "seq": 27
           },
           {
             "code": "T300",
@@ -9326,7 +9414,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 23
+            "seq": 28
           },
           {
             "code": "T330",
@@ -9334,7 +9422,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 24
+            "seq": 29
           },
           {
             "code": "M172",
@@ -9342,7 +9430,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 25
+            "seq": 30
           },
           {
             "code": "M171",
@@ -9350,7 +9438,7 @@
             "namePor": "Centro / Infante D. Henrique",
             "lat": 22.191589,
             "lng": 113.541545,
-            "seq": 26
+            "seq": 31
           },
           {
             "code": "M142",
@@ -9358,7 +9446,7 @@
             "namePor": "Kam Pek Community Centre",
             "lat": 22.195609,
             "lng": 113.537389,
-            "seq": 27
+            "seq": 32
           },
           {
             "code": "M136",
@@ -9366,7 +9454,7 @@
             "namePor": "Ponte Cais N.14",
             "lat": 22.195758,
             "lng": 113.536366,
-            "seq": 28
+            "seq": 33
           },
           {
             "code": "M139",
@@ -9374,7 +9462,7 @@
             "namePor": "Praça Ponte Horta",
             "lat": 22.193582,
             "lng": 113.535309,
-            "seq": 29
+            "seq": 34
           },
           {
             "code": "M184",
@@ -9382,7 +9470,7 @@
             "namePor": "Alm. Sérgio / Mercado",
             "lat": 22.191195,
             "lng": 113.533952,
-            "seq": 30
+            "seq": 35
           },
           {
             "code": "M188",
@@ -9390,7 +9478,7 @@
             "namePor": "Almirante Sérgio / Praia Manduco",
             "lat": 22.188679,
             "lng": 113.532229,
-            "seq": 31
+            "seq": 36
           },
           {
             "code": "M203",
@@ -9398,7 +9486,7 @@
             "namePor": "Templo Á Ma",
             "lat": 22.187032,
             "lng": 113.531091,
-            "seq": 32
+            "seq": 37
           },
           {
             "code": "M3",
@@ -9406,7 +9494,7 @@
             "namePor": "Barra / Terminal",
             "lat": 22.184697,
             "lng": 113.528953,
-            "seq": 33
+            "seq": 38
           }
         ]
       }
