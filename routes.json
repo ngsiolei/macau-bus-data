@@ -74,11 +74,11 @@
             "seq": 8
           },
           {
-            "code": "M115",
-            "nameCht": "土地廟前地",
-            "namePor": "Largo Pagode Patane",
-            "lat": 22.202928,
-            "lng": 113.539981,
+            "code": "M112",
+            "nameCht": "沙梨頭/華寶工業大廈",
+            "namePor": "Ribeira do Patane / Edf. Industrial Wa Pou",
+            "lat": 22.202624,
+            "lng": 113.538659,
             "seq": 9
           },
           {
@@ -161,28 +161,20 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M186",
+            "nameCht": "河邊新街/貨倉巷",
+            "namePor": "Alm. Sérgio / Trv. dos Armazéns",
+            "lat": 22.189991,
+            "lng": 113.533056,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
             "nameCht": "河邊新街/李道巷",
-            "namePor": "Alm. Sergio / Trav. Lido",
+            "namePor": "Alm. Sérgio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -190,15 +182,15 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M129",
@@ -206,7 +198,7 @@
             "namePor": "Mercado Patane",
             "lat": 22.20135,
             "lng": 113.537586,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M114",
@@ -214,7 +206,7 @@
             "namePor": "R. Ribeira Patane",
             "lat": 22.203049,
             "lng": 113.540063,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M113",
@@ -222,15 +214,7 @@
             "namePor": "Alm. Lacerda / Mercado Vermelho",
             "lat": 22.204657,
             "lng": 113.543385,
-            "seq": 9
-          },
-          {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 10
+            "seq": 8
           },
           {
             "code": "M19",
@@ -238,7 +222,7 @@
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 11
+            "seq": 9
           },
           {
             "code": "M10",
@@ -246,7 +230,7 @@
             "namePor": "Mercado Tamag. Barbosa",
             "lat": 22.210435,
             "lng": 113.546281,
-            "seq": 12
+            "seq": 10
           },
           {
             "code": "M8",
@@ -254,7 +238,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 13
+            "seq": 11
           },
           {
             "code": "M1",
@@ -262,7 +246,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 14
+            "seq": 12
           }
         ]
       }
@@ -703,28 +687,20 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
             "nameCht": "河邊新街/李道巷",
-            "namePor": "Alm. Sergio / Trav. Lido",
+            "namePor": "Alm. Sérgio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -732,7 +708,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -740,7 +716,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M167",
@@ -748,7 +724,7 @@
             "namePor": "Praia Grande / Si Toi",
             "lat": 22.192592,
             "lng": 113.541454,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M144",
@@ -756,7 +732,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M76",
@@ -764,7 +740,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M59",
@@ -772,7 +748,7 @@
             "namePor": "Cons. F. Almeida / Holland Garden",
             "lat": 22.201624,
             "lng": 113.549411,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M45",
@@ -780,7 +756,7 @@
             "namePor": "Cons. F. Almeida / Pak Wai",
             "lat": 22.202862,
             "lng": 113.550374,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M46",
@@ -788,7 +764,7 @@
             "namePor": "Cor. Mesquita / D. Bosco",
             "lat": 22.202556,
             "lng": 113.551729,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M54",
@@ -796,7 +772,7 @@
             "namePor": "CEM",
             "lat": 22.203879,
             "lng": 113.554352,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M49",
@@ -804,7 +780,7 @@
             "namePor": "Venceslau Morais / CEM",
             "lat": 22.205325,
             "lng": 113.554087,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M35",
@@ -812,7 +788,7 @@
             "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M28",
@@ -820,7 +796,7 @@
             "namePor": "Est. Areia Preta",
             "lat": 22.208122,
             "lng": 113.549751,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M228",
@@ -828,7 +804,7 @@
             "namePor": "Rua 2 Iao Hon",
             "lat": 22.210741,
             "lng": 113.550121,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M244",
@@ -836,7 +812,7 @@
             "namePor": "R. Direita do Hipódromo",
             "lat": 22.21232,
             "lng": 113.552069,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M216",
@@ -844,7 +820,7 @@
             "namePor": "Av. Leste Hipódromo",
             "lat": 22.211811,
             "lng": 113.553879,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M214",
@@ -852,7 +828,7 @@
             "namePor": "P. Serenidade / Terminal - 1",
             "lat": 22.212609,
             "lng": 113.553599,
-            "seq": 20
+            "seq": 19
           }
         ]
       }
@@ -1142,11 +1118,11 @@
             "seq": 6
           },
           {
-            "code": "M115",
-            "nameCht": "土地廟前地",
-            "namePor": "Largo Pagode Patane",
-            "lat": 22.202928,
-            "lng": 113.539981,
+            "code": "M112",
+            "nameCht": "沙梨頭/華寶工業大廈",
+            "namePor": "Ribeira do Patane / Edf. Industrial Wa Pou",
+            "lat": 22.202624,
+            "lng": 113.538659,
             "seq": 7
           },
           {
@@ -1318,8 +1294,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 9
@@ -1349,28 +1325,12 @@
             "seq": 12
           },
           {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
+            "code": "M14",
+            "nameCht": "蓮峰游泳池",
+            "namePor": "Piscina Lim Fung",
+            "lat": 22.20774,
+            "lng": 113.546018,
             "seq": 13
-          },
-          {
-            "code": "M19",
-            "nameCht": "白朗古將軍馬路",
-            "namePor": "Av. Gen. Castelo Branco",
-            "lat": 22.20943,
-            "lng": 113.544766,
-            "seq": 14
-          },
-          {
-            "code": "M10",
-            "nameCht": "台山街市",
-            "namePor": "Mercado Tamag. Barbosa",
-            "lat": 22.210435,
-            "lng": 113.546281,
-            "seq": 15
           },
           {
             "code": "M8",
@@ -1378,7 +1338,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 16
+            "seq": 14
           },
           {
             "code": "M1",
@@ -1386,7 +1346,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 17
+            "seq": 15
           }
         ]
       }
@@ -1853,19 +1813,27 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 13
           },
           {
-            "code": "M113",
-            "nameCht": "提督/紅街市",
-            "namePor": "Alm. Lacerda / Mercado Vermelho",
-            "lat": 22.204657,
-            "lng": 113.543385,
+            "code": "M128",
+            "nameCht": "林茂/澳門遊艇會",
+            "namePor": "Lam Mau / Clube Náutico de Macau",
+            "lat": 22.204518,
+            "lng": 113.539461,
             "seq": 14
+          },
+          {
+            "code": "M108",
+            "nameCht": "筷子基社屋",
+            "namePor": "Habitação Social do Fai Chi Kei",
+            "lat": 22.207383,
+            "lng": 113.540604,
+            "seq": 15
           },
           {
             "code": "M1",
@@ -1873,7 +1841,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 15
+            "seq": 16
           }
         ]
       }
@@ -1977,8 +1945,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 11
@@ -1992,44 +1960,12 @@
             "seq": 12
           },
           {
-            "code": "M114",
-            "nameCht": "沙梨頭海邊街",
-            "namePor": "R. Ribeira Patane",
-            "lat": 22.203049,
-            "lng": 113.540063,
+            "code": "M128",
+            "nameCht": "林茂/澳門遊艇會",
+            "namePor": "Lam Mau / Clube Náutico de Macau",
+            "lat": 22.204518,
+            "lng": 113.539461,
             "seq": 13
-          },
-          {
-            "code": "M113",
-            "nameCht": "提督/紅街市",
-            "namePor": "Alm. Lacerda / Mercado Vermelho",
-            "lat": 22.204657,
-            "lng": 113.543385,
-            "seq": 14
-          },
-          {
-            "code": "M14",
-            "nameCht": "蓮峰游泳池",
-            "namePor": "Piscina Lim Fung",
-            "lat": 22.20774,
-            "lng": 113.546018,
-            "seq": 15
-          },
-          {
-            "code": "M12",
-            "nameCht": "第二警司處",
-            "namePor": "Comissariado Noº2 da PSP",
-            "lat": 22.210369,
-            "lng": 113.546133,
-            "seq": 16
-          },
-          {
-            "code": "M31",
-            "nameCht": "白朗古/跑狗場",
-            "namePor": "Gen. C. Branco / Canídromo",
-            "lat": 22.209492,
-            "lng": 113.544938,
-            "seq": 17
           },
           {
             "code": "M26",
@@ -2037,7 +1973,7 @@
             "namePor": "Fai Chi Kei / Terminal",
             "lat": 22.20903,
             "lng": 113.543306,
-            "seq": 18
+            "seq": 14
           }
         ]
       }
@@ -2227,20 +2163,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -2248,7 +2176,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -2256,7 +2184,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -2264,7 +2192,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M167",
@@ -2272,7 +2200,7 @@
             "namePor": "Praia Grande / Si Toi",
             "lat": 22.192592,
             "lng": 113.541454,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M144",
@@ -2280,7 +2208,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M76",
@@ -2288,7 +2216,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M84",
@@ -2296,7 +2224,7 @@
             "namePor": "Horta e Costa / Esc. Pui Ching",
             "lat": 22.201497,
             "lng": 113.54851,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M91",
@@ -2304,7 +2232,7 @@
             "namePor": "Horta e Costa / Rua Manuel Arriaga",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M14",
@@ -2312,7 +2240,7 @@
             "namePor": "Piscina Lim Fung",
             "lat": 22.20774,
             "lng": 113.546018,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M8",
@@ -2320,7 +2248,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M1",
@@ -2328,7 +2256,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 14
+            "seq": 13
           }
         ]
       }
@@ -2684,8 +2612,8 @@
           },
           {
             "code": "M145",
-            "nameCht": "東望洋新街",
-            "namePor": "R. Nova À Guia",
+            "nameCht": "愕斜巷/山頂醫院",
+            "namePor": "Calçada da Surpresa / Hospital S. Januário",
             "lat": 22.194625,
             "lng": 113.545937,
             "seq": 21
@@ -2732,8 +2660,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 27
@@ -3016,8 +2944,8 @@
           },
           {
             "code": "M145",
-            "nameCht": "東望洋新街",
-            "namePor": "R. Nova À Guia",
+            "nameCht": "愕斜巷/山頂醫院",
+            "namePor": "Calçada da Surpresa / Hospital S. Januário",
             "lat": 22.194625,
             "lng": 113.545937,
             "seq": 16
@@ -3071,20 +2999,12 @@
             "seq": 22
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
-            "seq": 23
-          },
-          {
             "code": "M185",
             "nameCht": "凱泉灣",
             "namePor": "Riviera Macau",
             "lat": 22.190865,
             "lng": 113.533086,
-            "seq": 24
+            "seq": 23
           }
         ]
       }
@@ -3298,20 +3218,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -3319,7 +3231,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -3327,7 +3239,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -3335,7 +3247,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M167",
@@ -3343,7 +3255,7 @@
             "namePor": "Praia Grande / Si Toi",
             "lat": 22.192592,
             "lng": 113.541454,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M144",
@@ -3351,7 +3263,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M238",
@@ -3359,7 +3271,7 @@
             "namePor": "Estrada do Cemitério",
             "lat": 22.197819,
             "lng": 113.546166,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M237",
@@ -3367,7 +3279,7 @@
             "namePor": "Instituto de Acção Social",
             "lat": 22.198036,
             "lng": 113.544548,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M245",
@@ -3375,7 +3287,7 @@
             "namePor": "Hospital Kiang Wu",
             "lat": 22.199081,
             "lng": 113.543392,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M87",
@@ -3383,7 +3295,7 @@
             "namePor": "Est. Coelho Amaral",
             "lat": 22.201305,
             "lng": 113.54461,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M96",
@@ -3391,7 +3303,7 @@
             "namePor": "Est. C. Amaral / Horta e Costa",
             "lat": 22.203947,
             "lng": 113.545289,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M106",
@@ -3399,23 +3311,15 @@
             "namePor": "Ouvidor Arriaga / Esc. S. C. Jesus",
             "lat": 22.205369,
             "lng": 113.546004,
+            "seq": 13
+          },
+          {
+            "code": "M274",
+            "nameCht": "筷子基衛生中心",
+            "namePor": "Centro de Saúde Fai Chi Kei",
+            "lat": 22.207954,
+            "lng": 113.544843,
             "seq": 14
-          },
-          {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 15
-          },
-          {
-            "code": "M19",
-            "nameCht": "白朗古將軍馬路",
-            "namePor": "Av. Gen. Castelo Branco",
-            "lat": 22.20943,
-            "lng": 113.544766,
-            "seq": 16
           },
           {
             "code": "M10",
@@ -3423,7 +3327,7 @@
             "namePor": "Mercado Tamag. Barbosa",
             "lat": 22.210435,
             "lng": 113.546281,
-            "seq": 17
+            "seq": 15
           },
           {
             "code": "M27",
@@ -3431,7 +3335,7 @@
             "namePor": "Istmo F. Amaral / Jardim",
             "lat": 22.210505,
             "lng": 113.548611,
-            "seq": 18
+            "seq": 16
           },
           {
             "code": "M228",
@@ -3439,7 +3343,7 @@
             "namePor": "Rua 2 Iao Hon",
             "lat": 22.210741,
             "lng": 113.550121,
-            "seq": 19
+            "seq": 17
           }
         ]
       }
@@ -3645,20 +3549,12 @@
             "seq": 9
           },
           {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
+            "code": "M274",
+            "nameCht": "筷子基衛生中心",
+            "namePor": "Centro de Saúde Fai Chi Kei",
+            "lat": 22.207954,
+            "lng": 113.544843,
             "seq": 10
-          },
-          {
-            "code": "M19",
-            "nameCht": "白朗古將軍馬路",
-            "namePor": "Av. Gen. Castelo Branco",
-            "lat": 22.20943,
-            "lng": 113.544766,
-            "seq": 11
           },
           {
             "code": "M10",
@@ -3666,6 +3562,14 @@
             "namePor": "Mercado Tamag. Barbosa",
             "lat": 22.210435,
             "lng": 113.546281,
+            "seq": 11
+          },
+          {
+            "code": "M27",
+            "nameCht": "關閘馬路/三角花園",
+            "namePor": "Istmo F. Amaral / Jardim",
+            "lat": 22.210505,
+            "lng": 113.548611,
             "seq": 12
           },
           {
@@ -4269,8 +4173,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 19
@@ -4568,28 +4472,12 @@
             "seq": 18
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
-            "seq": 19
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 20
-          },
-          {
             "code": "M189",
             "nameCht": "下環街市",
             "namePor": "Mercado de S. Lourenço",
             "lat": 22.191046,
             "lng": 113.534799,
-            "seq": 21
+            "seq": 19
           },
           {
             "code": "M180",
@@ -4597,7 +4485,7 @@
             "namePor": "Rua S. Lourenço",
             "lat": 22.190395,
             "lng": 113.536547,
-            "seq": 22
+            "seq": 20
           },
           {
             "code": "M166",
@@ -4605,7 +4493,7 @@
             "namePor": "Rua da Penha",
             "lat": 22.188777,
             "lng": 113.535735,
-            "seq": 23
+            "seq": 21
           },
           {
             "code": "M175",
@@ -4613,15 +4501,7 @@
             "namePor": "Pousada Ritz",
             "lat": 22.186366,
             "lng": 113.536334,
-            "seq": 24
-          },
-          {
-            "code": "M176",
-            "nameCht": "衣灣斜巷",
-            "namePor": "Calçada da Praia",
-            "lat": 22.185611,
-            "lng": 113.534451,
-            "seq": 25
+            "seq": 22
           },
           {
             "code": "M192",
@@ -4629,7 +4509,7 @@
             "namePor": "Av. República",
             "lat": 22.18586,
             "lng": 113.536108,
-            "seq": 26
+            "seq": 23
           },
           {
             "code": "M181",
@@ -4637,7 +4517,7 @@
             "namePor": "Chunambeiro",
             "lat": 22.188531,
             "lng": 113.5377,
-            "seq": 27
+            "seq": 24
           },
           {
             "code": "M179",
@@ -4645,7 +4525,7 @@
             "namePor": "S. Agostinho",
             "lat": 22.190714,
             "lng": 113.538947,
-            "seq": 28
+            "seq": 25
           },
           {
             "code": "M68",
@@ -4653,7 +4533,7 @@
             "namePor": "Av. Lisboa",
             "lat": 22.190121,
             "lng": 113.543517,
-            "seq": 29
+            "seq": 26
           },
           {
             "code": "M169",
@@ -4661,7 +4541,7 @@
             "namePor": "Direcção Serviços Educação Juventude",
             "lat": 22.191863,
             "lng": 113.543987,
-            "seq": 30
+            "seq": 27
           },
           {
             "code": "M144",
@@ -4669,7 +4549,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 31
+            "seq": 28
           },
           {
             "code": "M76",
@@ -4677,7 +4557,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 32
+            "seq": 29
           },
           {
             "code": "M84",
@@ -4685,7 +4565,7 @@
             "namePor": "Horta e Costa / Esc. Pui Ching",
             "lat": 22.201497,
             "lng": 113.54851,
-            "seq": 33
+            "seq": 30
           },
           {
             "code": "M91",
@@ -4693,15 +4573,7 @@
             "namePor": "Horta e Costa / Rua Manuel Arriaga",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 34
-          },
-          {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 35
+            "seq": 31
           },
           {
             "code": "M19",
@@ -4709,7 +4581,7 @@
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 36
+            "seq": 32
           },
           {
             "code": "M10",
@@ -4717,7 +4589,7 @@
             "namePor": "Mercado Tamag. Barbosa",
             "lat": 22.210435,
             "lng": 113.546281,
-            "seq": 37
+            "seq": 33
           },
           {
             "code": "M8",
@@ -4725,7 +4597,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 38
+            "seq": 34
           },
           {
             "code": "M1",
@@ -4733,7 +4605,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 39
+            "seq": 35
           }
         ]
       }
@@ -4955,20 +4827,12 @@
             "seq": 9
           },
           {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 10
-          },
-          {
             "code": "M19",
             "nameCht": "白朗古將軍馬路",
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M10",
@@ -4976,7 +4840,7 @@
             "namePor": "Mercado Tamag. Barbosa",
             "lat": 22.210435,
             "lng": 113.546281,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M8",
@@ -4984,7 +4848,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M1",
@@ -4992,7 +4856,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 14
+            "seq": 13
           }
         ]
       }
@@ -5214,20 +5078,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -5235,7 +5091,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -5243,7 +5099,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -5251,7 +5107,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M170",
@@ -5259,7 +5115,7 @@
             "namePor": "Av. Infante D. Henrique",
             "lat": 22.191582,
             "lng": 113.541707,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M172",
@@ -5267,7 +5123,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M69",
@@ -5275,7 +5131,7 @@
             "namePor": "Hotel Lisboa",
             "lat": 22.18927,
             "lng": 113.544951,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M160",
@@ -5283,7 +5139,7 @@
             "namePor": "Praceta 1 de Outubro",
             "lat": 22.190947,
             "lng": 113.546218,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M158",
@@ -5291,7 +5147,7 @@
             "namePor": "Rua de Pequim / Holiday Inn",
             "lat": 22.191745,
             "lng": 113.547744,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M161",
@@ -5299,7 +5155,7 @@
             "namePor": "Gonzaga Gomes / Jardim C. Ho Yin",
             "lat": 22.192648,
             "lng": 113.550116,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M70",
@@ -5307,7 +5163,7 @@
             "namePor": "Instituto Politécnico",
             "lat": 22.193444,
             "lng": 113.552025,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M118",
@@ -5315,7 +5171,7 @@
             "namePor": "Gonzaga Gomes / Auto-Silo da Rua de Malaca",
             "lat": 22.195763,
             "lng": 113.553821,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M53",
@@ -5323,7 +5179,7 @@
             "namePor": "R Bend / DSAL",
             "lat": 22.204693,
             "lng": 113.559912,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M49",
@@ -5331,7 +5187,7 @@
             "namePor": "Venceslau Morais / CEM",
             "lat": 22.205325,
             "lng": 113.554087,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M35",
@@ -5339,7 +5195,7 @@
             "namePor": "Venc. Morais / Mong-Há",
             "lat": 22.207005,
             "lng": 113.552061,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M28",
@@ -5347,7 +5203,7 @@
             "namePor": "Est. Areia Preta",
             "lat": 22.208122,
             "lng": 113.549751,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M11",
@@ -5355,7 +5211,7 @@
             "namePor": "Est. Arco / Templo Lin Fung",
             "lat": 22.210161,
             "lng": 113.548326,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M8",
@@ -5363,7 +5219,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M1",
@@ -5371,7 +5227,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 21
+            "seq": 20
           }
         ]
       }
@@ -5545,20 +5401,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -5566,7 +5414,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -5574,7 +5422,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -5582,7 +5430,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M170",
@@ -5590,7 +5438,7 @@
             "namePor": "Av. Infante D. Henrique",
             "lat": 22.191582,
             "lng": 113.541707,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M172",
@@ -5598,7 +5446,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M69",
@@ -5606,7 +5454,7 @@
             "namePor": "Hotel Lisboa",
             "lat": 22.18927,
             "lng": 113.544951,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M160",
@@ -5614,7 +5462,7 @@
             "namePor": "Praceta 1 de Outubro",
             "lat": 22.190947,
             "lng": 113.546218,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M158",
@@ -5622,7 +5470,7 @@
             "namePor": "Rua de Pequim / Holiday Inn",
             "lat": 22.191745,
             "lng": 113.547744,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M253",
@@ -5630,7 +5478,7 @@
             "namePor": "Al. Dr. C. D'Assumpção",
             "lat": 22.189107,
             "lng": 113.551073,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M258",
@@ -5638,7 +5486,7 @@
             "namePor": "Centro Ecuménico Kun Iam",
             "lat": 22.187082,
             "lng": 113.551966,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M256",
@@ -5646,7 +5494,7 @@
             "namePor": "Centro Cultural de Macau",
             "lat": 22.187734,
             "lng": 113.554294,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M259",
@@ -5654,7 +5502,7 @@
             "namePor": "Av. Dr. Sun Yat-Sen / Sands",
             "lat": 22.190054,
             "lng": 113.55573,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M255",
@@ -5662,7 +5510,7 @@
             "namePor": "Rua de Malaca",
             "lat": 22.195556,
             "lng": 113.554515,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M239",
@@ -5670,7 +5518,7 @@
             "namePor": "Terminal Marítimo",
             "lat": 22.198089,
             "lng": 113.559575,
-            "seq": 17
+            "seq": 16
           }
         ]
       }
@@ -6165,20 +6013,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M186",
+            "nameCht": "河邊新街/貨倉巷",
+            "namePor": "Alm. Sérgio / Trv. dos Armazéns",
+            "lat": 22.189991,
+            "lng": 113.533056,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -6186,7 +6026,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -6194,7 +6034,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -6202,7 +6042,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M170",
@@ -6210,7 +6050,7 @@
             "namePor": "Av. Infante D. Henrique",
             "lat": 22.191582,
             "lng": 113.541707,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M172",
@@ -6218,7 +6058,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "T330",
@@ -6226,7 +6066,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "T405",
@@ -6234,7 +6074,7 @@
             "namePor": "Ocean Club",
             "lat": 22.163842,
             "lng": 113.545474,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "T335",
@@ -6242,7 +6082,7 @@
             "namePor": "Plaza Oceano",
             "lat": 22.160968,
             "lng": 113.543866,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "T338",
@@ -6250,7 +6090,7 @@
             "namePor": "Centro de Saúde dos Jardins do Oceano",
             "lat": 22.158411,
             "lng": 113.54228,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "T332",
@@ -6258,7 +6098,7 @@
             "namePor": "Edf. Nam Sun",
             "lat": 22.157426,
             "lng": 113.54956,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "T340",
@@ -6266,7 +6106,7 @@
             "namePor": "Rua de Aveiro",
             "lat": 22.157519,
             "lng": 113.553424,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "T351",
@@ -6274,7 +6114,7 @@
             "namePor": "Rua Bragança",
             "lat": 22.15872,
             "lng": 113.552628,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "T353",
@@ -6282,7 +6122,7 @@
             "namePor": "Av. Kwong Tung / R. Seng Tou",
             "lat": 22.159632,
             "lng": 113.552577,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "T346",
@@ -6290,7 +6130,7 @@
             "namePor": "Av. Kwong Tung / Edf. Hung Fat",
             "lat": 22.161867,
             "lng": 113.554575,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "T304",
@@ -6298,7 +6138,7 @@
             "namePor": "Av. Dr. Sun Yat Sen / R. Lagos",
             "lat": 22.160685,
             "lng": 113.556702,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "T309",
@@ -6306,7 +6146,7 @@
             "namePor": "Av. Sun Yat Sen / Edf. Chun Luen",
             "lat": 22.159096,
             "lng": 113.558219,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "T310",
@@ -6314,7 +6154,7 @@
             "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
             "lat": 22.157756,
             "lng": 113.559475,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "T318",
@@ -6322,7 +6162,7 @@
             "namePor": "Fernão M. Pinto / Chun Iut Garden",
             "lat": 22.156261,
             "lng": 113.559495,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "T319",
@@ -6330,7 +6170,7 @@
             "namePor": "Piscinas do Carmo",
             "lat": 22.154966,
             "lng": 113.559214,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "T320",
@@ -6338,7 +6178,7 @@
             "namePor": "Rua do Cunha",
             "lat": 22.153048,
             "lng": 113.55714,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "T321",
@@ -6346,7 +6186,7 @@
             "namePor": "Largo Tamag. Barbosa",
             "lat": 22.152125,
             "lng": 113.555283,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "T323",
@@ -6354,7 +6194,7 @@
             "namePor": "Ponte Negra / R. do Regedor",
             "lat": 22.154494,
             "lng": 113.556217,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "T324",
@@ -6362,7 +6202,7 @@
             "namePor": "Estádio de Macau",
             "lat": 22.155454,
             "lng": 113.554995,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "T325",
@@ -6370,7 +6210,7 @@
             "namePor": "Av. Olímpica / Edf. Va Pou",
             "lat": 22.155558,
             "lng": 113.555084,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "T339",
@@ -6378,7 +6218,7 @@
             "namePor": "Jardim Cidade das Flores",
             "lat": 22.155853,
             "lng": 113.55679,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "T317",
@@ -6386,7 +6226,7 @@
             "namePor": "Kings Ville",
             "lat": 22.156772,
             "lng": 113.559377,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "T408",
@@ -6394,7 +6234,7 @@
             "namePor": "Edifício do Lago",
             "lat": 22.158409,
             "lng": 113.561635,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "T341",
@@ -6402,7 +6242,7 @@
             "namePor": "Colégio Anglicano",
             "lat": 22.161866,
             "lng": 113.559533,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "T303",
@@ -6410,7 +6250,7 @@
             "namePor": "UM Colina da Taipa",
             "lat": 22.163493,
             "lng": 113.559334,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "T305",
@@ -6418,7 +6258,7 @@
             "namePor": "Universidade da Cidade",
             "lat": 22.163836,
             "lng": 113.556374,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "T307",
@@ -6426,7 +6266,7 @@
             "namePor": "Rotunda Dr. Carlos A. C. P. D'Assumpção",
             "lat": 22.162567,
             "lng": 113.554995,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "T300",
@@ -6434,7 +6274,7 @@
             "namePor": "Esparteiro / Lou Lim Ieok",
             "lat": 22.162646,
             "lng": 113.552805,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "T330",
@@ -6442,7 +6282,7 @@
             "namePor": "Rotunda Leonel Sousa",
             "lat": 22.164073,
             "lng": 113.548627,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M172",
@@ -6450,7 +6290,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M171",
@@ -6458,7 +6298,7 @@
             "namePor": "Centro / Infante D. Henrique",
             "lat": 22.191589,
             "lng": 113.541545,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M142",
@@ -6466,7 +6306,7 @@
             "namePor": "Kam Pek Community Centre",
             "lat": 22.195609,
             "lng": 113.537389,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M136",
@@ -6474,7 +6314,7 @@
             "namePor": "Ponte Cais N.14",
             "lat": 22.195758,
             "lng": 113.536366,
-            "seq": 40
+            "seq": 39
           },
           {
             "code": "M139",
@@ -6482,7 +6322,7 @@
             "namePor": "Praça Ponte Horta",
             "lat": 22.193582,
             "lng": 113.535309,
-            "seq": 41
+            "seq": 40
           },
           {
             "code": "M184",
@@ -6490,7 +6330,7 @@
             "namePor": "Alm. Sérgio / Mercado",
             "lat": 22.191195,
             "lng": 113.533952,
-            "seq": 42
+            "seq": 41
           },
           {
             "code": "M188",
@@ -6498,7 +6338,7 @@
             "namePor": "Almirante Sérgio / Praia Manduco",
             "lat": 22.188679,
             "lng": 113.532229,
-            "seq": 43
+            "seq": 42
           },
           {
             "code": "M203",
@@ -6506,7 +6346,7 @@
             "namePor": "Templo Á Ma",
             "lat": 22.187032,
             "lng": 113.531091,
-            "seq": 44
+            "seq": 43
           },
           {
             "code": "M3",
@@ -6514,7 +6354,7 @@
             "namePor": "Barra / Terminal",
             "lat": 22.184697,
             "lng": 113.528953,
-            "seq": 45
+            "seq": 44
           }
         ]
       }
@@ -7503,11 +7343,11 @@
             "seq": 6
           },
           {
-            "code": "M115",
-            "nameCht": "土地廟前地",
-            "namePor": "Largo Pagode Patane",
-            "lat": 22.202928,
-            "lng": 113.539981,
+            "code": "M112",
+            "nameCht": "沙梨頭/華寶工業大廈",
+            "namePor": "Ribeira do Patane / Edf. Industrial Wa Pou",
+            "lat": 22.202624,
+            "lng": 113.538659,
             "seq": 7
           },
           {
@@ -7575,20 +7415,12 @@
             "seq": 15
           },
           {
-            "code": "M176",
-            "nameCht": "衣灣斜巷",
-            "namePor": "Calçada da Praia",
-            "lat": 22.185611,
-            "lng": 113.534451,
-            "seq": 16
-          },
-          {
             "code": "M192",
             "nameCht": "民國馬路",
             "namePor": "Av. República",
             "lat": 22.18586,
             "lng": 113.536108,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M181",
@@ -7596,7 +7428,7 @@
             "namePor": "Chunambeiro",
             "lat": 22.188531,
             "lng": 113.5377,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M179",
@@ -7604,7 +7436,7 @@
             "namePor": "S. Agostinho",
             "lat": 22.190714,
             "lng": 113.538947,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M167",
@@ -7612,7 +7444,7 @@
             "namePor": "Praia Grande / Si Toi",
             "lat": 22.192592,
             "lng": 113.541454,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M144",
@@ -7620,7 +7452,7 @@
             "namePor": "Rua do Campo",
             "lat": 22.193837,
             "lng": 113.543446,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M76",
@@ -7628,7 +7460,7 @@
             "namePor": "Jardim Lou Lim Ioc",
             "lat": 22.200179,
             "lng": 113.548287,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M59",
@@ -7636,7 +7468,7 @@
             "namePor": "Cons. F. Almeida / Holland Garden",
             "lat": 22.201624,
             "lng": 113.549411,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "M97",
@@ -7644,7 +7476,7 @@
             "namePor": "Ouvidor Arriaga / Xavier Pereira",
             "lat": 22.203664,
             "lng": 113.548044,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M106",
@@ -7652,23 +7484,15 @@
             "namePor": "Ouvidor Arriaga / Esc. S. C. Jesus",
             "lat": 22.205369,
             "lng": 113.546004,
+            "seq": 24
+          },
+          {
+            "code": "M274",
+            "nameCht": "筷子基衛生中心",
+            "namePor": "Centro de Saúde Fai Chi Kei",
+            "lat": 22.207954,
+            "lng": 113.544843,
             "seq": 25
-          },
-          {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 26
-          },
-          {
-            "code": "M19",
-            "nameCht": "白朗古將軍馬路",
-            "namePor": "Av. Gen. Castelo Branco",
-            "lat": 22.20943,
-            "lng": 113.544766,
-            "seq": 27
           },
           {
             "code": "M4",
@@ -7676,7 +7500,7 @@
             "namePor": "R. Marginal do Canal das Hortas / Terminal",
             "lat": 22.213657,
             "lng": 113.544863,
-            "seq": 28
+            "seq": 26
           }
         ]
       }
@@ -7788,8 +7612,8 @@
           },
           {
             "code": "M145",
-            "nameCht": "東望洋新街",
-            "namePor": "R. Nova À Guia",
+            "nameCht": "愕斜巷/山頂醫院",
+            "namePor": "Calçada da Surpresa / Hospital S. Januário",
             "lat": 22.194625,
             "lng": 113.545937,
             "seq": 12
@@ -8198,20 +8022,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -8219,7 +8035,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -8227,7 +8043,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -8235,7 +8051,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M141",
@@ -8243,7 +8059,7 @@
             "namePor": "Rua dos Mercadores",
             "lat": 22.195029,
             "lng": 113.539904,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M133",
@@ -8251,7 +8067,7 @@
             "namePor": "Rua das Estalagens",
             "lat": 22.196312,
             "lng": 113.539116,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M131",
@@ -8259,7 +8075,7 @@
             "namePor": "R. Cinco Outubro",
             "lat": 22.197987,
             "lng": 113.537796,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M201",
@@ -8267,7 +8083,7 @@
             "namePor": "Praça Luís Camões",
             "lat": 22.199188,
             "lng": 113.539443,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M121",
@@ -8275,7 +8091,7 @@
             "namePor": "Est. C. Amaral / Kiang Wu",
             "lat": 22.199688,
             "lng": 113.542371,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M87",
@@ -8283,7 +8099,7 @@
             "namePor": "Est. Coelho Amaral",
             "lat": 22.201305,
             "lng": 113.54461,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M86",
@@ -8291,7 +8107,7 @@
             "namePor": "R. Barca / R. Xavier Pereira",
             "lat": 22.201717,
             "lng": 113.545597,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M92",
@@ -8299,7 +8115,7 @@
             "namePor": "Xavier Pereira / Horta e Costa",
             "lat": 22.203206,
             "lng": 113.547304,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M104",
@@ -8307,7 +8123,7 @@
             "namePor": "Templo Kun Iam",
             "lat": 22.20419,
             "lng": 113.549761,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M46",
@@ -8315,7 +8131,7 @@
             "namePor": "Cor. Mesquita / D. Bosco",
             "lat": 22.202556,
             "lng": 113.551729,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M54",
@@ -8323,7 +8139,7 @@
             "namePor": "CEM",
             "lat": 22.203879,
             "lng": 113.554352,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M49",
@@ -8331,7 +8147,7 @@
             "namePor": "Venceslau Morais / CEM",
             "lat": 22.205325,
             "lng": 113.554087,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M234",
@@ -8339,7 +8155,7 @@
             "namePor": "Av. Nordeste / Hoi Pan Garden",
             "lat": 22.206872,
             "lng": 113.555225,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M206",
@@ -8347,7 +8163,7 @@
             "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
             "lat": 22.208448,
             "lng": 113.554416,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M246",
@@ -8355,7 +8171,7 @@
             "namePor": "R. Mercado Iao Hon",
             "lat": 22.210837,
             "lng": 113.55114,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M223",
@@ -8363,7 +8179,7 @@
             "namePor": "Av. Longevidade",
             "lat": 22.212786,
             "lng": 113.551127,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M225",
@@ -8371,7 +8187,7 @@
             "namePor": "R. da Tribuna / Est. dos Cavaleiros",
             "lat": 22.213254,
             "lng": 113.549406,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "M8",
@@ -8379,7 +8195,7 @@
             "namePor": "Av. Artur de Tamagnini Barbosa",
             "lat": 22.212546,
             "lng": 113.547594,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M1",
@@ -8387,7 +8203,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 25
+            "seq": 24
           }
         ]
       }
@@ -8499,8 +8315,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 12
@@ -8751,8 +8567,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 17
@@ -8890,20 +8706,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M186",
+            "nameCht": "河邊新街/貨倉巷",
+            "namePor": "Alm. Sérgio / Trv. dos Armazéns",
+            "lat": 22.189991,
+            "lng": 113.533056,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -8911,7 +8719,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -8919,7 +8727,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -8927,7 +8735,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M170",
@@ -8935,7 +8743,7 @@
             "namePor": "Av. Infante D. Henrique",
             "lat": 22.191582,
             "lng": 113.541707,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M172",
@@ -8943,7 +8751,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "T403",
@@ -8951,7 +8759,7 @@
             "namePor": "Esparteiro / Regency",
             "lat": 22.162727,
             "lng": 113.553933,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "T402",
@@ -8959,7 +8767,7 @@
             "namePor": "Chun Lai Garden",
             "lat": 22.161382,
             "lng": 113.556044,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "T309",
@@ -8967,7 +8775,7 @@
             "namePor": "Av. Sun Yat Sen / Edf. Chun Luen",
             "lat": 22.159096,
             "lng": 113.558219,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "T310",
@@ -8975,7 +8783,7 @@
             "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
             "lat": 22.157756,
             "lng": 113.559475,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "T313",
@@ -8983,7 +8791,7 @@
             "namePor": "Edf. Greenville",
             "lat": 22.156048,
             "lng": 113.559907,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "T315",
@@ -8991,7 +8799,7 @@
             "namePor": "Nobre Carvalho / Armazem CEM",
             "lat": 22.154648,
             "lng": 113.561446,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "T375",
@@ -8999,7 +8807,7 @@
             "namePor": "Est. do Istmo / COD",
             "lat": 22.149708,
             "lng": 113.563999,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "T379",
@@ -9007,7 +8815,7 @@
             "namePor": "Est. do Istmo / Sands Cotai Central",
             "lat": 22.144793,
             "lng": 113.563755,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "T359",
@@ -9015,7 +8823,7 @@
             "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "T357_1",
@@ -9023,7 +8831,7 @@
             "namePor": "Posto Fronteiriço de Cotai",
             "lat": 22.139176,
             "lng": 113.55946,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "C650",
@@ -9031,7 +8839,7 @@
             "namePor": "Est. Seak Pai Van",
             "lat": 22.131346,
             "lng": 113.561597,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "C682",
@@ -9039,7 +8847,7 @@
             "namePor": "Rotunda da Harmonia",
             "lat": 22.130744,
             "lng": 113.55917,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "C652",
@@ -9047,7 +8855,7 @@
             "namePor": "Edifício On Son",
             "lat": 22.128168,
             "lng": 113.558708,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "C655",
@@ -9055,7 +8863,7 @@
             "namePor": "Parque de Seac Pai Van",
             "lat": 22.125579,
             "lng": 113.555536,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "C657",
@@ -9063,7 +8871,7 @@
             "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "C660",
@@ -9071,7 +8879,7 @@
             "namePor": "Vila de Coloane - 1",
             "lat": 22.117925,
             "lng": 113.552292,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "C662",
@@ -9079,7 +8887,7 @@
             "namePor": "Cadeia de Coloane - 1",
             "lat": 22.118131,
             "lng": 113.554977,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "C664",
@@ -9087,7 +8895,7 @@
             "namePor": "Est. Cheoc Van / Piscina - 1",
             "lat": 22.114778,
             "lng": 113.557804,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "C666",
@@ -9095,7 +8903,7 @@
             "namePor": "Est. Cheoc Van - 1",
             "lat": 22.114099,
             "lng": 113.559978,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "C677",
@@ -9103,7 +8911,7 @@
             "namePor": "Cheoc Van / Picnic - 1",
             "lat": 22.114453,
             "lng": 113.562483,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "C667",
@@ -9111,7 +8919,7 @@
             "namePor": "Praia Cheoc Van - 1",
             "lat": 22.11312,
             "lng": 113.563827,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "C676",
@@ -9119,7 +8927,7 @@
             "namePor": "Vila Chok Wan Hou Un - 1",
             "lat": 22.113318,
             "lng": 113.566251,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "C680",
@@ -9127,7 +8935,7 @@
             "namePor": "Hác-Sá / Hellene Garden",
             "lat": 22.116486,
             "lng": 113.569519,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "C669",
@@ -9135,7 +8943,7 @@
             "namePor": "Praia de Hac Sá",
             "lat": 22.118829,
             "lng": 113.569358,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "C693",
@@ -9143,7 +8951,7 @@
             "namePor": "Povoaçáo de Hác-Sá - 1",
             "lat": 22.118026,
             "lng": 113.56628,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "C681",
@@ -9151,7 +8959,7 @@
             "namePor": "Barragem de Hác-Sá - 1",
             "lat": 22.123827,
             "lng": 113.570802,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "C671",
@@ -9159,7 +8967,7 @@
             "namePor": "Grand Coloane Resort - 1",
             "lat": 22.127105,
             "lng": 113.576209,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "C695",
@@ -9167,7 +8975,7 @@
             "namePor": "Parque de M. da Barragem de Ká-Hó",
             "lat": 22.133902,
             "lng": 113.578425,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "C673",
@@ -9175,7 +8983,7 @@
             "namePor": "Escola de S. José de Ká-Hó",
             "lat": 22.133868,
             "lng": 113.581876,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "C674",
@@ -9183,7 +8991,7 @@
             "namePor": "T. de Combustíveis do P. de Ká-hó",
             "lat": 22.133977,
             "lng": 113.589776,
-            "seq": 38
+            "seq": 37
           }
         ]
       },
@@ -11304,20 +11112,12 @@
             "seq": 50
           },
           {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 51
-          },
-          {
             "code": "M19",
             "nameCht": "白朗古將軍馬路",
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 52
+            "seq": 51
           },
           {
             "code": "M4",
@@ -11325,7 +11125,7 @@
             "namePor": "R. Marginal do Canal das Hortas / Terminal",
             "lat": 22.213657,
             "lng": 113.544863,
-            "seq": 53
+            "seq": 52
           },
           {
             "code": "M1",
@@ -11333,7 +11133,7 @@
             "namePor": "Portas do Cerco / Terminal",
             "lat": 22.214503,
             "lng": 113.548907,
-            "seq": 54
+            "seq": 53
           }
         ]
       }
@@ -11388,11 +11188,11 @@
             "seq": 4
           },
           {
-            "code": "M111",
-            "nameCht": "昌明花園",
-            "namePor": "Jardim Cheong Meng",
-            "lat": 22.204137,
-            "lng": 113.542846,
+            "code": "M109",
+            "nameCht": "提督/高士德",
+            "namePor": "Almirante Lacerda / Horta e Costa",
+            "lat": 22.205016,
+            "lng": 113.543982,
             "seq": 5
           },
           {
@@ -11891,19 +11691,19 @@
             "seq": 26
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M3",
+            "nameCht": "媽閣總站",
+            "namePor": "Barra / Terminal",
+            "lat": 22.184697,
+            "lng": 113.528953,
             "seq": 27
           },
           {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
+            "code": "M186",
+            "nameCht": "河邊新街/貨倉巷",
+            "namePor": "Alm. Sérgio / Trv. dos Armazéns",
+            "lat": 22.189991,
+            "lng": 113.533056,
             "seq": 28
           },
           {
@@ -11924,8 +11724,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 31
@@ -12039,11 +11839,11 @@
             "seq": 4
           },
           {
-            "code": "M111",
-            "nameCht": "昌明花園",
-            "namePor": "Jardim Cheong Meng",
-            "lat": 22.204137,
-            "lng": 113.542846,
+            "code": "M109",
+            "nameCht": "提督/高士德",
+            "namePor": "Almirante Lacerda / Horta e Costa",
+            "lat": 22.205016,
+            "lng": 113.543982,
             "seq": 5
           },
           {
@@ -12575,8 +12375,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 32
@@ -13931,8 +13731,8 @@
           },
           {
             "code": "M145",
-            "nameCht": "東望洋新街",
-            "namePor": "R. Nova À Guia",
+            "nameCht": "愕斜巷/山頂醫院",
+            "namePor": "Calçada da Surpresa / Hospital S. Januário",
             "lat": 22.194625,
             "lng": 113.545937,
             "seq": 9
@@ -14837,11 +14637,11 @@
             "seq": 3
           },
           {
-            "code": "M111",
-            "nameCht": "昌明花園",
-            "namePor": "Jardim Cheong Meng",
-            "lat": 22.204137,
-            "lng": 113.542846,
+            "code": "M109",
+            "nameCht": "提督/高士德",
+            "namePor": "Almirante Lacerda / Horta e Costa",
+            "lat": 22.205016,
+            "lng": 113.543982,
             "seq": 4
           },
           {
@@ -15062,8 +14862,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 32
@@ -16985,11 +16785,11 @@
             "seq": 6
           },
           {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
+            "code": "M186",
+            "nameCht": "河邊新街/貨倉巷",
+            "namePor": "Alm. Sérgio / Trv. dos Armazéns",
+            "lat": 22.189991,
+            "lng": 113.533056,
             "seq": 7
           },
           {
@@ -19248,20 +19048,12 @@
             "seq": 38
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
-            "seq": 39
-          },
-          {
             "code": "M185",
             "nameCht": "凱泉灣",
             "namePor": "Riviera Macau",
             "lat": 22.190865,
             "lng": 113.533086,
-            "seq": 40
+            "seq": 39
           }
         ]
       }
@@ -19609,8 +19401,8 @@
           },
           {
             "code": "M132",
-            "nameCht": "內港/停車場",
-            "namePor": "Porto Interior / Auto-Silo",
+            "nameCht": "十六浦",
+            "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
             "seq": 19
@@ -19640,20 +19432,12 @@
             "seq": 22
           },
           {
-            "code": "M17",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-            "lat": 22.207213,
-            "lng": 113.545709,
-            "seq": 23
-          },
-          {
             "code": "M19",
             "nameCht": "白朗古將軍馬路",
             "namePor": "Av. Gen. Castelo Branco",
             "lat": 22.20943,
             "lng": 113.544766,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M21",
@@ -19661,7 +19445,7 @@
             "namePor": "Cons. Borja / Ka Ieng",
             "lat": 22.210661,
             "lng": 113.543655,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "M23",
@@ -19669,7 +19453,7 @@
             "namePor": "Cons. Borja / Edf. Mayfair",
             "lat": 22.210821,
             "lng": 113.542418,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "M95",
@@ -19677,7 +19461,7 @@
             "namePor": "Rua Norte do Patane / Bacia Norte do Patane",
             "lat": 22.209153,
             "lng": 113.54167,
-            "seq": 27
+            "seq": 26
           }
         ]
       }
@@ -19740,11 +19524,11 @@
             "seq": 5
           },
           {
-            "code": "M115",
-            "nameCht": "土地廟前地",
-            "namePor": "Largo Pagode Patane",
-            "lat": 22.202928,
-            "lng": 113.539981,
+            "code": "M112",
+            "nameCht": "沙梨頭/華寶工業大廈",
+            "namePor": "Ribeira do Patane / Edf. Industrial Wa Pou",
+            "lat": 22.202624,
+            "lng": 113.538659,
             "seq": 6
           },
           {
@@ -20331,20 +20115,12 @@
             "seq": 1
           },
           {
-            "code": "M204",
-            "nameCht": "媽閣廟前地",
-            "namePor": "Largo do Pagode da Barra",
-            "lat": 22.187009,
-            "lng": 113.530863,
+            "code": "M183",
+            "nameCht": "河邊新街/凱泉灣",
+            "namePor": "Alm. Sérgio / Riviera Macau",
+            "lat": 22.190522,
+            "lng": 113.533405,
             "seq": 2
-          },
-          {
-            "code": "M190",
-            "nameCht": "河邊新街/媽閣",
-            "namePor": "Alm. Sérgio / Barra",
-            "lat": 22.189128,
-            "lng": 113.532442,
-            "seq": 3
           },
           {
             "code": "M140",
@@ -20352,7 +20128,7 @@
             "namePor": "Alm. Sergio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M137",
@@ -20360,7 +20136,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "M135",
@@ -20368,7 +20144,7 @@
             "namePor": "Almeida Ribeiro / Rua Mercadores",
             "lat": 22.194561,
             "lng": 113.538563,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "M170",
@@ -20376,7 +20152,7 @@
             "namePor": "Av. Infante D. Henrique",
             "lat": 22.191582,
             "lng": 113.541707,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "M172",
@@ -20384,7 +20160,7 @@
             "namePor": "Praça Ferreira Amaral",
             "lat": 22.189429,
             "lng": 113.543367,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "T403",
@@ -20392,7 +20168,7 @@
             "namePor": "Esparteiro / Regency",
             "lat": 22.162727,
             "lng": 113.553933,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "T402",
@@ -20400,7 +20176,7 @@
             "namePor": "Chun Lai Garden",
             "lat": 22.161382,
             "lng": 113.556044,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "T309",
@@ -20408,7 +20184,7 @@
             "namePor": "Av. Sun Yat Sen / Edf. Chun Luen",
             "lat": 22.159096,
             "lng": 113.558219,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "T310",
@@ -20416,7 +20192,7 @@
             "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
             "lat": 22.157756,
             "lng": 113.559475,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "T313",
@@ -20424,7 +20200,7 @@
             "namePor": "Edf. Greenville",
             "lat": 22.156048,
             "lng": 113.559907,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "T315",
@@ -20432,7 +20208,7 @@
             "namePor": "Nobre Carvalho / Armazem CEM",
             "lat": 22.154648,
             "lng": 113.561446,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "T375",
@@ -20440,7 +20216,7 @@
             "namePor": "Est. do Istmo / COD",
             "lat": 22.149708,
             "lng": 113.563999,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "T379",
@@ -20448,7 +20224,7 @@
             "namePor": "Est. do Istmo / Sands Cotai Central",
             "lat": 22.144793,
             "lng": 113.563755,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "T359",
@@ -20456,7 +20232,7 @@
             "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "T357_1",
@@ -20464,7 +20240,7 @@
             "namePor": "Posto Fronteiriço de Cotai",
             "lat": 22.139176,
             "lng": 113.55946,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "C690",
@@ -20472,7 +20248,7 @@
             "namePor": "Seac Pai Van / Terminal",
             "lat": 22.129705,
             "lng": 113.562958,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "C691",
@@ -20480,7 +20256,7 @@
             "namePor": "Seac Pai Van / Edifício Koi Nga",
             "lat": 22.129606,
             "lng": 113.561114,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "C652",
@@ -20488,7 +20264,7 @@
             "namePor": "Edifício On Son",
             "lat": 22.128168,
             "lng": 113.558708,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "C655",
@@ -20496,7 +20272,7 @@
             "namePor": "Parque de Seac Pai Van",
             "lat": 22.125579,
             "lng": 113.555536,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "C657",
@@ -20504,7 +20280,7 @@
             "namePor": "Est. do Campo / PSP - 1",
             "lat": 22.120409,
             "lng": 113.553514,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "C659",
@@ -20512,7 +20288,7 @@
             "namePor": "Vila de Coloane - 2",
             "lat": 22.117846,
             "lng": 113.551835,
-            "seq": 24
+            "seq": 23
           }
         ]
       },
@@ -20808,13 +20584,164 @@
   },
   {
     "code": "N5",
-    "nameCht": "石排灣 ↻ 皇朝",
-    "namePor": "Seac Pai Van ↻ NAPE",
+    "nameCht": "亞馬喇前地 ⇌ 石排灣",
+    "namePor": "Seac Pai Van ⇌ Praça Ferreira Amaral",
     "directions": [
       {
         "code": "N5",
-        "nameCht": "石排灣 ↻ 皇朝",
-        "namePor": "Seac Pai Van ↻ NAPE",
+        "nameCht": "石排灣 ⇀ 亞馬喇前地",
+        "namePor": "Seac Pai Van ⇀ Praça Ferreira Amaral",
+        "stops": [
+          {
+            "code": "M172",
+            "nameCht": "亞馬喇前地",
+            "namePor": "Praça Ferreira Amaral",
+            "lat": 22.189429,
+            "lng": 113.543367,
+            "seq": 1
+          },
+          {
+            "code": "T330",
+            "nameCht": "蘇利安圓形地",
+            "namePor": "Rotunda Leonel Sousa",
+            "lat": 22.164073,
+            "lng": 113.548627,
+            "seq": 2
+          },
+          {
+            "code": "T335",
+            "nameCht": "海洋廣場",
+            "namePor": "Plaza Oceano",
+            "lat": 22.160968,
+            "lng": 113.543866,
+            "seq": 3
+          },
+          {
+            "code": "T338",
+            "nameCht": "海洋花園衛生中心",
+            "namePor": "Centro de Saúde dos Jardins do Oceano",
+            "lat": 22.158411,
+            "lng": 113.54228,
+            "seq": 4
+          },
+          {
+            "code": "T332",
+            "nameCht": "南新花園",
+            "namePor": "Edf. Nam Sun",
+            "lat": 22.157426,
+            "lng": 113.54956,
+            "seq": 5
+          },
+          {
+            "code": "T369",
+            "nameCht": "基馬拉斯/濠景",
+            "namePor": "Guimarães / Nova Taipa",
+            "lat": 22.157384,
+            "lng": 113.554674,
+            "seq": 6
+          },
+          {
+            "code": "T310",
+            "nameCht": "孫逸仙馬路/三家村",
+            "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
+            "lat": 22.157756,
+            "lng": 113.559475,
+            "seq": 7
+          },
+          {
+            "code": "T408",
+            "nameCht": "湖畔大廈",
+            "namePor": "Edifício do Lago",
+            "lat": 22.158409,
+            "lng": 113.561635,
+            "seq": 8
+          },
+          {
+            "code": "T313",
+            "nameCht": "氹仔茵景園",
+            "namePor": "Edf. Greenville",
+            "lat": 22.156048,
+            "lng": 113.559907,
+            "seq": 9
+          },
+          {
+            "code": "T315",
+            "nameCht": "氹仔CEM貨倉",
+            "namePor": "Nobre Carvalho / Armazem CEM",
+            "lat": 22.154648,
+            "lng": 113.561446,
+            "seq": 10
+          },
+          {
+            "code": "T374",
+            "nameCht": "澳門土木工程實驗室",
+            "namePor": "LECM",
+            "lat": 22.151825,
+            "lng": 113.564419,
+            "seq": 11
+          },
+          {
+            "code": "T406",
+            "nameCht": "機場圓形地/偉龍",
+            "namePor": "Rotunda do Aeroporto / Wai Long",
+            "lat": 22.155069,
+            "lng": 113.56806,
+            "seq": 12
+          },
+          {
+            "code": "T407",
+            "nameCht": "霍英東博士大馬路/機場大馬路",
+            "namePor": "Av. Dr. Henry Fok / Av. do Aeroporto",
+            "lat": 22.150722,
+            "lng": 113.571006,
+            "seq": 13
+          },
+          {
+            "code": "T399",
+            "nameCht": "體育館馬路/科技大學圓形地",
+            "namePor": "Av. da Nave Desportiva / Rotunda da U. C. T.",
+            "lat": 22.149176,
+            "lng": 113.568982,
+            "seq": 14
+          },
+          {
+            "code": "T387",
+            "nameCht": "保齡球中心",
+            "namePor": "Centro de Bowling",
+            "lat": 22.143415,
+            "lng": 113.568909,
+            "seq": 15
+          },
+          {
+            "code": "T389",
+            "nameCht": "澳門東亞運動會體育館",
+            "namePor": "N. D. dos J. da Ásia Oriental de Macau",
+            "lat": 22.139891,
+            "lng": 113.568556,
+            "seq": 16
+          },
+          {
+            "code": "T385",
+            "nameCht": "蓮花路/蓮花圓形地-1",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 1",
+            "lat": 22.138448,
+            "lng": 113.56462,
+            "seq": 17
+          },
+          {
+            "code": "C690",
+            "nameCht": "石排灣總站",
+            "namePor": "Seac Pai Van / Terminal",
+            "lat": 22.129705,
+            "lng": 113.562958,
+            "seq": 18
+          }
+        ]
+      },
+      {
+        "code": "N5",
+        "nameCht": "亞馬喇前地 ⇀ 石排灣",
+        "namePor": "Praça Ferreira Amaral ⇀ Seac Pai Van",
         "stops": [
           {
             "code": "C690",
@@ -20825,148 +20752,28 @@
             "seq": 1
           },
           {
-            "code": "T357_1",
-            "nameCht": "路氹邊檢大樓",
-            "namePor": "Posto Fronteiriço de Cotai",
-            "lat": 22.139176,
-            "lng": 113.55946,
+            "code": "T386",
+            "nameCht": "蓮花路/蓮花圓形地-2",
+            "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 2",
+            "lat": 22.139006,
+            "lng": 113.564925,
             "seq": 2
           },
           {
-            "code": "T360",
-            "nameCht": "蓮花圓形地-2",
-            "namePor": "Rotunda Flor de Lotus - 2",
-            "lat": 22.140129,
-            "lng": 113.56327,
+            "code": "T388",
+            "nameCht": "體育館/射擊路",
+            "namePor": "Nave Desportiva / R. do Tiro",
+            "lat": 22.143019,
+            "lng": 113.568578,
             "seq": 3
           },
           {
-            "code": "T376",
-            "nameCht": "連貫公路/威尼斯人",
-            "namePor": "Est. do Istmo / Venetian",
-            "lat": 22.146645,
-            "lng": 113.563538,
+            "code": "T400",
+            "nameCht": "體育館馬路/新濠天地",
+            "namePor": "Av. da Nave Desportiva / COD",
+            "lat": 22.149129,
+            "lng": 113.568811,
             "seq": 4
-          },
-          {
-            "code": "T374",
-            "nameCht": "澳門土木工程實驗室",
-            "namePor": "LECM",
-            "lat": 22.151825,
-            "lng": 113.564419,
-            "seq": 5
-          },
-          {
-            "code": "T406",
-            "nameCht": "機場圓形地/偉龍",
-            "namePor": "Rotunda do Aeroporto / Wai Long",
-            "lat": 22.155069,
-            "lng": 113.56806,
-            "seq": 6
-          },
-          {
-            "code": "T345",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "Terminal Marítimo Provisório",
-            "lat": 22.162192,
-            "lng": 113.577833,
-            "seq": 7
-          },
-          {
-            "code": "T356",
-            "nameCht": "澳門機場",
-            "namePor": "Aeroporto de Macau",
-            "lat": 22.158328,
-            "lng": 113.574452,
-            "seq": 8
-          },
-          {
-            "code": "M239",
-            "nameCht": "外港碼頭",
-            "namePor": "Terminal Marítimo",
-            "lat": 22.198089,
-            "lng": 113.559575,
-            "seq": 9
-          },
-          {
-            "code": "M254",
-            "nameCht": "友誼馬路/行車天橋",
-            "namePor": "Av. Amizade / Viaduto",
-            "lat": 22.194852,
-            "lng": 113.554846,
-            "seq": 10
-          },
-          {
-            "code": "M253",
-            "nameCht": "宋玉生廣場",
-            "namePor": "Al. Dr. C. D'Assumpção",
-            "lat": 22.189107,
-            "lng": 113.551073,
-            "seq": 11
-          },
-          {
-            "code": "M258",
-            "nameCht": "觀音蓮花苑",
-            "namePor": "Centro Ecuménico Kun Iam",
-            "lat": 22.187082,
-            "lng": 113.551966,
-            "seq": 12
-          },
-          {
-            "code": "M256",
-            "nameCht": "澳門文化中心",
-            "namePor": "Centro Cultural de Macau",
-            "lat": 22.187734,
-            "lng": 113.554294,
-            "seq": 13
-          },
-          {
-            "code": "M259",
-            "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "Av. Dr. Sun Yat-Sen / Sands",
-            "lat": 22.190054,
-            "lng": 113.55573,
-            "seq": 14
-          },
-          {
-            "code": "M242",
-            "nameCht": "友誼馬路/海港街",
-            "namePor": "Av. Amizade / R. do Terminal Maritimo",
-            "lat": 22.196083,
-            "lng": 113.555641,
-            "seq": 15
-          },
-          {
-            "code": "T316",
-            "nameCht": "北安大馬路",
-            "namePor": "Estrada Pac On",
-            "lat": 22.164716,
-            "lng": 113.566588,
-            "seq": 16
-          },
-          {
-            "code": "T354",
-            "nameCht": "北安出入境事務廳",
-            "namePor": "Serviços da Migração de Pac On",
-            "lat": 22.163737,
-            "lng": 113.571828,
-            "seq": 17
-          },
-          {
-            "code": "T345",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "Terminal Marítimo Provisório",
-            "lat": 22.162192,
-            "lng": 113.577833,
-            "seq": 18
-          },
-          {
-            "code": "T356",
-            "nameCht": "澳門機場",
-            "namePor": "Aeroporto de Macau",
-            "lat": 22.158328,
-            "lng": 113.574452,
-            "seq": 19
           },
           {
             "code": "T358",
@@ -20974,7 +20781,7 @@
             "namePor": "Wai Long / MUST - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 20
+            "seq": 5
           },
           {
             "code": "T373",
@@ -20982,47 +20789,363 @@
             "namePor": "Wai Long / MUST",
             "lat": 22.152199,
             "lng": 113.565021,
+            "seq": 6
+          },
+          {
+            "code": "T306",
+            "nameCht": "氹仔嘉樂庇馬路",
+            "namePor": "Est. Gov. Nobre Carvalho",
+            "lat": 22.153306,
+            "lng": 113.56306,
+            "seq": 7
+          },
+          {
+            "code": "T314",
+            "nameCht": "亞利雅架前地/泉悅",
+            "namePor": "Largo Ouvidor Arriaga / Chun Iut",
+            "lat": 22.156403,
+            "lng": 113.55987,
+            "seq": 8
+          },
+          {
+            "code": "T408",
+            "nameCht": "湖畔大廈",
+            "namePor": "Edifício do Lago",
+            "lat": 22.158409,
+            "lng": 113.561635,
+            "seq": 9
+          },
+          {
+            "code": "T311",
+            "nameCht": "亞利雅架前地",
+            "namePor": "Largo Ouvidor Arriaga",
+            "lat": 22.157685,
+            "lng": 113.559405,
+            "seq": 10
+          },
+          {
+            "code": "T312",
+            "nameCht": "寶龍花園",
+            "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
+            "lat": 22.158837,
+            "lng": 113.558309,
+            "seq": 11
+          },
+          {
+            "code": "T370",
+            "nameCht": "基馬拉斯/成都街",
+            "namePor": "Guimarães / R. Seng Tou",
+            "lat": 22.157193,
+            "lng": 113.554609,
+            "seq": 12
+          },
+          {
+            "code": "T327",
+            "nameCht": "賽馬會-1",
+            "namePor": "Jockey Club - 1",
+            "lat": 22.156995,
+            "lng": 113.55038,
+            "seq": 13
+          },
+          {
+            "code": "T337",
+            "nameCht": "氹仔海濱花園",
+            "namePor": "Edifício Beira-Mar",
+            "lat": 22.158477,
+            "lng": 113.542124,
+            "seq": 14
+          },
+          {
+            "code": "T334",
+            "nameCht": "海洋花園/紫荊苑",
+            "namePor": "Jardins do Oceano / Bauhina Court",
+            "lat": 22.16118,
+            "lng": 113.543835,
+            "seq": 15
+          },
+          {
+            "code": "M172",
+            "nameCht": "亞馬喇前地",
+            "namePor": "Praça Ferreira Amaral",
+            "lat": 22.189429,
+            "lng": 113.543367,
+            "seq": 16
+          }
+        ]
+      }
+    ],
+    "agency": {
+      "nameCht": "澳巴",
+      "namePor": "TCM",
+      "phone": "28850060",
+      "website": "http://www.tcm.com.mo/"
+    }
+  },
+  {
+    "code": "N6",
+    "nameCht": "澳門大學 ↻ 氹仔",
+    "namePor": "Universidade de Macau ↻ Taipa",
+    "directions": [
+      {
+        "code": "N6",
+        "nameCht": "澳門大學 ↻ 氹仔",
+        "namePor": "Universidade de Macau ↻ Taipa",
+        "stops": [
+          {
+            "code": "T550",
+            "nameCht": "澳門大學總站",
+            "namePor": "Universidade de Macau / Terminal",
+            "lat": 22.135625,
+            "lng": 113.546616,
+            "seq": 1
+          },
+          {
+            "code": "T556",
+            "nameCht": "澳大/行政樓",
+            "namePor": "UM / Edifício Administrativo",
+            "lat": 22.133954,
+            "lng": 113.543555,
+            "seq": 2
+          },
+          {
+            "code": "T557",
+            "nameCht": "大學北",
+            "namePor": "Norte da Universidade",
+            "lat": 22.133727,
+            "lng": 113.546527,
+            "seq": 3
+          },
+          {
+            "code": "T558",
+            "nameCht": "大學大馬路",
+            "namePor": "Avenida da Universidade",
+            "lat": 22.128873,
+            "lng": 113.546822,
+            "seq": 4
+          },
+          {
+            "code": "T551",
+            "nameCht": "澳大/研究生宿舍",
+            "namePor": "UM / Residência de E. de Pós-Graduação",
+            "lat": 22.1248,
+            "lng": 113.546233,
+            "seq": 5
+          },
+          {
+            "code": "T425",
+            "nameCht": "海濱圓形地/西堤馬路",
+            "namePor": "Rotunda Marginal / Est. do Dique Oeste",
+            "lat": 22.141378,
+            "lng": 113.552386,
+            "seq": 6
+          },
+          {
+            "code": "T423",
+            "nameCht": "蓮花海濱大馬路/百老匯",
+            "namePor": "Av. M. Flor de Lótus / Broadway",
+            "lat": 22.144867,
+            "lng": 113.552461,
+            "seq": 7
+          },
+          {
+            "code": "T421",
+            "nameCht": "皇庭海景酒店",
+            "namePor": "Pousada Marina Infante",
+            "lat": 22.150561,
+            "lng": 113.550837,
+            "seq": 8
+          },
+          {
+            "code": "T361",
+            "nameCht": "運動場道",
+            "namePor": "Avenida do Estádio",
+            "lat": 22.155839,
+            "lng": 113.55268,
+            "seq": 9
+          },
+          {
+            "code": "T369",
+            "nameCht": "基馬拉斯/濠景",
+            "namePor": "Guimarães / Nova Taipa",
+            "lat": 22.157384,
+            "lng": 113.554674,
+            "seq": 10
+          },
+          {
+            "code": "T309",
+            "nameCht": "泉亮花園",
+            "namePor": "Av. Sun Yat Sen / Edf. Chun Luen",
+            "lat": 22.159096,
+            "lng": 113.558219,
+            "seq": 11
+          },
+          {
+            "code": "T310",
+            "nameCht": "孫逸仙馬路/三家村",
+            "namePor": "Av. Dr. Sun Yat Sen / Sam Ká",
+            "lat": 22.157756,
+            "lng": 113.559475,
+            "seq": 12
+          },
+          {
+            "code": "T313",
+            "nameCht": "氹仔茵景園",
+            "namePor": "Edf. Greenville",
+            "lat": 22.156048,
+            "lng": 113.559907,
+            "seq": 13
+          },
+          {
+            "code": "T315",
+            "nameCht": "氹仔CEM貨倉",
+            "namePor": "Nobre Carvalho / Armazem CEM",
+            "lat": 22.154648,
+            "lng": 113.561446,
+            "seq": 14
+          },
+          {
+            "code": "T391",
+            "nameCht": "科技大學圓形地/科技大學",
+            "namePor": "Rotunda da U. C. T. / MUST",
+            "lat": 22.150385,
+            "lng": 113.565618,
+            "seq": 15
+          },
+          {
+            "code": "T358",
+            "nameCht": "偉龍/科大醫院",
+            "namePor": "Wai Long / MUST - Hospital",
+            "lat": 22.154771,
+            "lng": 113.567933,
+            "seq": 16
+          },
+          {
+            "code": "T373",
+            "nameCht": "偉龍/科技大學",
+            "namePor": "Wai Long / MUST",
+            "lat": 22.152199,
+            "lng": 113.565021,
+            "seq": 17
+          },
+          {
+            "code": "T306",
+            "nameCht": "氹仔嘉樂庇馬路",
+            "namePor": "Est. Gov. Nobre Carvalho",
+            "lat": 22.153306,
+            "lng": 113.56306,
+            "seq": 18
+          },
+          {
+            "code": "T314",
+            "nameCht": "亞利雅架前地/泉悅",
+            "namePor": "Largo Ouvidor Arriaga / Chun Iut",
+            "lat": 22.156403,
+            "lng": 113.55987,
+            "seq": 19
+          },
+          {
+            "code": "T311",
+            "nameCht": "亞利雅架前地",
+            "namePor": "Largo Ouvidor Arriaga",
+            "lat": 22.157685,
+            "lng": 113.559405,
+            "seq": 20
+          },
+          {
+            "code": "T312",
+            "nameCht": "寶龍花園",
+            "namePor": "Av. Sun Yat Sen / Rua Tai Lin",
+            "lat": 22.158837,
+            "lng": 113.558309,
             "seq": 21
           },
           {
-            "code": "T375",
-            "nameCht": "連貫公路/新濠天地",
-            "namePor": "Est. do Istmo / COD",
-            "lat": 22.149708,
-            "lng": 113.563999,
+            "code": "T370",
+            "nameCht": "基馬拉斯/成都街",
+            "namePor": "Guimarães / R. Seng Tou",
+            "lat": 22.157193,
+            "lng": 113.554609,
             "seq": 22
           },
           {
-            "code": "T379",
-            "nameCht": "連貫公路/金沙城中心",
-            "namePor": "Est. do Istmo / Sands Cotai Central",
-            "lat": 22.144793,
-            "lng": 113.563755,
+            "code": "T347",
+            "nameCht": "運動場圓形地",
+            "namePor": "Rotunda do Estádio",
+            "lat": 22.154724,
+            "lng": 113.552366,
             "seq": 23
           },
           {
-            "code": "T359",
-            "nameCht": "蓮花圓形地-1",
-            "namePor": "Rotunda Flor de Lotus - 1",
-            "lat": 22.138762,
-            "lng": 113.564021,
+            "code": "T420",
+            "nameCht": "蓮花海濱大馬路/銀河-1",
+            "namePor": "Av. M. Flor de Lótus / Galaxy - 1",
+            "lat": 22.151313,
+            "lng": 113.550924,
             "seq": 24
           },
           {
-            "code": "T357_1",
-            "nameCht": "路氹邊檢大樓",
-            "namePor": "Posto Fronteiriço de Cotai",
-            "lat": 22.139176,
-            "lng": 113.55946,
+            "code": "T422",
+            "nameCht": "蓮花海濱大馬路/銀河-2",
+            "namePor": "Av. M. Flor de Lótus / Galaxy - 2",
+            "lat": 22.146131,
+            "lng": 113.552612,
             "seq": 25
           },
           {
-            "code": "C690",
-            "nameCht": "石排灣總站",
-            "namePor": "Seac Pai Van / Terminal",
-            "lat": 22.129705,
-            "lng": 113.562958,
+            "code": "T424",
+            "nameCht": "海濱圓形地/生態保護區",
+            "namePor": "Rotunda Marginal / Zonas Ecológicas",
+            "lat": 22.141399,
+            "lng": 113.552568,
             "seq": 26
+          },
+          {
+            "code": "T559",
+            "nameCht": "大學南",
+            "namePor": "Sul da Universidade",
+            "lat": 22.123864,
+            "lng": 113.546234,
+            "seq": 27
+          },
+          {
+            "code": "T552",
+            "nameCht": "澳大/中央教學樓",
+            "namePor": "UM / Sala de Aulas: Edifício Central",
+            "lat": 22.127462,
+            "lng": 113.546503,
+            "seq": 28
+          },
+          {
+            "code": "T553",
+            "nameCht": "澳大/大學展館",
+            "namePor": "UM / Galeria da Universidade",
+            "lat": 22.129919,
+            "lng": 113.546575,
+            "seq": 29
+          },
+          {
+            "code": "T554",
+            "nameCht": "澳大/大學會堂",
+            "namePor": "UM / Aula Magna da Universidade",
+            "lat": 22.133661,
+            "lng": 113.546429,
+            "seq": 30
+          },
+          {
+            "code": "T555",
+            "nameCht": "澳大/綜合體育館",
+            "namePor": "UM /Complexo Desportivo",
+            "lat": 22.133959,
+            "lng": 113.543275,
+            "seq": 31
+          },
+          {
+            "code": "T550",
+            "nameCht": "澳門大學總站",
+            "namePor": "Universidade de Macau / Terminal",
+            "lat": 22.135625,
+            "lng": 113.546616,
+            "seq": 32
           }
         ]
       }

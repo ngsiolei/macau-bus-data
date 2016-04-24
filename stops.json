@@ -98,13 +98,6 @@
     "lng": 113.545304
   },
   {
-    "code": "M17",
-    "nameCht": "提督馬路/白朗古",
-    "namePor": "Av. Alm. Lacerda / G. Castelo Branco",
-    "lat": 22.207213,
-    "lng": 113.545709
-  },
-  {
     "code": "M19",
     "nameCht": "白朗古將軍馬路",
     "namePor": "Av. Gen. Castelo Branco",
@@ -595,6 +588,13 @@
     "lng": 113.540604
   },
   {
+    "code": "M109",
+    "nameCht": "提督/高士德",
+    "namePor": "Almirante Lacerda / Horta e Costa",
+    "lat": 22.205016,
+    "lng": 113.543982
+  },
+  {
     "code": "M110",
     "nameCht": "渡船街/婦聯",
     "namePor": "Rua da Barca / Esc. Fu Lun",
@@ -607,6 +607,13 @@
     "namePor": "Jardim Cheong Meng",
     "lat": 22.204137,
     "lng": 113.542846
+  },
+  {
+    "code": "M112",
+    "nameCht": "沙梨頭/華寶工業大廈",
+    "namePor": "Ribeira do Patane / Edf. Industrial Wa Pou",
+    "lat": 22.202624,
+    "lng": 113.538659
   },
   {
     "code": "M113",
@@ -700,6 +707,13 @@
     "lng": 113.537479
   },
   {
+    "code": "M128",
+    "nameCht": "林茂/澳門遊艇會",
+    "namePor": "Lam Mau / Clube Náutico de Macau",
+    "lat": 22.204518,
+    "lng": 113.539461
+  },
+  {
     "code": "M129",
     "nameCht": "水上街市",
     "namePor": "Mercado Patane",
@@ -715,8 +729,8 @@
   },
   {
     "code": "M132",
-    "nameCht": "內港/停車場",
-    "namePor": "Porto Interior / Auto-Silo",
+    "nameCht": "十六浦",
+    "namePor": "Ponte 16",
     "lat": 22.197817,
     "lng": 113.536681
   },
@@ -772,7 +786,7 @@
   {
     "code": "M140",
     "nameCht": "河邊新街/李道巷",
-    "namePor": "Alm. Sergio / Trav. Lido",
+    "namePor": "Alm. Sérgio / Trav. Lido",
     "lat": 22.192265,
     "lng": 113.534528
   },
@@ -799,8 +813,8 @@
   },
   {
     "code": "M145",
-    "nameCht": "東望洋新街",
-    "namePor": "R. Nova À Guia",
+    "nameCht": "愕斜巷/山頂醫院",
+    "namePor": "Calçada da Surpresa / Hospital S. Januário",
     "lat": 22.194625,
     "lng": 113.545937
   },
@@ -980,13 +994,6 @@
     "lng": 113.536334
   },
   {
-    "code": "M176",
-    "nameCht": "衣灣斜巷",
-    "namePor": "Calçada da Praia",
-    "lat": 22.185611,
-    "lng": 113.534451
-  },
-  {
     "code": "M177",
     "nameCht": "澳門旅遊塔",
     "namePor": "Torre de Macau",
@@ -1029,6 +1036,13 @@
     "lng": 113.536944
   },
   {
+    "code": "M183",
+    "nameCht": "河邊新街/凱泉灣",
+    "namePor": "Alm. Sérgio / Riviera Macau",
+    "lat": 22.190522,
+    "lng": 113.533405
+  },
+  {
     "code": "M184",
     "nameCht": "河邊新街/街市",
     "namePor": "Alm. Sérgio / Mercado",
@@ -1041,6 +1055,13 @@
     "namePor": "Riviera Macau",
     "lat": 22.190865,
     "lng": 113.533086
+  },
+  {
+    "code": "M186",
+    "nameCht": "河邊新街/貨倉巷",
+    "namePor": "Alm. Sérgio / Trv. dos Armazéns",
+    "lat": 22.189991,
+    "lng": 113.533056
   },
   {
     "code": "M187",
@@ -1062,13 +1083,6 @@
     "namePor": "Mercado de S. Lourenço",
     "lat": 22.191046,
     "lng": 113.534799
-  },
-  {
-    "code": "M190",
-    "nameCht": "河邊新街/媽閣",
-    "namePor": "Alm. Sérgio / Barra",
-    "lat": 22.189128,
-    "lng": 113.532442
   },
   {
     "code": "M191",
@@ -1160,13 +1174,6 @@
     "namePor": "Templo Á Ma",
     "lat": 22.187032,
     "lng": 113.531091
-  },
-  {
-    "code": "M204",
-    "nameCht": "媽閣廟前地",
-    "namePor": "Largo do Pagode da Barra",
-    "lat": 22.187009,
-    "lng": 113.530863
   },
   {
     "code": "M205",
@@ -1608,6 +1615,13 @@
     "namePor": "Edifício Cheng Chong",
     "lat": 22.212433,
     "lng": 113.541201
+  },
+  {
+    "code": "M274",
+    "nameCht": "筷子基衛生中心",
+    "namePor": "Centro de Saúde Fai Chi Kei",
+    "lat": 22.207954,
+    "lng": 113.544843
   },
   {
     "code": "T300",
