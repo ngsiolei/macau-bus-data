@@ -1932,20 +1932,6 @@
     "lng": 113.552366
   },
   {
-    "code": "T348",
-    "nameCht": "氹仔濠江中學",
-    "namePor": "Escola Hou Kong da Taipa",
-    "lat": 22.156153,
-    "lng": 113.556121
-  },
-  {
-    "code": "T349",
-    "nameCht": "埃武拉街/花城",
-    "namePor": "Rua Évora / Flower City",
-    "lat": 22.15755,
-    "lng": 113.557788
-  },
-  {
     "code": "T350",
     "nameCht": "廣東大馬路/馬會",
     "namePor": "Av. Kwong Tung / Jockey Club",
@@ -2415,20 +2401,6 @@
     "lng": 113.552386
   },
   {
-    "code": "T426",
-    "nameCht": "澳大河隧/高爾夫俱樂部",
-    "namePor": "Túnel S. da UM / Clube de Golfe",
-    "lat": 22.133894,
-    "lng": 113.552545
-  },
-  {
-    "code": "T427",
-    "nameCht": "澳大河隧/西堤馬路",
-    "namePor": "Túnel S. da UM / Est. do Dique Oeste",
-    "lat": 22.133984,
-    "lng": 113.552324
-  },
-  {
     "code": "T428",
     "nameCht": "聚龍明珠/榮苑",
     "namePor": "Tjoi Long Sea View / Bloco 1",
@@ -2441,6 +2413,20 @@
     "namePor": "Rotunda do Aeroporto / MUST - Hospital",
     "lat": 22.1547,
     "lng": 113.56929
+  },
+  {
+    "code": "T430",
+    "nameCht": "海洋花園/玫瑰苑",
+    "namePor": "Jardins do Oceano / Rose Court",
+    "lat": 22.162146,
+    "lng": 113.541646
+  },
+  {
+    "code": "T431",
+    "nameCht": "西灣大橋/海洋大馬路",
+    "namePor": "Ponte de Sai Van / Av. do Oceano",
+    "lat": 22.162476,
+    "lng": 113.541609
   },
   {
     "code": "T550",
