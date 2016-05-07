@@ -700,6 +700,13 @@
     "lng": 113.536755
   },
   {
+    "code": "M126",
+    "nameCht": "林茂/信譽灣畔",
+    "namePor": "Lam Mau / La Magnífícence",
+    "lat": 22.204514,
+    "lng": 113.539827
+  },
+  {
     "code": "M127",
     "nameCht": "海邊新街",
     "namePor": "R. do Guimarães",
@@ -719,6 +726,13 @@
     "namePor": "Mercado Patane",
     "lat": 22.20135,
     "lng": 113.537586
+  },
+  {
+    "code": "M130",
+    "nameCht": "林茂/運順新邨",
+    "namePor": "Lam Mau / Van Sion Son Chun",
+    "lat": 22.20531,
+    "lng": 113.542854
   },
   {
     "code": "M131",
