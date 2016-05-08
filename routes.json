@@ -18851,13 +18851,13 @@
   },
   {
     "code": "MT4",
-    "nameCht": "筷子基北灣 ↻ 臨時客運碼頭",
+    "nameCht": "筷子基北灣 ⇌ 臨時客運碼頭",
     "namePor": "Rua Norte do Patane ↻ Terminal Marítimo Provisório",
     "directions": [
       {
         "code": "MT4",
-        "nameCht": "筷子基北灣 ↻ 臨時客運碼頭",
-        "namePor": "Rua Norte do Patane ↻ Terminal Marítimo Provisório",
+        "nameCht": "筷子基北灣 ⇀ 臨時客運碼頭",
+        "namePor": "Rua Norte do Patane ⇀ Terminal Marítimo Provisório",
         "stops": [
           {
             "code": "M95",
@@ -19058,6 +19058,21 @@
             "lat": 22.162192,
             "lng": 113.577833,
             "seq": 25
+          }
+        ]
+      },
+      {
+        "code": "MT4",
+        "nameCht": "臨時客運碼頭 ⇀ 筷子基北灣",
+        "namePor": "Terminal Marítimo Provisório ⇀ Rua Norte do Patane",
+        "stops": [
+          {
+            "code": "T345",
+            "nameCht": "臨時客運碼頭",
+            "namePor": "Terminal Marítimo Provisório",
+            "lat": 22.162192,
+            "lng": 113.577833,
+            "seq": 1
           },
           {
             "code": "T344",
@@ -19065,7 +19080,7 @@
             "namePor": "Oficinas do Aeroporto",
             "lat": 22.161517,
             "lng": 113.57383,
-            "seq": 26
+            "seq": 2
           },
           {
             "code": "T356",
@@ -19073,7 +19088,7 @@
             "namePor": "Aeroporto de Macau",
             "lat": 22.158328,
             "lng": 113.574452,
-            "seq": 27
+            "seq": 3
           },
           {
             "code": "T417",
@@ -19081,7 +19096,7 @@
             "namePor": "Terminal de Carga do Aeroporto",
             "lat": 22.154252,
             "lng": 113.569761,
-            "seq": 28
+            "seq": 4
           },
           {
             "code": "T407",
@@ -19089,7 +19104,7 @@
             "namePor": "Av. Dr. Henry Fok / Av. do Aeroporto",
             "lat": 22.150722,
             "lng": 113.571006,
-            "seq": 29
+            "seq": 5
           },
           {
             "code": "T399",
@@ -19097,7 +19112,7 @@
             "namePor": "Av. da Nave Desportiva / Rotunda da U. C. T.",
             "lat": 22.149176,
             "lng": 113.568982,
-            "seq": 30
+            "seq": 6
           },
           {
             "code": "T387",
@@ -19105,7 +19120,7 @@
             "namePor": "Centro de Bowling",
             "lat": 22.143415,
             "lng": 113.568909,
-            "seq": 31
+            "seq": 7
           },
           {
             "code": "T389",
@@ -19113,7 +19128,7 @@
             "namePor": "N. D. dos J. da Ásia Oriental de Macau",
             "lat": 22.139891,
             "lng": 113.568556,
-            "seq": 32
+            "seq": 8
           },
           {
             "code": "T385",
@@ -19121,7 +19136,7 @@
             "namePor": "Est. F. de Lótus / Rotunda F. de Lótus - 1",
             "lat": 22.138448,
             "lng": 113.56462,
-            "seq": 33
+            "seq": 9
           },
           {
             "code": "T357_1",
@@ -19129,7 +19144,7 @@
             "namePor": "Posto Fronteiriço de Cotai",
             "lat": 22.139176,
             "lng": 113.55946,
-            "seq": 34
+            "seq": 10
           },
           {
             "code": "T360",
@@ -19137,7 +19152,7 @@
             "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 35
+            "seq": 11
           },
           {
             "code": "T397",
@@ -19145,7 +19160,7 @@
             "namePor": "Rotunda de Cotai",
             "lat": 22.143889,
             "lng": 113.557654,
-            "seq": 36
+            "seq": 12
           },
           {
             "code": "T395",
@@ -19153,7 +19168,7 @@
             "namePor": "Av. Cidade Nova / Galaxy",
             "lat": 22.149121,
             "lng": 113.557922,
-            "seq": 37
+            "seq": 13
           },
           {
             "code": "T365",
@@ -19161,7 +19176,7 @@
             "namePor": "Est. Baia N. S. Esperança / Galaxy",
             "lat": 22.150206,
             "lng": 113.556081,
-            "seq": 38
+            "seq": 14
           },
           {
             "code": "T363",
@@ -19169,7 +19184,7 @@
             "namePor": "Rotunda da Piscina Olímpica",
             "lat": 22.151671,
             "lng": 113.552313,
-            "seq": 39
+            "seq": 15
           },
           {
             "code": "T327",
@@ -19177,7 +19192,7 @@
             "namePor": "Jockey Club - 1",
             "lat": 22.156995,
             "lng": 113.55038,
-            "seq": 40
+            "seq": 16
           },
           {
             "code": "T329",
@@ -19185,7 +19200,7 @@
             "namePor": "Rotunda P. J. Silva Loureiro",
             "lat": 22.15669,
             "lng": 113.542872,
-            "seq": 41
+            "seq": 17
           },
           {
             "code": "T337",
@@ -19193,7 +19208,7 @@
             "namePor": "Edifício Beira-Mar",
             "lat": 22.158477,
             "lng": 113.542124,
-            "seq": 42
+            "seq": 18
           },
           {
             "code": "T334",
@@ -19201,7 +19216,7 @@
             "namePor": "Jardins do Oceano / Bauhina Court",
             "lat": 22.16118,
             "lng": 113.543835,
-            "seq": 43
+            "seq": 19
           },
           {
             "code": "T411",
@@ -19209,7 +19224,7 @@
             "namePor": "Avenida dos Jogos da Ásia Oriental / Ponte de Sai Van",
             "lat": 22.162349,
             "lng": 113.540175,
-            "seq": 44
+            "seq": 20
           },
           {
             "code": "M3",
@@ -19217,7 +19232,7 @@
             "namePor": "Barra / Terminal",
             "lat": 22.184697,
             "lng": 113.528953,
-            "seq": 45
+            "seq": 21
           },
           {
             "code": "M186",
@@ -19225,7 +19240,7 @@
             "namePor": "Alm. Sérgio / Trv. dos Armazéns",
             "lat": 22.189991,
             "lng": 113.533056,
-            "seq": 46
+            "seq": 22
           },
           {
             "code": "M140",
@@ -19233,7 +19248,7 @@
             "namePor": "Alm. Sérgio / Trav. Lido",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 47
+            "seq": 23
           },
           {
             "code": "M137",
@@ -19241,7 +19256,7 @@
             "namePor": "R. das Lorchas",
             "lat": 22.194954,
             "lng": 113.53589,
-            "seq": 48
+            "seq": 24
           },
           {
             "code": "M132",
@@ -19249,7 +19264,7 @@
             "namePor": "Ponte 16",
             "lat": 22.197817,
             "lng": 113.536681,
-            "seq": 49
+            "seq": 25
           },
           {
             "code": "M129",
@@ -19257,7 +19272,7 @@
             "namePor": "Mercado Patane",
             "lat": 22.20135,
             "lng": 113.537586,
-            "seq": 50
+            "seq": 26
           },
           {
             "code": "M128",
@@ -19265,7 +19280,7 @@
             "namePor": "Lam Mau / Clube Náutico de Macau",
             "lat": 22.204518,
             "lng": 113.539461,
-            "seq": 51
+            "seq": 27
           },
           {
             "code": "M95",
@@ -19273,7 +19288,7 @@
             "namePor": "Rua Norte do Patane / Bacia Norte do Patane",
             "lat": 22.209153,
             "lng": 113.54167,
-            "seq": 52
+            "seq": 28
           }
         ]
       }
