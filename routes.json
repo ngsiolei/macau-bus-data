@@ -14903,377 +14903,6 @@
     }
   },
   {
-    "code": "34",
-    "nameCht": "菜園涌邊街 ⇌ 海洋花園瞭望台",
-    "namePor": "R. Marginal do Canal das Hortas ⇌ Terraço Panorâmico dos Jardins do Oceano",
-    "directions": [
-      {
-        "code": "34",
-        "nameCht": "菜園涌邊街 ⇀ 海洋花園",
-        "namePor": "R. Marginal do Canal das Hortas ⇀ Jardins do Oceano",
-        "stops": [
-          {
-            "code": "M4",
-            "nameCht": "菜園涌邊街總站",
-            "namePor": "R. Marginal do Canal das Hortas / Terminal",
-            "lat": 22.213657,
-            "lng": 113.544863,
-            "seq": 1
-          },
-          {
-            "code": "M1",
-            "nameCht": "關閘總站",
-            "namePor": "Portas do Cerco / Terminal",
-            "lat": 22.214503,
-            "lng": 113.548907,
-            "seq": 2
-          },
-          {
-            "code": "M222",
-            "nameCht": "看台街",
-            "namePor": "Rua da Tribuna",
-            "lat": 22.213174,
-            "lng": 113.550189,
-            "seq": 3
-          },
-          {
-            "code": "M217",
-            "nameCht": "看台街/中銀",
-            "namePor": "Rua da Tribuna / Banco da China",
-            "lat": 22.212966,
-            "lng": 113.5514,
-            "seq": 4
-          },
-          {
-            "code": "M220",
-            "nameCht": "祐漢街市",
-            "namePor": "Mercado Iao Hon",
-            "lat": 22.211519,
-            "lng": 113.551962,
-            "seq": 5
-          },
-          {
-            "code": "M221",
-            "nameCht": "祐漢公園",
-            "namePor": "Jardim Iao Hon",
-            "lat": 22.210825,
-            "lng": 113.552628,
-            "seq": 6
-          },
-          {
-            "code": "M224",
-            "nameCht": "永康街/麗華",
-            "namePor": "Rua da Saúde / Edf. Lai Wah",
-            "lat": 22.21,
-            "lng": 113.551376,
-            "seq": 7
-          },
-          {
-            "code": "M30",
-            "nameCht": "黑沙環第五街",
-            "namePor": "Rua Cinco / Areia Preta",
-            "lat": 22.208507,
-            "lng": 113.550767,
-            "seq": 8
-          },
-          {
-            "code": "M36",
-            "nameCht": "慕拉士巷",
-            "namePor": "Trav. Venc. Morais",
-            "lat": 22.206468,
-            "lng": 113.552825,
-            "seq": 9
-          },
-          {
-            "code": "M234",
-            "nameCht": "東北大馬路/海濱",
-            "namePor": "Av. Nordeste / Hoi Pan Garden",
-            "lat": 22.206872,
-            "lng": 113.555225,
-            "seq": 10
-          },
-          {
-            "code": "M235",
-            "nameCht": "東北大馬路/保利達",
-            "namePor": "Av. Nordeste / Poly Tex",
-            "lat": 22.208918,
-            "lng": 113.557199,
-            "seq": 11
-          },
-          {
-            "code": "T342",
-            "nameCht": "海灣花園",
-            "namePor": "Edf. Jardim Hoi Van",
-            "lat": 22.162448,
-            "lng": 113.561956,
-            "seq": 12
-          },
-          {
-            "code": "T409",
-            "nameCht": "湖畔公園",
-            "namePor": "Jardim do Lago",
-            "lat": 22.15874,
-            "lng": 113.562122,
-            "seq": 13
-          },
-          {
-            "code": "T318",
-            "nameCht": "泉悅花園",
-            "namePor": "Fernão M. Pinto / Chun Iut Garden",
-            "lat": 22.156261,
-            "lng": 113.559495,
-            "seq": 14
-          },
-          {
-            "code": "T319",
-            "nameCht": "嘉模泳池",
-            "namePor": "Piscinas do Carmo",
-            "lat": 22.154966,
-            "lng": 113.559214,
-            "seq": 15
-          },
-          {
-            "code": "T320",
-            "nameCht": "氹仔官也街",
-            "namePor": "Rua do Cunha",
-            "lat": 22.153048,
-            "lng": 113.55714,
-            "seq": 16
-          },
-          {
-            "code": "T321",
-            "nameCht": "氹仔中葡小學",
-            "namePor": "Largo Tamag. Barbosa",
-            "lat": 22.152125,
-            "lng": 113.555283,
-            "seq": 17
-          },
-          {
-            "code": "T323",
-            "nameCht": "黑橋/地堡街",
-            "namePor": "Ponte Negra / R. do Regedor",
-            "lat": 22.154494,
-            "lng": 113.556217,
-            "seq": 18
-          },
-          {
-            "code": "T324",
-            "nameCht": "澳門運動場",
-            "namePor": "Estádio de Macau",
-            "lat": 22.155454,
-            "lng": 113.554995,
-            "seq": 19
-          },
-          {
-            "code": "T327",
-            "nameCht": "賽馬會-1",
-            "namePor": "Jockey Club - 1",
-            "lat": 22.156995,
-            "lng": 113.55038,
-            "seq": 20
-          },
-          {
-            "code": "T329",
-            "nameCht": "盧伯德圓形地",
-            "namePor": "Rotunda P. J. Silva Loureiro",
-            "lat": 22.15669,
-            "lng": 113.542872,
-            "seq": 21
-          },
-          {
-            "code": "T337",
-            "nameCht": "氹仔海濱花園",
-            "namePor": "Edifício Beira-Mar",
-            "lat": 22.158477,
-            "lng": 113.542124,
-            "seq": 22
-          },
-          {
-            "code": "T336",
-            "nameCht": "海洋花園瞭望台",
-            "namePor": "Terraço Panorâmico",
-            "lat": 22.161602,
-            "lng": 113.542989,
-            "seq": 23
-          }
-        ]
-      },
-      {
-        "code": "34",
-        "nameCht": "海洋花園瞭望台 ⇀ 菜園涌邊街",
-        "namePor": "Terraço Panorâmico dos Jardins do Oceano ⇀ R. Marginal do Canal das Hortas",
-        "stops": [
-          {
-            "code": "T336",
-            "nameCht": "海洋花園瞭望台",
-            "namePor": "Terraço Panorâmico",
-            "lat": 22.161602,
-            "lng": 113.542989,
-            "seq": 1
-          },
-          {
-            "code": "T335",
-            "nameCht": "海洋廣場",
-            "namePor": "Plaza Oceano",
-            "lat": 22.160968,
-            "lng": 113.543866,
-            "seq": 2
-          },
-          {
-            "code": "T338",
-            "nameCht": "海洋花園衛生中心",
-            "namePor": "Centro de Saúde dos Jardins do Oceano",
-            "lat": 22.158411,
-            "lng": 113.54228,
-            "seq": 3
-          },
-          {
-            "code": "T332",
-            "nameCht": "南新花園",
-            "namePor": "Edf. Nam Sun",
-            "lat": 22.157426,
-            "lng": 113.54956,
-            "seq": 4
-          },
-          {
-            "code": "T325",
-            "nameCht": "華寶花園",
-            "namePor": "Av. Olímpica / Edf. Va Pou",
-            "lat": 22.155558,
-            "lng": 113.555084,
-            "seq": 5
-          },
-          {
-            "code": "T339",
-            "nameCht": "花城公園",
-            "namePor": "Jardim Cidade das Flores",
-            "lat": 22.155853,
-            "lng": 113.55679,
-            "seq": 6
-          },
-          {
-            "code": "T317",
-            "nameCht": "雍景灣",
-            "namePor": "Kings Ville",
-            "lat": 22.156772,
-            "lng": 113.559377,
-            "seq": 7
-          },
-          {
-            "code": "T408",
-            "nameCht": "湖畔大廈",
-            "namePor": "Edifício do Lago",
-            "lat": 22.158409,
-            "lng": 113.561635,
-            "seq": 8
-          },
-          {
-            "code": "T343",
-            "nameCht": "高勵雅馬路",
-            "namePor": "Est. Alm. M. Correia",
-            "lat": 22.162055,
-            "lng": 113.561131,
-            "seq": 9
-          },
-          {
-            "code": "M51",
-            "nameCht": "東北大馬路/廣華",
-            "namePor": "Av. Nordeste / Kwong Wa",
-            "lat": 22.207695,
-            "lng": 113.556188,
-            "seq": 10
-          },
-          {
-            "code": "M233",
-            "nameCht": "東北大馬路/東華",
-            "namePor": "Av. Nordeste / Tong Wa",
-            "lat": 22.206821,
-            "lng": 113.555332,
-            "seq": 11
-          },
-          {
-            "code": "M35",
-            "nameCht": "慕拉士馬路/望廈",
-            "namePor": "Venc. Morais / Mong-Há",
-            "lat": 22.207005,
-            "lng": 113.552061,
-            "seq": 12
-          },
-          {
-            "code": "M28",
-            "nameCht": "黑沙環馬路",
-            "namePor": "Est. Areia Preta",
-            "lat": 22.208122,
-            "lng": 113.549751,
-            "seq": 13
-          },
-          {
-            "code": "M228",
-            "nameCht": "祐漢第二街",
-            "namePor": "Rua 2 Iao Hon",
-            "lat": 22.210741,
-            "lng": 113.550121,
-            "seq": 14
-          },
-          {
-            "code": "M223",
-            "nameCht": "長壽馬路",
-            "namePor": "Av. Longevidade",
-            "lat": 22.212786,
-            "lng": 113.551127,
-            "seq": 15
-          },
-          {
-            "code": "M225",
-            "nameCht": "看台街/騎士馬路",
-            "namePor": "R. da Tribuna / Est. dos Cavaleiros",
-            "lat": 22.213254,
-            "lng": 113.549406,
-            "seq": 16
-          },
-          {
-            "code": "M7",
-            "nameCht": "關閘馬路",
-            "namePor": "Istmo F. Amaral",
-            "lat": 22.212353,
-            "lng": 113.548544,
-            "seq": 17
-          },
-          {
-            "code": "M8",
-            "nameCht": "巴波沙大馬路",
-            "namePor": "Av. Artur de Tamagnini Barbosa",
-            "lat": 22.212546,
-            "lng": 113.547594,
-            "seq": 18
-          },
-          {
-            "code": "M63",
-            "nameCht": "紀念孫中山公園",
-            "namePor": "Parque M. Dr. Sun Yat Sen",
-            "lat": 22.215493,
-            "lng": 113.545776,
-            "seq": 19
-          },
-          {
-            "code": "M4",
-            "nameCht": "菜園涌邊街總站",
-            "namePor": "R. Marginal do Canal das Hortas / Terminal",
-            "lat": 22.213657,
-            "lng": 113.544863,
-            "seq": 20
-          }
-        ]
-      }
-    ],
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    }
-  },
-  {
     "code": "35",
     "nameCht": "蘇利安圓形地 ↻ 駕考中心",
     "namePor": "Rotunda Leonel Sousa ↻ Centro A. e Exames de Condução",
@@ -15555,6 +15184,377 @@
       "namePor": "NEW ERA",
       "phone": "28777888",
       "website": "http://www.newera.com.mo/"
+    }
+  },
+  {
+    "code": "34",
+    "nameCht": "菜園涌邊街 ⇌ 海洋花園",
+    "namePor": "R. Marginal do Canal das Hortas ⇌ Jardins do Oceano",
+    "directions": [
+      {
+        "code": "34",
+        "nameCht": "菜園涌邊街 ⇀ 海洋花園",
+        "namePor": "R. Marginal do Canal das Hortas ⇀ Jardins do Oceano",
+        "stops": [
+          {
+            "code": "M4",
+            "nameCht": "菜園涌邊街總站",
+            "namePor": "R. Marginal do Canal das Hortas / Terminal",
+            "lat": 22.213657,
+            "lng": 113.544863,
+            "seq": 1
+          },
+          {
+            "code": "M1",
+            "nameCht": "關閘總站",
+            "namePor": "Portas do Cerco / Terminal",
+            "lat": 22.214503,
+            "lng": 113.548907,
+            "seq": 2
+          },
+          {
+            "code": "M222",
+            "nameCht": "看台街",
+            "namePor": "Rua da Tribuna",
+            "lat": 22.213174,
+            "lng": 113.550189,
+            "seq": 3
+          },
+          {
+            "code": "M217",
+            "nameCht": "看台街/中銀",
+            "namePor": "Rua da Tribuna / Banco da China",
+            "lat": 22.212966,
+            "lng": 113.5514,
+            "seq": 4
+          },
+          {
+            "code": "M220",
+            "nameCht": "祐漢街市",
+            "namePor": "Mercado Iao Hon",
+            "lat": 22.211519,
+            "lng": 113.551962,
+            "seq": 5
+          },
+          {
+            "code": "M221",
+            "nameCht": "祐漢公園",
+            "namePor": "Jardim Iao Hon",
+            "lat": 22.210825,
+            "lng": 113.552628,
+            "seq": 6
+          },
+          {
+            "code": "M224",
+            "nameCht": "永康街/麗華",
+            "namePor": "Rua da Saúde / Edf. Lai Wah",
+            "lat": 22.21,
+            "lng": 113.551376,
+            "seq": 7
+          },
+          {
+            "code": "M30",
+            "nameCht": "黑沙環第五街",
+            "namePor": "Rua Cinco / Areia Preta",
+            "lat": 22.208507,
+            "lng": 113.550767,
+            "seq": 8
+          },
+          {
+            "code": "M36",
+            "nameCht": "慕拉士巷",
+            "namePor": "Trav. Venc. Morais",
+            "lat": 22.206468,
+            "lng": 113.552825,
+            "seq": 9
+          },
+          {
+            "code": "M234",
+            "nameCht": "東北大馬路/海濱",
+            "namePor": "Av. Nordeste / Hoi Pan Garden",
+            "lat": 22.206872,
+            "lng": 113.555225,
+            "seq": 10
+          },
+          {
+            "code": "M235",
+            "nameCht": "東北大馬路/保利達",
+            "namePor": "Av. Nordeste / Poly Tex",
+            "lat": 22.208918,
+            "lng": 113.557199,
+            "seq": 11
+          },
+          {
+            "code": "T342",
+            "nameCht": "海灣花園",
+            "namePor": "Edf. Jardim Hoi Van",
+            "lat": 22.162448,
+            "lng": 113.561956,
+            "seq": 12
+          },
+          {
+            "code": "T409",
+            "nameCht": "湖畔公園",
+            "namePor": "Jardim do Lago",
+            "lat": 22.15874,
+            "lng": 113.562122,
+            "seq": 13
+          },
+          {
+            "code": "T318",
+            "nameCht": "泉悅花園",
+            "namePor": "Fernão M. Pinto / Chun Iut Garden",
+            "lat": 22.156261,
+            "lng": 113.559495,
+            "seq": 14
+          },
+          {
+            "code": "T319",
+            "nameCht": "嘉模泳池",
+            "namePor": "Piscinas do Carmo",
+            "lat": 22.154966,
+            "lng": 113.559214,
+            "seq": 15
+          },
+          {
+            "code": "T320",
+            "nameCht": "氹仔官也街",
+            "namePor": "Rua do Cunha",
+            "lat": 22.153048,
+            "lng": 113.55714,
+            "seq": 16
+          },
+          {
+            "code": "T321",
+            "nameCht": "氹仔中葡小學",
+            "namePor": "Largo Tamag. Barbosa",
+            "lat": 22.152125,
+            "lng": 113.555283,
+            "seq": 17
+          },
+          {
+            "code": "T323",
+            "nameCht": "黑橋/地堡街",
+            "namePor": "Ponte Negra / R. do Regedor",
+            "lat": 22.154494,
+            "lng": 113.556217,
+            "seq": 18
+          },
+          {
+            "code": "T324",
+            "nameCht": "澳門運動場",
+            "namePor": "Estádio de Macau",
+            "lat": 22.155454,
+            "lng": 113.554995,
+            "seq": 19
+          },
+          {
+            "code": "T327",
+            "nameCht": "賽馬會-1",
+            "namePor": "Jockey Club - 1",
+            "lat": 22.156995,
+            "lng": 113.55038,
+            "seq": 20
+          },
+          {
+            "code": "T329",
+            "nameCht": "盧伯德圓形地",
+            "namePor": "Rotunda P. J. Silva Loureiro",
+            "lat": 22.15669,
+            "lng": 113.542872,
+            "seq": 21
+          },
+          {
+            "code": "T337",
+            "nameCht": "氹仔海濱花園",
+            "namePor": "Edifício Beira-Mar",
+            "lat": 22.158477,
+            "lng": 113.542124,
+            "seq": 22
+          },
+          {
+            "code": "T336",
+            "nameCht": "海洋花園瞭望台",
+            "namePor": "Terraço Panorâmico",
+            "lat": 22.161602,
+            "lng": 113.542989,
+            "seq": 23
+          }
+        ]
+      },
+      {
+        "code": "34",
+        "nameCht": "海洋花園 ⇀ 菜園涌邊街",
+        "namePor": "Jardins do Oceano ⇀ R. Marginal do Canal das Hortas",
+        "stops": [
+          {
+            "code": "T336",
+            "nameCht": "海洋花園瞭望台",
+            "namePor": "Terraço Panorâmico",
+            "lat": 22.161602,
+            "lng": 113.542989,
+            "seq": 1
+          },
+          {
+            "code": "T335",
+            "nameCht": "海洋廣場",
+            "namePor": "Plaza Oceano",
+            "lat": 22.160968,
+            "lng": 113.543866,
+            "seq": 2
+          },
+          {
+            "code": "T338",
+            "nameCht": "海洋花園衛生中心",
+            "namePor": "Centro de Saúde dos Jardins do Oceano",
+            "lat": 22.158411,
+            "lng": 113.54228,
+            "seq": 3
+          },
+          {
+            "code": "T332",
+            "nameCht": "南新花園",
+            "namePor": "Edf. Nam Sun",
+            "lat": 22.157426,
+            "lng": 113.54956,
+            "seq": 4
+          },
+          {
+            "code": "T325",
+            "nameCht": "華寶花園",
+            "namePor": "Av. Olímpica / Edf. Va Pou",
+            "lat": 22.155558,
+            "lng": 113.555084,
+            "seq": 5
+          },
+          {
+            "code": "T339",
+            "nameCht": "花城公園",
+            "namePor": "Jardim Cidade das Flores",
+            "lat": 22.155853,
+            "lng": 113.55679,
+            "seq": 6
+          },
+          {
+            "code": "T317",
+            "nameCht": "雍景灣",
+            "namePor": "Kings Ville",
+            "lat": 22.156772,
+            "lng": 113.559377,
+            "seq": 7
+          },
+          {
+            "code": "T408",
+            "nameCht": "湖畔大廈",
+            "namePor": "Edifício do Lago",
+            "lat": 22.158409,
+            "lng": 113.561635,
+            "seq": 8
+          },
+          {
+            "code": "T343",
+            "nameCht": "高勵雅馬路",
+            "namePor": "Est. Alm. M. Correia",
+            "lat": 22.162055,
+            "lng": 113.561131,
+            "seq": 9
+          },
+          {
+            "code": "M51",
+            "nameCht": "東北大馬路/廣華",
+            "namePor": "Av. Nordeste / Kwong Wa",
+            "lat": 22.207695,
+            "lng": 113.556188,
+            "seq": 10
+          },
+          {
+            "code": "M233",
+            "nameCht": "東北大馬路/東華",
+            "namePor": "Av. Nordeste / Tong Wa",
+            "lat": 22.206821,
+            "lng": 113.555332,
+            "seq": 11
+          },
+          {
+            "code": "M35",
+            "nameCht": "慕拉士馬路/望廈",
+            "namePor": "Venc. Morais / Mong-Há",
+            "lat": 22.207005,
+            "lng": 113.552061,
+            "seq": 12
+          },
+          {
+            "code": "M28",
+            "nameCht": "黑沙環馬路",
+            "namePor": "Est. Areia Preta",
+            "lat": 22.208122,
+            "lng": 113.549751,
+            "seq": 13
+          },
+          {
+            "code": "M228",
+            "nameCht": "祐漢第二街",
+            "namePor": "Rua 2 Iao Hon",
+            "lat": 22.210741,
+            "lng": 113.550121,
+            "seq": 14
+          },
+          {
+            "code": "M223",
+            "nameCht": "長壽馬路",
+            "namePor": "Av. Longevidade",
+            "lat": 22.212786,
+            "lng": 113.551127,
+            "seq": 15
+          },
+          {
+            "code": "M225",
+            "nameCht": "看台街/騎士馬路",
+            "namePor": "R. da Tribuna / Est. dos Cavaleiros",
+            "lat": 22.213254,
+            "lng": 113.549406,
+            "seq": 16
+          },
+          {
+            "code": "M7",
+            "nameCht": "關閘馬路",
+            "namePor": "Istmo F. Amaral",
+            "lat": 22.212353,
+            "lng": 113.548544,
+            "seq": 17
+          },
+          {
+            "code": "M8",
+            "nameCht": "巴波沙大馬路",
+            "namePor": "Av. Artur de Tamagnini Barbosa",
+            "lat": 22.212546,
+            "lng": 113.547594,
+            "seq": 18
+          },
+          {
+            "code": "M63",
+            "nameCht": "紀念孫中山公園",
+            "namePor": "Parque M. Dr. Sun Yat Sen",
+            "lat": 22.215493,
+            "lng": 113.545776,
+            "seq": 19
+          },
+          {
+            "code": "M4",
+            "nameCht": "菜園涌邊街總站",
+            "namePor": "R. Marginal do Canal das Hortas / Terminal",
+            "lat": 22.213657,
+            "lng": 113.544863,
+            "seq": 20
+          }
+        ]
+      }
+    ],
+    "agency": {
+      "nameCht": "新福利",
+      "namePor": "TRANSMAC",
+      "phone": "28271122",
+      "website": "http://www.transmac.com.mo/"
     }
   },
   {
