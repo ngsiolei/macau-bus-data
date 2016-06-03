@@ -1568,13 +1568,6 @@
     "lng": 113.54669
   },
   {
-    "code": "M264",
-    "nameCht": "孫逸仙大馬路/漁人碼頭",
-    "namePor": "Av. Dr. Sun Yat-Sen / Fisherman's Wharf",
-    "lat": 22.190049,
-    "lng": 113.55588
-  },
-  {
     "code": "M265",
     "nameCht": "孫逸仙大馬路/友誼大馬路",
     "namePor": "Av. Dr. Sun Yat-Sen / Av. Amizade",
@@ -1827,13 +1820,6 @@
     "lng": 113.55038
   },
   {
-    "code": "T329",
-    "nameCht": "盧伯德圓形地",
-    "namePor": "Rotunda P. J. Silva Loureiro",
-    "lat": 22.15669,
-    "lng": 113.542872
-  },
-  {
     "code": "T330",
     "nameCht": "蘇利安圓形地",
     "namePor": "Rotunda Leonel Sousa",
@@ -2028,13 +2014,6 @@
     "namePor": "Rotunda Flor de Lotus - 2",
     "lat": 22.140129,
     "lng": 113.56327
-  },
-  {
-    "code": "T361",
-    "nameCht": "運動場道",
-    "namePor": "Avenida do Estádio",
-    "lat": 22.155839,
-    "lng": 113.55268
   },
   {
     "code": "T362",
@@ -2266,13 +2245,6 @@
     "namePor": "Centro de Aprendizagem e Exames de Condução",
     "lat": 22.150443,
     "lng": 113.575237
-  },
-  {
-    "code": "T405",
-    "nameCht": "海洋會所",
-    "namePor": "Ocean Club",
-    "lat": 22.163842,
-    "lng": 113.545474
   },
   {
     "code": "T406",
