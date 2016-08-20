@@ -2758,9 +2758,30 @@
     "lng": 113.556905
   },
   {
+    "code": "C685",
+    "nameCht": "聖路濟亞中心",
+    "namePor": "Centro de Santa Lucia",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "code": "C688",
+    "nameCht": "和諧廣場/業興大廈",
+    "namePor": "Al. da Harmonia / Edf. Ip Heng",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "code": "C689",
+    "nameCht": "和諧廣場/樂群樓",
+    "namePor": "Al. da Harmonia / Edf. Lok Kuan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "code": "C690",
-    "nameCht": "石排灣總站",
-    "namePor": "Seac Pai Van / Terminal",
+    "nameCht": "蝴蝶谷大馬路總站",
+    "namePor": "Av. Vale das Borboletas / Terminal",
     "lat": 22.129705,
     "lng": 113.562958
   },
@@ -2798,5 +2819,12 @@
     "namePor": "Parque de M. da Barragem de Ká-Hó",
     "lat": 22.133902,
     "lng": 113.578425
+  },
+  {
+    "code": "C696",
+    "nameCht": "九澳水庫郊野公園-2",
+    "namePor": "Parque de M. da Barragem de Ká-Hó - 2",
+    "lat": 0,
+    "lng": 0
   }
 ]
