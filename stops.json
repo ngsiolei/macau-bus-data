@@ -490,6 +490,13 @@
     "lng": 113.547304
   },
   {
+    "code": "M93",
+    "nameCht": "海擎天總站",
+    "namePor": "The Praia / Terminal",
+    "lat": 22.205692,
+    "lng": 113.541625
+  },
+  {
     "code": "M94",
     "nameCht": "沙梨頭南街/蘭花前地",
     "namePor": "Rua Sul do Patane / Praça das Orquideas",
@@ -2761,29 +2768,29 @@
     "code": "C685",
     "nameCht": "聖路濟亞中心",
     "namePor": "Centro de Santa Lucia",
-    "lat": 0,
-    "lng": 0
+    "lat": 22.130889,
+    "lng": 113.587691
   },
   {
     "code": "C688",
     "nameCht": "和諧廣場/業興大廈",
     "namePor": "Al. da Harmonia / Edf. Ip Heng",
-    "lat": 0,
-    "lng": 0
+    "lat": 22.12984,
+    "lng": 113.563059
   },
   {
     "code": "C689",
     "nameCht": "和諧廣場/樂群樓",
     "namePor": "Al. da Harmonia / Edf. Lok Kuan",
-    "lat": 0,
-    "lng": 0
+    "lat": 22.129839,
+    "lng": 113.562786
   },
   {
     "code": "C690",
     "nameCht": "蝴蝶谷大馬路總站",
     "namePor": "Av. Vale das Borboletas / Terminal",
-    "lat": 22.129705,
-    "lng": 113.562958
+    "lat": 22.128314,
+    "lng": 113.561994
   },
   {
     "code": "C691",
@@ -2824,7 +2831,7 @@
     "code": "C696",
     "nameCht": "九澳水庫郊野公園-2",
     "namePor": "Parque de M. da Barragem de Ká-Hó - 2",
-    "lat": 0,
-    "lng": 0
+    "lat": 22.13388,
+    "lng": 113.578489
   }
 ]
