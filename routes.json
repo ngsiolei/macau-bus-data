@@ -16626,12 +16626,20 @@
             "seq": 3
           },
           {
+            "code": "M244",
+            "nameCht": "中心街",
+            "namePor": "R. Direita do Hipódromo",
+            "lat": 22.21232,
+            "lng": 113.552069,
+            "seq": 4
+          },
+          {
             "code": "M219",
             "nameCht": "勞動節大馬路",
             "namePor": "Av. 1º de Maio",
             "lat": 22.209717,
             "lng": 113.555169,
-            "seq": 4
+            "seq": 5
           },
           {
             "code": "M235",
@@ -16639,7 +16647,7 @@
             "namePor": "Av. Nordeste / Poly Tex",
             "lat": 22.208918,
             "lng": 113.557199,
-            "seq": 5
+            "seq": 6
           },
           {
             "code": "T354",
@@ -16647,7 +16655,7 @@
             "namePor": "Serviços da Migração de Pac On",
             "lat": 22.163737,
             "lng": 113.571828,
-            "seq": 6
+            "seq": 7
           },
           {
             "code": "T344",
@@ -16655,7 +16663,7 @@
             "namePor": "Oficinas do Aeroporto",
             "lat": 22.161517,
             "lng": 113.57383,
-            "seq": 7
+            "seq": 8
           },
           {
             "code": "T356",
@@ -16663,7 +16671,7 @@
             "namePor": "Aeroporto de Macau",
             "lat": 22.158328,
             "lng": 113.574452,
-            "seq": 8
+            "seq": 9
           },
           {
             "code": "T358",
@@ -16671,7 +16679,7 @@
             "namePor": "Wai Long / MUST - Hospital",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 9
+            "seq": 10
           },
           {
             "code": "T373",
@@ -16679,7 +16687,7 @@
             "namePor": "Wai Long / MUST",
             "lat": 22.152199,
             "lng": 113.565021,
-            "seq": 10
+            "seq": 11
           },
           {
             "code": "T367",
@@ -16687,7 +16695,7 @@
             "namePor": "Est. Baia N. S. Esperança / Istmo",
             "lat": 22.15048,
             "lng": 113.562187,
-            "seq": 11
+            "seq": 12
           },
           {
             "code": "T394",
@@ -16695,7 +16703,7 @@
             "namePor": "Av. Cidade Nova / Venetian",
             "lat": 22.148979,
             "lng": 113.55811,
-            "seq": 12
+            "seq": 13
           },
           {
             "code": "T396",
@@ -16703,7 +16711,7 @@
             "namePor": "Av. Cidade Nova / Cotaiexpo",
             "lat": 22.143892,
             "lng": 113.557862,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "T359",
@@ -16711,7 +16719,7 @@
             "namePor": "Rotunda Flor de Lotus - 1",
             "lat": 22.138762,
             "lng": 113.564021,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "C688",
@@ -16719,7 +16727,7 @@
             "namePor": "Al. da Harmonia / Edf. Ip Heng",
             "lat": 22.12984,
             "lng": 113.563059,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "C690",
@@ -16727,7 +16735,7 @@
             "namePor": "Av. Vale das Borboletas / Terminal",
             "lat": 22.128314,
             "lng": 113.561994,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "C689",
@@ -16735,7 +16743,7 @@
             "namePor": "Al. da Harmonia / Edf. Lok Kuan",
             "lat": 22.129839,
             "lng": 113.562786,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T360",
@@ -16743,7 +16751,7 @@
             "namePor": "Rotunda Flor de Lotus - 2",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "T397",
@@ -16751,7 +16759,7 @@
             "namePor": "Rotunda de Cotai",
             "lat": 22.143889,
             "lng": 113.557654,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "T395",
@@ -16759,7 +16767,7 @@
             "namePor": "Av. Cidade Nova / Galaxy",
             "lat": 22.149121,
             "lng": 113.557922,
-            "seq": 20
+            "seq": 21
           },
           {
             "code": "T366",
@@ -16767,7 +16775,7 @@
             "namePor": "Est. Baia N. S. Esperança / Mangal",
             "lat": 22.150684,
             "lng": 113.562275,
-            "seq": 21
+            "seq": 22
           },
           {
             "code": "T374",
@@ -16775,7 +16783,7 @@
             "namePor": "LECM",
             "lat": 22.151825,
             "lng": 113.564419,
-            "seq": 22
+            "seq": 23
           },
           {
             "code": "T406",
@@ -16783,7 +16791,7 @@
             "namePor": "Rotunda do Aeroporto / Wai Long",
             "lat": 22.155069,
             "lng": 113.56806,
-            "seq": 23
+            "seq": 24
           },
           {
             "code": "M206",
@@ -16791,7 +16799,7 @@
             "namePor": "R. Nova Areia Preta / Edf. Kin Wa",
             "lat": 22.208448,
             "lng": 113.554416,
-            "seq": 24
+            "seq": 25
           },
           {
             "code": "M216",
@@ -16799,7 +16807,7 @@
             "namePor": "Av. Leste Hipódromo",
             "lat": 22.211811,
             "lng": 113.553879,
-            "seq": 25
+            "seq": 26
           },
           {
             "code": "M207",
@@ -16807,7 +16815,7 @@
             "namePor": "Av. Norte do Hipódromo",
             "lat": 22.214353,
             "lng": 113.553085,
-            "seq": 26
+            "seq": 27
           },
           {
             "code": "M63",
@@ -16815,7 +16823,7 @@
             "namePor": "Parque M. Dr. Sun Yat Sen",
             "lat": 22.215493,
             "lng": 113.545776,
-            "seq": 27
+            "seq": 28
           },
           {
             "code": "M65",
@@ -16823,7 +16831,7 @@
             "namePor": "Centro Inspecções de Veículos",
             "lat": 22.213237,
             "lng": 113.542778,
-            "seq": 28
+            "seq": 29
           },
           {
             "code": "M93",
@@ -16831,7 +16839,7 @@
             "namePor": "The Praia / Terminal",
             "lat": 22.205692,
             "lng": 113.541625,
-            "seq": 29
+            "seq": 30
           }
         ]
       }
