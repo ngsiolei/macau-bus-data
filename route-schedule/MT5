@@ -1,7 +1,7 @@
 MT5,0,07:00,10:00,8-12,weekdays
-MT5,0,10:00,16:00,15-20,weekdays
-MT5,0,16:00,20:00,8-12,weekdays
+MT5,0,10:00,16:00,20-25,weekdays
+MT5,0,16:00,21:00,8-12,weekdays
 MT5,0,07:00,10:00,8-12,weekends
-MT5,0,10:00,16:00,15-20,weekends
-MT5,0,16:00,20:00,8-12,weekends
-MT5,0,07:00,20:00,15-20,holidays
+MT5,0,10:00,16:00,20-25,weekends
+MT5,0,16:00,21:00,8-12,weekends
+MT5,0,,,,holidays
