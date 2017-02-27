@@ -20340,13 +20340,22 @@
             "seq": 4
           },
           {
+            "code": "M147_1",
+            "nameCht": "山頂醫院總站",
+            "namePor": "HOSPITAL S. JANUÁRIO / TERMINAL",
+            "parentCode": "M147",
+            "lat": 22.194129,
+            "lng": 113.546249,
+            "seq": 5
+          },
+          {
             "code": "T370_1",
             "nameCht": "基馬拉斯/濠珀",
             "namePor": "GUIMARÃES / NOVA PARK",
             "parentCode": "T370",
             "lat": 22.158014,
             "lng": 113.555572,
-            "seq": 5
+            "seq": 6
           },
           {
             "code": "C688_2",
@@ -20355,7 +20364,7 @@
             "parentCode": "C688",
             "lat": 22.129626,
             "lng": 113.563061,
-            "seq": 6
+            "seq": 7
           },
           {
             "code": "C690_1",
@@ -20364,7 +20373,7 @@
             "parentCode": "C690",
             "lat": 22.128314,
             "lng": 113.561994,
-            "seq": 7
+            "seq": 8
           }
         ]
       }
