@@ -5359,7 +5359,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agency": {
@@ -18968,13 +18968,13 @@
       "website": "http://www.newera.com.mo/"
     },
     "code": "59",
-    "nameCht": "聯生工業邨 ⇌ 關閘",
-    "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ⇌ PORTAS DO CERCO",
+    "nameCht": "聯生工業邨 ↻ 關閘",
+    "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ↻ PORTAS DO CERCO",
     "directions": [
       {
         "code": "59",
-        "nameCht": "聯生工業邨 ⇀ 關閘",
-        "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ⇀ PORTAS DO CERCO",
+        "nameCht": "聯生工業邨 ↻ 關閘",
+        "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ↻ PORTAS DO CERCO",
         "stops": [
           {
             "code": "C684_1",
@@ -19060,7 +19060,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agency": {
