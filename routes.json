@@ -172,8 +172,8 @@
       },
       {
         "code": "1",
-        "nameCht": "關閘 ⇀ 媽閣",
-        "namePor": "PORTAS DO CERCO ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 關閘",
+        "namePor": "BARRA ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M3_2",
@@ -443,8 +443,8 @@
       },
       {
         "code": "1A",
-        "nameCht": "筷子基 ⇀ 新口岸/科英布拉街",
-        "namePor": "FAI CHI KEI ⇀ NAPE / RUA DE COIMBRA",
+        "nameCht": "新口岸/科英布拉街 ⇀ 筷子基",
+        "namePor": "NAPE / RUA DE COIMBRA ⇀ FAI CHI KEI",
         "stops": [
           {
             "code": "M252_1",
@@ -759,8 +759,8 @@
       },
       {
         "code": "2",
-        "nameCht": "永寧廣場 ⇀ 媽閣",
-        "namePor": "AL. TRANQUILIDADE ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 永寧廣場",
+        "namePor": "BARRA ⇀ AL. TRANQUILIDADE",
         "stops": [
           {
             "code": "M3_1",
@@ -1057,8 +1057,8 @@
       },
       {
         "code": "2A",
-        "nameCht": "東方明珠 ⇀ 亞馬喇前地",
-        "namePor": "PÉROLA ORIENTAL ⇀ PRAÇA FERREIRA AMARAL",
+        "nameCht": "亞馬喇前地 ⇀ 東方明珠",
+        "namePor": "PRAÇA FERREIRA AMARAL ⇀ PÉROLA ORIENTAL",
         "stops": [
           {
             "code": "M172_3",
@@ -1373,8 +1373,8 @@
       },
       {
         "code": "3",
-        "nameCht": "關閘 ⇀ 外港碼頭",
-        "namePor": "PORTAS DO CERCO ⇀ TERMINAL MARÍTIMO",
+        "nameCht": "外港碼頭 ⇀ 關閘",
+        "namePor": "TERMINAL MARÍTIMO ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M239_1",
@@ -1716,8 +1716,8 @@
       },
       {
         "code": "3A",
-        "nameCht": "關閘 ⇀ 司打口",
-        "namePor": "PORTAS DO CERCO ⇀ P. PONTE HORTA",
+        "nameCht": "司打口 ⇀ 關閘",
+        "namePor": "P. PONTE HORTA ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M138_1",
@@ -2398,8 +2398,8 @@
       },
       {
         "code": "5",
-        "nameCht": "閘閘 ⇀ 媽閣",
-        "namePor": "PORTAS DO CERCO ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 閘閘",
+        "namePor": "BARRA ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M3_1",
@@ -3560,8 +3560,8 @@
       },
       {
         "code": "7",
-        "nameCht": "祐漢 ⇀ 媽閣",
-        "namePor": "IAO HON ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 祐漢",
+        "namePor": "BARRA ⇀ IAO HON",
         "stops": [
           {
             "code": "M3_1",
@@ -3849,8 +3849,8 @@
       },
       {
         "code": "7A",
-        "nameCht": "東方明珠 ⇀ 亞馬喇前地",
-        "namePor": "PÉROLA ORIENTAL ⇀ PRAÇA FERREIRA AMARAL",
+        "nameCht": "亞馬喇前地 ⇀ 東方明珠",
+        "namePor": "PRAÇA FERREIRA AMARAL ⇀ PÉROLA ORIENTAL",
         "stops": [
           {
             "code": "M172_3",
@@ -4201,8 +4201,8 @@
       },
       {
         "code": "8",
-        "nameCht": "青洲 ⇀ 回力",
-        "namePor": "EST. ILHA VERDE ⇀ JAI ALAI",
+        "nameCht": "回力 ⇀ 青洲",
+        "namePor": "JAI ALAI ⇀ EST. ILHA VERDE",
         "stops": [
           {
             "code": "M62_3",
@@ -5097,12 +5097,12 @@
     },
     "code": "9A",
     "nameCht": "關閘 ↻ 旅遊塔",
-    "namePor": "PORTAS DO CERCO ⇌ TORRE DE MACAU",
+    "namePor": "PORTAS DO CERCO ↻ TORRE DE MACAU",
     "directions": [
       {
         "code": "9A",
         "nameCht": "關閘 ↻ 旅遊塔",
-        "namePor": "PORTAS DO CERCO ⇀ TORRE DE MACAU",
+        "namePor": "PORTAS DO CERCO ↻ TORRE DE MACAU",
         "stops": [
           {
             "code": "M1_11",
@@ -5570,8 +5570,8 @@
       },
       {
         "code": "10",
-        "nameCht": "關閘 ⇀ 媽閣",
-        "namePor": "PORTAS DO CERCO ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 關閘",
+        "namePor": "BARRA ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M3_1",
@@ -5922,8 +5922,8 @@
       },
       {
         "code": "10A",
-        "nameCht": "外港媽頭 ⇀ 媽閣",
-        "namePor": "TERMINAL MARÍTIMO ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 外港媽頭",
+        "namePor": "BARRA ⇀ TERMINAL MARÍTIMO",
         "stops": [
           {
             "code": "M3_1",
@@ -7147,8 +7147,8 @@
       },
       {
         "code": "12",
-        "nameCht": "永寧廣場 ⇀ 外港碼頭",
-        "namePor": "AL. TRANQUILIDADE ⇀ TERMINAL MARÍTIMO",
+        "nameCht": "外港碼頭 ⇀ 永寧廣場",
+        "namePor": "TERMINAL MARÍTIMO ⇀ AL. TRANQUILIDADE",
         "stops": [
           {
             "code": "M239_2",
@@ -7634,8 +7634,8 @@
       },
       {
         "code": "15",
-        "nameCht": "海洋花園 ⇀ 九澳村",
-        "namePor": "JARDINS OCEANO ⇀ POVOAÇÃO DE KA-HÓ",
+        "nameCht": "九澳村 ⇀ 海洋花園",
+        "namePor": "POVOAÇÃO DE KA-HÓ ⇀ JARDINS OCEANO",
         "stops": [
           {
             "code": "C672_1",
@@ -8739,8 +8739,8 @@
       },
       {
         "code": "18",
-        "nameCht": "關閘 ⇀ 媽閣",
-        "namePor": "PORTAS DO CERCO ⇀ BARRA",
+        "nameCht": "媽閣 ⇀ 關閘",
+        "namePor": "BARRA ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M3_1",
@@ -9799,8 +9799,8 @@
       },
       {
         "code": "21A",
-        "nameCht": "媽閣 ⇀ 九澳油庫",
-        "namePor": "BARRA ⇀ T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ",
+        "nameCht": "九澳油庫 ⇀ 媽閣",
+        "namePor": "T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ ⇀ BARRA",
         "stops": [
           {
             "code": "C674_1",
@@ -11273,8 +11273,8 @@
       },
       {
         "code": "25",
-        "nameCht": "關閘 ⇀ 黑沙海灘",
-        "namePor": "PORTAS DO CERCO ⇀ PRAIA DE HAC SÁ",
+        "nameCht": "黑沙海灘 ⇀ 關閘",
+        "namePor": "PRAIA DE HAC SÁ ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "C669_1",
@@ -12429,8 +12429,8 @@
       },
       {
         "code": "26",
-        "nameCht": "筷子基北灣 ⇀ 路環市區",
-        "namePor": "BACIA NORTE DO PATANE ⇀ VILA DE COLOANE",
+        "nameCht": "路環市區 ⇀ 筷子基北灣",
+        "namePor": "VILA DE COLOANE ⇀ BACIA NORTE DO PATANE",
         "stops": [
           {
             "code": "C659_1",
@@ -13123,8 +13123,8 @@
       },
       {
         "code": "26A",
-        "nameCht": "筷子基北灣 ⇀ 黑沙海灘",
-        "namePor": "BACIA NORTE DO PATANE ⇀ PRAIA HAC SÁ",
+        "nameCht": "黑沙海灘 ⇀ 筷子基北灣",
+        "namePor": "PRAIA HAC SÁ ⇀ BACIA NORTE DO PATANE",
         "stops": [
           {
             "code": "C669_1",
@@ -14945,8 +14945,8 @@
       },
       {
         "code": "28C",
-        "nameCht": "關閘 ⇀ 回力",
-        "namePor": "PORTAS DO CERCO ⇀ JAI ALAI",
+        "nameCht": "回力 ⇀ 關閘",
+        "namePor": "JAI ALAI ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "M62_3",
@@ -16587,8 +16587,8 @@
       },
       {
         "code": "34",
-        "nameCht": "菜園涌邊街 ⇀ 海洋花園",
-        "namePor": "R. MARGINAL DO CANAL DAS HORTAS ⇀ JARDINS DO OCEANO",
+        "nameCht": "海洋花園 ⇀ 菜園涌邊街",
+        "namePor": "JARDINS DO OCEANO ⇀ R. MARGINAL DO CANAL DAS HORTAS",
         "stops": [
           {
             "code": "T336_1",
@@ -17662,8 +17662,8 @@
       },
       {
         "code": "50",
-        "nameCht": "亞馬喇前地 ⇀ 路環市區",
-        "namePor": "PRAÇA FERRIRA AMARAL ⇀ VILA DE COLOANE",
+        "nameCht": "路環市區 ⇀ 亞馬喇前地",
+        "namePor": "VILA DE COLOANE ⇀ PRAÇA FERRIRA AMARAL",
         "stops": [
           {
             "code": "C659_1",
@@ -17933,8 +17933,8 @@
       },
       {
         "code": "50X",
-        "nameCht": "亞馬喇前地 ⇀ 駕考中心",
-        "namePor": "PRAÇA FERRIRA AMARAL ⇀ CENTRO A. E EXAMES DE CONDUÇÃO",
+        "nameCht": "駕考中心 ⇀ 亞馬喇前地",
+        "namePor": "CENTRO A. E EXAMES DE CONDUÇÃO ⇀ PRAÇA FERRIRA AMARAL",
         "stops": [
           {
             "code": "T404_1",
@@ -18324,8 +18324,8 @@
       },
       {
         "code": "51A",
-        "nameCht": "海擎天 ⇀ 蝴蝶谷大馬路",
-        "namePor": "THE PRAIA ⇀ AV. VALE DAS BORBOLETAS",
+        "nameCht": "蝴蝶谷大馬路 ⇀ 海擎天",
+        "namePor": "AV. VALE DAS BORBOLETAS ⇀ THE PRAIA",
         "stops": [
           {
             "code": "C690_1",
@@ -18559,8 +18559,8 @@
       },
       {
         "code": "52",
-        "nameCht": "蝴蝶谷大馬路 ⇀ 亞馬喇前地",
-        "namePor": "AV. VALE DAS BORBOLETAS ⇀ PRAÇA FERREIRA AMARAL",
+        "nameCht": "亞馬喇前地 ⇀ 蝴蝶谷大馬路",
+        "namePor": "PRAÇA FERREIRA AMARAL ⇀ AV. VALE DAS BORBOLETAS",
         "stops": [
           {
             "code": "M172_5",
@@ -19154,8 +19154,8 @@
       },
       {
         "code": "71",
-        "nameCht": "澳大橫琴 ⇀ 亞馬喇前地",
-        "namePor": "UM DE HENGQIN ⇀ PRAÇA FERRIRA AMARAL",
+        "nameCht": "亞馬喇前地 ⇀ 澳大橫琴",
+        "namePor": "PRAÇA FERRIRA AMARAL ⇀ UM DE HENGQIN",
         "stops": [
           {
             "code": "M172_6",
@@ -21273,8 +21273,8 @@
       },
       {
         "code": "MT4",
-        "nameCht": "筷子基北灣 ⇀ 臨時客運碼頭",
-        "namePor": "RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO",
+        "nameCht": "臨時客運碼頭 ⇀ 筷子基北灣",
+        "namePor": " ⇀ RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO",
         "stops": [
           {
             "code": "T345_4",
@@ -22417,8 +22417,8 @@
       },
       {
         "code": "N2",
-        "nameCht": "筷子基北灣 ⇀ 臨時客運碼頭",
-        "namePor": "BACIA NORTE DO PATANE ⇀ TERMINAL MARÍTIMO PROVISÓRIO",
+        "nameCht": "臨時客運碼頭 ⇀ 筷子基北灣",
+        "namePor": "TERMINAL MARÍTIMO PROVISÓRIO ⇀ BACIA NORTE DO PATANE",
         "stops": [
           {
             "code": "T345_4",
@@ -22850,8 +22850,8 @@
       },
       {
         "code": "N3",
-        "nameCht": "媽閣 ⇀ 路環市區",
-        "namePor": "BARRA ⇀ VILA DE COLOANE",
+        "nameCht": "路環市區 ⇀ 媽閣",
+        "namePor": "VILA DE COLOANE ⇀ BARRA",
         "stops": [
           {
             "code": "C659_1",
@@ -23112,8 +23112,8 @@
       },
       {
         "code": "N4",
-        "nameCht": "工業園街 ⇀ 筷子基北灣",
-        "namePor": "R. DO PARQUE INDUSTRIAL ⇀ BACIA NORTE DO PATANE",
+        "nameCht": "筷子基北灣 ⇀ 工業園街",
+        "namePor": "BACIA NORTE DO PATANE ⇀ R. DO PARQUE INDUSTRIAL",
         "stops": [
           {
             "code": "M95_1",
@@ -23347,8 +23347,8 @@
       },
       {
         "code": "N5",
-        "nameCht": "亞馬喇前地 ⇀ 蝴蝶谷大馬路",
-        "namePor": "PRAÇA FERREIRA AMARAL ⇀ AV. VALE DAS BORBOLETAS",
+        "nameCht": "蝴蝶谷大馬路 ⇀ 亞馬喇前地",
+        "namePor": "AV. VALE DAS BORBOLETAS ⇀ PRAÇA FERREIRA AMARAL",
         "stops": [
           {
             "code": "C690_1",
