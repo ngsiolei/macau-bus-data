@@ -3359,13 +3359,13 @@
       "website": "http://www.tcm.com.mo/"
     },
     "code": "7",
-    "nameCht": "祐漢 ⇌ 媽閣",
-    "namePor": "IAO HON ⇌ BARRA",
+    "nameCht": "東方明珠 ⇌ 城市日前地",
+    "namePor": "PÉROLA ORIENTAL ⇌ PRACETA 24 DE JUNHO",
     "directions": [
       {
         "code": "7",
-        "nameCht": "祐漢 ⇀ 媽閣",
-        "namePor": "IAO HON ⇀ BARRA",
+        "nameCht": "東方明珠 ⇀ 城市日前地",
+        "namePor": "PÉROLA ORIENTAL ⇀ PRACETA 24 DE JUNHO",
         "stops": [
           {
             "code": "M2_1",
@@ -3506,8 +3506,8 @@
       },
       {
         "code": "7",
-        "nameCht": "媽閣 ⇀ 祐漢",
-        "namePor": "BARRA ⇀ IAO HON",
+        "nameCht": "城市日前地 ⇀ 東方明珠",
+        "namePor": "PRACETA 24 DE JUNHO ⇀ PÉROLA ORIENTAL",
         "stops": [
           {
             "code": "M268_1",
@@ -3674,19 +3674,6 @@
         ]
       }
     ],
-    "type": "2-way"
-  },
-  {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
-    "code": "7A",
-    "nameCht": "東方明珠 ⇌ 亞馬喇前地",
-    "namePor": "PÉROLA ORIENTAL ⇌ PRAÇA FERREIRA AMARAL",
-    "directions": [],
     "type": "2-way"
   },
   {
