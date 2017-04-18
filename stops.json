@@ -416,14 +416,6 @@
     "lng": 113.545025
   },
   {
-    "code": "M33_1",
-    "nameCht": "望廈體育館",
-    "namePor": "CAMPO DESPORTIVO MONG-HÁ",
-    "parentCode": "M33",
-    "lat": 22.207107,
-    "lng": 113.550671
-  },
-  {
     "code": "M35_1",
     "nameCht": "慕拉士馬路/望廈",
     "namePor": "VENC. MORAIS / MONG-HÁ",
@@ -625,11 +617,11 @@
   },
   {
     "code": "M65_1",
-    "nameCht": "驗車中心",
-    "namePor": "CENTRO INSPECÇÕES DE VEÍCULOS",
+    "nameCht": "何賢紳士大馬路",
+    "namePor": "AVENIDA DO COMENDADOR HO YIN",
     "parentCode": "M65",
-    "lat": 22.213237,
-    "lng": 113.542778
+    "lat": 22.213278,
+    "lng": 113.5428
   },
   {
     "code": "M66_1",
@@ -738,7 +730,7 @@
   {
     "code": "M81_1",
     "nameCht": "歸僑總會",
-    "namePor": "SACADURA CABRAL / TRAV. ULTRAMAR",
+    "namePor": "ASSOC GERAL DOS CHINESES ULTRAMARINOS",
     "parentCode": "M81",
     "lat": 22.200343,
     "lng": 113.545255
@@ -2064,20 +2056,12 @@
     "lng": 113.554301
   },
   {
-    "code": "M228_1_1",
-    "nameCht": "祐漢第二街",
-    "namePor": "RUA 2 IAO HON",
-    "parentCode": "M228_1",
-    "lat": 22.210741,
-    "lng": 113.550121
-  },
-  {
-    "code": "M228_2_1",
-    "nameCht": "祐漢第二街",
-    "namePor": "RUA 2 IAO HON",
-    "parentCode": "M228_2",
-    "lat": 22.211525,
-    "lng": 113.550242
+    "code": "M227_1",
+    "nameCht": "長壽大馬路/勝意樓",
+    "namePor": "AV. DA LONGEVIDADE / EDF. SENG YEE",
+    "parentCode": "M227",
+    "lat": 22.210639,
+    "lng": 113.550798
   },
   {
     "code": "M229_1",
@@ -2113,11 +2097,11 @@
   },
   {
     "code": "M232_1",
-    "nameCht": "黑沙環/政府綜合服務大樓",
-    "namePor": "AREIA PRETA / CENTRO DE SERVIÇOS DA RAEM",
+    "nameCht": "勞動節街/裕華",
+    "namePor": "RUA 1 DE MAIO / EDF. U WA",
     "parentCode": "M232",
-    "lat": 22.209156,
-    "lng": 113.553357
+    "lat": 22.209611,
+    "lng": 113.554241
   },
   {
     "code": "M233_1",
@@ -2528,20 +2512,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_1",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160903,
-    "lng": 113.556368
-  },
-  {
     "code": "T308_3_2",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160784,
     "lng": 113.556482
+  },
+  {
+    "code": "T308_3_1",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160903,
+    "lng": 113.556368
   },
   {
     "code": "T309_1",
