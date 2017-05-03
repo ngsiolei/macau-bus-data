@@ -24,14 +24,6 @@
     "lng": 113.549187
   },
   {
-    "code": "M1_4",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.214896,
-    "lng": 113.549039
-  },
-  {
     "code": "M1_5",
     "nameCht": "關閘總站",
     "namePor": "PORTAS DO CERCO / TERMINAL",
@@ -110,6 +102,14 @@
     "parentCode": "M1",
     "lat": 22.214996,
     "lng": 113.548868
+  },
+  {
+    "code": "M1_17",
+    "nameCht": "關閘總站",
+    "namePor": "PORTAS DO CERCO / TERMINA",
+    "parentCode": "M1",
+    "lat": 22.214972,
+    "lng": 113.549326
   },
   {
     "code": "M1_18",
@@ -558,6 +558,14 @@
     "parentCode": "M54",
     "lat": 22.203879,
     "lng": 113.554352
+  },
+  {
+    "code": "M55_1",
+    "nameCht": "東北大馬路/南澳",
+    "namePor": "AV. NORDESTE / NAM OU",
+    "parentCode": "M55",
+    "lat": 22.206123,
+    "lng": 113.554506
   },
   {
     "code": "M59_1",
@@ -2512,20 +2520,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_2",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160784,
-    "lng": 113.556482
-  },
-  {
     "code": "T308_3_1",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160903,
     "lng": 113.556368
+  },
+  {
+    "code": "T308_3_2",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160784,
+    "lng": 113.556482
   },
   {
     "code": "T309_1",
@@ -2720,6 +2728,14 @@
     "lng": 113.547791
   },
   {
+    "code": "T331_1",
+    "nameCht": "美景花園",
+    "namePor": "EDF. MEI KENG GARDEN",
+    "parentCode": "T331",
+    "lat": 22.156639,
+    "lng": 113.553356
+  },
+  {
     "code": "T332_1",
     "nameCht": "南新花園",
     "namePor": "EDF. NAM SUN",
@@ -2800,12 +2816,12 @@
     "lng": 113.55751
   },
   {
-    "code": "T340_1",
-    "nameCht": "亞威羅街",
-    "namePor": "RUA DE AVEIRO",
-    "parentCode": "T340",
-    "lat": 22.157519,
-    "lng": 113.553424
+    "code": "T339_2_2",
+    "nameCht": "花城公園",
+    "namePor": "JARDIM CIDADE DAS FLORES",
+    "parentCode": "T339_2",
+    "lat": 22.156317,
+    "lng": 113.557559
   },
   {
     "code": "T341_1",
@@ -3232,14 +3248,6 @@
     "lng": 113.568811
   },
   {
-    "code": "T401_1",
-    "nameCht": "拉哥斯街",
-    "namePor": "RUA DE LAGOS",
-    "parentCode": "T401",
-    "lat": 22.16076,
-    "lng": 113.55589
-  },
-  {
     "code": "T402_1",
     "nameCht": "泉澧花園",
     "namePor": "CHUN LAI GARDEN",
@@ -3502,6 +3510,14 @@
     "parentCode": "T432",
     "lat": 22.16379,
     "lng": 113.560896
+  },
+  {
+    "code": "T440_1",
+    "nameCht": "松樹尾總站",
+    "namePor": "CHUN SU MEI / TERMINAL",
+    "parentCode": "T440",
+    "lat": 22.154414,
+    "lng": 113.557405
   },
   {
     "code": "T550_1",
