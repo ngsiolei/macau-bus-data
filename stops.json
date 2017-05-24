@@ -2520,20 +2520,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_1",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160903,
-    "lng": 113.556368
-  },
-  {
     "code": "T308_3_2",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160784,
     "lng": 113.556482
+  },
+  {
+    "code": "T308_3_1",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160903,
+    "lng": 113.556368
   },
   {
     "code": "T309_1",
@@ -2553,11 +2553,11 @@
   },
   {
     "code": "T310_2",
-    "nameCht": "泉裕豪庭",
-    "namePor": "CHUN U VILLA",
+    "nameCht": "孫逸仙馬路/三家村(2016年9月24日取消)",
+    "namePor": "AV. DR. SUN YAT SEN / SAM KÁ",
     "parentCode": "T310",
-    "lat": 22.158736,
-    "lng": 113.558556
+    "lat": 22.157861,
+    "lng": 113.559376
   },
   {
     "code": "T311_1",
@@ -2857,32 +2857,32 @@
   },
   {
     "code": "T345_1",
-    "nameCht": "臨時客運碼頭",
-    "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+    "nameCht": "氹仔客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
     "lat": 22.162202,
     "lng": 113.5777
   },
   {
     "code": "T345_2",
-    "nameCht": "臨時客運碼頭",
-    "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+    "nameCht": "氹仔客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
     "lat": 22.162172,
     "lng": 113.577831
   },
   {
     "code": "T345_3",
-    "nameCht": "臨時客運碼頭",
-    "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+    "nameCht": "氹仔客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
     "lat": 22.162139,
     "lng": 113.57797
   },
   {
     "code": "T345_4",
-    "nameCht": "臨時客運碼頭",
-    "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+    "nameCht": "氹仔客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
     "lat": 22.162105,
     "lng": 113.578108
@@ -3304,14 +3304,6 @@
     "lng": 113.56115
   },
   {
-    "code": "T408_5",
-    "nameCht": "湖畔大廈",
-    "namePor": "EDIFÍCIO DO LAGO",
-    "parentCode": "T408",
-    "lat": 22.158801,
-    "lng": 113.561129
-  },
-  {
     "code": "T408_6",
     "nameCht": "湖畔大廈",
     "namePor": "EDIFÍCIO DO LAGO",
@@ -3689,19 +3681,19 @@
   },
   {
     "code": "C659_1",
-    "nameCht": "路環市區-2",
-    "namePor": "VILA DE COLOANE-2",
+    "nameCht": "路環街市",
+    "namePor": "MERCADO M. DE COLOANE",
     "parentCode": "C659",
-    "lat": 22.11777,
-    "lng": 113.552027
+    "lat": 22.117795,
+    "lng": 113.552048
   },
   {
     "code": "C660_1",
-    "nameCht": "路環市區-1",
-    "namePor": "VILA DE COLOANE-1",
+    "nameCht": "路環居民大會堂",
+    "namePor": "ASSOC. DE M. DE COLOANE",
     "parentCode": "C660",
-    "lat": 22.117976,
-    "lng": 113.552485
+    "lat": 22.117981,
+    "lng": 113.552503
   },
   {
     "code": "C661_1",
@@ -3902,6 +3894,14 @@
     "parentCode": "C685",
     "lat": 22.130889,
     "lng": 113.587691
+  },
+  {
+    "code": "C686_1",
+    "nameCht": "路環市區",
+    "namePor": "VILA DE COLOANE",
+    "parentCode": "C686",
+    "lat": 22.118113,
+    "lng": 113.551702
   },
   {
     "code": "C688_1",

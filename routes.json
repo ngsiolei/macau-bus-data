@@ -6438,12 +6438,12 @@
             "seq": 25
           },
           {
-            "code": "T408_5",
+            "code": "T408_9",
             "nameCht": "湖畔大廈",
             "namePor": "EDIFÍCIO DO LAGO",
             "parentCode": "T408",
-            "lat": 22.158801,
-            "lng": 113.561129,
+            "lat": 22.158679,
+            "lng": 113.561248,
             "seq": 26
           },
           {
@@ -7145,11 +7145,11 @@
           },
           {
             "code": "C660_1",
-            "nameCht": "路環市區-1",
-            "namePor": "VILA DE COLOANE-1",
+            "nameCht": "路環居民大會堂",
+            "namePor": "ASSOC. DE M. DE COLOANE",
             "parentCode": "C660",
-            "lat": 22.117976,
-            "lng": 113.552485,
+            "lat": 22.117981,
+            "lng": 113.552503,
             "seq": 19
           },
           {
@@ -7395,11 +7395,11 @@
           },
           {
             "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
+            "nameCht": "路環街市",
+            "namePor": "MERCADO M. DE COLOANE",
             "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "lat": 22.117795,
+            "lng": 113.552048,
             "seq": 13
           },
           {
@@ -9283,11 +9283,11 @@
           },
           {
             "code": "C660_1",
-            "nameCht": "路環市區-1",
-            "namePor": "VILA DE COLOANE-1",
+            "nameCht": "路環居民大會堂",
+            "namePor": "ASSOC. DE M. DE COLOANE",
             "parentCode": "C660",
-            "lat": 22.117976,
-            "lng": 113.552485,
+            "lat": 22.117981,
+            "lng": 113.552503,
             "seq": 21
           },
           {
@@ -9300,13 +9300,22 @@
             "seq": 22
           },
           {
+            "code": "C662_1",
+            "nameCht": "路環監獄-1",
+            "namePor": "CADEIA DE COLOANE - 1",
+            "parentCode": "C662",
+            "lat": 22.118015,
+            "lng": 113.555206,
+            "seq": 23
+          },
+          {
             "code": "C664_1",
             "nameCht": "竹灣泳池-1",
             "namePor": "EST. CHEOC VAN / PISCINA - 1",
             "parentCode": "C664",
             "lat": 22.114778,
             "lng": 113.557804,
-            "seq": 23
+            "seq": 24
           },
           {
             "code": "C666_1",
@@ -9315,7 +9324,7 @@
             "parentCode": "C666",
             "lat": 22.114168,
             "lng": 113.560143,
-            "seq": 24
+            "seq": 25
           },
           {
             "code": "C677_1",
@@ -9324,7 +9333,7 @@
             "parentCode": "C677",
             "lat": 22.114453,
             "lng": 113.562483,
-            "seq": 25
+            "seq": 26
           },
           {
             "code": "C667_1",
@@ -9333,7 +9342,7 @@
             "parentCode": "C667",
             "lat": 22.112945,
             "lng": 113.563538,
-            "seq": 26
+            "seq": 27
           },
           {
             "code": "C676_1",
@@ -9342,7 +9351,7 @@
             "parentCode": "C676",
             "lat": 22.113318,
             "lng": 113.566251,
-            "seq": 27
+            "seq": 28
           },
           {
             "code": "C680_1",
@@ -9351,7 +9360,7 @@
             "parentCode": "C680",
             "lat": 22.11633,
             "lng": 113.569538,
-            "seq": 28
+            "seq": 29
           },
           {
             "code": "C669_1",
@@ -9360,7 +9369,7 @@
             "parentCode": "C669",
             "lat": 22.118849,
             "lng": 113.569386,
-            "seq": 29
+            "seq": 30
           },
           {
             "code": "C693_1",
@@ -9369,7 +9378,7 @@
             "parentCode": "C693",
             "lat": 22.118029,
             "lng": 113.566291,
-            "seq": 30
+            "seq": 31
           },
           {
             "code": "C681_1",
@@ -9378,7 +9387,7 @@
             "parentCode": "C681",
             "lat": 22.123845,
             "lng": 113.570765,
-            "seq": 31
+            "seq": 32
           },
           {
             "code": "C671_1",
@@ -9387,7 +9396,7 @@
             "parentCode": "C671",
             "lat": 22.127008,
             "lng": 113.576108,
-            "seq": 32
+            "seq": 33
           },
           {
             "code": "C695_1",
@@ -9396,7 +9405,7 @@
             "parentCode": "C695",
             "lat": 22.133902,
             "lng": 113.578425,
-            "seq": 33
+            "seq": 34
           },
           {
             "code": "C673_1",
@@ -9405,7 +9414,7 @@
             "parentCode": "C673",
             "lat": 22.133576,
             "lng": 113.582454,
-            "seq": 34
+            "seq": 35
           },
           {
             "code": "C674_1",
@@ -9414,7 +9423,7 @@
             "parentCode": "C674",
             "lat": 22.133977,
             "lng": 113.589776,
-            "seq": 35
+            "seq": 36
           }
         ]
       },
@@ -9560,11 +9569,11 @@
           },
           {
             "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
+            "nameCht": "路環街市",
+            "namePor": "MERCADO M. DE COLOANE",
             "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "lat": 22.117795,
+            "lng": 113.552048,
             "seq": 16
           },
           {
@@ -10531,13 +10540,13 @@
       "website": "http://www.transmac.com.mo/"
     },
     "code": "25",
-    "nameCht": "關閘 ⇌ 黑沙海灘",
-    "namePor": "PORTAS DO CERCO ⇌ PRAIA DE HAC SÁ",
+    "nameCht": "關閘 ⇌ 路環市區",
+    "namePor": "PORTAS DO CERCO ⇌ VILA DE COLOANE",
     "directions": [
       {
         "code": "25",
-        "nameCht": "關閘 ⇀ 黑沙海灘",
-        "namePor": "PORTAS DO CERCO ⇀ PRAIA DE HAC SÁ",
+        "nameCht": "關閘 ⇀ 路環市區",
+        "namePor": "PORTAS DO CERCO ⇀ VILA DE COLOANE",
         "stops": [
           {
             "code": "M1_9",
@@ -10783,173 +10792,29 @@
             "seq": 27
           },
           {
-            "code": "C660_1",
-            "nameCht": "路環市區-1",
-            "namePor": "VILA DE COLOANE-1",
-            "parentCode": "C660",
-            "lat": 22.117976,
-            "lng": 113.552485,
+            "code": "C686_1",
+            "nameCht": "路環市區",
+            "namePor": "VILA DE COLOANE",
+            "parentCode": "C686",
+            "lat": 22.118113,
+            "lng": 113.551702,
             "seq": 28
-          },
-          {
-            "code": "C662_1",
-            "nameCht": "路環監獄-1",
-            "namePor": "CADEIA DE COLOANE - 1",
-            "parentCode": "C662",
-            "lat": 22.118015,
-            "lng": 113.555206,
-            "seq": 29
-          },
-          {
-            "code": "C664_1",
-            "nameCht": "竹灣泳池-1",
-            "namePor": "EST. CHEOC VAN / PISCINA - 1",
-            "parentCode": "C664",
-            "lat": 22.114778,
-            "lng": 113.557804,
-            "seq": 30
-          },
-          {
-            "code": "C666_1",
-            "nameCht": "竹灣馬路-1",
-            "namePor": "EST. CHEOC VAN-1",
-            "parentCode": "C666",
-            "lat": 22.114168,
-            "lng": 113.560143,
-            "seq": 31
-          },
-          {
-            "code": "C677_1",
-            "nameCht": "竹灣燒烤公園-1",
-            "namePor": "CHEOC VAN / PICNIC-1",
-            "parentCode": "C677",
-            "lat": 22.114453,
-            "lng": 113.562483,
-            "seq": 32
-          },
-          {
-            "code": "C667_1",
-            "nameCht": "竹灣海灘-1",
-            "namePor": "PRAIA CHEOC VAN - 1",
-            "parentCode": "C667",
-            "lat": 22.112945,
-            "lng": 113.563538,
-            "seq": 33
-          },
-          {
-            "code": "C676_1",
-            "nameCht": "竹灣豪園-1",
-            "namePor": "VILA CHOK WAN HOU UN-1",
-            "parentCode": "C676",
-            "lat": 22.113318,
-            "lng": 113.566251,
-            "seq": 34
-          },
-          {
-            "code": "C680_1",
-            "nameCht": "黑沙/海蘭花苑",
-            "namePor": "HAC SÁ / EDF. HELLENE GARDEN",
-            "parentCode": "C680",
-            "lat": 22.11633,
-            "lng": 113.569538,
-            "seq": 35
-          },
-          {
-            "code": "C669_1",
-            "nameCht": "黑沙海灘",
-            "namePor": "PRAIA DE HAC SÁ",
-            "parentCode": "C669",
-            "lat": 22.118849,
-            "lng": 113.569386,
-            "seq": 36
           }
         ]
       },
       {
         "code": "25",
-        "nameCht": "黑沙海灘 ⇀ 關閘",
-        "namePor": "PRAIA DE HAC SÁ ⇀ PORTAS DO CERCO",
+        "nameCht": "路環市區 ⇀ 關閘",
+        "namePor": "VILA DE COLOANE ⇀ PORTAS DO CERCO",
         "stops": [
           {
-            "code": "C669_1",
-            "nameCht": "黑沙海灘",
-            "namePor": "PRAIA DE HAC SÁ",
-            "parentCode": "C669",
-            "lat": 22.118849,
-            "lng": 113.569386,
+            "code": "C686_1",
+            "nameCht": "路環市區",
+            "namePor": "VILA DE COLOANE",
+            "parentCode": "C686",
+            "lat": 22.118113,
+            "lng": 113.551702,
             "seq": 1
-          },
-          {
-            "code": "C658_1",
-            "nameCht": "黑沙青年旅舍",
-            "namePor": "POUSADA DE JUVENTUDE DE HAC SÁ",
-            "parentCode": "C658",
-            "lat": 22.116481,
-            "lng": 113.569608,
-            "seq": 2
-          },
-          {
-            "code": "C675_1",
-            "nameCht": "竹灣豪園-2",
-            "namePor": "VILA CHOK WAN HOU UN-2",
-            "parentCode": "C675",
-            "lat": 22.113174,
-            "lng": 113.566673,
-            "seq": 3
-          },
-          {
-            "code": "C668_1",
-            "nameCht": "竹灣海灘-2",
-            "namePor": "PRAIA CHEOC VAN - 2",
-            "parentCode": "C668",
-            "lat": 22.112851,
-            "lng": 113.563471,
-            "seq": 4
-          },
-          {
-            "code": "C678_1",
-            "nameCht": "竹灣燒烤公園-2",
-            "namePor": "CHEOC VAN / PICNIC-2",
-            "parentCode": "C678",
-            "lat": 22.113661,
-            "lng": 113.562677,
-            "seq": 5
-          },
-          {
-            "code": "C665_1",
-            "nameCht": "竹灣馬路-2",
-            "namePor": "EST. CHEOC VAN-2",
-            "parentCode": "C665",
-            "lat": 22.11423,
-            "lng": 113.560381,
-            "seq": 6
-          },
-          {
-            "code": "C663_1",
-            "nameCht": "竹灣泳池-2",
-            "namePor": "EST. CHEOC VAN / PISCINA - 2",
-            "parentCode": "C663",
-            "lat": 22.114574,
-            "lng": 113.55796,
-            "seq": 7
-          },
-          {
-            "code": "C661_1",
-            "nameCht": "路環監獄-2",
-            "namePor": "CADEIA DE COLOANE - 2",
-            "parentCode": "C661",
-            "lat": 22.117951,
-            "lng": 113.555241,
-            "seq": 8
-          },
-          {
-            "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
-            "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
-            "seq": 9
           },
           {
             "code": "C656_1",
@@ -10958,7 +10823,7 @@
             "parentCode": "C656",
             "lat": 22.120534,
             "lng": 113.553447,
-            "seq": 10
+            "seq": 2
           },
           {
             "code": "C654_1",
@@ -10967,7 +10832,7 @@
             "parentCode": "C654",
             "lat": 22.125044,
             "lng": 113.554661,
-            "seq": 11
+            "seq": 3
           },
           {
             "code": "C653_1",
@@ -10976,7 +10841,7 @@
             "parentCode": "C653",
             "lat": 22.128489,
             "lng": 113.558698,
-            "seq": 12
+            "seq": 4
           },
           {
             "code": "C692_1",
@@ -10985,7 +10850,7 @@
             "parentCode": "C692",
             "lat": 22.129422,
             "lng": 113.561105,
-            "seq": 13
+            "seq": 5
           },
           {
             "code": "C689_1",
@@ -10994,7 +10859,7 @@
             "parentCode": "C689",
             "lat": 22.12963,
             "lng": 113.562788,
-            "seq": 14
+            "seq": 6
           },
           {
             "code": "T357_1",
@@ -11003,7 +10868,7 @@
             "parentCode": "T357",
             "lat": 22.138979,
             "lng": 113.55962,
-            "seq": 15
+            "seq": 7
           },
           {
             "code": "T360_1",
@@ -11012,7 +10877,7 @@
             "parentCode": "T360",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 16
+            "seq": 8
           },
           {
             "code": "T376_1",
@@ -11021,7 +10886,7 @@
             "parentCode": "T376",
             "lat": 22.144692,
             "lng": 113.563503,
-            "seq": 17
+            "seq": 9
           },
           {
             "code": "T306_1",
@@ -11030,7 +10895,7 @@
             "parentCode": "T306",
             "lat": 22.153264,
             "lng": 113.563003,
-            "seq": 18
+            "seq": 10
           },
           {
             "code": "T314_2",
@@ -11039,7 +10904,7 @@
             "parentCode": "T314",
             "lat": 22.15639,
             "lng": 113.55987,
-            "seq": 19
+            "seq": 11
           },
           {
             "code": "T311_1",
@@ -11048,7 +10913,7 @@
             "parentCode": "T311",
             "lat": 22.157876,
             "lng": 113.559238,
-            "seq": 20
+            "seq": 12
           },
           {
             "code": "T308_1",
@@ -11057,7 +10922,7 @@
             "parentCode": "T308",
             "lat": 22.160619,
             "lng": 113.55664,
-            "seq": 21
+            "seq": 13
           },
           {
             "code": "T300_1",
@@ -11066,7 +10931,7 @@
             "parentCode": "T300",
             "lat": 22.16266,
             "lng": 113.552686,
-            "seq": 22
+            "seq": 14
           },
           {
             "code": "T330_1",
@@ -11075,7 +10940,7 @@
             "parentCode": "T330",
             "lat": 22.1639,
             "lng": 113.549802,
-            "seq": 23
+            "seq": 15
           },
           {
             "code": "M172_11",
@@ -11084,7 +10949,7 @@
             "parentCode": "M172",
             "lat": 22.188908,
             "lng": 113.543094,
-            "seq": 24
+            "seq": 16
           },
           {
             "code": "M69_1",
@@ -11093,7 +10958,7 @@
             "parentCode": "M69",
             "lat": 22.1892,
             "lng": 113.544779,
-            "seq": 25
+            "seq": 17
           },
           {
             "code": "M160_1",
@@ -11102,7 +10967,7 @@
             "parentCode": "M160",
             "lat": 22.190885,
             "lng": 113.546237,
-            "seq": 26
+            "seq": 18
           },
           {
             "code": "M169_1",
@@ -11111,7 +10976,7 @@
             "parentCode": "M169",
             "lat": 22.191855,
             "lng": 113.543958,
-            "seq": 27
+            "seq": 19
           },
           {
             "code": "M144_2",
@@ -11120,7 +10985,7 @@
             "parentCode": "M144",
             "lat": 22.193795,
             "lng": 113.543384,
-            "seq": 28
+            "seq": 20
           },
           {
             "code": "M76_2",
@@ -11129,7 +10994,7 @@
             "parentCode": "M76",
             "lat": 22.200173,
             "lng": 113.548284,
-            "seq": 29
+            "seq": 21
           },
           {
             "code": "M84_1",
@@ -11138,7 +11003,7 @@
             "parentCode": "M84",
             "lat": 22.201611,
             "lng": 113.548396,
-            "seq": 30
+            "seq": 22
           },
           {
             "code": "M91_1",
@@ -11147,7 +11012,7 @@
             "parentCode": "M91",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 31
+            "seq": 23
           },
           {
             "code": "M14_1",
@@ -11156,7 +11021,7 @@
             "parentCode": "M14",
             "lat": 22.207795,
             "lng": 113.546059,
-            "seq": 32
+            "seq": 24
           },
           {
             "code": "M8_1",
@@ -11165,7 +11030,7 @@
             "parentCode": "M8",
             "lat": 22.212753,
             "lng": 113.547588,
-            "seq": 33
+            "seq": 25
           },
           {
             "code": "M1_9",
@@ -11174,7 +11039,7 @@
             "parentCode": "M1",
             "lat": 22.215152,
             "lng": 113.548896,
-            "seq": 34
+            "seq": 26
           }
         ]
       }
@@ -11660,13 +11525,13 @@
       "website": "http://www.transmac.com.mo/"
     },
     "code": "26",
-    "nameCht": "筷子基北灣 ⇌ 路環市區",
-    "namePor": "BACIA NORTE DO PATANE ⇌ VILA DE COLOANE",
+    "nameCht": "筷子基北灣 ⇌ 路環街市",
+    "namePor": "BACIA NORTE DO PATANE ⇌ MERCADO M> DE COLOANE",
     "directions": [
       {
         "code": "26",
-        "nameCht": "筷子基北灣 ⇀ 路環市區",
-        "namePor": "BACIA NORTE DO PATANE ⇀ VILA DE COLOANE",
+        "nameCht": "筷子基北灣 ⇀ 路環街市",
+        "namePor": "BACIA NORTE DO PATANE ⇀ MERCADO M> DE COLOANE",
         "stops": [
           {
             "code": "M95_2",
@@ -11886,8 +11751,8 @@
           },
           {
             "code": "T345_2",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162172,
             "lng": 113.577831,
@@ -12012,27 +11877,27 @@
           },
           {
             "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
+            "nameCht": "路環街市",
+            "namePor": "MERCADO M. DE COLOANE",
             "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "lat": 22.117795,
+            "lng": 113.552048,
             "seq": 39
           }
         ]
       },
       {
         "code": "26",
-        "nameCht": "路環市區 ⇀ 筷子基北灣",
-        "namePor": "VILA DE COLOANE ⇀ BACIA NORTE DO PATANE",
+        "nameCht": "路環街市 ⇀ 筷子基北灣",
+        "namePor": "MERCADO M> DE COLOANE ⇀ BACIA NORTE DO PATANE",
         "stops": [
           {
             "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
+            "nameCht": "路環街市",
+            "namePor": "MERCADO M. DE COLOANE",
             "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "lat": 22.117795,
+            "lng": 113.552048,
             "seq": 1
           },
           {
@@ -12127,8 +11992,8 @@
           },
           {
             "code": "T345_3",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162139,
             "lng": 113.57797,
@@ -12634,11 +12499,11 @@
           },
           {
             "code": "C660_1",
-            "nameCht": "路環市區-1",
-            "namePor": "VILA DE COLOANE-1",
+            "nameCht": "路環居民大會堂",
+            "namePor": "ASSOC. DE M. DE COLOANE",
             "parentCode": "C660",
-            "lat": 22.117976,
-            "lng": 113.552485,
+            "lat": 22.117981,
+            "lng": 113.552503,
             "seq": 30
           },
           {
@@ -12794,11 +12659,11 @@
           },
           {
             "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
+            "nameCht": "路環街市",
+            "namePor": "MERCADO M. DE COLOANE",
             "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "lat": 22.117795,
+            "lng": 113.552048,
             "seq": 9
           },
           {
@@ -16777,8 +16642,8 @@
           },
           {
             "code": "T345_1",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162202,
             "lng": 113.5777,
@@ -16923,13 +16788,13 @@
       "website": "http://www.transmac.com.mo/"
     },
     "code": "37",
-    "nameCht": "拉哥斯街 ↻ 氹仔東北",
-    "namePor": "RUA DE LAGOS ↻ NORDESTE DA TAIPA",
+    "nameCht": "松樹尾 ↻ 氹仔東北",
+    "namePor": "CHUN SU MEI ↻ NORDESTE DA TAIPA",
     "directions": [
       {
         "code": "37",
-        "nameCht": "拉哥斯街 ↻ 氹仔東北",
-        "namePor": "RUA DE LAGOS ↻ NORDESTE DA TAIPA",
+        "nameCht": "松樹尾 ↻ 氹仔東北",
+        "namePor": "CHUN SU MEI ↻ NORDESTE DA TAIPA",
         "stops": [
           {
             "code": "T440_1",
@@ -17361,12 +17226,12 @@
             "seq": 17
           },
           {
-            "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
-            "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "code": "C686_1",
+            "nameCht": "路環市區",
+            "namePor": "VILA DE COLOANE",
+            "parentCode": "C686",
+            "lat": 22.118113,
+            "lng": 113.551702,
             "seq": 18
           }
         ]
@@ -17377,12 +17242,12 @@
         "namePor": "VILA DE COLOANE ⇀ PRAÇA FERRIRA AMARAL",
         "stops": [
           {
-            "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
-            "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "code": "C686_1",
+            "nameCht": "路環市區",
+            "namePor": "VILA DE COLOANE",
+            "parentCode": "C686",
+            "lat": 22.118113,
+            "lng": 113.551702,
             "seq": 1
           },
           {
@@ -18541,13 +18406,13 @@
       "website": "http://www.tcm.com.mo/"
     },
     "code": "56",
-    "nameCht": "蝴蝶谷大馬路 ↻ 外港碼頭",
-    "namePor": "AV. VALE DAS BORBOLETAS ↻ TERMINAL MARÍTIMO",
+    "nameCht": "蝴蝶谷大馬路 ↻ 高士德",
+    "namePor": "AV. VALE DAS BORBOLETAS ↻ HORTA E COSTA",
     "directions": [
       {
         "code": "56",
-        "nameCht": "蝴蝶谷大馬路 ↻ 外港碼頭",
-        "namePor": "AV. VALE DAS BORBOLETAS ↻ TERMINAL MARÍTIMO",
+        "nameCht": "蝴蝶谷大馬路 ↻ 高士德",
+        "namePor": "AV. VALE DAS BORBOLETAS ↻ HORTA E COSTA",
         "stops": [
           {
             "code": "C690_1",
@@ -18586,13 +18451,31 @@
             "seq": 4
           },
           {
+            "code": "T306_1",
+            "nameCht": "氹仔嘉樂庇馬路",
+            "namePor": "EST. GOV. NOBRE CARVALHO",
+            "parentCode": "T306",
+            "lat": 22.153264,
+            "lng": 113.563003,
+            "seq": 5
+          },
+          {
+            "code": "T314_2",
+            "nameCht": "亞利雅架前地/泉悅",
+            "namePor": "LARGO OUVIDOR ARRIAGA / CHUN IUT",
+            "parentCode": "T314",
+            "lat": 22.15639,
+            "lng": 113.55987,
+            "seq": 6
+          },
+          {
             "code": "T408_8",
             "nameCht": "湖畔大廈",
             "namePor": "EDIFÍCIO DO LAGO",
             "parentCode": "T408",
             "lat": 22.158692,
             "lng": 113.561117,
-            "seq": 5
+            "seq": 7
           },
           {
             "code": "T343_1",
@@ -18601,7 +18484,7 @@
             "parentCode": "T343",
             "lat": 22.162045,
             "lng": 113.561148,
-            "seq": 6
+            "seq": 8
           },
           {
             "code": "M239_2",
@@ -18610,7 +18493,7 @@
             "parentCode": "M239",
             "lat": 22.198089,
             "lng": 113.559575,
-            "seq": 7
+            "seq": 9
           },
           {
             "code": "M254_2",
@@ -18619,7 +18502,52 @@
             "parentCode": "M254",
             "lat": 22.194779,
             "lng": 113.554791,
-            "seq": 8
+            "seq": 10
+          },
+          {
+            "code": "M117_1",
+            "nameCht": "羅理基/馬六甲街",
+            "namePor": "AV. R. RODRIGUES / HOTEL NAM YUE",
+            "parentCode": "M117",
+            "lat": 22.19623,
+            "lng": 113.552731,
+            "seq": 11
+          },
+          {
+            "code": "M155_1",
+            "nameCht": "東方拱門",
+            "namePor": "ARCO ORIENTE",
+            "parentCode": "M155",
+            "lat": 22.193858,
+            "lng": 113.549843,
+            "seq": 12
+          },
+          {
+            "code": "M92_1",
+            "nameCht": "俾利喇/高士德",
+            "namePor": "XAVIER PEREIRA / HORTA E COSTA",
+            "parentCode": "M92",
+            "lat": 22.203206,
+            "lng": 113.547304,
+            "seq": 13
+          },
+          {
+            "code": "M272_1",
+            "nameCht": "愉景花園",
+            "namePor": "SUNNY VIEW GARDEN",
+            "parentCode": "M272",
+            "lat": 22.204513,
+            "lng": 113.549409,
+            "seq": 14
+          },
+          {
+            "code": "M61_2",
+            "nameCht": "二龍喉公園",
+            "namePor": "JARDIM FLORA",
+            "parentCode": "M61",
+            "lat": 22.200904,
+            "lng": 113.550694,
+            "seq": 15
           },
           {
             "code": "T342_1",
@@ -18628,7 +18556,7 @@
             "parentCode": "T342",
             "lat": 22.162297,
             "lng": 113.561697,
-            "seq": 9
+            "seq": 16
           },
           {
             "code": "T409_1",
@@ -18637,7 +18565,25 @@
             "parentCode": "T409",
             "lat": 22.15874,
             "lng": 113.562122,
-            "seq": 10
+            "seq": 17
+          },
+          {
+            "code": "T313_1",
+            "nameCht": "氹仔茵景園",
+            "namePor": "EDF. GREENVILLE",
+            "parentCode": "T313",
+            "lat": 22.156125,
+            "lng": 113.55992,
+            "seq": 18
+          },
+          {
+            "code": "T315_1",
+            "nameCht": "氹仔CEM貨倉",
+            "namePor": "NOBRE CARVALHO / ARMAZEM CEM",
+            "parentCode": "T315",
+            "lat": 22.154661,
+            "lng": 113.561381,
+            "seq": 19
           },
           {
             "code": "T375_1",
@@ -18646,7 +18592,7 @@
             "parentCode": "T375",
             "lat": 22.149332,
             "lng": 113.563982,
-            "seq": 11
+            "seq": 20
           },
           {
             "code": "T379_1",
@@ -18655,7 +18601,7 @@
             "parentCode": "T379",
             "lat": 22.14382,
             "lng": 113.563717,
-            "seq": 12
+            "seq": 21
           },
           {
             "code": "C688_2",
@@ -18664,7 +18610,7 @@
             "parentCode": "C688",
             "lat": 22.129626,
             "lng": 113.563061,
-            "seq": 13
+            "seq": 22
           },
           {
             "code": "C690_1",
@@ -18673,7 +18619,7 @@
             "parentCode": "C690",
             "lat": 22.128314,
             "lng": 113.561994,
-            "seq": 14
+            "seq": 23
           }
         ]
       }
@@ -18688,13 +18634,13 @@
       "website": "http://www.newera.com.mo/"
     },
     "code": "59",
-    "nameCht": "聯生工業邨 ↻ 關閘",
-    "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ↻ PORTAS DO CERCO",
+    "nameCht": "關閘 ⇌ 聯生工業邨",
+    "namePor": "PORTAS DO CERCO ⇌ PARQUE INDUSTRIAL DA CONCÓRDIA",
     "directions": [
       {
         "code": "59",
-        "nameCht": "聯生工業邨 ↻ 關閘",
-        "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ↻ PORTAS DO CERCO",
+        "nameCht": "關閘 ⇀ 聯生工業邨",
+        "namePor": "PORTAS DO CERCO ⇀ PARQUE INDUSTRIAL DA CONCÓRDIA",
         "stops": [
           {
             "code": "M9_1",
@@ -18754,8 +18700,8 @@
       },
       {
         "code": "59",
-        "nameCht": " ⇀ 聯生工業邨 ↻ 關閘",
-        "namePor": " ⇀ PARQUE INDUSTRIAL DA CONCÓRDIA ↻ PORTAS DO CERCO",
+        "nameCht": "聯生工業邨 ⇀ 關閘",
+        "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ⇀ PORTAS DO CERCO",
         "stops": [
           {
             "code": "C684_1",
@@ -18796,7 +18742,7 @@
         ]
       }
     ],
-    "type": "circular"
+    "type": "2-way"
   },
   {
     "agency": {
@@ -19570,8 +19516,8 @@
           },
           {
             "code": "T345_4",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162105,
             "lng": 113.578108,
@@ -20251,8 +20197,8 @@
           },
           {
             "code": "T345_1",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162202,
             "lng": 113.5777,
@@ -20415,13 +20361,13 @@
       "website": "http://www.newera.com.mo/"
     },
     "code": "MT2",
-    "nameCht": "城市日前地 ↻ 澳門機場",
-    "namePor": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU",
+    "nameCht": "城市日前地 ↻ 運動場圓形地",
+    "namePor": "PRACETA 24 DE JUNHO ↻ ROTUNDA DO ESTÁDIO",
     "directions": [
       {
         "code": "MT2",
-        "nameCht": "城市日前地 ↻ 澳門機場",
-        "namePor": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU",
+        "nameCht": "城市日前地 ↻ 運動場圓形地",
+        "namePor": "PRACETA 24 DE JUNHO ↻ ROTUNDA DO ESTÁDIO",
         "stops": [
           {
             "code": "M268_1",
@@ -20781,13 +20727,13 @@
       "website": "http://www.transmac.com.mo/"
     },
     "code": "MT4",
-    "nameCht": "筷子基北灣 ⇌ 臨時客運碼頭",
-    "namePor": "RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO",
+    "nameCht": "筷子基北灣 ⇌ 氹仔客運碼頭",
+    "namePor": "RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO DA TAIPA",
     "directions": [
       {
         "code": "MT4",
-        "nameCht": "筷子基北灣 ⇀ 臨時客運碼頭",
-        "namePor": "RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO",
+        "nameCht": "筷子基北灣 ⇀ 氹仔客運碼頭",
+        "namePor": "RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO DA TAIPA",
         "stops": [
           {
             "code": "M1_18",
@@ -21007,8 +20953,8 @@
           },
           {
             "code": "T345_4",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162105,
             "lng": 113.578108,
@@ -21018,13 +20964,13 @@
       },
       {
         "code": "MT4",
-        "nameCht": "臨時客運碼頭 ⇀ 筷子基北灣",
-        "namePor": " ⇀ RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO",
+        "nameCht": "氹仔客運碼頭 ⇀ 筷子基北灣",
+        "namePor": " ⇀ RUA NORTE DO PATANE ↻ TERMINAL MARÍTIMO PROVISÓRIO DA TAIPA",
         "stops": [
           {
             "code": "T345_4",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162105,
             "lng": 113.578108,
@@ -22151,8 +22097,8 @@
           },
           {
             "code": "T345_4",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162105,
             "lng": 113.578108,
@@ -22167,8 +22113,8 @@
         "stops": [
           {
             "code": "T345_4",
-            "nameCht": "臨時客運碼頭",
-            "namePor": "TERMINAL MARÍTIMO PROVISÓRIO",
+            "nameCht": "氹仔客運碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162105,
             "lng": 113.578108,
@@ -22412,22 +22358,13 @@
             "seq": 1
           },
           {
-            "code": "M183_2",
-            "nameCht": "河邊新街/凱泉灣",
-            "namePor": "ALM. SÉRGIO / RIVIERA MACAU",
-            "parentCode": "M183",
-            "lat": 22.190522,
-            "lng": 113.533405,
-            "seq": 2
-          },
-          {
             "code": "M140_1",
             "nameCht": "河邊新街/ 李道巷",
             "namePor": "ALM. SERGIO / TRAV. LIDO",
             "parentCode": "M140",
             "lat": 22.192265,
             "lng": 113.534528,
-            "seq": 3
+            "seq": 2
           },
           {
             "code": "M137_1",
@@ -22436,7 +22373,7 @@
             "parentCode": "M137",
             "lat": 22.194724,
             "lng": 113.535773,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "M135_1",
@@ -22445,25 +22382,25 @@
             "parentCode": "M135",
             "lat": 22.194835,
             "lng": 113.538272,
-            "seq": 5
+            "seq": 4
           },
           {
-            "code": "M170_2",
+            "code": "M170_1",
             "nameCht": "殷皇子馬路",
             "namePor": "AV.INFANTE D. HENRIQUE",
             "parentCode": "M170",
-            "lat": 22.191489,
-            "lng": 113.54182,
-            "seq": 6
+            "lat": 22.191621,
+            "lng": 113.541683,
+            "seq": 5
           },
           {
-            "code": "M172_8",
+            "code": "M172_10",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
-            "seq": 7
+            "lat": 22.189314,
+            "lng": 113.54305,
+            "seq": 6
           },
           {
             "code": "T403_1",
@@ -22472,7 +22409,7 @@
             "parentCode": "T403",
             "lat": 22.162749,
             "lng": 113.553651,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "T402_1",
@@ -22481,16 +22418,16 @@
             "parentCode": "T402",
             "lat": 22.161258,
             "lng": 113.556167,
-            "seq": 9
+            "seq": 8
           },
           {
-            "code": "T309_1",
-            "nameCht": "泉亮花園",
-            "namePor": "EDF. CHUN LUEN",
-            "parentCode": "T309",
-            "lat": 22.159096,
-            "lng": 113.558219,
-            "seq": 10
+            "code": "T310_2",
+            "nameCht": "孫逸仙馬路/三家村(2016年9月24日取消)",
+            "namePor": "AV. DR. SUN YAT SEN / SAM KÁ",
+            "parentCode": "T310",
+            "lat": 22.157861,
+            "lng": 113.559376,
+            "seq": 9
           },
           {
             "code": "T313_1",
@@ -22499,7 +22436,7 @@
             "parentCode": "T313",
             "lat": 22.156125,
             "lng": 113.55992,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "T315_1",
@@ -22508,7 +22445,7 @@
             "parentCode": "T315",
             "lat": 22.154661,
             "lng": 113.561381,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "T375_1",
@@ -22517,7 +22454,7 @@
             "parentCode": "T375",
             "lat": 22.149332,
             "lng": 113.563982,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "T379_1",
@@ -22526,7 +22463,7 @@
             "parentCode": "T379",
             "lat": 22.14382,
             "lng": 113.563717,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "T359_1",
@@ -22535,7 +22472,7 @@
             "parentCode": "T359",
             "lat": 22.140894,
             "lng": 113.563572,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "T357_1",
@@ -22544,6 +22481,15 @@
             "parentCode": "T357",
             "lat": 22.138979,
             "lng": 113.55962,
+            "seq": 15
+          },
+          {
+            "code": "C688_1",
+            "nameCht": "和諧廣場/業興大廈",
+            "namePor": "AL. DA HARMONIA / EDF. IP HENG",
+            "parentCode": "C688",
+            "lat": 22.12984,
+            "lng": 113.563059,
             "seq": 16
           },
           {
@@ -22583,13 +22529,85 @@
             "seq": 20
           },
           {
-            "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
-            "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
+            "code": "C660_1",
+            "nameCht": "路環居民大會堂",
+            "namePor": "ASSOC. DE M. DE COLOANE",
+            "parentCode": "C660",
+            "lat": 22.117981,
+            "lng": 113.552503,
             "seq": 21
+          },
+          {
+            "code": "C662_1",
+            "nameCht": "路環監獄-1",
+            "namePor": "CADEIA DE COLOANE - 1",
+            "parentCode": "C662",
+            "lat": 22.118015,
+            "lng": 113.555206,
+            "seq": 22
+          },
+          {
+            "code": "C664_1",
+            "nameCht": "竹灣泳池-1",
+            "namePor": "EST. CHEOC VAN / PISCINA - 1",
+            "parentCode": "C664",
+            "lat": 22.114778,
+            "lng": 113.557804,
+            "seq": 23
+          },
+          {
+            "code": "C666_1",
+            "nameCht": "竹灣馬路-1",
+            "namePor": "EST. CHEOC VAN-1",
+            "parentCode": "C666",
+            "lat": 22.114168,
+            "lng": 113.560143,
+            "seq": 24
+          },
+          {
+            "code": "C677_1",
+            "nameCht": "竹灣燒烤公園-1",
+            "namePor": "CHEOC VAN / PICNIC-1",
+            "parentCode": "C677",
+            "lat": 22.114453,
+            "lng": 113.562483,
+            "seq": 25
+          },
+          {
+            "code": "C667_1",
+            "nameCht": "竹灣海灘-1",
+            "namePor": "PRAIA CHEOC VAN - 1",
+            "parentCode": "C667",
+            "lat": 22.112945,
+            "lng": 113.563538,
+            "seq": 26
+          },
+          {
+            "code": "C676_1",
+            "nameCht": "竹灣豪園-1",
+            "namePor": "VILA CHOK WAN HOU UN-1",
+            "parentCode": "C676",
+            "lat": 22.113318,
+            "lng": 113.566251,
+            "seq": 27
+          },
+          {
+            "code": "C680_1",
+            "nameCht": "黑沙/海蘭花苑",
+            "namePor": "HAC SÁ / EDF. HELLENE GARDEN",
+            "parentCode": "C680",
+            "lat": 22.11633,
+            "lng": 113.569538,
+            "seq": 28
+          },
+          {
+            "code": "C669_1",
+            "nameCht": "黑沙海灘",
+            "namePor": "PRAIA DE HAC SÁ",
+            "parentCode": "C669",
+            "lat": 22.118849,
+            "lng": 113.569386,
+            "seq": 29
           }
         ]
       },
@@ -22599,22 +22617,13 @@
         "namePor": "VILA DE COLOANE ⇀ BARRA",
         "stops": [
           {
-            "code": "C659_1",
-            "nameCht": "路環市區-2",
-            "namePor": "VILA DE COLOANE-2",
-            "parentCode": "C659",
-            "lat": 22.11777,
-            "lng": 113.552027,
-            "seq": 1
-          },
-          {
             "code": "C656_1",
             "nameCht": "路環警察訓練營-2",
             "namePor": "EST. DO CAMPO / PSP-2",
             "parentCode": "C656",
             "lat": 22.120534,
             "lng": 113.553447,
-            "seq": 2
+            "seq": 1
           },
           {
             "code": "C654_1",
@@ -22623,7 +22632,7 @@
             "parentCode": "C654",
             "lat": 22.125044,
             "lng": 113.554661,
-            "seq": 3
+            "seq": 2
           },
           {
             "code": "C653_1",
@@ -22632,7 +22641,7 @@
             "parentCode": "C653",
             "lat": 22.128489,
             "lng": 113.558698,
-            "seq": 4
+            "seq": 3
           },
           {
             "code": "C692_1",
@@ -22641,7 +22650,7 @@
             "parentCode": "C692",
             "lat": 22.129422,
             "lng": 113.561105,
-            "seq": 5
+            "seq": 4
           },
           {
             "code": "T357_1",
@@ -22650,7 +22659,7 @@
             "parentCode": "T357",
             "lat": 22.138979,
             "lng": 113.55962,
-            "seq": 6
+            "seq": 5
           },
           {
             "code": "T360_1",
@@ -22659,7 +22668,7 @@
             "parentCode": "T360",
             "lat": 22.140129,
             "lng": 113.56327,
-            "seq": 7
+            "seq": 6
           },
           {
             "code": "T376_1",
@@ -22668,7 +22677,7 @@
             "parentCode": "T376",
             "lat": 22.144692,
             "lng": 113.563503,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "T306_1",
@@ -22677,7 +22686,7 @@
             "parentCode": "T306",
             "lat": 22.153264,
             "lng": 113.563003,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "T314_1",
@@ -22686,7 +22695,7 @@
             "parentCode": "T314",
             "lat": 22.156359,
             "lng": 113.559864,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "T311_2",
@@ -22695,7 +22704,7 @@
             "parentCode": "T311",
             "lat": 22.1581,
             "lng": 113.559026,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "T308_3_2",
@@ -22704,7 +22713,7 @@
             "parentCode": "T308_3",
             "lat": 22.160784,
             "lng": 113.556482,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "T300_1",
@@ -22713,7 +22722,7 @@
             "parentCode": "T300",
             "lat": 22.16266,
             "lng": 113.552686,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "T330_1",
@@ -22722,7 +22731,7 @@
             "parentCode": "T330",
             "lat": 22.1639,
             "lng": 113.549802,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M172_2",
@@ -22731,7 +22740,7 @@
             "parentCode": "M172",
             "lat": 22.189284,
             "lng": 113.543612,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M171_2",
@@ -22740,7 +22749,7 @@
             "parentCode": "M171",
             "lat": 22.191632,
             "lng": 113.541475,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M142_1",
@@ -22749,7 +22758,7 @@
             "parentCode": "M142",
             "lat": 22.195647,
             "lng": 113.537343,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M136_2",
@@ -22758,7 +22767,7 @@
             "parentCode": "M136",
             "lat": 22.195477,
             "lng": 113.536245,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M139_1",
@@ -22767,7 +22776,7 @@
             "parentCode": "M139",
             "lat": 22.193541,
             "lng": 113.535295,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M184_1",
@@ -22776,7 +22785,7 @@
             "parentCode": "M184",
             "lat": 22.190262,
             "lng": 113.533293,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M188_1",
@@ -22785,7 +22794,7 @@
             "parentCode": "M188",
             "lat": 22.188679,
             "lng": 113.532229,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M203_2",
@@ -22794,7 +22803,7 @@
             "parentCode": "M203",
             "lat": 22.18699,
             "lng": 113.53103,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M3_1",
@@ -22803,7 +22812,7 @@
             "parentCode": "M3",
             "lat": 22.185132,
             "lng": 113.529218,
-            "seq": 23
+            "seq": 22
           }
         ]
       }
