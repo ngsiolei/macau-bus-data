@@ -2520,20 +2520,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_2",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160784,
-    "lng": 113.556482
-  },
-  {
     "code": "T308_3_1",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160903,
     "lng": 113.556368
+  },
+  {
+    "code": "T308_3_2",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160784,
+    "lng": 113.556482
   },
   {
     "code": "T309_1",
@@ -2860,32 +2860,40 @@
     "nameCht": "氹仔客運碼頭",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
-    "lat": 22.162202,
-    "lng": 113.5777
+    "lat": 22.163391,
+    "lng": 113.575884
   },
   {
     "code": "T345_2",
     "nameCht": "氹仔客運碼頭",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
-    "lat": 22.162172,
-    "lng": 113.577831
+    "lat": 22.16319,
+    "lng": 113.575854
   },
   {
     "code": "T345_3",
     "nameCht": "氹仔客運碼頭",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
-    "lat": 22.162139,
-    "lng": 113.57797
+    "lat": 22.162848,
+    "lng": 113.575756
   },
   {
-    "code": "T345_4",
+    "code": "T345_5",
     "nameCht": "氹仔客運碼頭",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "parentCode": "T345",
-    "lat": 22.162105,
-    "lng": 113.578108
+    "lat": 22.163065,
+    "lng": 113.576323
+  },
+  {
+    "code": "T345_6",
+    "nameCht": "氹仔客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
+    "parentCode": "T345",
+    "lat": 22.162777,
+    "lng": 113.576252
   },
   {
     "code": "T346_1",
@@ -3849,11 +3857,11 @@
   },
   {
     "code": "C680_1",
-    "nameCht": "黑沙/海蘭花苑",
-    "namePor": "HAC SÁ / EDF. HELLENE GARDEN",
+    "nameCht": "海蘭花園/蘭苑",
+    "namePor": "HELLENE GARDEN / ORCHIDS VILLA",
     "parentCode": "C680",
-    "lat": 22.11633,
-    "lng": 113.569538
+    "lat": 22.11635,
+    "lng": 113.569539
   },
   {
     "code": "C681_1",
@@ -3902,6 +3910,14 @@
     "parentCode": "C686",
     "lat": 22.118113,
     "lng": 113.551702
+  },
+  {
+    "code": "C687_1",
+    "nameCht": "海蘭花園/黑沙",
+    "namePor": "HELLENE GARDEN / HAC SÁ",
+    "parentCode": "C687",
+    "lat": 22.117016,
+    "lng": 113.568472
   },
   {
     "code": "C688_1",
