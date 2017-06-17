@@ -1976,14 +1976,6 @@
     "lng": 113.553773
   },
   {
-    "code": "M218_1",
-    "nameCht": "翡翠廣場",
-    "namePor": "EDF. JADE PLAZA",
-    "parentCode": "M218",
-    "lat": 22.212822,
-    "lng": 113.551843
-  },
-  {
     "code": "M219_1",
     "nameCht": "勞動節大馬路",
     "namePor": "AV. 1º DE MAIO",
@@ -2808,20 +2800,20 @@
     "lng": 113.557226
   },
   {
-    "code": "T339_2_1",
-    "nameCht": "花城公園",
-    "namePor": "JARDIM CIDADE DAS FLORES",
-    "parentCode": "T339_2",
-    "lat": 22.156295,
-    "lng": 113.55751
-  },
-  {
     "code": "T339_2_2",
     "nameCht": "花城公園",
     "namePor": "JARDIM CIDADE DAS FLORES",
     "parentCode": "T339_2",
     "lat": 22.156317,
     "lng": 113.557559
+  },
+  {
+    "code": "T339_2_1",
+    "nameCht": "花城公園",
+    "namePor": "JARDIM CIDADE DAS FLORES",
+    "parentCode": "T339_2",
+    "lat": 22.156295,
+    "lng": 113.55751
   },
   {
     "code": "T341_1",
