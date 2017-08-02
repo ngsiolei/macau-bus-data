@@ -580,8 +580,8 @@
             "nameCht": "永寧廣場總站",
             "namePor": "AL. TRANQUILIDADE / TERMINAL",
             "parentCode": "M214",
-            "lat": 22.212767,
-            "lng": 113.553525,
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 1
           },
           {
@@ -920,8 +920,8 @@
             "nameCht": "永寧廣場總站",
             "namePor": "AL. TRANQUILIDADE / TERMINAL",
             "parentCode": "M214",
-            "lat": 22.212767,
-            "lng": 113.553525,
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 19
           }
         ]
@@ -2718,8 +2718,8 @@
             "nameCht": "永寧廣場總站",
             "namePor": "AL. TRANQUILIDADE / TERMINAL",
             "parentCode": "M214",
-            "lat": 22.212767,
-            "lng": 113.553525,
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 1
           },
           {
@@ -3096,8 +3096,8 @@
             "nameCht": "永寧廣場總站",
             "namePor": "AL. TRANQUILIDADE / TERMINAL",
             "parentCode": "M214",
-            "lat": 22.212767,
-            "lng": 113.553525,
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 43
           }
         ]
@@ -3666,21 +3666,21 @@
         "namePor": "EST. ILHA VERDE ⇀ JAI ALAI",
         "stops": [
           {
-            "code": "M209_1",
-            "nameCht": "青洲總站",
-            "namePor": "EST. ILHA VERDE / TERMINAL",
-            "parentCode": "M209",
-            "lat": 22.209354,
-            "lng": 113.536326,
+            "code": "M267_1",
+            "nameCht": "工業園街",
+            "namePor": "R. DO PARQUE INDUSTRIAL",
+            "parentCode": "M267",
+            "lat": 22.211594,
+            "lng": 113.534823,
             "seq": 1
           },
           {
-            "code": "M205_1",
-            "nameCht": "跨境工業區",
-            "namePor": "PARQUE INDUSTRIAL TRANSFRONTEIRIÇO",
-            "parentCode": "M205",
-            "lat": 22.212083,
-            "lng": 113.534522,
+            "code": "M209_2",
+            "nameCht": "青洲總站",
+            "namePor": "EST. ILHA VERDE / TERMINAL",
+            "parentCode": "M209",
+            "lat": 22.210022,
+            "lng": 113.536125,
             "seq": 2
           },
           {
@@ -4052,20 +4052,20 @@
           },
           {
             "code": "M208_1",
-            "nameCht": "青洲福德花園",
-            "namePor": "ESTRADA ILHA VERDE / FOK TAK",
+            "nameCht": "青翠花園",
+            "namePor": "EDF. CHENG CHOI",
             "parentCode": "M208",
-            "lat": 22.209851,
-            "lng": 113.53838,
+            "lat": 22.209586,
+            "lng": 113.536897,
             "seq": 23
           },
           {
-            "code": "M209_1",
-            "nameCht": "青洲總站",
-            "namePor": "EST. ILHA VERDE / TERMINAL",
-            "parentCode": "M209",
-            "lat": 22.209354,
-            "lng": 113.536326,
+            "code": "M267_1",
+            "nameCht": "工業園街",
+            "namePor": "R. DO PARQUE INDUSTRIAL",
+            "parentCode": "M267",
+            "lat": 22.211594,
+            "lng": 113.534823,
             "seq": 24
           }
         ]
@@ -4090,21 +4090,21 @@
         "namePor": "EST. ILHA VERDE ↻ PRAÇA FERREIRA AMARAL",
         "stops": [
           {
-            "code": "M209_1",
-            "nameCht": "青洲總站",
-            "namePor": "EST. ILHA VERDE / TERMINAL",
-            "parentCode": "M209",
-            "lat": 22.209354,
-            "lng": 113.536326,
+            "code": "M267_1",
+            "nameCht": "工業園街",
+            "namePor": "R. DO PARQUE INDUSTRIAL",
+            "parentCode": "M267",
+            "lat": 22.211594,
+            "lng": 113.534823,
             "seq": 1
           },
           {
-            "code": "M205_1",
-            "nameCht": "跨境工業區",
-            "namePor": "PARQUE INDUSTRIAL TRANSFRONTEIRIÇO",
-            "parentCode": "M205",
-            "lat": 22.212083,
-            "lng": 113.534522,
+            "code": "M209_2",
+            "nameCht": "青洲總站",
+            "namePor": "EST. ILHA VERDE / TERMINAL",
+            "parentCode": "M209",
+            "lat": 22.210022,
+            "lng": 113.536125,
             "seq": 2
           },
           {
@@ -4379,20 +4379,20 @@
           },
           {
             "code": "M208_1",
-            "nameCht": "青洲福德花園",
-            "namePor": "ESTRADA ILHA VERDE / FOK TAK",
+            "nameCht": "青翠花園",
+            "namePor": "EDF. CHENG CHOI",
             "parentCode": "M208",
-            "lat": 22.209851,
-            "lng": 113.53838,
+            "lat": 22.209586,
+            "lng": 113.536897,
             "seq": 33
           },
           {
-            "code": "M209_1",
-            "nameCht": "青洲總站",
-            "namePor": "EST. ILHA VERDE / TERMINAL",
-            "parentCode": "M209",
-            "lat": 22.209354,
-            "lng": 113.536326,
+            "code": "M267_1",
+            "nameCht": "工業園街",
+            "namePor": "R. DO PARQUE INDUSTRIAL",
+            "parentCode": "M267",
+            "lat": 22.211594,
+            "lng": 113.534823,
             "seq": 34
           }
         ]
@@ -6585,12 +6585,12 @@
         "namePor": "AL. TRANQUILIDADE ⇀ TERMINAL MARÍTIMO",
         "stops": [
           {
-            "code": "M214_2",
-            "nameCht": "順景廣場總站",
-            "namePor": "P. SERENIDADE / TERMINAL",
-            "parentCode": "M214_2",
-            "lat": 22.21361,
-            "lng": 113.553236,
+            "code": "M214_1",
+            "nameCht": "永寧廣場總站",
+            "namePor": "AL. TRANQUILIDADE / TERMINAL",
+            "parentCode": "M214",
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 1
           },
           {
@@ -6925,12 +6925,12 @@
             "seq": 17
           },
           {
-            "code": "M214_2",
-            "nameCht": "順景廣場總站",
-            "namePor": "P. SERENIDADE / TERMINAL",
-            "parentCode": "M214_2",
-            "lat": 22.21361,
-            "lng": 113.553236,
+            "code": "M214_1",
+            "nameCht": "永寧廣場總站",
+            "namePor": "AL. TRANQUILIDADE / TERMINAL",
+            "parentCode": "M214",
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 18
           }
         ]
@@ -7622,13 +7622,22 @@
             "seq": 6
           },
           {
+            "code": "C669_1",
+            "nameCht": "黑沙海灘",
+            "namePor": "PRAIA DE HAC SÁ",
+            "parentCode": "C669",
+            "lat": 22.118849,
+            "lng": 113.569386,
+            "seq": 7
+          },
+          {
             "code": "C687_1",
             "nameCht": "海蘭花園/黑沙",
             "namePor": "HELLENE GARDEN / HAC SÁ",
             "parentCode": "C687",
             "lat": 22.117016,
             "lng": 113.568472,
-            "seq": 7
+            "seq": 8
           }
         ]
       }
@@ -8895,12 +8904,12 @@
         "namePor": "AL. TRANQUILIDADE ↻ ALEMIDA RIBEIRO",
         "stops": [
           {
-            "code": "M214_2",
-            "nameCht": "順景廣場總站",
-            "namePor": "P. SERENIDADE / TERMINAL",
-            "parentCode": "M214_2",
-            "lat": 22.21361,
-            "lng": 113.553236,
+            "code": "M214_1",
+            "nameCht": "永寧廣場總站",
+            "namePor": "AL. TRANQUILIDADE / TERMINAL",
+            "parentCode": "M214",
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 1
           },
           {
@@ -9120,12 +9129,12 @@
             "seq": 25
           },
           {
-            "code": "M214_2",
-            "nameCht": "順景廣場總站",
-            "namePor": "P. SERENIDADE / TERMINAL",
-            "parentCode": "M214_2",
-            "lat": 22.21361,
-            "lng": 113.553236,
+            "code": "M214_1",
+            "nameCht": "永寧廣場總站",
+            "namePor": "AL. TRANQUILIDADE / TERMINAL",
+            "parentCode": "M214",
+            "lat": 22.213237,
+            "lng": 113.552415,
             "seq": 26
           }
         ]
@@ -13913,11 +13922,11 @@
           },
           {
             "code": "M208_1",
-            "nameCht": "青洲福德花園",
-            "namePor": "ESTRADA ILHA VERDE / FOK TAK",
+            "nameCht": "青翠花園",
+            "namePor": "EDF. CHENG CHOI",
             "parentCode": "M208",
-            "lat": 22.209851,
-            "lng": 113.53838,
+            "lat": 22.209586,
+            "lng": 113.536897,
             "seq": 45
           },
           {
@@ -14240,11 +14249,11 @@
           },
           {
             "code": "M208_1",
-            "nameCht": "青洲福德花園",
-            "namePor": "ESTRADA ILHA VERDE / FOK TAK",
+            "nameCht": "青翠花園",
+            "namePor": "EDF. CHENG CHOI",
             "parentCode": "M208",
-            "lat": 22.209851,
-            "lng": 113.53838,
+            "lat": 22.209586,
+            "lng": 113.536897,
             "seq": 33
           },
           {

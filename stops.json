@@ -1905,11 +1905,11 @@
   },
   {
     "code": "M208_1",
-    "nameCht": "青洲福德花園",
-    "namePor": "ESTRADA ILHA VERDE / FOK TAK",
+    "nameCht": "青翠花園",
+    "namePor": "EDF. CHENG CHOI",
     "parentCode": "M208",
-    "lat": 22.209851,
-    "lng": 113.53838
+    "lat": 22.209586,
+    "lng": 113.536897
   },
   {
     "code": "M209_1",
@@ -1948,16 +1948,8 @@
     "nameCht": "永寧廣場總站",
     "namePor": "AL. TRANQUILIDADE / TERMINAL",
     "parentCode": "M214",
-    "lat": 22.212767,
-    "lng": 113.553525
-  },
-  {
-    "code": "M214_2",
-    "nameCht": "順景廣場總站",
-    "namePor": "P. SERENIDADE / TERMINAL",
-    "parentCode": "M214_2",
-    "lat": 22.21361,
-    "lng": 113.553236
+    "lat": 22.213237,
+    "lng": 113.552415
   },
   {
     "code": "M215_1",
