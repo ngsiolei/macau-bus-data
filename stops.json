@@ -220,8 +220,8 @@
     "nameCht": "關閘廣場",
     "namePor": "PRAÇA DAS PORTAS DO CERCO",
     "parentCode": "M9",
-    "lat": 22.214866,
-    "lng": 113.549449
+    "lat": 22.215952,
+    "lng": 113.549991
   },
   {
     "code": "M10_1",
@@ -1252,16 +1252,16 @@
     "nameCht": "水坑尾街",
     "namePor": "RUA DO CAMPO",
     "parentCode": "M144",
-    "lat": 22.193795,
-    "lng": 113.543384
+    "lat": 22.193733,
+    "lng": 113.543358
   },
   {
     "code": "M144_3",
     "nameCht": "水坑尾街",
     "namePor": "RUA DO CAMPO",
     "parentCode": "M144",
-    "lat": 22.193733,
-    "lng": 113.543358
+    "lat": 22.193795,
+    "lng": 113.543384
   },
   {
     "code": "M145_1",
@@ -1646,6 +1646,14 @@
     "parentCode": "M175",
     "lat": 22.186167,
     "lng": 113.536093
+  },
+  {
+    "code": "M176_1",
+    "nameCht": "初級法院刑事大樓",
+    "namePor": "EDF. DOS JUÍZOS CRIMINAIS DO TRIBUNAL JUDICIAL DE BASE",
+    "parentCode": "M176",
+    "lat": 22.184079,
+    "lng": 113.537255
   },
   {
     "code": "M177_1",
@@ -2504,20 +2512,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_1",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160903,
-    "lng": 113.556368
-  },
-  {
     "code": "T308_3_2",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160784,
     "lng": 113.556482
+  },
+  {
+    "code": "T308_3_1",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160903,
+    "lng": 113.556368
   },
   {
     "code": "T309_1",
@@ -2537,11 +2545,11 @@
   },
   {
     "code": "T310_2",
-    "nameCht": "孫逸仙馬路/三家村(2016年9月24日取消)",
-    "namePor": "AV. DR. SUN YAT SEN / SAM KÁ",
+    "nameCht": "泉裕豪庭",
+    "namePor": "CHUN U VILLA",
     "parentCode": "T310",
-    "lat": 22.157861,
-    "lng": 113.559376
+    "lat": 22.158736,
+    "lng": 113.558556
   },
   {
     "code": "T311_1",
@@ -2590,14 +2598,6 @@
     "parentCode": "T315",
     "lat": 22.154661,
     "lng": 113.561381
-  },
-  {
-    "code": "T317_1",
-    "nameCht": "雍景灣",
-    "namePor": "KINGS VILLE",
-    "parentCode": "T317",
-    "lat": 22.156755,
-    "lng": 113.559395
   },
   {
     "code": "T318_1",
@@ -2817,19 +2817,19 @@
   },
   {
     "code": "T342_1",
-    "nameCht": "海灣花園",
-    "namePor": "EDF. JARDIM HOI VAN",
+    "nameCht": "高勵雅馬路",
+    "namePor": "EST. ALM. M. CORREIA",
     "parentCode": "T342",
-    "lat": 22.162297,
-    "lng": 113.561697
+    "lat": 22.162291,
+    "lng": 113.561688
   },
   {
     "code": "T343_1",
-    "nameCht": "高勵雅馬路",
-    "namePor": "EST. ALM. M. CORREIA",
+    "nameCht": "海灣花園/海城閣",
+    "namePor": "JARDIM HOI VAN / HOI CHENG",
     "parentCode": "T343",
-    "lat": 22.162045,
-    "lng": 113.561148
+    "lat": 22.162057,
+    "lng": 113.561165
   },
   {
     "code": "T344_1",
@@ -3664,14 +3664,6 @@
     "lng": 113.5535
   },
   {
-    "code": "C658_1",
-    "nameCht": "黑沙青年旅舍",
-    "namePor": "POUSADA DE JUVENTUDE DE HAC SÁ",
-    "parentCode": "C658",
-    "lat": 22.116481,
-    "lng": 113.569608
-  },
-  {
     "code": "C659_1",
     "nameCht": "路環街市",
     "namePor": "MERCADO M. DE COLOANE",
@@ -3990,5 +3982,21 @@
     "parentCode": "C696",
     "lat": 22.13388,
     "lng": 113.578489
+  },
+  {
+    "code": "C697_1",
+    "nameCht": "九澳高頂燒烤公園",
+    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C697",
+    "lat": 22.129429,
+    "lng": 113.575189
+  },
+  {
+    "code": "C698_1",
+    "nameCht": "九澳高頂馬路",
+    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C698",
+    "lat": 22.129411,
+    "lng": 113.575321
   }
 ]
