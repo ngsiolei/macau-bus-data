@@ -8,116 +8,12 @@
     "lng": 113.549242
   },
   {
-    "code": "M1_2",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215007,
-    "lng": 113.549147
-  },
-  {
-    "code": "M1_3",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215212,
-    "lng": 113.549187
-  },
-  {
-    "code": "M1_5",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215012,
-    "lng": 113.549056
-  },
-  {
-    "code": "M1_6",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.21532,
-    "lng": 113.549117
-  },
-  {
-    "code": "M1_7",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215514,
-    "lng": 113.549155
-  },
-  {
-    "code": "M1_8",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215456,
-    "lng": 113.548951
-  },
-  {
-    "code": "M1_9",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215152,
-    "lng": 113.548896
-  },
-  {
-    "code": "M1_10",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.214853,
-    "lng": 113.548842
-  },
-  {
-    "code": "M1_11",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215161,
-    "lng": 113.54881
-  },
-  {
     "code": "M1_12",
     "nameCht": "關閘總站",
     "namePor": "PORTAS DO CERCO / TERMINAL",
     "parentCode": "M1",
     "lat": 22.215033,
     "lng": 113.548783
-  },
-  {
-    "code": "M1_13",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215046,
-    "lng": 113.54869
-  },
-  {
-    "code": "M1_14",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.214996,
-    "lng": 113.548868
-  },
-  {
-    "code": "M1_17",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINA",
-    "parentCode": "M1",
-    "lat": 22.214972,
-    "lng": 113.549326
-  },
-  {
-    "code": "M1_18",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINA",
-    "parentCode": "M1",
-    "lat": 22.214937,
-    "lng": 113.548625
   },
   {
     "code": "M2_1",
@@ -220,8 +116,8 @@
     "nameCht": "關閘廣場",
     "namePor": "PRAÇA DAS PORTAS DO CERCO",
     "parentCode": "M9",
-    "lat": 22.215952,
-    "lng": 113.549991
+    "lat": 22.214866,
+    "lng": 113.549449
   },
   {
     "code": "M10_1",
@@ -278,6 +174,14 @@
     "parentCode": "M14",
     "lat": 22.207795,
     "lng": 113.546059
+  },
+  {
+    "code": "M15_1",
+    "nameCht": "台山中街",
+    "namePor": "RUA CENTRAL DE T'OI SÁN",
+    "parentCode": "M15",
+    "lat": 22.211447,
+    "lng": 113.545023
   },
   {
     "code": "M16_1",
@@ -2040,14 +1944,6 @@
     "lng": 113.549461
   },
   {
-    "code": "M225_2",
-    "nameCht": "看台街/騎士馬路",
-    "namePor": "R. DA TRIBUNA / EST. DOS CAVALEIROS",
-    "parentCode": "M225",
-    "lat": 22.213259,
-    "lng": 113.549386
-  },
-  {
     "code": "M226_1",
     "nameCht": "勞動節街/中葡職業技術學校",
     "namePor": "R. 1 DE MAIO / ESCOLA LUSO-CHINESA TÉCNICO-PROFISSIONAL",
@@ -2064,20 +1960,20 @@
     "lng": 113.550798
   },
   {
-    "code": "M229_1",
-    "nameCht": "三角花園",
-    "namePor": "JARDIM TRIANGULAR",
-    "parentCode": "M229",
-    "lat": 22.210594,
-    "lng": 113.548308
+    "code": "M228_1",
+    "nameCht": "祐漢第二街",
+    "namePor": "RUA 2 IAO HON",
+    "parentCode": "M228_1",
+    "lat": 22.210741,
+    "lng": 113.550121
   },
   {
-    "code": "M229_2",
+    "code": "M229_3",
     "nameCht": "三角花園",
     "namePor": "JARDIM TRIANGULAR",
     "parentCode": "M229",
-    "lat": 22.210392,
-    "lng": 113.548278
+    "lat": 22.210332,
+    "lng": 113.548266
   },
   {
     "code": "M230_1",
@@ -2440,6 +2336,22 @@
     "lng": 113.549663
   },
   {
+    "code": "M282_1",
+    "nameCht": "永定街",
+    "namePor": "RUA DA SERENIDADE",
+    "parentCode": "M282",
+    "lat": 22.212877,
+    "lng": 113.549782
+  },
+  {
+    "code": "M283_1",
+    "nameCht": "馬場大馬路",
+    "namePor": "AVENIDA DO HIPÓDROMO",
+    "parentCode": "M283",
+    "lat": 22.213798,
+    "lng": 113.550239
+  },
+  {
     "code": "T300_1",
     "nameCht": "史伯泰/盧廉若",
     "namePor": "ESPARTEIRO / LOU LIM IEOK",
@@ -2792,20 +2704,20 @@
     "lng": 113.557226
   },
   {
-    "code": "T339_2_2",
-    "nameCht": "花城公園",
-    "namePor": "JARDIM CIDADE DAS FLORES",
-    "parentCode": "T339_2",
-    "lat": 22.156317,
-    "lng": 113.557559
-  },
-  {
     "code": "T339_2_1",
     "nameCht": "花城公園",
     "namePor": "JARDIM CIDADE DAS FLORES",
     "parentCode": "T339_2",
     "lat": 22.156295,
     "lng": 113.55751
+  },
+  {
+    "code": "T339_2_2",
+    "nameCht": "花城公園",
+    "namePor": "JARDIM CIDADE DAS FLORES",
+    "parentCode": "T339_2",
+    "lat": 22.156317,
+    "lng": 113.557559
   },
   {
     "code": "T341_1",
