@@ -8,14 +8,6 @@
     "lng": 113.549242
   },
   {
-    "code": "M1_12",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215033,
-    "lng": 113.548783
-  },
-  {
     "code": "M2_1",
     "nameCht": "東方明珠總站",
     "namePor": "PÉROLA ORIENTAL / TERMINAL",
@@ -1792,6 +1784,14 @@
     "lng": 113.53103
   },
   {
+    "code": "M204_1",
+    "nameCht": "河邊新街/豐順新邨",
+    "namePor": "ALM. SÉRGIO / FONG SON SAN CHUN",
+    "parentCode": "M204",
+    "lat": 22.18809,
+    "lng": 113.531662
+  },
+  {
     "code": "M205_1",
     "nameCht": "跨境工業區",
     "namePor": "PARQUE INDUSTRIAL TRANSFRONTEIRIÇO",
@@ -1860,8 +1860,8 @@
     "nameCht": "永寧廣場總站",
     "namePor": "AL. TRANQUILIDADE / TERMINAL",
     "parentCode": "M214",
-    "lat": 22.213237,
-    "lng": 113.552415
+    "lat": 22.212767,
+    "lng": 113.553525
   },
   {
     "code": "M215_1",
@@ -1958,14 +1958,6 @@
     "parentCode": "M227",
     "lat": 22.210639,
     "lng": 113.550798
-  },
-  {
-    "code": "M228_1",
-    "nameCht": "祐漢第二街",
-    "namePor": "RUA 2 IAO HON",
-    "parentCode": "M228_1",
-    "lat": 22.210741,
-    "lng": 113.550121
   },
   {
     "code": "M229_3",
@@ -2232,9 +2224,17 @@
     "lng": 113.546269
   },
   {
+    "code": "M264_1",
+    "nameCht": "勵庭海景酒店",
+    "namePor": "HARBOURVIEW HOTEL",
+    "parentCode": "M264",
+    "lat": 22.189904,
+    "lng": 113.556658
+  },
+  {
     "code": "M265_1",
-    "nameCht": "孫逸仙大馬路/友誼大馬路",
-    "namePor": "AV. DR. SUN YAT-SEN / AV. AMIZADE",
+    "nameCht": "漁人碼頭會展中心",
+    "namePor": "CENTRO DE CONVENÇÕES E EXPOSIÇÕES DA DOCA DOS PESCADORES",
     "parentCode": "M265",
     "lat": 22.194389,
     "lng": 113.555208
@@ -2776,6 +2776,14 @@
     "lng": 113.575756
   },
   {
+    "code": "T345_4",
+    "nameCht": "氹仔客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
+    "parentCode": "T345",
+    "lat": 22.163251,
+    "lng": 113.576355
+  },
+  {
     "code": "T345_5",
     "nameCht": "氹仔客運碼頭",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
@@ -2840,6 +2848,14 @@
     "lng": 113.57099
   },
   {
+    "code": "T355_1",
+    "nameCht": "路氹邊檢大樓-1",
+    "namePor": "POSTO FRONTEIRIÇO DE COTAI-1",
+    "parentCode": "T355",
+    "lat": 22.13889,
+    "lng": 113.559658
+  },
+  {
     "code": "T356_1",
     "nameCht": "澳門機場",
     "namePor": "AEROPORTO DE MACAU",
@@ -2865,19 +2881,11 @@
   },
   {
     "code": "T357_1",
-    "nameCht": "路氹邊檢大樓",
-    "namePor": "POSTO FRONTEIRIÇO DE COTAI",
+    "nameCht": "路氹邊檢大樓-2",
+    "namePor": "POSTO FRONTEIRIÇO DE COTAI-2",
     "parentCode": "T357",
     "lat": 22.138979,
     "lng": 113.55962
-  },
-  {
-    "code": "T357_2",
-    "nameCht": "路氹邊檢大樓",
-    "namePor": "POSTO FRONTEIRIÇO DE COTAI",
-    "parentCode": "T357",
-    "lat": 22.139661,
-    "lng": 113.560039
   },
   {
     "code": "T358_1",
@@ -2982,6 +2990,14 @@
     "parentCode": "T371",
     "lat": 22.165389,
     "lng": 113.559928
+  },
+  {
+    "code": "T372_1",
+    "nameCht": "路氹邊檢/新濠影匯",
+    "namePor": "POSTO FRONTEIRIÇO DE COTAI / STUDIO CITY",
+    "parentCode": "T372",
+    "lat": 22.139752,
+    "lng": 113.559952
   },
   {
     "code": "T373_1",
@@ -3894,21 +3910,5 @@
     "parentCode": "C696",
     "lat": 22.13388,
     "lng": 113.578489
-  },
-  {
-    "code": "C697_1",
-    "nameCht": "九澳高頂燒烤公園",
-    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
-    "parentCode": "C697",
-    "lat": 22.129429,
-    "lng": 113.575189
-  },
-  {
-    "code": "C698_1",
-    "nameCht": "九澳高頂馬路",
-    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
-    "parentCode": "C698",
-    "lat": 22.129411,
-    "lng": 113.575321
   }
 ]
