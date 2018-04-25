@@ -1,13 +1,5 @@
 [
   {
-    "code": "M1_1",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.214982,
-    "lng": 113.549242
-  },
-  {
     "code": "M2_1",
     "nameCht": "東方明珠總站",
     "namePor": "PÉROLA ORIENTAL / TERMINAL",
@@ -36,8 +28,8 @@
     "nameCht": "菜園涌邊街總站",
     "namePor": "R. MARGINAL DO CANAL DAS HORTAS / TERMINAL",
     "parentCode": "M4",
-    "lat": 22.213678,
-    "lng": 113.54451
+    "lat": 22.213637,
+    "lng": 113.545265
   },
   {
     "code": "M4_2",
@@ -52,8 +44,8 @@
     "nameCht": "菜園涌邊街總站",
     "namePor": "R. MARGINAL DO CANAL DAS HORTAS / TERMINAL",
     "parentCode": "M4",
-    "lat": 22.213637,
-    "lng": 113.545265
+    "lat": 22.213584,
+    "lng": 113.546194
   },
   {
     "code": "M5_1",
@@ -190,6 +182,14 @@
     "parentCode": "M16",
     "lat": 22.206413,
     "lng": 113.545328
+  },
+  {
+    "code": "M18_3",
+    "nameCht": "牧場街總站",
+    "namePor": "Rua dos Currais / TERMINAL",
+    "parentCode": "M18",
+    "lat": 22.215466,
+    "lng": 113.546489
   },
   {
     "code": "M19_1",
@@ -1860,8 +1860,8 @@
     "nameCht": "永寧廣場總站",
     "namePor": "AL. TRANQUILIDADE / TERMINAL",
     "parentCode": "M214",
-    "lat": 22.212767,
-    "lng": 113.553525
+    "lat": 22.213237,
+    "lng": 113.552415
   },
   {
     "code": "M215_1",
@@ -1934,14 +1934,6 @@
     "parentCode": "M224",
     "lat": 22.210001,
     "lng": 113.551404
-  },
-  {
-    "code": "M225_1",
-    "nameCht": "看台街/騎士馬路",
-    "namePor": "R. DA TRIBUNA / EST. DOS CAVALEIROS",
-    "parentCode": "M225",
-    "lat": 22.213248,
-    "lng": 113.549461
   },
   {
     "code": "M226_1",
@@ -2184,14 +2176,6 @@
     "lng": 113.554219
   },
   {
-    "code": "M258_1",
-    "nameCht": "觀音蓮花苑",
-    "namePor": "CENTRO ECUMÉNICO KUN IAM",
-    "parentCode": "M258",
-    "lat": 22.187141,
-    "lng": 113.551967
-  },
-  {
     "code": "M259_1",
     "nameCht": "孫逸仙大馬路/金沙",
     "namePor": "AV. DR. SUN YAT-SEN / SANDS",
@@ -2238,14 +2222,6 @@
     "parentCode": "M265",
     "lat": 22.194389,
     "lng": 113.555208
-  },
-  {
-    "code": "M266_1",
-    "nameCht": "澳門科學館",
-    "namePor": "CENTRO DE CIENCIA DE MACAU",
-    "parentCode": "M266",
-    "lat": 22.187106,
-    "lng": 113.556515
   },
   {
     "code": "M266_2",
@@ -2321,11 +2297,11 @@
   },
   {
     "code": "M276_1",
-    "nameCht": "祐漢第六街",
-    "namePor": "RUA 6 IAO HON",
+    "nameCht": "馬場海邊馬路",
+    "namePor": "EST. MARGINAL DO HIPÓDROMO",
     "parentCode": "M276",
-    "lat": 22.211792,
-    "lng": 113.549933
+    "lat": 22.210093,
+    "lng": 113.550235
   },
   {
     "code": "M281_1",
@@ -2424,20 +2400,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_2",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160784,
-    "lng": 113.556482
-  },
-  {
     "code": "T308_3_1",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160903,
     "lng": 113.556368
+  },
+  {
+    "code": "T308_3_2",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160784,
+    "lng": 113.556482
   },
   {
     "code": "T309_1",
@@ -2840,6 +2816,14 @@
     "lng": 113.552623
   },
   {
+    "code": "T353_1",
+    "nameCht": "廣東大馬路/成都街",
+    "namePor": "AV. KWONG TUNG / R. SENG TOU",
+    "parentCode": "T353",
+    "lat": 22.159535,
+    "lng": 113.552394
+  },
+  {
     "code": "T354_1",
     "nameCht": "北安出入境事務廳",
     "namePor": "SERVIÇOS DA MIGRAÇÃO DE PAC ON",
@@ -2876,8 +2860,8 @@
     "nameCht": "澳門機場",
     "namePor": "AEROPORTO DE MACAU",
     "parentCode": "T356",
-    "lat": 22.157558,
-    "lng": 113.573542
+    "lat": 22.157552,
+    "lng": 113.573529
   },
   {
     "code": "T357_1",
@@ -3100,8 +3084,8 @@
     "nameCht": "霍英東馬路/科技大學",
     "namePor": "AV. DR. HENRY FOK / M.U.S.T.",
     "parentCode": "T391",
-    "lat": 22.150339,
-    "lng": 113.566632
+    "lat": 22.150587,
+    "lng": 113.567799
   },
   {
     "code": "T392_1",
