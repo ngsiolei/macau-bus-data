@@ -184,12 +184,44 @@
     "lng": 113.545328
   },
   {
+    "code": "M17_1",
+    "nameCht": "提督馬路/白朗古",
+    "namePor": "AV. ALM. LACERDA / G. CASTELO BRANCO",
+    "parentCode": "M17",
+    "lat": 22.20709,
+    "lng": 113.545636
+  },
+  {
     "code": "M18_3",
     "nameCht": "牧場街總站",
     "namePor": "Rua dos Currais / TERMINAL",
     "parentCode": "M18",
-    "lat": 22.215466,
-    "lng": 113.546489
+    "lat": 22.215483,
+    "lng": 113.546529
+  },
+  {
+    "code": "M18_5",
+    "nameCht": "牧場街總站",
+    "namePor": "Rua dos Currais / TERMINAL",
+    "parentCode": "M18",
+    "lat": 22.215354,
+    "lng": 113.546631
+  },
+  {
+    "code": "M18_7",
+    "nameCht": "牧場街總站",
+    "namePor": "Rua dos Currais / TERMINAL",
+    "parentCode": "M18",
+    "lat": 22.215417,
+    "lng": 113.546736
+  },
+  {
+    "code": "M18_10",
+    "nameCht": "牧場街總站",
+    "namePor": "Rua dos Currais / TERMINAL",
+    "parentCode": "M18",
+    "lat": 22.215536,
+    "lng": 113.546797
   },
   {
     "code": "M19_1",
@@ -1548,8 +1580,8 @@
     "nameCht": "初級法院刑事大樓",
     "namePor": "EDF. DOS JUÍZOS CRIMINAIS DO TRIBUNAL JUDICIAL DE BASE",
     "parentCode": "M176",
-    "lat": 22.184079,
-    "lng": 113.537255
+    "lat": 22.184534,
+    "lng": 113.537573
   },
   {
     "code": "M177_1",
@@ -1860,8 +1892,8 @@
     "nameCht": "永寧廣場總站",
     "namePor": "AL. TRANQUILIDADE / TERMINAL",
     "parentCode": "M214",
-    "lat": 22.213237,
-    "lng": 113.552415
+    "lat": 22.212767,
+    "lng": 113.553525
   },
   {
     "code": "M215_1",
@@ -1878,6 +1910,14 @@
     "parentCode": "M216",
     "lat": 22.211565,
     "lng": 113.553773
+  },
+  {
+    "code": "M217_1",
+    "nameCht": "看台街/中銀_(2016年11月5日永久取消)",
+    "namePor": "RUA DA TRIBUNA / BANCO DA CHINA",
+    "parentCode": "M217",
+    "lat": 22.212977,
+    "lng": 113.551411
   },
   {
     "code": "M219_1",
@@ -2026,18 +2066,34 @@
   {
     "code": "M239_1",
     "nameCht": "外港碼頭",
-    "namePor": "TERMINAL MARÍTIMO",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
     "parentCode": "M239",
-    "lat": 22.198115,
-    "lng": 113.559681
+    "lat": 22.197568,
+    "lng": 113.557591
   },
   {
     "code": "M239_2",
     "nameCht": "外港碼頭",
-    "namePor": "TERMINAL MARÍTIMO",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
     "parentCode": "M239",
-    "lat": 22.198089,
-    "lng": 113.559575
+    "lat": 22.197547,
+    "lng": 113.557349
+  },
+  {
+    "code": "M239_3",
+    "nameCht": "外港碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+    "parentCode": "M239",
+    "lat": 22.197475,
+    "lng": 113.557622
+  },
+  {
+    "code": "M239_4",
+    "nameCht": "外港碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+    "parentCode": "M239",
+    "lat": 22.197467,
+    "lng": 113.557311
   },
   {
     "code": "M241_1",
@@ -3894,5 +3950,21 @@
     "parentCode": "C696",
     "lat": 22.13388,
     "lng": 113.578489
+  },
+  {
+    "code": "C697_1",
+    "nameCht": "九澳高頂燒烤公園",
+    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C697",
+    "lat": 22.129429,
+    "lng": 113.575189
+  },
+  {
+    "code": "C698_1",
+    "nameCht": "九澳高頂馬路",
+    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C698",
+    "lat": 22.129411,
+    "lng": 113.575321
   }
 ]
