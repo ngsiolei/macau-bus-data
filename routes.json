@@ -1,11 +1,13 @@
 [
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "1",
     "nameCht": "媽閣 ↻ 巴波沙大馬路",
     "namePor": "BARRA ↻ AV. ARTUR DE TAMAGNINI BARBOSA",
@@ -255,12 +257,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "1A",
     "nameCht": "筷子基 ⇌ 新口岸/科英布拉街",
     "namePor": "FAI CHI KEI ⇌ NAPE / RUA DE COIMBRA",
@@ -526,12 +530,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "2",
     "nameCht": "永寧廣場 ↻ 媽閣廟",
     "namePor": "AL. TRANQUILIDADE ↻ TEMPLO Á MA",
@@ -826,12 +832,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "2A",
     "nameCht": "東方明珠 ⇌ 亞馬喇前地",
     "namePor": "PÉROLA ORIENTAL ⇌ PRAÇA FERREIRA AMARAL",
@@ -1061,12 +1069,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "3",
     "nameCht": "外港碼頭 ↻ 關閘馬路",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR ↻ ISTMO F. AMARAL",
@@ -1334,12 +1344,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "3A",
     "nameCht": "司打口 ↻ 關閘",
     "namePor": "P. PONTE HORTA ↻ PORTAS DO CERCO",
@@ -1715,12 +1727,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "3AX",
     "nameCht": "關閘 ⇀ 亞馬喇前地",
     "namePor": "PORTAS DO CERCO ⇀ PRAÇA FERREIRA AMARAL",
@@ -1808,12 +1822,14 @@
     "type": "1-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "3X",
     "nameCht": "亞馬喇前地 ↻ 關閘馬路",
     "namePor": "PRAÇA FERRIRA AMARAL ↻ ISTMO F. AMARAL",
@@ -1919,12 +1935,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "4",
     "nameCht": "筷子基 ↻ 新馬路",
     "namePor": "FAI CHI KEI ↻ ALMEIDA RIBEIRO",
@@ -2075,12 +2093,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "5",
     "nameCht": "旅遊塔 ↻ 華大新村",
     "namePor": "TORRE DE MACAU ↻ WA TAI SAN CHUN",
@@ -2294,12 +2314,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "5AX",
     "nameCht": "旅遊塔 ↻ 華大新村",
     "namePor": "TORRE DE MACAU ↻ WA TAI SAN CHUN",
@@ -2477,12 +2499,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "5X",
     "nameCht": "筷子基北灣 ↻ 皇朝",
     "namePor": "BACIA NORTE DO PATANE ↻ NAPE",
@@ -2687,12 +2711,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "6A",
     "nameCht": "永寧廣場 ↻ 山頂醫院",
     "namePor": "AL. TRANQUILIDADE ↻ HOSPITAL S. JANUÁRIO",
@@ -3095,12 +3121,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "6B",
     "nameCht": "凱泉灣 ↻ 山頂醫院",
     "namePor": "RIVIERA MACAU ↻ HOSPITAL S. JANUÁRIO",
@@ -3314,12 +3342,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "7",
     "nameCht": "東方明珠 ⇌ 城市日前地",
     "namePor": "PÉROLA ORIENTAL ⇌ PRACETA 24 DE JUNHO",
@@ -3630,12 +3660,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "8",
     "nameCht": "工業園街 ⇌ 回力",
     "namePor": "R. DO PARQUE INDUSTRIAL ⇌ JAI ALAI",
@@ -4063,12 +4095,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "8A",
     "nameCht": "工業園街 ↻ 亞馬喇前地",
     "namePor": "R. DO PARQUE INDUSTRIAL ↻ PRAÇA FERREIRA AMARAL",
@@ -4390,12 +4424,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "9",
     "nameCht": "台山中街 ↻ 媽閣",
     "namePor": "RUA CENTRAL DE T'OI SÁN ⇌ BARRA",
@@ -4726,12 +4762,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "9A",
     "nameCht": "菜園涌邊街 ↻ 旅遊塔",
     "namePor": "R. MARGINAL DO CANAL DAS HORTAS ↻ TORRE DE MACAU",
@@ -5008,12 +5046,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "10",
     "nameCht": "旅遊塔 ↻ 巴波沙大馬路",
     "namePor": "TORRE DE MACAU ↻ AV. ARTUR DE TAMAGNINI BARBOSA",
@@ -5335,12 +5375,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "10A",
     "nameCht": "外港碼頭 ↻ 媽閣廟",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR ↻ TEMPLO Á MA",
@@ -5572,12 +5614,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "10B",
     "nameCht": "馬場大馬路 ↻ 南灣",
     "namePor": "AVENIDA DO HIPÓDROMO ↻ PRAIA GRANDE",
@@ -5854,12 +5898,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "10X",
     "nameCht": "祐漢第一街 ⇀ 亞馬喇前地",
     "namePor": "RUA 1 IAO HON ⇀ PRAÇA FERRIRA AMARAL",
@@ -5983,12 +6029,14 @@
     "type": "1-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "11",
     "nameCht": "旅遊塔 ↻ 氹仔",
     "namePor": "TORRE DE MACAU ↻ TAIPA",
@@ -6337,12 +6385,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "12",
     "nameCht": "永寧廣場 ⇌ 外港碼頭",
     "namePor": "AL. TRANQUILIDADE ⇌ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
@@ -6707,12 +6757,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "15",
     "nameCht": "海洋花園 ⇌ 九澳村",
     "namePor": "JARDINS DO OCEANO ⇌ POVOAÇÃO DE KA-HÓ",
@@ -7311,12 +7363,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "15T",
     "nameCht": "黑沙海灘 ↻ 蝴蝶谷大馬路",
     "namePor": "PRAIA DE HAC SÁ ↻ AV. VALE DAS BORBOLETAS",
@@ -7422,12 +7476,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "16",
     "nameCht": "菜園涌邊街 ↻ 下環街市",
     "namePor": "R. MARGINAL DO CANAL DAS HORTAS ↻ MERCADO DE S. LOURENÇO",
@@ -7659,12 +7715,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "17",
     "nameCht": "白鴿巢 ↻ 文化中心",
     "namePor": "JARDIM CAMÕES ↻ CENTRO CULTURAL",
@@ -7968,12 +8026,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "18",
     "nameCht": "牧場街 ⇌ 媽閣",
     "namePor": "RUA DOS CURRAIS ⇌ BARRA",
@@ -8365,12 +8425,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "18A",
     "nameCht": "東方明珠 ↻ 新馬路",
     "namePor": "PÉROLA ORIENTAL ↻ ALMEIDA RIBEIRO",
@@ -8602,12 +8664,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "18B",
     "nameCht": "永定街 ⇌ 媽閣",
     "namePor": "RUA DA SERENIDADE ⇌ BARRA",
@@ -8936,12 +9000,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "19",
     "nameCht": "永寧廣場 ↻ 新馬路",
     "namePor": "AL. TRANQUILIDADE ↻ ALEMIDA RIBEIRO",
@@ -9191,12 +9257,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "21A",
     "nameCht": "旅遊塔 ⇌ 九澳油庫",
     "namePor": "TORRE DE MACAU ⇌ T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ",
@@ -9858,12 +9926,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "22",
     "nameCht": "祐漢 ↻ 氹仔",
     "namePor": "IAO HON ↻ TAIPA",
@@ -10221,12 +10291,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "23",
     "nameCht": "青洲 ↻ 旅遊塔",
     "namePor": "EST. ILHA VERDE ↻ TORRE DE MACAU",
@@ -10620,12 +10692,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "25",
     "nameCht": "巴波沙大馬路 ⇌ 路環市區",
     "namePor": "AV. ARTUR DE TAMAGNINI BARBOSA ⇌ VILA DE COLOANE",
@@ -11107,12 +11181,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "25AX",
     "nameCht": "關閘 ↻ 蝴蝶谷大馬路",
     "namePor": "PORTAS DO CERCO ↻ AV. VALE DAS BORBOLETAS",
@@ -11263,12 +11339,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "25B",
     "nameCht": "牧場街 ↻ 蓮花圓形地",
     "namePor": "RUA DOS CURRAIS ↻ ROTUNDA FLOR DE LÓTUS",
@@ -11725,12 +11803,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "26",
     "nameCht": "筷子基北灣 ⇌ 路環街市",
     "namePor": "BACIA NORTE DO PATANE ⇌ MERCADO M. DE COLOANE",
@@ -12401,12 +12481,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "26A",
     "nameCht": "筷子基北灣 ⇌ 黑沙海灘",
     "namePor": "BACIA NORTE DO PATANE ⇌ PRAIA DE HAC SÁ",
@@ -13086,12 +13168,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "26A",
     "nameCht": "筷子基北灣 ⇌ 黑沙海灘",
     "namePor": "BACIA NORTE DO PATANE ⇌ PRAIA DE HAC SÁ",
@@ -13744,12 +13828,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "27",
     "nameCht": "青洲 ↻ 黑沙環",
     "namePor": "EST. ILHA VERDE ↻ AREUA PRETA",
@@ -13945,12 +14031,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "28A",
     "nameCht": "外港碼頭 ↻ 氹仔",
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR ↻ TAIPA",
@@ -14245,12 +14333,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "28B",
     "nameCht": "青洲 ↻ 媽閣廟",
     "namePor": "EST. ILHA VERDE ↻ TEMPLO Á MA",
@@ -14680,12 +14770,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "28C",
     "nameCht": "回力 ↻ 看台街/騎士馬路",
     "namePor": "JAI ALAI ↻ R. DA TRIBUNA / EST. DOC CAVALEIROS",
@@ -15025,12 +15117,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "29",
     "nameCht": "青洲 ↻ 東方拱門",
     "namePor": "EST. ILHA VERDE ↻ ARCO ORIENTE",
@@ -15343,12 +15437,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "30",
     "nameCht": "李寶椿街 ↻ 氹仔",
     "namePor": "RUA LEI POU CHON ↻ TAIPA",
@@ -15688,12 +15784,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "30X",
     "nameCht": "關閘 ↻ 氹仔",
     "namePor": "PORTAS DO CERCO ↻ TAIPA",
@@ -15934,12 +16032,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "32",
     "nameCht": "筷子基 ↻ 旅遊塔",
     "namePor": "FAI CHI KEI ↻ TORRE DE MACAU",
@@ -16252,12 +16352,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "33",
     "nameCht": "筷子基 ↻ 氹仔",
     "namePor": "FAI CHI KEI ↻ TAIPA",
@@ -16606,12 +16708,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "34",
     "nameCht": "菜園涌邊街 ⇌ 海洋花園",
     "namePor": "R. MARGINAL DO CANAL DAS HORTAS ⇌ JARDINS DO OCEANO",
@@ -16958,12 +17062,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "35",
     "nameCht": "蘇利安圓形地 ↻ 駕考中心",
     "namePor": "ROTUNDA LEONEL SOUSA ↻ CENTRO A. E EXAMES DE CONDUÇÃO",
@@ -17240,12 +17346,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "36",
     "nameCht": "蘇利安圓形地 ↻ 澳門機場",
     "namePor": "ROTUNDA LEONEL SOUSA ↻ AEROPORTO DE MACAU",
@@ -17486,12 +17594,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "37",
     "nameCht": "松樹尾 ↻ 信安馬路",
     "namePor": "CHUN SU MEI ↻ AV. SON ON",
@@ -17687,12 +17797,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "39",
     "nameCht": "亞馬喇前地 ↻ 湖畔大廈",
     "namePor": "PRAÇA FERREIRA AMARAL ↻ EDIFÍCIO DO LAGO",
@@ -17816,12 +17928,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "50",
     "nameCht": "亞馬喇前地 ⇌ 路環市區",
     "namePor": "PRAÇA FERRIRA AMARAL ⇌ VILA DE COLOANE",
@@ -18168,12 +18282,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "50B",
     "nameCht": "亞馬喇前地 ⇌ 駕考中心",
     "namePor": "PRAÇA FERRIRA AMARAL ⇌ CENTRO A. E EXAMES DE CONDUÇÃO",
@@ -18367,12 +18483,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "51",
     "nameCht": "蝴蝶谷大馬路 ↻ 關閘",
     "namePor": "AV. VALE DAS BORBOLETAS ↻ PORTAS DO CERCO",
@@ -18478,12 +18596,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "51A",
     "nameCht": "海擎天 ⇌ 蝴蝶谷大馬路",
     "namePor": "THE PRAIA ⇌ AV. VALE DAS BORBOLETAS",
@@ -18821,12 +18941,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "52",
     "nameCht": "蝴蝶谷大馬路 ⇌ 亞馬喇前地",
     "namePor": "AV. VALE DAS BORBOLETAS ⇌ PRAÇA FERREIRA AMARAL",
@@ -19011,12 +19133,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "55",
     "nameCht": "蝴蝶谷大馬路 ↻ 媽閣",
     "namePor": "AV. VALE DAS BORBOLETAS ↻ BARRA",
@@ -19203,12 +19327,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "56",
     "nameCht": "蝴蝶谷大馬路 ↻ 高士德",
     "namePor": "AV. VALE DAS BORBOLETAS ↻ HORTA E COSTA",
@@ -19431,12 +19557,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "59",
     "nameCht": "關閘 ⇌ 聯生工業邨",
     "namePor": "PORTAS DO CERCO ⇌ PARQUE INDUSTRIAL DA CONCÓRDIA",
@@ -19558,12 +19686,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "71",
     "nameCht": "澳門大學 ⇌ 亞馬喇前地",
     "namePor": "UNIVERSIDADE DE MACAU ⇌ PRAÇA FERRIRA AMARAL",
@@ -19757,12 +19887,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "72",
     "nameCht": "澳門大學 ↻ 氹仔",
     "namePor": "UNIVERSIDADE DE MACAU ↻ TAIPA",
@@ -20066,12 +20198,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "73",
     "nameCht": "澳門大學 ↻ 黑沙環",
     "namePor": "UNIVERSIDADE DE MACAU ↻ AREIA PRETA",
@@ -20312,12 +20446,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "88T",
     "nameCht": "旅遊塔 ↻ 司打口",
     "namePor": "TORRE DE MACAU ↻ PRAÇA PONTE HORTA",
@@ -20502,12 +20638,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "AP1",
     "nameCht": "關閘 ↻ 澳門機場",
     "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
@@ -20730,12 +20868,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "AP1X",
     "nameCht": "關閘 ↻ 澳門機場",
     "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
@@ -20823,12 +20963,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "H1",
     "nameCht": "山頂醫院 ↻ 水坑尾",
     "namePor": "HOSPITAL S. JANUÁRIO ↻ RUA DO CAMPO",
@@ -20952,12 +21094,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "H2",
     "nameCht": "筷子基社屋 ↻ 山頂醫院",
     "namePor": "HABITAÇÃO SOCIAL DO FAI CHI KEI ↻ HOSPITAL S. JANUÁRIO",
@@ -21036,12 +21180,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "H3",
     "nameCht": "蝴蝶谷大馬路 ↻ 山頂醫院",
     "namePor": "AV. VALE DAS BORBOLETAS ↻ HOSPITAL S. JANUÁRIO",
@@ -21129,12 +21275,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "MT1",
     "nameCht": "城市日前地 ↻ 澳門機場",
     "namePor": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU",
@@ -21411,12 +21559,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "MT2",
     "nameCht": "城市日前地 ↻ 運動場圓形地",
     "namePor": "PRACETA 24 DE JUNHO ↻ ROTUNDA DO ESTÁDIO",
@@ -21567,12 +21717,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "MT3",
     "nameCht": "高利亞海軍上將馬路 ↻ 望德聖母灣",
     "namePor": "ALM. MAGALHÃES CORREIA ↻ BAÍA DE N. SENHORA DA ESPERANÇA",
@@ -21768,12 +21920,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "新福利",
-      "namePor": "TRANSMAC",
-      "phone": "28271122",
-      "website": "http://www.transmac.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
     "code": "MT4",
     "nameCht": "紀念孫中山公園 ⇌ 氹仔客運碼頭",
     "namePor": "PARQUE M. DR. SUN YAT SEN ↻ TERMINAL MARÍTIMO PROVISÓRIO DA TAIPA",
@@ -22282,12 +22436,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "MT5",
     "nameCht": "湖畔大廈 ↻ 皇朝",
     "namePor": "EDIFÍCIO DO LAGO ⇌ NAPE",
@@ -22483,12 +22639,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "N1A",
     "nameCht": "筷子基北灣 ↻ 亞馬喇前地",
     "namePor": "BACIA NORTE DO PATANE ↻ PRAÇA FERRIRA AMARAL",
@@ -22729,12 +22887,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "N1B",
     "nameCht": "筷子基北灣 ↻ 亞馬喇前地",
     "namePor": "BACIA NORTE DO PATANE ↻ PRAÇA FERRIRA AMARAL",
@@ -22948,12 +23108,14 @@
     "type": "circular"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "N2",
     "nameCht": "筷子基北灣 ⇌ 氹仔客運碼頭",
     "namePor": "BACIA NORTE DO PATANE ⇌ TERMINAL MARÍTIMO PASSAGEIROS DA TAIPA",
@@ -23480,12 +23642,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "N3",
     "nameCht": "媽閣 ⇌ 黑沙海灘",
     "namePor": "BARRA ⇌ PRAIA DE HAC SÁ",
@@ -24048,12 +24212,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "新時代",
-      "namePor": "NEW ERA",
-      "phone": "28777888",
-      "website": "http://www.newera.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "新時代",
+        "namePor": "NEW ERA",
+        "phone": "28777888",
+        "website": "http://www.newera.com.mo/"
+      }
+    ],
     "code": "N4",
     "nameCht": "工業園街 ⇌ 筷子基北灣",
     "namePor": "R. DO PARQUE INDUSTRIAL ⇌ BACIA NORTE DO PATANE",
@@ -24130,12 +24296,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "N5",
     "nameCht": "亞馬喇前地 ⇌ 蝴蝶谷大馬路",
     "namePor": "PRAÇA FERREIRA AMARAL ⇌ AV. VALE DAS BORBOLETAS",
@@ -24482,12 +24650,14 @@
     "type": "2-way"
   },
   {
-    "agency": {
-      "nameCht": "澳巴",
-      "namePor": "TCM",
-      "phone": "28850060",
-      "website": "http://www.tcm.com.mo/"
-    },
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "N6",
     "nameCht": "澳門大學 ↻ 氹仔",
     "namePor": "UNIVERSIDADE DE MACAU ↻ TAIPA",
