@@ -1,5 +1,13 @@
 [
   {
+    "code": "M1_10",
+    "nameCht": "關閘總站",
+    "namePor": "PORTAS DO CERCO / TERMINAL",
+    "parentCode": "M1",
+    "lat": 22.214853,
+    "lng": 113.548842
+  },
+  {
     "code": "M2_1",
     "nameCht": "東方明珠總站",
     "namePor": "PÉROLA ORIENTAL / TERMINAL",
@@ -40,20 +48,20 @@
     "lng": 113.544922
   },
   {
-    "code": "M4_3",
-    "nameCht": "菜園涌邊街總站",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS / TERMINAL",
-    "parentCode": "M4",
-    "lat": 22.213584,
-    "lng": 113.546194
-  },
-  {
     "code": "M5_1",
     "nameCht": "街總社區服務大樓",
     "namePor": "UNIÃO G. DAS ASSOCIAÇÕES DOS MORADORES",
     "parentCode": "M5",
     "lat": 22.213255,
     "lng": 113.544048
+  },
+  {
+    "code": "TEMP-1_1",
+    "nameCht": "南灣大馬路/時代",
+    "namePor": "PRAIA GRANDE / SI TOI",
+    "parentCode": "TEMP-1",
+    "lat": 22.192816,
+    "lng": 113.542486
   },
   {
     "code": "M6_1",
@@ -182,6 +190,14 @@
     "parentCode": "M16",
     "lat": 22.206413,
     "lng": 113.545328
+  },
+  {
+    "code": "M17_1",
+    "nameCht": "提督馬路/白朗古",
+    "namePor": "AV. ALM. LACERDA / G. CASTELO BRANCO",
+    "parentCode": "M17",
+    "lat": 22.20709,
+    "lng": 113.545636
   },
   {
     "code": "M18_3",
@@ -406,6 +422,14 @@
     "parentCode": "M46",
     "lat": 22.202589,
     "lng": 113.55174
+  },
+  {
+    "code": "M46_2",
+    "nameCht": "鮑思高球場",
+    "namePor": "COR. MESQUITA / D. BOSCO",
+    "parentCode": "M46",
+    "lat": 22.20241,
+    "lng": 113.551957
   },
   {
     "code": "M47_1",
@@ -1078,14 +1102,6 @@
     "parentCode": "M135",
     "lat": 22.194835,
     "lng": 113.538272
-  },
-  {
-    "code": "TEMP-1_1",
-    "nameCht": "南灣大馬路/時代",
-    "namePor": "PRAIA GRANDE / SI TOI",
-    "parentCode": "TEMP-1",
-    "lat": 22.192816,
-    "lng": 113.542486
   },
   {
     "code": "M136_1",
@@ -2440,6 +2456,14 @@
     "lng": 113.556383
   },
   {
+    "code": "T306_1",
+    "nameCht": "氹仔嘉樂庇馬路",
+    "namePor": "EST. GOV. NOBRE CARVALHO",
+    "parentCode": "T306",
+    "lat": 22.153264,
+    "lng": 113.563003
+  },
+  {
     "code": "T307_1",
     "nameCht": "宋玉生博士圓形地",
     "namePor": "ROTUNDA DR.CARLOS A. C. P. D'ASSUMPÇÃO",
@@ -2456,20 +2480,20 @@
     "lng": 113.55664
   },
   {
-    "code": "T308_3_1",
-    "nameCht": "氹仔電訊",
-    "namePor": "AV. SUN YAT SEN / CTM",
-    "parentCode": "T308_3",
-    "lat": 22.160903,
-    "lng": 113.556368
-  },
-  {
     "code": "T308_3_2",
     "nameCht": "氹仔電訊",
     "namePor": "AV. SUN YAT SEN / CTM",
     "parentCode": "T308_3",
     "lat": 22.160784,
     "lng": 113.556482
+  },
+  {
+    "code": "T308_3_1",
+    "nameCht": "氹仔電訊",
+    "namePor": "AV. SUN YAT SEN / CTM",
+    "parentCode": "T308_3",
+    "lat": 22.160903,
+    "lng": 113.556368
   },
   {
     "code": "T309_1",
@@ -2518,6 +2542,14 @@
     "parentCode": "T313",
     "lat": 22.156125,
     "lng": 113.55992
+  },
+  {
+    "code": "T314_1",
+    "nameCht": "亞利雅架前地/泉悅",
+    "namePor": "LARGO OUVIDOR ARRIAGA / CHUN IUT",
+    "parentCode": "T314",
+    "lat": 22.156359,
+    "lng": 113.559864
   },
   {
     "code": "T315_1",
@@ -2976,28 +3008,12 @@
     "lng": 113.553216
   },
   {
-    "code": "T363(於2018年7月21日首班車開始永久取消)_1",
-    "nameCht": "奧林匹克游泳館圓形地",
-    "namePor": "ROTUNDA DA PISCINA OLÍMPICA",
-    "parentCode": "T363(於2018年7月21日首班車開始永久取消)",
-    "lat": 22.151402,
-    "lng": 113.552984
-  },
-  {
     "code": "T364_1",
     "nameCht": "望德聖母灣馬路/軍營",
     "namePor": "EST. BAIA N. S. ESPERANÇA / QUARTEL",
     "parentCode": "T364",
     "lat": 22.150381,
     "lng": 113.556049
-  },
-  {
-    "code": "T365(於2018年7月21日首班車開始永久取消)_1",
-    "nameCht": "望德聖母灣馬路/銀河",
-    "namePor": "EST. BAIA N. S. ESPERANÇA / GALAXY",
-    "parentCode": "T365(於2018年7月21日首班車開始永久取消)",
-    "lat": 22.150341,
-    "lng": 113.555619
   },
   {
     "code": "T365_1",
