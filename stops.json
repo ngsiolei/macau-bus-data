@@ -56,14 +56,6 @@
     "lng": 113.544048
   },
   {
-    "code": "TEMP-1_1",
-    "nameCht": "南灣大馬路/時代",
-    "namePor": "PRAIA GRANDE / SI TOI",
-    "parentCode": "TEMP-1",
-    "lat": 22.192816,
-    "lng": 113.542486
-  },
-  {
     "code": "M6_1",
     "nameCht": "鴨涌河變電站",
     "namePor": "SUBESTAÇÃO CANAL DOS PATOS",
@@ -108,8 +100,8 @@
     "nameCht": "關閘廣場",
     "namePor": "PRAÇA DAS PORTAS DO CERCO",
     "parentCode": "M9",
-    "lat": 22.214866,
-    "lng": 113.549449
+    "lat": 22.215952,
+    "lng": 113.549991
   },
   {
     "code": "M10_1",
@@ -2552,6 +2544,14 @@
     "lng": 113.559864
   },
   {
+    "code": "T314_2",
+    "nameCht": "亞利雅架前地/泉悅",
+    "namePor": "LARGO OUVIDOR ARRIAGA / CHUN IUT",
+    "parentCode": "T314",
+    "lat": 22.15639,
+    "lng": 113.55987
+  },
+  {
     "code": "T315_1",
     "nameCht": "氹仔CEM貨倉",
     "namePor": "NOBRE CARVALHO / ARMAZEM CEM",
@@ -2760,20 +2760,20 @@
     "lng": 113.557226
   },
   {
-    "code": "T339_2_1",
-    "nameCht": "花城公園",
-    "namePor": "JARDIM CIDADE DAS FLORES",
-    "parentCode": "T339_2",
-    "lat": 22.156295,
-    "lng": 113.55751
-  },
-  {
     "code": "T339_2_2",
     "nameCht": "花城公園",
     "namePor": "JARDIM CIDADE DAS FLORES",
     "parentCode": "T339_2",
     "lat": 22.156317,
     "lng": 113.557559
+  },
+  {
+    "code": "T339_2_1",
+    "nameCht": "花城公園",
+    "namePor": "JARDIM CIDADE DAS FLORES",
+    "parentCode": "T339_2",
+    "lat": 22.156295,
+    "lng": 113.55751
   },
   {
     "code": "T341_1",
