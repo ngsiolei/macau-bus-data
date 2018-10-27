@@ -100,8 +100,8 @@
     "nameCht": "關閘廣場",
     "namePor": "PRAÇA DAS PORTAS DO CERCO",
     "parentCode": "M9",
-    "lat": 22.215952,
-    "lng": 113.549991
+    "lat": 22.214866,
+    "lng": 113.549449
   },
   {
     "code": "M10_1",
@@ -2560,6 +2560,22 @@
     "lng": 113.561381
   },
   {
+    "code": "T316_1",
+    "nameCht": "北安大馬路/新城區",
+    "namePor": "EST. PAC ON / NOVOS ATERROS",
+    "parentCode": "T316",
+    "lat": 22.164759,
+    "lng": 113.566684
+  },
+  {
+    "code": "T317_1",
+    "nameCht": "北安大馬路/和睦街",
+    "namePor": "EST. PAC ON / RUA WO MOK",
+    "parentCode": "T317",
+    "lat": 22.163378,
+    "lng": 113.57106
+  },
+  {
     "code": "T318_1",
     "nameCht": "泉悅花園",
     "namePor": "FERNÃO M. PINTO / CHUN IUT GARDEN",
@@ -2760,12 +2776,12 @@
     "lng": 113.557226
   },
   {
-    "code": "T339_2_2",
+    "code": "T339_1_1",
     "nameCht": "花城公園",
     "namePor": "JARDIM CIDADE DAS FLORES",
-    "parentCode": "T339_2",
-    "lat": 22.156317,
-    "lng": 113.557559
+    "parentCode": "T339_1",
+    "lat": 22.156084,
+    "lng": 113.557151
   },
   {
     "code": "T339_2_1",
@@ -2774,6 +2790,14 @@
     "parentCode": "T339_2",
     "lat": 22.156295,
     "lng": 113.55751
+  },
+  {
+    "code": "T339_2_2",
+    "nameCht": "花城公園",
+    "namePor": "JARDIM CIDADE DAS FLORES",
+    "parentCode": "T339_2",
+    "lat": 22.156317,
+    "lng": 113.557559
   },
   {
     "code": "T341_1",
@@ -2913,11 +2937,11 @@
   },
   {
     "code": "T353_1",
-    "nameCht": "廣東大馬路/成都街",
-    "namePor": "AV. KWONG TUNG / R. SENG TOU",
+    "nameCht": "廣東大馬路/濠尚",
+    "namePor": "AV. KWONG TUNG / NOVA GRAND",
     "parentCode": "T353",
-    "lat": 22.159535,
-    "lng": 113.552394
+    "lat": 22.159552,
+    "lng": 113.552428
   },
   {
     "code": "T354_1",
@@ -2977,10 +3001,10 @@
   },
   {
     "code": "T359_1",
-    "nameCht": "蓮花圓形地—1",
-    "namePor": "ROTUNDA FLOR DE LOTUS-1",
+    "nameCht": "蓮花圓形地",
+    "namePor": "ROTUNDA FLOR DE LOTUS",
     "parentCode": "T359",
-    "lat": 22.140894,
+    "lat": 22.140883,
     "lng": 113.563572
   },
   {
@@ -3385,11 +3409,11 @@
   },
   {
     "code": "T415_1",
-    "nameCht": "路氹新城-2",
-    "namePor": "NOVA CIDADE DE COTAI-2",
+    "nameCht": "路氹新城",
+    "namePor": "NOVA CIDADE DE COTAI",
     "parentCode": "T415",
-    "lat": 22.141784,
-    "lng": 113.566771
+    "lat": 22.141698,
+    "lng": 113.566767
   },
   {
     "code": "T417_1",
@@ -4006,5 +4030,13 @@
     "parentCode": "C698",
     "lat": 22.129411,
     "lng": 113.575321
+  },
+  {
+    "code": "M800_1",
+    "nameCht": "港珠澳大橋邊檢大樓",
+    "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
+    "parentCode": "M800",
+    "lat": 22.201476,
+    "lng": 113.574241
   }
 ]
