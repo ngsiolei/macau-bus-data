@@ -27,76 +27,13 @@
             "seq": 1
           },
           {
-            "code": "M1_008",
-            "nameCht": "關閘總站",
-            "namePor": "PORTAS DO CERCO / TERMINAL",
-            "parentCode": "M1",
-            "lat": 22.215227,
-            "lng": 113.549097,
-            "seq": 2
-          },
-          {
-            "code": "M1_009",
-            "nameCht": "關閘總站",
-            "namePor": "PORTAS DO CERCO / TERMINAL",
-            "parentCode": "M1",
-            "lat": 22.215421,
-            "lng": 113.549137,
-            "seq": 3
-          },
-          {
-            "code": "M1_010",
-            "nameCht": "關閘總站",
-            "namePor": "PORTAS DO CERCO / TERMINAL",
-            "parentCode": "M1",
-            "lat": 22.215489,
-            "lng": 113.548957,
-            "seq": 4
-          },
-          {
-            "code": "M1_011",
-            "nameCht": "關閘總站",
-            "namePor": "PORTAS DO CERCO / TERMINAL",
-            "parentCode": "M1",
-            "lat": 22.215217,
-            "lng": 113.548907,
-            "seq": 5
-          },
-          {
-            "code": "M1_012",
-            "nameCht": "關閘總站",
-            "namePor": "PORTAS DO CERCO / TERMINAL",
-            "parentCode": "M1",
-            "lat": 22.21503,
-            "lng": 113.548874,
-            "seq": 6
-          },
-          {
-            "code": "M1_013",
-            "nameCht": "關閘總站",
-            "namePor": "PORTAS DO CERCO / TERMINAL",
-            "parentCode": "M1",
-            "lat": 22.214879,
-            "lng": 113.548846,
-            "seq": 7
-          },
-          {
             "code": "M225_1",
             "nameCht": "看台街/騎士馬路",
             "namePor": "R. DA TRIBUNA / EST. DOS CAVALEIROS",
             "parentCode": "M225",
             "lat": 22.213248,
             "lng": 113.549461,
-            "seq": 8
-          },
-          {
-            "code": "M225_2",
-            "nameCht": "看台街/騎士馬路",
-            "namePor": "R. DA TRIBUNA / EST. DOS CAVALEIROS",
-            "parentCode": "M225",
-            "lat": 22.213259,
-            "lng": 113.549386,
-            "seq": 9
+            "seq": 2
           },
           {
             "code": "M7_1",
@@ -105,16 +42,7 @@
             "parentCode": "M7",
             "lat": 22.212322,
             "lng": 113.548572,
-            "seq": 10
-          },
-          {
-            "code": "M7_2",
-            "nameCht": "關閘馬路",
-            "namePor": "ISTMO F.AMARAL",
-            "parentCode": "M7",
-            "lat": 22.212253,
-            "lng": 113.548562,
-            "seq": 11
+            "seq": 3
           },
           {
             "code": "M229_1",
@@ -123,25 +51,7 @@
             "parentCode": "M229",
             "lat": 22.210594,
             "lng": 113.548308,
-            "seq": 12
-          },
-          {
-            "code": "M229_2",
-            "nameCht": "三角花園",
-            "namePor": "JARDIM TRIANGULAR",
-            "parentCode": "M229",
-            "lat": 22.210392,
-            "lng": 113.548278,
-            "seq": 13
-          },
-          {
-            "code": "M229_3",
-            "nameCht": "三角花園",
-            "namePor": "JARDIM TRIANGULAR",
-            "parentCode": "M229",
-            "lat": 22.210332,
-            "lng": 113.548266,
-            "seq": 14
+            "seq": 4
           },
           {
             "code": "M12_1",
@@ -150,7 +60,7 @@
             "parentCode": "M12",
             "lat": 22.210381,
             "lng": 113.546166,
-            "seq": 15
+            "seq": 5
           },
           {
             "code": "M31_1",
@@ -159,7 +69,7 @@
             "parentCode": "M31",
             "lat": 22.209177,
             "lng": 113.545025,
-            "seq": 16
+            "seq": 6
           },
           {
             "code": "M16_1",
@@ -168,7 +78,7 @@
             "parentCode": "M16",
             "lat": 22.206635,
             "lng": 113.545461,
-            "seq": 17
+            "seq": 7
           },
           {
             "code": "M111_1",
@@ -177,7 +87,7 @@
             "parentCode": "M111",
             "lat": 22.204431,
             "lng": 113.543222,
-            "seq": 18
+            "seq": 8
           },
           {
             "code": "M112_1",
@@ -186,7 +96,7 @@
             "parentCode": "M112",
             "lat": 22.202624,
             "lng": 113.538659,
-            "seq": 19
+            "seq": 9
           },
           {
             "code": "M127_1",
@@ -195,7 +105,7 @@
             "parentCode": "M127",
             "lat": 22.200661,
             "lng": 113.537479,
-            "seq": 20
+            "seq": 10
           },
           {
             "code": "M125_1",
@@ -204,7 +114,7 @@
             "parentCode": "M125",
             "lat": 22.197712,
             "lng": 113.536755,
-            "seq": 21
+            "seq": 11
           },
           {
             "code": "M136_1",
@@ -213,7 +123,7 @@
             "parentCode": "M136",
             "lat": 22.195579,
             "lng": 113.536286,
-            "seq": 22
+            "seq": 12
           },
           {
             "code": "M139_2",
@@ -222,7 +132,7 @@
             "parentCode": "M139",
             "lat": 22.193607,
             "lng": 113.535332,
-            "seq": 23
+            "seq": 13
           },
           {
             "code": "M184_1",
@@ -231,7 +141,7 @@
             "parentCode": "M184",
             "lat": 22.190262,
             "lng": 113.533293,
-            "seq": 24
+            "seq": 14
           },
           {
             "code": "M188_1",
@@ -240,7 +150,7 @@
             "parentCode": "M188",
             "lat": 22.188679,
             "lng": 113.532229,
-            "seq": 25
+            "seq": 15
           },
           {
             "code": "M203_1",
@@ -249,7 +159,7 @@
             "parentCode": "M203",
             "lat": 22.187032,
             "lng": 113.531091,
-            "seq": 26
+            "seq": 16
           },
           {
             "code": "M3_2",
@@ -258,7 +168,7 @@
             "parentCode": "M3",
             "lat": 22.185125,
             "lng": 113.529153,
-            "seq": 27
+            "seq": 17
           }
         ]
       },
