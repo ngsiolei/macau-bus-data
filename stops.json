@@ -96,7 +96,7 @@
     "lng": 113.548675
   },
   {
-    "code": "M2_1",
+    "code": "M2_3",
     "nameCht": "東方明珠總站",
     "namePor": "PÉROLA ORIENTAL / TERMINAL",
     "parentCode": "M2",
@@ -534,14 +534,6 @@
     "parentCode": "M48",
     "lat": 22.205172,
     "lng": 113.554391
-  },
-  {
-    "code": "M49_1",
-    "nameCht": "慕拉士/發電廠",
-    "namePor": "VENCESLAU MORAIS / CEM",
-    "parentCode": "M49",
-    "lat": 22.205075,
-    "lng": 113.554398
   },
   {
     "code": "M50_1",
@@ -2698,7 +2690,7 @@
   {
     "code": "T309_1",
     "nameCht": "泉亮花園",
-    "namePor": "EDF. CHUN LUEN",
+    "namePor": "EDF. CHUN LEONG",
     "parentCode": "T309",
     "lat": 22.159096,
     "lng": 113.558219
@@ -2745,16 +2737,16 @@
   },
   {
     "code": "T314_1",
-    "nameCht": "亞利雅架前地/泉悅",
-    "namePor": "LARGO OUVIDOR ARRIAGA / CHUN IUT",
+    "nameCht": "信虹花園",
+    "namePor": "JARDIM LAMEIRAS",
     "parentCode": "T314",
     "lat": 22.156332,
     "lng": 113.559859
   },
   {
     "code": "T314_2",
-    "nameCht": "亞利雅架前地/泉悅",
-    "namePor": "LARGO OUVIDOR ARRIAGA / CHUN IUT",
+    "nameCht": "信虹花園",
+    "namePor": "JARDIM LAMEIRAS",
     "parentCode": "T314",
     "lat": 22.15639,
     "lng": 113.55987
@@ -3910,6 +3902,14 @@
     "parentCode": "C657",
     "lat": 22.120511,
     "lng": 113.5535
+  },
+  {
+    "code": "C658_1",
+    "nameCht": "九澳七苦聖母小堂",
+    "namePor": "IGREJA DE NOSSA SENHORA DAS DORES(KÁ HÓ)",
+    "parentCode": "C658",
+    "lat": 22.131825,
+    "lng": 113.588658
   },
   {
     "code": "C659_1",
