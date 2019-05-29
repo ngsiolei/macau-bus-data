@@ -1576,14 +1576,6 @@
     "lng": 113.54394
   },
   {
-    "code": "M169_1",
-    "nameCht": "教育暨青年局",
-    "namePor": "DIRECÇÃO SERVIÇOS EDUCAÇÃO JUVENTUDE",
-    "parentCode": "M169",
-    "lat": 22.191855,
-    "lng": 113.543958
-  },
-  {
     "code": "M170_1",
     "nameCht": "殷皇子馬路",
     "namePor": "AV.INFANTE D. HENRIQUE",
@@ -3208,20 +3200,20 @@
     "lng": 113.552464
   },
   {
-    "code": "T362_1",
-    "nameCht": "奧林匹克游泳館",
-    "namePor": "PISCINA OLÍMPICA",
-    "parentCode": "T362",
-    "lat": 22.151515,
-    "lng": 113.553216
-  },
-  {
     "code": "T364_1",
     "nameCht": "望德聖母灣馬路/軍營",
     "namePor": "EST. BAIA N. S. ESPERANÇA / QUARTEL",
     "parentCode": "T364",
     "lat": 22.150381,
     "lng": 113.556049
+  },
+  {
+    "code": "T364_2",
+    "nameCht": "望德聖母灣馬路/軍營",
+    "namePor": "EST. BAIA N. S. ESPERANÇA / QUARTEL",
+    "parentCode": "T364",
+    "lat": 22.150653,
+    "lng": 113.555278
   },
   {
     "code": "T365_1",
