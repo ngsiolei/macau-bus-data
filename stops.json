@@ -4248,6 +4248,22 @@
     "lng": 113.578489
   },
   {
+    "code": "C697_1",
+    "nameCht": "九澳高頂燒烤公園",
+    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C697",
+    "lat": 22.129429,
+    "lng": 113.575189
+  },
+  {
+    "code": "C698_1",
+    "nameCht": "九澳高頂馬路",
+    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C698",
+    "lat": 22.129411,
+    "lng": 113.575321
+  },
+  {
     "code": "M800_7",
     "nameCht": "港珠澳大橋邊檢大樓",
     "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
