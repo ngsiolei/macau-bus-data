@@ -875,13 +875,13 @@
       }
     ],
     "code": "2A",
-    "nameCht": "東方明珠 ⇌ 亞馬喇前地",
-    "namePor": "PÉROLA ORIENTAL ⇌ PRAÇA FERREIRA AMARAL",
+    "nameCht": "東方明珠 ↻ 亞馬喇前地",
+    "namePor": "PÉROLA ORIENTAL ↻ PRAÇA FERREIRA AMARAL",
     "directions": [
       {
         "code": "2A",
-        "nameCht": "東方明珠 ⇀ 亞馬喇前地",
-        "namePor": "PÉROLA ORIENTAL ⇀ PRAÇA FERREIRA AMARAL",
+        "nameCht": "東方明珠 ↻ 亞馬喇前地",
+        "namePor": "PÉROLA ORIENTAL ↻ PRAÇA FERREIRA AMARAL",
         "stops": [
           {
             "code": "M2_3",
@@ -1084,7 +1084,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agencies": [
@@ -6595,13 +6595,13 @@
       }
     ],
     "code": "12",
-    "nameCht": "永寧廣場 ⇌ 外港碼頭",
-    "namePor": "AL. TRANQUILIDADE ⇌ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+    "nameCht": "永寧廣場 ↻ 外港碼頭",
+    "namePor": "AL. TRANQUILIDADE ↻ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
     "directions": [
       {
         "code": "12",
-        "nameCht": "永寧廣場 ⇀ 外港碼頭",
-        "namePor": "AL. TRANQUILIDADE ⇀ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+        "nameCht": "永寧廣場 ↻ 外港碼頭",
+        "namePor": "AL. TRANQUILIDADE ↻ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
         "stops": [
           {
             "code": "M214_1",
@@ -6939,7 +6939,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agencies": [
