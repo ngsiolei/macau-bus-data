@@ -241,11 +241,11 @@
   },
   {
     "code": "M12_1",
-    "nameCht": "第二警司處",
-    "namePor": "COMISSARIADO Nº2 DA P.S.P.",
+    "nameCht": "北區警司處",
+    "namePor": "COMISSARIADO DA ZONA NORTE",
     "parentCode": "M12",
-    "lat": 22.210381,
-    "lng": 113.546166
+    "lat": 22.210377,
+    "lng": 113.546205
   },
   {
     "code": "M13_1",
@@ -278,22 +278,6 @@
     "parentCode": "M15",
     "lat": 22.211447,
     "lng": 113.545023
-  },
-  {
-    "code": "M16_1",
-    "nameCht": "提督馬路/雅廉訪",
-    "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-    "parentCode": "M16",
-    "lat": 22.206635,
-    "lng": 113.545461
-  },
-  {
-    "code": "M16_2",
-    "nameCht": "提督馬路/雅廉訪",
-    "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-    "parentCode": "M16",
-    "lat": 22.206413,
-    "lng": 113.545328
   },
   {
     "code": "M18_5",
@@ -1056,14 +1040,6 @@
     "lng": 113.540138
   },
   {
-    "code": "M115_1",
-    "nameCht": "土地廟前地",
-    "namePor": "LARGO PAGODE PATANE",
-    "parentCode": "M115",
-    "lat": 22.202817,
-    "lng": 113.53945
-  },
-  {
     "code": "M116_1",
     "nameCht": "亞利鴉架街",
     "namePor": "RUA MANUEL ARRIAGA",
@@ -1169,11 +1145,11 @@
   },
   {
     "code": "M129_1",
-    "nameCht": "水上街市",
-    "namePor": "MERCADO PATANE",
+    "nameCht": "沙梨頭街市",
+    "namePor": "MERCADO DE PATANE",
     "parentCode": "M129",
-    "lat": 22.201223,
-    "lng": 113.537554
+    "lat": 22.201256,
+    "lng": 113.537564
   },
   {
     "code": "M130_1",
@@ -1344,6 +1320,14 @@
     "lng": 113.543384
   },
   {
+    "code": "M144",
+    "nameCht": "水坑尾街",
+    "namePor": "RUA DO CAMPO",
+    "parentCode": "M144",
+    "lat": 22.194367,
+    "lng": 113.543816
+  },
+  {
     "code": "M145_1",
     "nameCht": "愕斜巷/山頂醫院",
     "namePor": "CALÇADA DA SURPRESA / HOSPITAL S. JANUÁRIO",
@@ -1393,11 +1377,11 @@
   },
   {
     "code": "M150_1",
-    "nameCht": "得勝斜巷",
-    "namePor": "CALÇADA VITÓRIA",
+    "nameCht": "得勝斜路",
+    "namePor": "CALÇADA DA VITÓRIA",
     "parentCode": "M150",
-    "lat": 22.196019,
-    "lng": 113.548288
+    "lat": 22.196007,
+    "lng": 113.548299
   },
   {
     "code": "M151_1",
@@ -1497,19 +1481,19 @@
   },
   {
     "code": "M160_1",
-    "nameCht": "十月一日前地",
-    "namePor": "PRACETA 1 DE OUTUBRO",
+    "nameCht": "十月一號前地",
+    "namePor": "PRACETA DE 1 DE OUTUBRO",
     "parentCode": "M160",
-    "lat": 22.190885,
-    "lng": 113.546237
+    "lat": 22.190862,
+    "lng": 113.546247
   },
   {
     "code": "M160_2",
-    "nameCht": "十月一日前地",
-    "namePor": "PRACETA 1 DE OUTUBRO",
+    "nameCht": "十月一號前地",
+    "namePor": "PRACETA DE 1 DE OUTUBRO",
     "parentCode": "M160",
-    "lat": 22.190961,
-    "lng": 113.546208
+    "lat": 22.190919,
+    "lng": 113.546224
   },
   {
     "code": "M161_1",
@@ -2273,11 +2257,11 @@
   },
   {
     "code": "M241_1",
-    "nameCht": "旅遊活動中心",
-    "namePor": "CENTRO ACTIVIDADES TURÍSTICAS",
+    "nameCht": "金蓮花廣場",
+    "namePor": "A PRAÇA FLOR DE LÓTUS",
     "parentCode": "M241",
-    "lat": 22.194487,
-    "lng": 113.552915
+    "lat": 22.194511,
+    "lng": 113.552933
   },
   {
     "code": "M242_1",
@@ -3065,11 +3049,11 @@
   },
   {
     "code": "T347_1",
-    "nameCht": "運動場圓形地",
-    "namePor": "ROTUNDA DO ESTÁDIO",
+    "nameCht": "運動場/體育中心",
+    "namePor": "ESTÁDIO / CENTRO DESPORTIVO",
     "parentCode": "T347",
-    "lat": 22.155222,
-    "lng": 113.552601
+    "lat": 22.155103,
+    "lng": 113.552535
   },
   {
     "code": "T348_1",
@@ -3120,12 +3104,12 @@
     "lng": 113.552428
   },
   {
-    "code": "T354_2",
-    "nameCht": "北安出入境事務廳",
-    "namePor": "SERVIÇOS DA MIGRAÇÃO DE PAC ON",
+    "code": "T354_1",
+    "nameCht": "北安出入境事務大樓",
+    "namePor": "EDIFÍCIO DE SERVIÇOS DE MIGRAÇÃO / PAC ON",
     "parentCode": "T354",
-    "lat": 22.164027,
-    "lng": 113.570668
+    "lat": 22.164034,
+    "lng": 113.570637
   },
   {
     "code": "T355_1",
@@ -3353,19 +3337,19 @@
   },
   {
     "code": "T387_1",
-    "nameCht": "保齡球中心",
-    "namePor": "CENTRO DE BOWLING",
+    "nameCht": "東亞運/保齡球中心",
+    "namePor": "JOGOS DA ÁSIA ORIENTAL / CENTRO DE BOWLING",
     "parentCode": "T387",
-    "lat": 22.143427,
-    "lng": 113.568863
+    "lat": 22.14344,
+    "lng": 113.568865
   },
   {
     "code": "T388_1",
-    "nameCht": "體育館/射擊路",
-    "namePor": "NAVE DESPORTIVA / R. DO TIRO",
+    "nameCht": "東亞運/熱帶公園",
+    "namePor": "JOGOS DA ÁSIA ORIENTAL / JARDIM TROPICAL",
     "parentCode": "T388",
-    "lat": 22.142974,
-    "lng": 113.568608
+    "lat": 22.142945,
+    "lng": 113.568604
   },
   {
     "code": "T389_1",
@@ -3409,35 +3393,35 @@
   },
   {
     "code": "T396_1",
-    "nameCht": "新城大馬路 / 金光會展",
-    "namePor": "AV. CIDADE NOVA / COTAIEXPO",
+    "nameCht": "路氹西/金光會展",
+    "namePor": "COTAI OESTE / COTAI EXPO",
     "parentCode": "T396",
-    "lat": 22.144324,
-    "lng": 113.557895
+    "lat": 22.144343,
+    "lng": 113.557896
   },
   {
     "code": "T397_1",
-    "nameCht": "路氹城圓形地",
-    "namePor": "ROTUNDA DE COTAI",
+    "nameCht": "路氹西/銀河",
+    "namePor": "COTAI OESTE / GALAXY",
     "parentCode": "T397",
-    "lat": 22.14342,
+    "lat": 22.143437,
     "lng": 113.557637
   },
   {
     "code": "T399_1",
-    "nameCht": "體育館馬路/永利皇宮",
-    "namePor": "AV. DA NAVE DESPORTIVA / WYNN PALACE",
+    "nameCht": "路氹東/永利皇宮",
+    "namePor": "COTAI LESTE / WYNN PALACE",
     "parentCode": "T399",
-    "lat": 22.147214,
+    "lat": 22.147233,
     "lng": 113.569294
   },
   {
     "code": "T400_1",
-    "nameCht": "體育館馬路/ 新濠天地",
-    "namePor": "AV. DA NAVE DESPORTIVA / C.O.D.",
+    "nameCht": "路氹東/新濠天地",
+    "namePor": "COTAI LESTE / C.O.D.",
     "parentCode": "T400",
-    "lat": 22.149129,
-    "lng": 113.568811
+    "lat": 22.149102,
+    "lng": 113.568818
   },
   {
     "code": "T402_1",
@@ -3593,11 +3577,11 @@
   },
   {
     "code": "T417_1",
-    "nameCht": "機場貨運站",
-    "namePor": "TERMINAL DE CARGA DO AEROPORTO",
+    "nameCht": "科大/機場貨運站",
+    "namePor": "M.U.S.T. / TERMINAL DE CARGA DO AEROPORTO",
     "parentCode": "T417",
-    "lat": 22.154117,
-    "lng": 113.569834
+    "lat": 22.153166,
+    "lng": 113.57041
   },
   {
     "code": "T418_1",
@@ -3676,8 +3660,8 @@
     "nameCht": "機場大馬路/科大醫院",
     "namePor": "WAI LONG / M.U.S.T.-HOSPITAL",
     "parentCode": "T429",
-    "lat": 22.154591,
-    "lng": 113.569302
+    "lat": 22.153213,
+    "lng": 113.570171
   },
   {
     "code": "T430_1",
@@ -4264,6 +4248,14 @@
     "lng": 113.575321
   },
   {
+    "code": "C699_1",
+    "nameCht": "九澳康復醫院",
+    "namePor": "HOSPITAL DE REABILITAÇÃO KÁ-HÓ",
+    "parentCode": "C699",
+    "lat": 22.131077,
+    "lng": 113.588886
+  },
+  {
     "code": "M800_7",
     "nameCht": "港珠澳大橋邊檢大樓",
     "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
@@ -4278,5 +4270,29 @@
     "parentCode": "M800",
     "lat": 22.201476,
     "lng": 113.574241
+  },
+  {
+    "code": "TEMP_10_1",
+    "nameCht": "提督馬路/雅廉訪臨時站",
+    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+    "parentCode": "TEMP_10",
+    "lat": 22.206811,
+    "lng": 113.545566
+  },
+  {
+    "code": "TEMP_10_2",
+    "nameCht": "提督馬路/雅廉訪臨時站",
+    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+    "parentCode": "TEMP_10",
+    "lat": 22.205632,
+    "lng": 113.544756
+  },
+  {
+    "code": "TEMP_10_3",
+    "nameCht": "提督馬路/雅廉訪臨時站",
+    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+    "parentCode": "TEMP_10",
+    "lat": 22.20548,
+    "lng": 113.544574
   }
 ]
