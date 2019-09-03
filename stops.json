@@ -121,27 +121,19 @@
   },
   {
     "code": "M4_1",
-    "nameCht": "菜園涌邊街總站",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS / TERMINAL",
+    "nameCht": "鄭觀應公立學校",
+    "namePor": "ESCOLA OFICIAL ZHENG GUANYING",
     "parentCode": "M4",
-    "lat": 22.213654,
-    "lng": 113.544922
+    "lat": 22.213655,
+    "lng": 113.54491
   },
   {
     "code": "M4_2",
-    "nameCht": "菜園涌邊街總站",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS / TERMINAL",
+    "nameCht": "鄭觀應公立學校",
+    "namePor": "ESCOLA OFICIAL ZHENG GUANYING",
     "parentCode": "M4",
-    "lat": 22.213637,
-    "lng": 113.545265
-  },
-  {
-    "code": "M4_3",
-    "nameCht": "菜園涌邊街總站",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS / TERMINAL",
-    "parentCode": "M4",
-    "lat": 22.213584,
-    "lng": 113.546194
+    "lat": 22.213638,
+    "lng": 113.545251
   },
   {
     "code": "M5_1",
@@ -248,14 +240,6 @@
     "lng": 113.546205
   },
   {
-    "code": "M13_1",
-    "nameCht": "李寶椿街",
-    "namePor": "RUA LEI POU CHON",
-    "parentCode": "M13",
-    "lat": 22.212209,
-    "lng": 113.54595
-  },
-  {
     "code": "M13_2",
     "nameCht": "李寶椿街",
     "namePor": "RUA LEI POU CHON",
@@ -278,6 +262,30 @@
     "parentCode": "M15",
     "lat": 22.211447,
     "lng": 113.545023
+  },
+  {
+    "code": "M17_1",
+    "nameCht": "提督馬路/白朗古",
+    "namePor": "AV. ALM. LACERDA / G. CASTELO BRANCO",
+    "parentCode": "M17",
+    "lat": 22.20709,
+    "lng": 113.545636
+  },
+  {
+    "code": "M18_1",
+    "nameCht": "牧場街總站",
+    "namePor": "Rua dos Currais / TERMINAL",
+    "parentCode": "M18",
+    "lat": 22.215176,
+    "lng": 113.546675
+  },
+  {
+    "code": "M18_3",
+    "nameCht": "牧場街總站",
+    "namePor": "Rua dos Currais / TERMINAL",
+    "parentCode": "M18",
+    "lat": 22.215343,
+    "lng": 113.54658
   },
   {
     "code": "M18_5",
@@ -310,6 +318,30 @@
     "parentCode": "M19",
     "lat": 22.209335,
     "lng": 113.544792
+  },
+  {
+    "code": "M20_2",
+    "nameCht": "青洲坊總站",
+    "namePor": "BAIRRO DA ILHA VERDE / TERMINAL",
+    "parentCode": "M20",
+    "lat": 22.211952,
+    "lng": 113.54371
+  },
+  {
+    "code": "M20_3",
+    "nameCht": "青洲坊總站",
+    "namePor": "BAIRRO DA ILHA VERDE / TERMINAL",
+    "parentCode": "M20",
+    "lat": 22.211887,
+    "lng": 113.543532
+  },
+  {
+    "code": "M20_6",
+    "nameCht": "青洲坊總站",
+    "namePor": "BAIRRO DA ILHA VERDE / TERMINAL",
+    "parentCode": "M20",
+    "lat": 22.21175,
+    "lng": 113.543755
   },
   {
     "code": "M21_1",
@@ -1144,6 +1176,14 @@
     "lng": 113.539461
   },
   {
+    "code": "M129(於2019年7月27日首班車開始重新命名)_1",
+    "nameCht": "水上街市",
+    "namePor": "MERCADO PATANE",
+    "parentCode": "M129(於2019年7月27日首班車開始重新命名)",
+    "lat": 22.201223,
+    "lng": 113.537554
+  },
+  {
     "code": "M129_1",
     "nameCht": "沙梨頭街市",
     "namePor": "MERCADO DE PATANE",
@@ -1166,6 +1206,22 @@
     "parentCode": "M131",
     "lat": 22.197951,
     "lng": 113.537789
+  },
+  {
+    "code": "M132_1",
+    "nameCht": "十六浦",
+    "namePor": "PONTE 16",
+    "parentCode": "M132",
+    "lat": 22.197371,
+    "lng": 113.536586
+  },
+  {
+    "code": "M132_2",
+    "nameCht": "十六浦",
+    "namePor": "PONTE 16",
+    "parentCode": "M132",
+    "lat": 22.197432,
+    "lng": 113.536602
   },
   {
     "code": "M133_1",
@@ -2012,8 +2068,8 @@
     "nameCht": "青洲/美樂花園",
     "namePor": "EST. ILHA VERDE / EDF. MEI LOK GARDEN",
     "parentCode": "M210",
-    "lat": 22.213229,
-    "lng": 113.537928
+    "lat": 22.213287,
+    "lng": 113.537385
   },
   {
     "code": "M211_1",
@@ -2558,6 +2614,14 @@
     "parentCode": "M284",
     "lat": 22.213438,
     "lng": 113.548522
+  },
+  {
+    "code": "M285_1",
+    "nameCht": "台山平民大廈",
+    "namePor": "MORADIAS ECONÓMICAS DA TAMAGNINI BARBOSA",
+    "parentCode": "M285",
+    "lat": 22.213585,
+    "lng": 113.546175
   },
   {
     "code": "T300_1",
@@ -3174,14 +3238,6 @@
     "parentCode": "T360",
     "lat": 22.140703,
     "lng": 113.563299
-  },
-  {
-    "code": "T361_1",
-    "nameCht": "運動場/賽馬會",
-    "namePor": "ESTÁDIO / JOCKEY CLUB",
-    "parentCode": "T361",
-    "lat": 22.155425,
-    "lng": 113.552464
   },
   {
     "code": "T364_1",
