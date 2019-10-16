@@ -4886,13 +4886,13 @@
       }
     ],
     "code": "9A",
-    "nameCht": "菜園涌邊街 ↻ 旅遊塔",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS ↻ TORRE DE MACAU",
+    "nameCht": "牧場街 ↻ 旅遊塔",
+    "namePor": "RUA DOS CURRAIS ↻ TORRE DE MACAU",
     "directions": [
       {
         "code": "9A",
-        "nameCht": "菜園涌邊街 ↻ 旅遊塔",
-        "namePor": "R. MARGINAL DO CANAL DAS HORTAS ↻ TORRE DE MACAU",
+        "nameCht": "牧場街 ↻ 旅遊塔",
+        "namePor": "RUA DOS CURRAIS ↻ TORRE DE MACAU",
         "stops": [
           {
             "code": "M18_3",
@@ -5021,12 +5021,12 @@
             "seq": 14
           },
           {
-            "code": "M178_1",
-            "nameCht": "立法會前地",
-            "namePor": "PRAÇA DA ASSEMBLEIA LEGISLATIVA",
-            "parentCode": "M178",
-            "lat": 22.182975,
-            "lng": 113.539296,
+            "code": "TEMP_12_1",
+            "nameCht": "立法會前地臨時站",
+            "namePor": "PARAGEM PROVISÓRIA DO PRAÇA DA ASSEMBLEIA LEGISLATIVA",
+            "parentCode": "TEMP_12",
+            "lat": 22.183713,
+            "lng": 113.538151,
             "seq": 15
           },
           {
@@ -7742,13 +7742,13 @@
       }
     ],
     "code": "16",
-    "nameCht": "菜園涌邊街 ↻ 下環街市",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS ↻ MERCADO DE S. LOURENÇO",
+    "nameCht": "牧場街 ↻ 下環街市",
+    "namePor": "RUA DOS CURRAIS ↻ MERCADO DE S. LOURENÇO",
     "directions": [
       {
         "code": "16",
-        "nameCht": "菜園涌邊街 ↻ 下環街市",
-        "namePor": "R. MARGINAL DO CANAL DAS HORTAS ↻ MERCADO DE S. LOURENÇO",
+        "nameCht": "牧場街 ↻ 下環街市",
+        "namePor": "RUA DOS CURRAIS ↻ MERCADO DE S. LOURENÇO",
         "stops": [
           {
             "code": "M18_1",
@@ -10872,12 +10872,12 @@
             "seq": 21
           },
           {
-            "code": "M178_1",
-            "nameCht": "立法會前地",
-            "namePor": "PRAÇA DA ASSEMBLEIA LEGISLATIVA",
-            "parentCode": "M178",
-            "lat": 22.182975,
-            "lng": 113.539296,
+            "code": "TEMP_12_1",
+            "nameCht": "立法會前地臨時站",
+            "namePor": "PARAGEM PROVISÓRIA DO PRAÇA DA ASSEMBLEIA LEGISLATIVA",
+            "parentCode": "TEMP_12",
+            "lat": 22.183713,
+            "lng": 113.538151,
             "seq": 22
           },
           {
@@ -11029,8 +11029,8 @@
             "nameCht": "青洲/美樂花園",
             "namePor": "EST. ILHA VERDE / EDF. MEI LOK GARDEN",
             "parentCode": "M210",
-            "lat": 22.213287,
-            "lng": 113.537385,
+            "lat": 22.213228,
+            "lng": 113.537941,
             "seq": 39
           },
           {
@@ -13717,8 +13717,8 @@
             "nameCht": "青洲/美樂花園",
             "namePor": "EST. ILHA VERDE / EDF. MEI LOK GARDEN",
             "parentCode": "M210",
-            "lat": 22.213287,
-            "lng": 113.537385,
+            "lat": 22.213228,
+            "lng": 113.537941,
             "seq": 19
           },
           {
@@ -15151,13 +15151,13 @@
       }
     ],
     "code": "30",
-    "nameCht": "李寶椿街 ↻ 氹仔",
-    "namePor": "RUA LEI POU CHON ↻ TAIPA",
+    "nameCht": "青洲坊 ↻ 氹仔",
+    "namePor": "BAIRRO DA ILHA VERDE ↻ TAIPA",
     "directions": [
       {
         "code": "30",
-        "nameCht": "李寶椿街 ↻ 氹仔",
-        "namePor": "RUA LEI POU CHON ↻ TAIPA",
+        "nameCht": "青洲坊 ↻ 氹仔",
+        "namePor": "BAIRRO DA ILHA VERDE ↻ TAIPA",
         "stops": [
           {
             "code": "M20_6",
@@ -15890,12 +15890,12 @@
             "seq": 14
           },
           {
-            "code": "M178_1",
-            "nameCht": "立法會前地",
-            "namePor": "PRAÇA DA ASSEMBLEIA LEGISLATIVA",
-            "parentCode": "M178",
-            "lat": 22.182975,
-            "lng": 113.539296,
+            "code": "TEMP_12_1",
+            "nameCht": "立法會前地臨時站",
+            "namePor": "PARAGEM PROVISÓRIA DO PRAÇA DA ASSEMBLEIA LEGISLATIVA",
+            "parentCode": "TEMP_12",
+            "lat": 22.183713,
+            "lng": 113.538151,
             "seq": 15
           },
           {
@@ -16431,13 +16431,13 @@
       }
     ],
     "code": "34",
-    "nameCht": "菜園涌邊街 ⇌ 海洋花園",
-    "namePor": "R. MARGINAL DO CANAL DAS HORTAS ⇌ JARDINS DO OCEANO",
+    "nameCht": "青洲坊 ⇌ 海洋花園",
+    "namePor": "BAIRRO DA ILHA VERDE ⇌ JARDINS DO OCEANO",
     "directions": [
       {
         "code": "34",
-        "nameCht": "菜園涌邊街 ⇀ 海洋花園",
-        "namePor": "R. MARGINAL DO CANAL DAS HORTAS ⇀ JARDINS DO OCEANO",
+        "nameCht": "青洲坊 ⇀ 海洋花園",
+        "namePor": "BAIRRO DA ILHA VERDE ⇀ JARDINS DO OCEANO",
         "stops": [
           {
             "code": "M20_2",
@@ -16632,8 +16632,8 @@
       },
       {
         "code": "34",
-        "nameCht": "海洋花園 ⇀ 菜園涌邊街",
-        "namePor": "JARDINS DO OCEANO ⇀ R. MARGINAL DO CANAL DAS HORTAS",
+        "nameCht": "海洋花園 ⇀ 青洲坊",
+        "namePor": "JARDINS DO OCEANO ⇀ BAIRRO DA ILHA VERDE",
         "stops": [
           {
             "code": "T336_1",
@@ -21403,13 +21403,22 @@
             "seq": 2
           },
           {
+            "code": "T425_1",
+            "nameCht": "海濱圓形地 / 西堤馬路",
+            "namePor": "ROTUNDA MARGINAL / EST. DO DIQUE OESTE",
+            "parentCode": "T425",
+            "lat": 22.141078,
+            "lng": 113.552382,
+            "seq": 3
+          },
+          {
             "code": "T369_1",
             "nameCht": "基馬拉斯/氹仔中央公園",
             "namePor": "GUIMARÃES / PARQUE CENTRAL DA TAIPA",
             "parentCode": "T369",
             "lat": 22.158045,
             "lng": 113.555484,
-            "seq": 3
+            "seq": 4
           },
           {
             "code": "M151_1",
@@ -21418,7 +21427,7 @@
             "parentCode": "M151",
             "lat": 22.194048,
             "lng": 113.547281,
-            "seq": 4
+            "seq": 5
           },
           {
             "code": "M147_1",
@@ -21427,7 +21436,7 @@
             "parentCode": "M147",
             "lat": 22.194129,
             "lng": 113.546249,
-            "seq": 5
+            "seq": 6
           },
           {
             "code": "T370_1",
@@ -21436,7 +21445,16 @@
             "parentCode": "T370",
             "lat": 22.158014,
             "lng": 113.555572,
-            "seq": 6
+            "seq": 7
+          },
+          {
+            "code": "T424_1",
+            "nameCht": "海濱圓形地/生態保護區",
+            "namePor": "ROTUNDA MARGINAL / ZONAS ECOLÓGICAS",
+            "parentCode": "T424",
+            "lat": 22.141399,
+            "lng": 113.552568,
+            "seq": 8
           },
           {
             "code": "C688_2",
@@ -21445,7 +21463,7 @@
             "parentCode": "C688",
             "lat": 22.129626,
             "lng": 113.563061,
-            "seq": 7
+            "seq": 9
           },
           {
             "code": "C690_2",
@@ -21454,7 +21472,7 @@
             "parentCode": "C690",
             "lat": 22.128765,
             "lng": 113.562363,
-            "seq": 8
+            "seq": 10
           }
         ]
       }
@@ -22826,12 +22844,12 @@
         "namePor": "BACIA NORTE DO PATANE ↻ PRAÇA FERRIRA AMARAL",
         "stops": [
           {
-            "code": "M95_2",
+            "code": "M95_3",
             "nameCht": "沙梨頭北街/筷子基北灣",
             "namePor": "RUA NORTE DO PATANE / BACIA NORTE DO PATANE",
             "parentCode": "M95",
-            "lat": 22.208841,
-            "lng": 113.541755,
+            "lat": 22.208892,
+            "lng": 113.541739,
             "seq": 1
           },
           {
@@ -22898,13 +22916,22 @@
             "seq": 8
           },
           {
+            "code": "M239_1",
+            "nameCht": "外港碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+            "parentCode": "M239",
+            "lat": 22.197568,
+            "lng": 113.557591,
+            "seq": 9
+          },
+          {
             "code": "M254_1",
             "nameCht": "友誼馬路/行車天橋",
             "namePor": "AV. AMIZADE / VIADUTO",
             "parentCode": "M254",
             "lat": 22.194852,
             "lng": 113.554846,
-            "seq": 9
+            "seq": 10
           },
           {
             "code": "M253_1",
@@ -22913,7 +22940,7 @@
             "parentCode": "M253",
             "lat": 22.189136,
             "lng": 113.551093,
-            "seq": 10
+            "seq": 11
           },
           {
             "code": "M250_1",
@@ -22922,7 +22949,7 @@
             "parentCode": "M250",
             "lat": 22.186907,
             "lng": 113.550194,
-            "seq": 11
+            "seq": 12
           },
           {
             "code": "M268_1",
@@ -22931,7 +22958,7 @@
             "parentCode": "M268",
             "lat": 22.187225,
             "lng": 113.547838,
-            "seq": 12
+            "seq": 13
           },
           {
             "code": "M263_1",
@@ -22940,7 +22967,7 @@
             "parentCode": "M263",
             "lat": 22.189172,
             "lng": 113.546269,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "M172_2",
@@ -22949,7 +22976,7 @@
             "parentCode": "M172",
             "lat": 22.189284,
             "lng": 113.543612,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "M171_2",
@@ -22958,7 +22985,7 @@
             "parentCode": "M171",
             "lat": 22.191632,
             "lng": 113.541475,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "M134_1",
@@ -22967,7 +22994,7 @@
             "parentCode": "M134",
             "lat": 22.193897,
             "lng": 113.539178,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "M132_1",
@@ -22976,16 +23003,16 @@
             "parentCode": "M132",
             "lat": 22.197371,
             "lng": 113.536586,
-            "seq": 17
+            "seq": 18
           },
           {
-            "code": "M129(於2019年7月27日首班車開始重新命名)_1",
-            "nameCht": "水上街市",
-            "namePor": "MERCADO PATANE",
-            "parentCode": "M129(於2019年7月27日首班車開始重新命名)",
-            "lat": 22.201223,
-            "lng": 113.537554,
-            "seq": 18
+            "code": "M129_1",
+            "nameCht": "沙梨頭街市",
+            "namePor": "MERCADO DE PATANE",
+            "parentCode": "M129",
+            "lat": 22.201256,
+            "lng": 113.537564,
+            "seq": 19
           },
           {
             "code": "M114_1",
@@ -22994,7 +23021,7 @@
             "parentCode": "M114",
             "lat": 22.20307,
             "lng": 113.540138,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "M113_1",
@@ -23003,15 +23030,6 @@
             "parentCode": "M113",
             "lat": 22.204657,
             "lng": 113.543385,
-            "seq": 20
-          },
-          {
-            "code": "M17_1",
-            "nameCht": "提督馬路/白朗古",
-            "namePor": "AV. ALM. LACERDA / G. CASTELO BRANCO",
-            "parentCode": "M17",
-            "lat": 22.20709,
-            "lng": 113.545636,
             "seq": 21
           },
           {
@@ -23033,12 +23051,12 @@
             "seq": 23
           },
           {
-            "code": "M95_2",
+            "code": "M95_3",
             "nameCht": "沙梨頭北街/筷子基北灣",
             "namePor": "RUA NORTE DO PATANE / BACIA NORTE DO PATANE",
             "parentCode": "M95",
-            "lat": 22.208841,
-            "lng": 113.541755,
+            "lat": 22.208892,
+            "lng": 113.541739,
             "seq": 24
           }
         ]
@@ -23784,13 +23802,13 @@
       }
     ],
     "code": "N3",
-    "nameCht": "亞馬喇前地 ↻ 黑沙海灘",
-    "namePor": "PRAÇA FERRIRA AMARAL ↻ PRAIA DE HAC SÁ",
+    "nameCht": "亞馬喇前地 ↻ 路環市區",
+    "namePor": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
     "directions": [
       {
         "code": "N3",
-        "nameCht": "亞馬喇前地 ↻ 黑沙海灘",
-        "namePor": "PRAÇA FERRIRA AMARAL ↻ PRAIA DE HAC SÁ",
+        "nameCht": "亞馬喇前地 ↻ 路環市區",
+        "namePor": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
         "stops": [
           {
             "code": "M172_6",
