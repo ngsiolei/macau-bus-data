@@ -340,8 +340,8 @@
     "nameCht": "青洲/嘉應花園",
     "namePor": "CONS. BORJA / KA IENG",
     "parentCode": "M21",
-    "lat": 22.210726,
-    "lng": 113.543214
+    "lat": 22.210686,
+    "lng": 113.543569
   },
   {
     "code": "M22_1",
@@ -600,6 +600,14 @@
     "lng": 113.549411
   },
   {
+    "code": "M60_1",
+    "nameCht": "何賢紳士馬路/青蔥",
+    "namePor": "AVENIDA DO COMENDADOR HO YIN / CHENG CHONG",
+    "parentCode": "M60",
+    "lat": 22.212067,
+    "lng": 113.541862
+  },
+  {
     "code": "M61_1",
     "nameCht": "二龍喉公園",
     "namePor": "JARDIM FLORA",
@@ -657,11 +665,11 @@
   },
   {
     "code": "M65_1",
-    "nameCht": "何賢紳士大馬路",
-    "namePor": "AVENIDA DO COMENDADOR HO YIN",
+    "nameCht": "何賢紳士馬路/青洲坊",
+    "namePor": "AVENIDA DO COMENDADOR HO YIN / BAIRRO DA ILHA VERDE",
     "parentCode": "M65",
-    "lat": 22.213278,
-    "lng": 113.5428
+    "lat": 22.211745,
+    "lng": 113.541911
   },
   {
     "code": "M66_1",
@@ -1257,19 +1265,11 @@
   },
   {
     "code": "M137_1",
-    "nameCht": "火船頭街",
-    "namePor": "R.DAS LORCHAS",
+    "nameCht": "內港客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO INTERIOR",
     "parentCode": "M137",
-    "lat": 22.194724,
-    "lng": 113.535773
-  },
-  {
-    "code": "M137_2",
-    "nameCht": "火船頭街",
-    "namePor": "R.DAS LORCHAS",
-    "parentCode": "M137",
-    "lat": 22.194747,
-    "lng": 113.535786
+    "lat": 22.194395,
+    "lng": 113.53563
   },
   {
     "code": "M138_1",
@@ -1352,20 +1352,20 @@
     "lng": 113.543358
   },
   {
-    "code": "M144_3",
-    "nameCht": "水坑尾街",
-    "namePor": "RUA DO CAMPO",
-    "parentCode": "M144",
-    "lat": 22.193795,
-    "lng": 113.543384
-  },
-  {
     "code": "M144",
     "nameCht": "水坑尾街",
     "namePor": "RUA DO CAMPO",
     "parentCode": "M144",
     "lat": 22.194367,
     "lng": 113.543816
+  },
+  {
+    "code": "M144_3",
+    "nameCht": "水坑尾街",
+    "namePor": "RUA DO CAMPO",
+    "parentCode": "M144",
+    "lat": 22.193795,
+    "lng": 113.543384
   },
   {
     "code": "M145_1",
@@ -2856,6 +2856,54 @@
     "lng": 113.555067
   },
   {
+    "code": "T326_1",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.157003,
+    "lng": 113.546126
+  },
+  {
+    "code": "T326_2",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.156998,
+    "lng": 113.545862
+  },
+  {
+    "code": "T326_3",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.157118,
+    "lng": 113.545687
+  },
+  {
+    "code": "T326_4",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.157119,
+    "lng": 113.545967
+  },
+  {
+    "code": "T326_5",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.157121,
+    "lng": 113.546209
+  },
+  {
+    "code": "T326_6",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.157122,
+    "lng": 113.546412
+  },
+  {
     "code": "T327_1",
     "nameCht": "賽馬會",
     "namePor": "JOCKEY CLUB",
@@ -2894,14 +2942,6 @@
     "parentCode": "T330",
     "lat": 22.164171,
     "lng": 113.547791
-  },
-  {
-    "code": "T331_1",
-    "nameCht": "美景花園",
-    "namePor": "EDF. MEI KENG GARDEN",
-    "parentCode": "T331",
-    "lat": 22.156639,
-    "lng": 113.553356
   },
   {
     "code": "T332_1",
@@ -3214,6 +3254,14 @@
     "parentCode": "T360",
     "lat": 22.140703,
     "lng": 113.563299
+  },
+  {
+    "code": "T361_1",
+    "nameCht": "運動場/賽馬會",
+    "namePor": "ESTÁDIO / JOCKEY CLUB",
+    "parentCode": "T361",
+    "lat": 22.155425,
+    "lng": 113.552464
   },
   {
     "code": "T364_1",
@@ -4264,22 +4312,6 @@
     "lng": 113.578489
   },
   {
-    "code": "C697_1",
-    "nameCht": "九澳高頂燒烤公園",
-    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
-    "parentCode": "C697",
-    "lat": 22.129429,
-    "lng": 113.575189
-  },
-  {
-    "code": "C698_1",
-    "nameCht": "九澳高頂馬路",
-    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
-    "parentCode": "C698",
-    "lat": 22.129411,
-    "lng": 113.575321
-  },
-  {
     "code": "C699_1",
     "nameCht": "九澳康復醫院",
     "namePor": "HOSPITAL DE REABILITAÇÃO KÁ-HÓ",
@@ -4312,20 +4344,20 @@
     "lng": 113.545566
   },
   {
-    "code": "TEMP_10_2",
-    "nameCht": "提督馬路/雅廉訪臨時站",
-    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-    "parentCode": "TEMP_10",
-    "lat": 22.205632,
-    "lng": 113.544756
-  },
-  {
     "code": "TEMP_10_3",
     "nameCht": "提督馬路/雅廉訪臨時站",
     "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
     "parentCode": "TEMP_10",
     "lat": 22.20548,
     "lng": 113.544574
+  },
+  {
+    "code": "TEMP_10_2",
+    "nameCht": "提督馬路/雅廉訪臨時站",
+    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+    "parentCode": "TEMP_10",
+    "lat": 22.205632,
+    "lng": 113.544756
   },
   {
     "code": "TEMP_12_1",
