@@ -781,11 +781,11 @@
           },
           {
             "code": "M144_1",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193521,
-            "lng": 113.543357,
+            "lat": 22.193509,
+            "lng": 113.543364,
             "seq": 25
           },
           {
@@ -1011,11 +1011,11 @@
           },
           {
             "code": "M144_1",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193521,
-            "lng": 113.543357,
+            "lat": 22.193509,
+            "lng": 113.543364,
             "seq": 13
           },
           {
@@ -1796,101 +1796,6 @@
         "website": "http://www.tcm.com.mo/"
       }
     ],
-    "code": "3AX",
-    "nameCht": "關閘 ⇀ 亞馬喇前地",
-    "namePor": "PORTAS DO CERCO ⇀ PRAÇA FERREIRA AMARAL",
-    "directions": [
-      {
-        "code": "3AX",
-        "nameCht": "關閘 ⇀ 亞馬喇前地",
-        "namePor": "PORTAS DO CERCO ⇀ PRAÇA FERREIRA AMARAL",
-        "stops": [
-          {
-            "code": "M9_2",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.216083,
-            "lng": 113.549919,
-            "seq": 1
-          },
-          {
-            "code": "M50_1",
-            "nameCht": "勞動節大馬路/廣華",
-            "namePor": "AV1。DEMAIO / KWONG WA",
-            "parentCode": "M50",
-            "lat": 22.207798,
-            "lng": 113.557519,
-            "seq": 2
-          },
-          {
-            "code": "M265_1",
-            "nameCht": "漁人碼頭會展中心",
-            "namePor": "CENTRO DE CONVENÇÕES E EXPOSIÇÕES DA DOCA DOS PESCADORES",
-            "parentCode": "M265",
-            "lat": 22.194389,
-            "lng": 113.555208,
-            "seq": 3
-          },
-          {
-            "code": "M264_1",
-            "nameCht": "勵庭海景酒店",
-            "namePor": "HARBOURVIEW HOTEL",
-            "parentCode": "M264",
-            "lat": 22.189904,
-            "lng": 113.556658,
-            "seq": 4
-          },
-          {
-            "code": "M257_1",
-            "nameCht": "新口岸/文化中心",
-            "namePor": "NAPE / CENTRO CULTURAL",
-            "parentCode": "M257",
-            "lat": 22.187596,
-            "lng": 113.554219,
-            "seq": 5
-          },
-          {
-            "code": "M251_1",
-            "nameCht": "捐血中心",
-            "namePor": "CENTRO TRANSFUSÕES SANGUE",
-            "parentCode": "M251",
-            "lat": 22.188866,
-            "lng": 113.550403,
-            "seq": 6
-          },
-          {
-            "code": "M263_1",
-            "nameCht": "仙德麗街",
-            "namePor": "RUA CIDADE DE SINTRA",
-            "parentCode": "M263",
-            "lat": 22.189172,
-            "lng": 113.546269,
-            "seq": 7
-          },
-          {
-            "code": "M172_11",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
-            "seq": 8
-          }
-        ]
-      }
-    ],
-    "type": "1-way"
-  },
-  {
-    "agencies": [
-      {
-        "nameCht": "澳巴",
-        "namePor": "TCM",
-        "phone": "28850060",
-        "website": "http://www.tcm.com.mo/"
-      }
-    ],
     "code": "3X",
     "nameCht": "關閘 ↻ 亞馬喇前地",
     "namePor": "PORTAS DO CERCO ↻ PRAÇA FERRIRA AMARAL",
@@ -2280,12 +2185,12 @@
             "seq": 7
           },
           {
-            "code": "M144_2",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_3",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193733,
-            "lng": 113.543358,
+            "lat": 22.19378,
+            "lng": 113.543378,
             "seq": 8
           },
           {
@@ -3662,12 +3567,12 @@
             "seq": 4
           },
           {
-            "code": "M144",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
-            "parentCode": "M144",
-            "lat": 22.194367,
-            "lng": 113.543816,
+            "code": "M100_1",
+            "nameCht": "水坑尾/高可寧大宅",
+            "namePor": "CAMPO / MANSÃO DO KOU HO NENG",
+            "parentCode": "M100",
+            "lat": 22.19436,
+            "lng": 113.543809,
             "seq": 5
           },
           {
@@ -4070,12 +3975,12 @@
             "seq": 8
           },
           {
-            "code": "M144",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
-            "parentCode": "M144",
-            "lat": 22.194367,
-            "lng": 113.543816,
+            "code": "M100_1",
+            "nameCht": "水坑尾/高可寧大宅",
+            "namePor": "CAMPO / MANSÃO DO KOU HO NENG",
+            "parentCode": "M100",
+            "lat": 22.19436,
+            "lng": 113.543809,
             "seq": 9
           },
           {
@@ -4800,12 +4705,12 @@
             "seq": 26
           },
           {
-            "code": "M144_2",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_3",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193733,
-            "lng": 113.543358,
+            "lat": 22.19378,
+            "lng": 113.543378,
             "seq": 27
           },
           {
@@ -5075,12 +4980,12 @@
             "seq": 20
           },
           {
-            "code": "M144_2",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_3",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193733,
-            "lng": 113.543358,
+            "lat": 22.19378,
+            "lng": 113.543378,
             "seq": 21
           },
           {
@@ -6929,11 +6834,11 @@
           },
           {
             "code": "M144_2",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193733,
-            "lng": 113.543358,
+            "lat": 22.193753,
+            "lng": 113.543366,
             "seq": 29
           },
           {
@@ -7818,12 +7723,12 @@
             "seq": 18
           },
           {
-            "code": "M144_2",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_3",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193733,
-            "lng": 113.543358,
+            "lat": 22.19378,
+            "lng": 113.543378,
             "seq": 19
           },
           {
@@ -10205,13 +10110,13 @@
       }
     ],
     "code": "22",
-    "nameCht": "祐漢 ↻ 氹仔",
-    "namePor": "IAO HON ↻ TAIPA",
+    "nameCht": "祐漢 ↻ 柯維納馬路",
+    "namePor": "IAO HON ↻ ESTRADA GOV. A. OLIVEIRA",
     "directions": [
       {
         "code": "22",
-        "nameCht": "祐漢 ↻ 氹仔",
-        "namePor": "IAO HON ↻ TAIPA",
+        "nameCht": "祐漢 ↻ 柯維納馬路",
+        "namePor": "IAO HON ↻ ESTRADA GOV. A. OLIVEIRA",
         "stops": [
           {
             "code": "M228_1",
@@ -10511,12 +10416,12 @@
             "seq": 33
           },
           {
-            "code": "M144_3",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_2",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193795,
-            "lng": 113.543384,
+            "lat": 22.193753,
+            "lng": 113.543366,
             "seq": 34
           },
           {
@@ -11392,12 +11297,12 @@
             "seq": 18
           },
           {
-            "code": "M144_3",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_2",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193795,
-            "lng": 113.543384,
+            "lat": 22.193753,
+            "lng": 113.543366,
             "seq": 19
           },
           {
@@ -11458,164 +11363,6 @@
       }
     ],
     "type": "2-way"
-  },
-  {
-    "agencies": [
-      {
-        "nameCht": "新福利",
-        "namePor": "TRANSMAC",
-        "phone": "28271122",
-        "website": "http://www.transmac.com.mo/"
-      }
-    ],
-    "code": "25AX",
-    "nameCht": "關閘 ↻ 蝴蝶谷大馬路",
-    "namePor": "PORTAS DO CERCO ↻ AV. VALE DAS BORBOLETAS",
-    "directions": [
-      {
-        "code": "25AX",
-        "nameCht": "關閘 ↻ 蝴蝶谷大馬路",
-        "namePor": "PORTAS DO CERCO ↻ AV. VALE DAS BORBOLETAS",
-        "stops": [
-          {
-            "code": "M9_2",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.216083,
-            "lng": 113.549919,
-            "seq": 1
-          },
-          {
-            "code": "M50_1",
-            "nameCht": "勞動節大馬路/廣華",
-            "namePor": "AV1。DEMAIO / KWONG WA",
-            "parentCode": "M50",
-            "lat": 22.207798,
-            "lng": 113.557519,
-            "seq": 2
-          },
-          {
-            "code": "M172_8",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
-            "seq": 3
-          },
-          {
-            "code": "T403_1",
-            "nameCht": "史伯泰/麗景灣",
-            "namePor": "ESPARTEIRO / REGENCY",
-            "parentCode": "T403",
-            "lat": 22.162749,
-            "lng": 113.553651,
-            "seq": 4
-          },
-          {
-            "code": "T309_1",
-            "nameCht": "泉亮花園",
-            "namePor": "EDF. CHUN LEONG",
-            "parentCode": "T309",
-            "lat": 22.159096,
-            "lng": 113.558219,
-            "seq": 5
-          },
-          {
-            "code": "T375_1",
-            "nameCht": "連貫公路/新濠天地",
-            "namePor": "EST. DO ISTMO / C.O.D.",
-            "parentCode": "T375",
-            "lat": 22.149332,
-            "lng": 113.563982,
-            "seq": 6
-          },
-          {
-            "code": "T379_1",
-            "nameCht": "連貫公路/金沙城中心",
-            "namePor": "EST.DO ISTMO / SANDS COTAI CENTRAL",
-            "parentCode": "T379",
-            "lat": 22.14382,
-            "lng": 113.563717,
-            "seq": 7
-          },
-          {
-            "code": "C690_2",
-            "nameCht": "蝴蝶谷大馬路總站",
-            "namePor": "AV. VALE DAS BORBOLETAS / TERMINAL",
-            "parentCode": "C690",
-            "lat": 22.128765,
-            "lng": 113.562363,
-            "seq": 8
-          },
-          {
-            "code": "C689_2",
-            "nameCht": "和諧廣場/樂群樓",
-            "namePor": "AL. DA HARMONIA / EDF. LOK KUAN",
-            "parentCode": "C689",
-            "lat": 22.129839,
-            "lng": 113.562786,
-            "seq": 9
-          },
-          {
-            "code": "T376_2",
-            "nameCht": "連貫公路/巴黎人",
-            "namePor": "EST. DO ISTMO / PARISIAN",
-            "parentCode": "T376",
-            "lat": 22.144787,
-            "lng": 113.563508,
-            "seq": 10
-          },
-          {
-            "code": "T311_1",
-            "nameCht": "百利寶花園",
-            "namePor": "TREASURE GARDEN",
-            "parentCode": "T311",
-            "lat": 22.157876,
-            "lng": 113.559238,
-            "seq": 11
-          },
-          {
-            "code": "T308_1",
-            "nameCht": "氹仔電訊",
-            "namePor": "AV. SUN YAT SEN / CTM",
-            "parentCode": "T308",
-            "lat": 22.160619,
-            "lng": 113.55664,
-            "seq": 12
-          },
-          {
-            "code": "M172_11",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
-            "seq": 13
-          },
-          {
-            "code": "M64_1",
-            "nameCht": "黑沙環新街/南華",
-            "namePor": "R. NOVA AREIA PRETA / NAM WA",
-            "parentCode": "M64",
-            "lat": 22.206324,
-            "lng": 113.557092,
-            "seq": 14
-          },
-          {
-            "code": "M9_2",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.216083,
-            "lng": 113.549919,
-            "seq": 15
-          }
-        ]
-      }
-    ],
-    "type": "circular"
   },
   {
     "agencies": [
@@ -12014,12 +11761,12 @@
             "seq": 42
           },
           {
-            "code": "M144_3",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_2",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193795,
-            "lng": 113.543384,
+            "lat": 22.193753,
+            "lng": 113.543366,
             "seq": 43
           },
           {
@@ -15468,263 +15215,6 @@
   {
     "agencies": [
       {
-        "nameCht": "澳巴",
-        "namePor": "TCM",
-        "phone": "28850060",
-        "website": "http://www.tcm.com.mo/"
-      }
-    ],
-    "code": "30X",
-    "nameCht": "關閘 ↻ 氹仔",
-    "namePor": "PORTAS DO CERCO ↻ TAIPA",
-    "directions": [
-      {
-        "code": "30X",
-        "nameCht": "關閘 ↻ 氹仔",
-        "namePor": "PORTAS DO CERCO ↻ TAIPA",
-        "stops": [
-          {
-            "code": "M9_2",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.216083,
-            "lng": 113.549919,
-            "seq": 1
-          },
-          {
-            "code": "T342_1",
-            "nameCht": "高勵雅馬路",
-            "namePor": "EST. ALM. M. CORREIA",
-            "parentCode": "T342",
-            "lat": 22.162291,
-            "lng": 113.561688,
-            "seq": 2
-          },
-          {
-            "code": "T409_1",
-            "nameCht": "湖畔公園",
-            "namePor": "JARDIM DO LAGO",
-            "parentCode": "T409",
-            "lat": 22.15874,
-            "lng": 113.562122,
-            "seq": 3
-          },
-          {
-            "code": "T313_1",
-            "nameCht": "氹仔茵景園",
-            "namePor": "EDF. GREENVILLE",
-            "parentCode": "T313",
-            "lat": 22.156125,
-            "lng": 113.55992,
-            "seq": 4
-          },
-          {
-            "code": "T367_1",
-            "nameCht": "望德聖母灣馬路/連貫公路",
-            "namePor": "EST. BAIA N. S. ESPERANÇA / ISTMO",
-            "parentCode": "T367",
-            "lat": 22.150481,
-            "lng": 113.562365,
-            "seq": 5
-          },
-          {
-            "code": "T365_1",
-            "nameCht": "排角/銀河",
-            "namePor": "PAI KOK / GALAXY",
-            "parentCode": "T365",
-            "lat": 22.150732,
-            "lng": 113.554647,
-            "seq": 6
-          },
-          {
-            "code": "T361_1",
-            "nameCht": "運動場/賽馬會",
-            "namePor": "ESTÁDIO / JOCKEY CLUB",
-            "parentCode": "T361",
-            "lat": 22.155425,
-            "lng": 113.552464,
-            "seq": 7
-          },
-          {
-            "code": "T350_1",
-            "nameCht": "廣東大馬路/馬會",
-            "namePor": "AV.KWONG TUNG / JOCKEY CLUB",
-            "parentCode": "T350",
-            "lat": 22.158005,
-            "lng": 113.549097,
-            "seq": 8
-          },
-          {
-            "code": "T353_1",
-            "nameCht": "廣東大馬路/濠尚",
-            "namePor": "AV. KWONG TUNG / NOVA GRAND",
-            "parentCode": "T353",
-            "lat": 22.159552,
-            "lng": 113.552428,
-            "seq": 9
-          },
-          {
-            "code": "T413_1",
-            "nameCht": "氹仔中央公園/哥英布拉街",
-            "namePor": "PARQUE CENTRAL DA TAIPA / RUA DE COIMBRA",
-            "parentCode": "T413",
-            "lat": 22.158897,
-            "lng": 113.555478,
-            "seq": 10
-          },
-          {
-            "code": "T308_1",
-            "nameCht": "氹仔電訊",
-            "namePor": "AV. SUN YAT SEN / CTM",
-            "parentCode": "T308",
-            "lat": 22.160619,
-            "lng": 113.55664,
-            "seq": 11
-          },
-          {
-            "code": "T300_1",
-            "nameCht": "史伯泰/盧廉若",
-            "namePor": "ESPARTEIRO / LOU LIM IEOK",
-            "parentCode": "T300",
-            "lat": 22.16266,
-            "lng": 113.552686,
-            "seq": 12
-          },
-          {
-            "code": "T330_1",
-            "nameCht": "蘇利安圓形地",
-            "namePor": "ROTUNDA LEONEL SOUSA",
-            "parentCode": "T330",
-            "lat": 22.1639,
-            "lng": 113.549802,
-            "seq": 13
-          },
-          {
-            "code": "M172_11",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
-            "seq": 14
-          },
-          {
-            "code": "M69_1",
-            "nameCht": "葡京酒店",
-            "namePor": "HOTEL LISBOA",
-            "parentCode": "M69",
-            "lat": 22.1892,
-            "lng": 113.544779,
-            "seq": 15
-          },
-          {
-            "code": "M160_2",
-            "nameCht": "十月一號前地",
-            "namePor": "PRACETA DE 1 DE OUTUBRO",
-            "parentCode": "M160",
-            "lat": 22.190919,
-            "lng": 113.546224,
-            "seq": 16
-          },
-          {
-            "code": "M158_1",
-            "nameCht": "北京街/假日酒店",
-            "namePor": "RUA DE PEQUIM / HOLIDAY INN",
-            "parentCode": "M158",
-            "lat": 22.191715,
-            "lng": 113.547667,
-            "seq": 17
-          },
-          {
-            "code": "M253_1",
-            "nameCht": "宋玉生廣場",
-            "namePor": "AL. DR. C. D’ASSUMPÇÃO",
-            "parentCode": "M253",
-            "lat": 22.189136,
-            "lng": 113.551093,
-            "seq": 18
-          },
-          {
-            "code": "M256_1",
-            "nameCht": "澳門文化中心",
-            "namePor": "CENTRO CULTURAL DE MACAU",
-            "parentCode": "M256",
-            "lat": 22.18777,
-            "lng": 113.554264,
-            "seq": 19
-          },
-          {
-            "code": "M259_1",
-            "nameCht": "孫逸仙大馬路/金沙",
-            "namePor": "AV. DR. SUN YAT-SEN / SANDS",
-            "parentCode": "M259",
-            "lat": 22.189935,
-            "lng": 113.55574,
-            "seq": 20
-          },
-          {
-            "code": "M242_1",
-            "nameCht": "友誼馬路/海港街",
-            "namePor": "AV. AMIZADE / R. TERMINAL MARÍTIMO",
-            "parentCode": "M242",
-            "lat": 22.196036,
-            "lng": 113.555625,
-            "seq": 21
-          },
-          {
-            "code": "M64_1",
-            "nameCht": "黑沙環新街/南華",
-            "namePor": "R. NOVA AREIA PRETA / NAM WA",
-            "parentCode": "M64",
-            "lat": 22.206324,
-            "lng": 113.557092,
-            "seq": 22
-          },
-          {
-            "code": "M206_2",
-            "nameCht": "黑沙環新街/建華",
-            "namePor": "R. NOVA AREIA PRETA / EDF. KIN WA",
-            "parentCode": "M206",
-            "lat": 22.208506,
-            "lng": 113.55447,
-            "seq": 23
-          },
-          {
-            "code": "M226_1",
-            "nameCht": "勞動節街/中葡職業技術學校",
-            "namePor": "R. 1 DE MAIO / ESCOLA LUSO-CHINESA TÉCNICO-PROFISSIONAL",
-            "parentCode": "M226",
-            "lat": 22.209815,
-            "lng": 113.554301,
-            "seq": 24
-          },
-          {
-            "code": "M236_1",
-            "nameCht": "黑沙環中街/黑沙環衛生中心",
-            "namePor": "R. CENTRAL DA AREIA PRETA / CENTRO DE SAÚDE DA AREIA PRETA",
-            "parentCode": "M236",
-            "lat": 22.211735,
-            "lng": 113.555045,
-            "seq": 25
-          },
-          {
-            "code": "M9_2",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.216083,
-            "lng": 113.549919,
-            "seq": 26
-          }
-        ]
-      }
-    ],
-    "type": "circular"
-  },
-  {
-    "agencies": [
-      {
         "nameCht": "新福利",
         "namePor": "TRANSMAC",
         "phone": "28271122",
@@ -17691,13 +17181,13 @@
       }
     ],
     "code": "50",
-    "nameCht": "亞馬喇前地 ⇌ 路環市區",
-    "namePor": "PRAÇA FERRIRA AMARAL ⇌ VILA DE COLOANE",
+    "nameCht": "亞馬喇前地 ↻ 路環市區",
+    "namePor": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
     "directions": [
       {
         "code": "50",
-        "nameCht": "亞馬喇前地 ⇀ 路環市區",
-        "namePor": "PRAÇA FERRIRA AMARAL ⇀ VILA DE COLOANE",
+        "nameCht": "亞馬喇前地 ↻ 路環市區",
+        "namePor": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
         "stops": [
           {
             "code": "M172_3",
@@ -17865,8 +17355,8 @@
       },
       {
         "code": "50",
-        "nameCht": "路環市區 ⇀ 亞馬喇前地",
-        "namePor": "VILA DE COLOANE ⇀ PRAÇA FERRIRA AMARAL",
+        "nameCht": " ⇀ 亞馬喇前地 ↻ 路環市區",
+        "namePor": " ⇀ PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
         "stops": [
           {
             "code": "C686_1",
@@ -18033,7 +17523,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agencies": [
@@ -18045,13 +17535,13 @@
       }
     ],
     "code": "50B",
-    "nameCht": "亞馬喇前地 ⇌ 駕考中心",
-    "namePor": "PRAÇA FERRIRA AMARAL ⇌ CENTRO A. E EXAMES DE CONDUÇÃO",
+    "nameCht": "城市日前地 ↻ 駕考中心",
+    "namePor": "PRACETA 24 DE JUNHO ↻ CENTRO A. E EXAMES DE CONDUÇÃO",
     "directions": [
       {
         "code": "50B",
-        "nameCht": "亞馬喇前地 ⇀ 駕考中心",
-        "namePor": "PRAÇA FERRIRA AMARAL ⇀ CENTRO A. E EXAMES DE CONDUÇÃO",
+        "nameCht": "城市日前地 ↻ 駕考中心",
+        "namePor": "PRACETA 24 DE JUNHO ↻ CENTRO A. E EXAMES DE CONDUÇÃO",
         "stops": [
           {
             "code": "M172_1",
@@ -18138,8 +17628,8 @@
       },
       {
         "code": "50B",
-        "nameCht": "駕考中心 ⇀ 亞馬喇前地",
-        "namePor": "CENTRO A. E EXAMES DE CONDUÇÃO ⇀ PRAÇA FERRIRA AMARAL",
+        "nameCht": " ⇀ 城市日前地 ↻ 駕考中心",
+        "namePor": " ⇀ PRACETA 24 DE JUNHO ↻ CENTRO A. E EXAMES DE CONDUÇÃO",
         "stops": [
           {
             "code": "T404_1",
@@ -18234,7 +17724,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agencies": [
@@ -18776,13 +18266,13 @@
       }
     ],
     "code": "52",
-    "nameCht": "蝴蝶谷大馬路 ⇌ 亞馬喇前地",
-    "namePor": "AV. VALE DAS BORBOLETAS ⇌ PRAÇA FERREIRA AMARAL",
+    "nameCht": "蝴蝶谷大馬路 ↻ 亞馬喇前地",
+    "namePor": "AV. VALE DAS BORBOLETAS ↻ PRAÇA FERREIRA AMARAL",
     "directions": [
       {
         "code": "52",
-        "nameCht": "蝴蝶谷大馬路 ⇀ 亞馬喇前地",
-        "namePor": "AV. VALE DAS BORBOLETAS ⇀ PRAÇA FERREIRA AMARAL",
+        "nameCht": "蝴蝶谷大馬路 ↻ 亞馬喇前地",
+        "namePor": "AV. VALE DAS BORBOLETAS ↻ PRAÇA FERREIRA AMARAL",
         "stops": [
           {
             "code": "C690_5",
@@ -18905,8 +18395,8 @@
       },
       {
         "code": "52",
-        "nameCht": "亞馬喇前地 ⇀ 蝴蝶谷大馬路",
-        "namePor": "PRAÇA FERREIRA AMARAL ⇀ AV. VALE DAS BORBOLETAS",
+        "nameCht": " ⇀ 蝴蝶谷大馬路 ↻ 亞馬喇前地",
+        "namePor": " ⇀ AV. VALE DAS BORBOLETAS ↻ PRAÇA FERREIRA AMARAL",
         "stops": [
           {
             "code": "M172_5",
@@ -19001,7 +18491,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agencies": [
@@ -19445,197 +18935,14 @@
         "website": "http://www.tcm.com.mo/"
       }
     ],
-    "code": "59",
-    "nameCht": "關閘 ⇌ 聯生工業邨",
-    "namePor": "PORTAS DO CERCO ⇌ PARQUE INDUSTRIAL DA CONCÓRDIA",
-    "directions": [
-      {
-        "code": "59",
-        "nameCht": "關閘 ⇀ 聯生工業邨",
-        "namePor": "PORTAS DO CERCO ⇀ PARQUE INDUSTRIAL DA CONCÓRDIA",
-        "stops": [
-          {
-            "code": "M9_1",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.214866,
-            "lng": 113.549449,
-            "seq": 1
-          },
-          {
-            "code": "T316_1",
-            "nameCht": "北安大馬路/新城區",
-            "namePor": "EST. PAC ON / NOVOS ATERROS",
-            "parentCode": "T316",
-            "lat": 22.164759,
-            "lng": 113.566684,
-            "seq": 2
-          },
-          {
-            "code": "T418_1",
-            "nameCht": "輕軌車廠-1",
-            "namePor": "PARQUE DE MATERIAIS E OFICINA DO METRO LIGEIRO-1",
-            "parentCode": "T418",
-            "lat": 22.146696,
-            "lng": 113.574654,
-            "seq": 3
-          },
-          {
-            "code": "T348_1",
-            "nameCht": "路環發電廠",
-            "namePor": "CENTRAL TÉRMICA DE COLOANE",
-            "parentCode": "T348",
-            "lat": 22.139605,
-            "lng": 113.576523,
-            "seq": 4
-          },
-          {
-            "code": "T385_1",
-            "nameCht": "蓮花路/蓮花圓形地-1",
-            "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
-            "parentCode": "T385",
-            "lat": 22.138477,
-            "lng": 113.564742,
-            "seq": 5
-          },
-          {
-            "code": "C688_1",
-            "nameCht": "和諧廣場/業興大廈",
-            "namePor": "AL. DA HARMONIA / EDF. IP HENG",
-            "parentCode": "C688",
-            "lat": 22.12984,
-            "lng": 113.563059,
-            "seq": 6
-          },
-          {
-            "code": "C691_1",
-            "nameCht": "樂居大馬路/居雅大廈",
-            "namePor": "AV. DE LOK KOI / EDF. KOI NGA",
-            "parentCode": "C691",
-            "lat": 22.129378,
-            "lng": 113.560984,
-            "seq": 7
-          },
-          {
-            "code": "C652_1",
-            "nameCht": "安順大廈",
-            "namePor": "EDIFÍCIO ON SON",
-            "parentCode": "C652",
-            "lat": 22.128262,
-            "lng": 113.558738,
-            "seq": 8
-          },
-          {
-            "code": "C684_1",
-            "nameCht": "聯生工業邨",
-            "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA",
-            "parentCode": "C684",
-            "lat": 22.126408,
-            "lng": 113.557275,
-            "seq": 9
-          }
-        ]
-      },
-      {
-        "code": "59",
-        "nameCht": "聯生工業邨 ⇀ 關閘",
-        "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA ⇀ PORTAS DO CERCO",
-        "stops": [
-          {
-            "code": "C684_1",
-            "nameCht": "聯生工業邨",
-            "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA",
-            "parentCode": "C684",
-            "lat": 22.126408,
-            "lng": 113.557275,
-            "seq": 1
-          },
-          {
-            "code": "C692_1",
-            "nameCht": "樂居大馬路/樂群樓",
-            "namePor": "AV. DE LOK KOI / EDF. LOK KUAN",
-            "parentCode": "C692",
-            "lat": 22.129422,
-            "lng": 113.561105,
-            "seq": 2
-          },
-          {
-            "code": "C689_2",
-            "nameCht": "和諧廣場/樂群樓",
-            "namePor": "AL. DA HARMONIA / EDF. LOK KUAN",
-            "parentCode": "C689",
-            "lat": 22.129839,
-            "lng": 113.562786,
-            "seq": 3
-          },
-          {
-            "code": "T386_1",
-            "nameCht": "蓮花路/蓮花圓形地-2",
-            "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-2",
-            "parentCode": "T386",
-            "lat": 22.139045,
-            "lng": 113.564464,
-            "seq": 4
-          },
-          {
-            "code": "T349_1",
-            "nameCht": "路環電廠圓形地",
-            "namePor": "R. DA CENTRAL TÉRMICA DE COLOANE",
-            "parentCode": "T349",
-            "lat": 22.139911,
-            "lng": 113.576517,
-            "seq": 5
-          },
-          {
-            "code": "T419_1",
-            "nameCht": "輕軌車廠-2",
-            "namePor": "PARQUE DE MATERIAIS E OFICINA DO METRO LIGEIRO-2",
-            "parentCode": "T419",
-            "lat": 22.14649,
-            "lng": 113.574551,
-            "seq": 6
-          },
-          {
-            "code": "T317_1",
-            "nameCht": "北安大馬路/和睦街",
-            "namePor": "EST. PAC ON / RUA WO MOK",
-            "parentCode": "T317",
-            "lat": 22.163378,
-            "lng": 113.57106,
-            "seq": 7
-          },
-          {
-            "code": "M9_1",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.214866,
-            "lng": 113.549449,
-            "seq": 8
-          }
-        ]
-      }
-    ],
-    "type": "2-way"
-  },
-  {
-    "agencies": [
-      {
-        "nameCht": "澳巴",
-        "namePor": "TCM",
-        "phone": "28850060",
-        "website": "http://www.tcm.com.mo/"
-      }
-    ],
     "code": "71",
-    "nameCht": "澳門大學 ⇌ 亞馬喇前地",
-    "namePor": "UNIVERSIDADE DE MACAU ⇌ PRAÇA FERRIRA AMARAL",
+    "nameCht": "澳門大學 ↻ 亞馬喇前地",
+    "namePor": "UNIVERSIDADE DE MACAU ↻ PRAÇA FERRIRA AMARAL",
     "directions": [
       {
         "code": "71",
-        "nameCht": "澳門大學 ⇀ 亞馬喇前地",
-        "namePor": "UNIVERSIDADE DE MACAU ⇀ PRAÇA FERRIRA AMARAL",
+        "nameCht": "澳門大學 ↻ 亞馬喇前地",
+        "namePor": "UNIVERSIDADE DE MACAU ↻ PRAÇA FERRIRA AMARAL",
         "stops": [
           {
             "code": "T550_1",
@@ -19731,8 +19038,8 @@
       },
       {
         "code": "71",
-        "nameCht": "亞馬喇前地 ⇀ 澳門大學",
-        "namePor": "PRAÇA FERRIRA AMARAL ⇀ UNIVERSIDADE DE MACAU",
+        "nameCht": " ⇀ 澳門大學 ↻ 亞馬喇前地",
+        "namePor": " ⇀ UNIVERSIDADE DE MACAU ↻ PRAÇA FERRIRA AMARAL",
         "stops": [
           {
             "code": "M172_6",
@@ -19845,7 +19152,7 @@
         ]
       }
     ],
-    "type": "2-way"
+    "type": "circular"
   },
   {
     "agencies": [
@@ -20645,261 +19952,6 @@
         "website": "http://www.transmac.com.mo/"
       }
     ],
-    "code": "102X",
-    "nameCht": "港珠澳大橋邊檢大樓 ⇌ 賽馬會",
-    "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇌ JOCKEY CLUB",
-    "directions": [
-      {
-        "code": "102X",
-        "nameCht": "港珠澳大橋邊檢大樓 ⇀ 賽馬會",
-        "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇀ JOCKEY CLUB",
-        "stops": [
-          {
-            "code": "M800_7",
-            "nameCht": "港珠澳大橋邊檢大樓",
-            "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
-            "parentCode": "M800",
-            "lat": 22.201473,
-            "lng": 113.574388,
-            "seq": 1
-          },
-          {
-            "code": "M51_1",
-            "nameCht": "東北大馬路/廣華",
-            "namePor": "AV. NORDESTE / KWONG WA",
-            "parentCode": "M51",
-            "lat": 22.207695,
-            "lng": 113.556188,
-            "seq": 2
-          },
-          {
-            "code": "M233_1",
-            "nameCht": "東北大馬路/東華",
-            "namePor": "AV. NORDESTE / TONG WA",
-            "parentCode": "M233",
-            "lat": 22.206821,
-            "lng": 113.555332,
-            "seq": 3
-          },
-          {
-            "code": "M48_1",
-            "nameCht": "慕拉士/飛通大廈",
-            "namePor": "VENCESLAU MORAIS / EDF.AIRWAY",
-            "parentCode": "M48",
-            "lat": 22.205172,
-            "lng": 113.554391,
-            "seq": 4
-          },
-          {
-            "code": "M239_2",
-            "nameCht": "外港碼頭",
-            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
-            "parentCode": "M239",
-            "lat": 22.197547,
-            "lng": 113.557349,
-            "seq": 5
-          },
-          {
-            "code": "M254_2",
-            "nameCht": "友誼馬路/行車天橋",
-            "namePor": "AV. AMIZADE / VIADUTO",
-            "parentCode": "M254",
-            "lat": 22.194779,
-            "lng": 113.554791,
-            "seq": 6
-          },
-          {
-            "code": "M263_1",
-            "nameCht": "仙德麗街",
-            "namePor": "RUA CIDADE DE SINTRA",
-            "parentCode": "M263",
-            "lat": 22.189172,
-            "lng": 113.546269,
-            "seq": 7
-          },
-          {
-            "code": "T402_1",
-            "nameCht": "泉澧花園",
-            "namePor": "CHUN LAI GARDEN",
-            "parentCode": "T402",
-            "lat": 22.161258,
-            "lng": 113.556167,
-            "seq": 8
-          },
-          {
-            "code": "T310_2",
-            "nameCht": "泉裕豪庭",
-            "namePor": "CHUN U VILLA",
-            "parentCode": "T310",
-            "lat": 22.158752,
-            "lng": 113.558541,
-            "seq": 9
-          },
-          {
-            "code": "T368_1",
-            "nameCht": "奧林匹克大馬路",
-            "namePor": "AVENIDA OLÍMPICA",
-            "parentCode": "T368",
-            "lat": 22.156537,
-            "lng": 113.558845,
-            "seq": 10
-          },
-          {
-            "code": "T324_1",
-            "nameCht": "澳門運動場",
-            "namePor": "ESTÁDIO DE MACAU",
-            "parentCode": "T324",
-            "lat": 22.155441,
-            "lng": 113.555037,
-            "seq": 11
-          },
-          {
-            "code": "T327_1",
-            "nameCht": "賽馬會",
-            "namePor": "JOCKEY CLUB",
-            "parentCode": "T327",
-            "lat": 22.156993,
-            "lng": 113.549864,
-            "seq": 12
-          },
-          {
-            "code": "T326_6",
-            "nameCht": "柯維納馬路",
-            "namePor": "ESTRADA GOV. A. OLIVEIRA",
-            "parentCode": "T326",
-            "lat": 22.157122,
-            "lng": 113.546412,
-            "seq": 13
-          }
-        ]
-      },
-      {
-        "code": "102X",
-        "nameCht": "賽馬會 ⇀ 港珠澳大橋邊檢大樓",
-        "namePor": "JOCKEY CLUB ⇀ POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
-        "stops": [
-          {
-            "code": "T326_6",
-            "nameCht": "柯維納馬路",
-            "namePor": "ESTRADA GOV. A. OLIVEIRA",
-            "parentCode": "T326",
-            "lat": 22.157122,
-            "lng": 113.546412,
-            "seq": 1
-          },
-          {
-            "code": "T332_2",
-            "nameCht": "南新花園",
-            "namePor": "EDF. NAM SUN",
-            "parentCode": "T332",
-            "lat": 22.157418,
-            "lng": 113.549955,
-            "seq": 2
-          },
-          {
-            "code": "T325_3",
-            "nameCht": "華寶花園",
-            "namePor": "EDF. JARDIM DE VA POU",
-            "parentCode": "T325",
-            "lat": 22.155539,
-            "lng": 113.555067,
-            "seq": 3
-          },
-          {
-            "code": "T339_4",
-            "nameCht": "花城公園",
-            "namePor": "JARDIM CIDADE DAS FLORES",
-            "parentCode": "T339",
-            "lat": 22.156278,
-            "lng": 113.557475,
-            "seq": 4
-          },
-          {
-            "code": "T311_2",
-            "nameCht": "百利寶花園",
-            "namePor": "TREASURE GARDEN",
-            "parentCode": "T311",
-            "lat": 22.158056,
-            "lng": 113.559067,
-            "seq": 5
-          },
-          {
-            "code": "T308_3",
-            "nameCht": "氹仔電訊",
-            "namePor": "AV. SUN YAT SEN / CTM",
-            "parentCode": "T308",
-            "lat": 22.160883,
-            "lng": 113.556387,
-            "seq": 6
-          },
-          {
-            "code": "M69_2",
-            "nameCht": "葡京酒店",
-            "namePor": "HOTEL LISBOA",
-            "parentCode": "M69",
-            "lat": 22.189225,
-            "lng": 113.544841,
-            "seq": 7
-          },
-          {
-            "code": "M159_1",
-            "nameCht": "總統酒店",
-            "namePor": "AV. AMIZADE / HOTEL PRESIDENTE",
-            "parentCode": "M159",
-            "lat": 22.190085,
-            "lng": 113.546917,
-            "seq": 8
-          },
-          {
-            "code": "M242_1",
-            "nameCht": "友誼馬路/海港街",
-            "namePor": "AV. AMIZADE / R. TERMINAL MARÍTIMO",
-            "parentCode": "M242",
-            "lat": 22.196036,
-            "lng": 113.555625,
-            "seq": 9
-          },
-          {
-            "code": "M55_1",
-            "nameCht": "東北大馬路/南澳",
-            "namePor": "AV. NORDESTE / NAM OU",
-            "parentCode": "M55",
-            "lat": 22.206123,
-            "lng": 113.554506,
-            "seq": 10
-          },
-          {
-            "code": "M235_1",
-            "nameCht": "東北大馬路/保利達",
-            "namePor": "AV. NORDESTE / POLY TEX",
-            "parentCode": "M235",
-            "lat": 22.208918,
-            "lng": 113.557199,
-            "seq": 11
-          },
-          {
-            "code": "M800_7",
-            "nameCht": "港珠澳大橋邊檢大樓",
-            "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
-            "parentCode": "M800",
-            "lat": 22.201473,
-            "lng": 113.574388,
-            "seq": 12
-          }
-        ]
-      }
-    ],
-    "type": "2-way"
-  },
-  {
-    "agencies": [
-      {
-        "nameCht": "新福利",
-        "namePor": "TRANSMAC",
-        "phone": "28271122",
-        "website": "http://www.transmac.com.mo/"
-      }
-    ],
     "code": "AP1",
     "nameCht": "關閘 ↻ 澳門機場",
     "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
@@ -21124,110 +20176,6 @@
             "lat": 22.214955,
             "lng": 113.548675,
             "seq": 24
-          }
-        ]
-      }
-    ],
-    "type": "circular"
-  },
-  {
-    "agencies": [
-      {
-        "nameCht": "新福利",
-        "namePor": "TRANSMAC",
-        "phone": "28271122",
-        "website": "http://www.transmac.com.mo/"
-      }
-    ],
-    "code": "AP1X",
-    "nameCht": "關閘 ↻ 澳門機場",
-    "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
-    "directions": [
-      {
-        "code": "AP1X",
-        "nameCht": "關閘 ↻ 澳門機場",
-        "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
-        "stops": [
-          {
-            "code": "M9_1",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.214866,
-            "lng": 113.549449,
-            "seq": 1
-          },
-          {
-            "code": "T316_1",
-            "nameCht": "北安大馬路/新城區",
-            "namePor": "EST. PAC ON / NOVOS ATERROS",
-            "parentCode": "T316",
-            "lat": 22.164759,
-            "lng": 113.566684,
-            "seq": 2
-          },
-          {
-            "code": "T354_1",
-            "nameCht": "北安出入境事務大樓",
-            "namePor": "EDIFÍCIO DE SERVIÇOS DE MIGRAÇÃO / PAC ON",
-            "parentCode": "T354",
-            "lat": 22.164034,
-            "lng": 113.570637,
-            "seq": 3
-          },
-          {
-            "code": "T356_2",
-            "nameCht": "澳門機場",
-            "namePor": "AEROPORTO DE MACAU",
-            "parentCode": "T356",
-            "lat": 22.157669,
-            "lng": 113.573754,
-            "seq": 4
-          },
-          {
-            "code": "T373_1",
-            "nameCht": "偉龍/科技大學",
-            "namePor": "WAI LONG / M.U.S.T.",
-            "parentCode": "T373",
-            "lat": 22.152082,
-            "lng": 113.565112,
-            "seq": 5
-          },
-          {
-            "code": "T314_2",
-            "nameCht": "信虹花園",
-            "namePor": "JARDIM LAMEIRAS",
-            "parentCode": "T314",
-            "lat": 22.15639,
-            "lng": 113.55987,
-            "seq": 6
-          },
-          {
-            "code": "T343_1",
-            "nameCht": "海灣花園/海城閣",
-            "namePor": "JARDIM HOI VAN / HOI CHENG",
-            "parentCode": "T343",
-            "lat": 22.162057,
-            "lng": 113.561165,
-            "seq": 7
-          },
-          {
-            "code": "M247_1",
-            "nameCht": "海上居",
-            "namePor": "LA MARINA",
-            "parentCode": "M247",
-            "lat": 22.213373,
-            "lng": 113.555824,
-            "seq": 8
-          },
-          {
-            "code": "M9_1",
-            "nameCht": "關閘廣場",
-            "namePor": "PRAÇA DAS PORTAS DO CERCO",
-            "parentCode": "M9",
-            "lat": 22.214866,
-            "lng": 113.549449,
-            "seq": 9
           }
         ]
       }
@@ -23900,12 +22848,12 @@
             "seq": 19
           },
           {
-            "code": "M144_3",
-            "nameCht": "水坑尾街",
-            "namePor": "RUA DO CAMPO",
+            "code": "M144_2",
+            "nameCht": "水坑尾/天神巷",
+            "namePor": "CAMPO / TRAVESSA DOS ANJOS",
             "parentCode": "M144",
-            "lat": 22.193795,
-            "lng": 113.543384,
+            "lat": 22.193753,
+            "lng": 113.543366,
             "seq": 20
           },
           {

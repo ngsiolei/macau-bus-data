@@ -200,14 +200,6 @@
     "lng": 113.549449
   },
   {
-    "code": "M9_2",
-    "nameCht": "關閘廣場",
-    "namePor": "PRAÇA DAS PORTAS DO CERCO",
-    "parentCode": "M9",
-    "lat": 22.216083,
-    "lng": 113.549919
-  },
-  {
     "code": "M10_1",
     "nameCht": "台山街市",
     "namePor": "MERCADO TAMAG. BARBOSA",
@@ -952,6 +944,14 @@
     "lng": 113.544681
   },
   {
+    "code": "M100_1",
+    "nameCht": "水坑尾/高可寧大宅",
+    "namePor": "CAMPO / MANSÃO DO KOU HO NENG",
+    "parentCode": "M100",
+    "lat": 22.19436,
+    "lng": 113.543809
+  },
+  {
     "code": "M101_1",
     "nameCht": "幸運閣",
     "namePor": "OUVIDOR ARRIAGA / FORTUNA",
@@ -1337,35 +1337,27 @@
   },
   {
     "code": "M144_1",
-    "nameCht": "水坑尾街",
-    "namePor": "RUA DO CAMPO",
+    "nameCht": "水坑尾/天神巷",
+    "namePor": "CAMPO / TRAVESSA DOS ANJOS",
     "parentCode": "M144",
-    "lat": 22.193521,
-    "lng": 113.543357
+    "lat": 22.193509,
+    "lng": 113.543364
   },
   {
     "code": "M144_2",
-    "nameCht": "水坑尾街",
-    "namePor": "RUA DO CAMPO",
+    "nameCht": "水坑尾/天神巷",
+    "namePor": "CAMPO / TRAVESSA DOS ANJOS",
     "parentCode": "M144",
-    "lat": 22.193733,
-    "lng": 113.543358
-  },
-  {
-    "code": "M144",
-    "nameCht": "水坑尾街",
-    "namePor": "RUA DO CAMPO",
-    "parentCode": "M144",
-    "lat": 22.194367,
-    "lng": 113.543816
+    "lat": 22.193753,
+    "lng": 113.543366
   },
   {
     "code": "M144_3",
-    "nameCht": "水坑尾街",
-    "namePor": "RUA DO CAMPO",
+    "nameCht": "水坑尾/天神巷",
+    "namePor": "CAMPO / TRAVESSA DOS ANJOS",
     "parentCode": "M144",
-    "lat": 22.193795,
-    "lng": 113.543384
+    "lat": 22.19378,
+    "lng": 113.543378
   },
   {
     "code": "M145_1",
@@ -2896,14 +2888,6 @@
     "lng": 113.546209
   },
   {
-    "code": "T326_6",
-    "nameCht": "柯維納馬路",
-    "namePor": "ESTRADA GOV. A. OLIVEIRA",
-    "parentCode": "T326",
-    "lat": 22.157122,
-    "lng": 113.546412
-  },
-  {
     "code": "T327_1",
     "nameCht": "賽馬會",
     "namePor": "JOCKEY CLUB",
@@ -4152,14 +4136,6 @@
     "lng": 113.558077
   },
   {
-    "code": "C684_1",
-    "nameCht": "聯生工業邨",
-    "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA",
-    "parentCode": "C684",
-    "lat": 22.126408,
-    "lng": 113.557275
-  },
-  {
     "code": "C685_1",
     "nameCht": "聖路濟亞中心",
     "namePor": "CENTRO DE SANTA LUCIA",
@@ -4318,14 +4294,6 @@
     "parentCode": "C699",
     "lat": 22.131077,
     "lng": 113.588886
-  },
-  {
-    "code": "M800_7",
-    "nameCht": "港珠澳大橋邊檢大樓",
-    "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
-    "parentCode": "M800",
-    "lat": 22.201473,
-    "lng": 113.574388
   },
   {
     "code": "M800_8",
