@@ -200,6 +200,14 @@
     "lng": 113.549449
   },
   {
+    "code": "M9_2",
+    "nameCht": "關閘廣場",
+    "namePor": "PRAÇA DAS PORTAS DO CERCO",
+    "parentCode": "M9",
+    "lat": 22.216083,
+    "lng": 113.549919
+  },
+  {
     "code": "M10_1",
     "nameCht": "台山街市",
     "namePor": "MERCADO TAMAG. BARBOSA",
@@ -3426,10 +3434,10 @@
   {
     "code": "T391_1",
     "nameCht": "霍英東馬路/科技大學",
-    "namePor": "AV. DR. HENRY FOK / M.U.S.T.",
+    "namePor": "AV. DR. HENRY FOK / M. U. S. T.",
     "parentCode": "T391",
-    "lat": 22.150587,
-    "lng": 113.567799
+    "lat": 22.150367,
+    "lng": 113.566863
   },
   {
     "code": "T392_1",
@@ -4288,6 +4296,22 @@
     "lng": 113.578489
   },
   {
+    "code": "C697_1",
+    "nameCht": "九澳高頂燒烤公園",
+    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C697",
+    "lat": 22.129429,
+    "lng": 113.575189
+  },
+  {
+    "code": "C698_1",
+    "nameCht": "九澳高頂馬路",
+    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
+    "parentCode": "C698",
+    "lat": 22.129411,
+    "lng": 113.575321
+  },
+  {
     "code": "C699_1",
     "nameCht": "九澳康復醫院",
     "namePor": "HOSPITAL DE REABILITAÇÃO KÁ-HÓ",
@@ -4334,5 +4358,13 @@
     "parentCode": "TEMP_12",
     "lat": 22.183713,
     "lng": 113.538151
+  },
+  {
+    "code": "TEMP_13_1",
+    "nameCht": "鏡湖護校臨時站",
+    "namePor": "NORDESTE DA TAIPA / TJOI LONG SEA VIEW",
+    "parentCode": "TEMP_13",
+    "lat": 22.137044,
+    "lng": 113.568702
   }
 ]
