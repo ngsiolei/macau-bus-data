@@ -264,6 +264,22 @@
     "lng": 113.545023
   },
   {
+    "code": "M16_1",
+    "nameCht": "提督馬路/雅廉訪",
+    "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+    "parentCode": "M16",
+    "lat": 22.206635,
+    "lng": 113.545461
+  },
+  {
+    "code": "M16_2",
+    "nameCht": "提督馬路/雅廉訪",
+    "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+    "parentCode": "M16",
+    "lat": 22.206413,
+    "lng": 113.545328
+  },
+  {
     "code": "M18_1",
     "nameCht": "牧場街總站",
     "namePor": "Rua dos Currais / TERMINAL",
@@ -601,7 +617,7 @@
   },
   {
     "code": "M60_1",
-    "nameCht": "何賢紳士馬路/青蔥",
+    "nameCht": "何賢紳士馬路/青葱",
     "namePor": "AVENIDA DO COMENDADOR HO YIN / CHENG CHONG",
     "parentCode": "M60",
     "lat": 22.212067,
@@ -1636,24 +1652,24 @@
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189409,
-    "lng": 113.543577
+    "lat": 22.18925,
+    "lng": 113.543625
   },
   {
     "code": "M172_2",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189284,
-    "lng": 113.543612
+    "lat": 22.189366,
+    "lng": 113.543589
   },
   {
     "code": "M172_3",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189271,
-    "lng": 113.543419
+    "lat": 22.189476,
+    "lng": 113.543557
   },
   {
     "code": "M172_4",
@@ -1664,60 +1680,116 @@
     "lng": 113.543391
   },
   {
+    "code": "M172_4",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.189445,
+    "lng": 113.543378
+  },
+  {
     "code": "M172_5",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189391,
-    "lng": 113.54333
+    "lat": 22.189353,
+    "lng": 113.543401
   },
   {
     "code": "M172_6",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189253,
-    "lng": 113.543362
+    "lat": 22.189233,
+    "lng": 113.543428
   },
   {
     "code": "M172_7",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189219,
-    "lng": 113.543198
+    "lat": 22.189331,
+    "lng": 113.543344
   },
   {
     "code": "M172_8",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189333,
-    "lng": 113.543171
+    "lat": 22.189434,
+    "lng": 113.543318
   },
   {
     "code": "M172_9",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189198,
-    "lng": 113.5431
+    "lat": 22.189399,
+    "lng": 113.543166
   },
   {
     "code": "M172_10",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.189314,
-    "lng": 113.54305
+    "lat": 22.189194,
+    "lng": 113.543236
   },
   {
     "code": "M172_11",
     "nameCht": "亞馬喇前地",
     "namePor": "PRAÇA FERREIRA AMARAL",
     "parentCode": "M172",
-    "lat": 22.188908,
-    "lng": 113.543094
+    "lat": 22.189142,
+    "lng": 113.543325
+  },
+  {
+    "code": "M172_12",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.189357,
+    "lng": 113.543053
+  },
+  {
+    "code": "M172_13",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.189244,
+    "lng": 113.543076
+  },
+  {
+    "code": "M172_14",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.189113,
+    "lng": 113.543174
+  },
+  {
+    "code": "M172_15",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.189117,
+    "lng": 113.543074
+  },
+  {
+    "code": "M172_16",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.188935,
+    "lng": 113.543132
+  },
+  {
+    "code": "M172_17",
+    "nameCht": "亞馬喇前地",
+    "namePor": "PRAÇA FERREIRA AMARAL",
+    "parentCode": "M172",
+    "lat": 22.188991,
+    "lng": 113.543618
   },
   {
     "code": "M173_1",
@@ -2952,6 +3024,14 @@
     "lng": 113.549955
   },
   {
+    "code": "T333_1",
+    "nameCht": "北安病毒核酸檢測站",
+    "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
+    "parentCode": "T333",
+    "lat": 22.164317,
+    "lng": 113.57293
+  },
+  {
     "code": "T334_1",
     "nameCht": "海洋花園/紫荊苑",
     "namePor": "JARDINS DO OCEANO / BAUHINA COURT",
@@ -3396,8 +3476,8 @@
     "nameCht": "蓮花路/蓮花圓形地-1",
     "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
     "parentCode": "T385",
-    "lat": 22.138477,
-    "lng": 113.564742
+    "lat": 22.138407,
+    "lng": 113.567722
   },
   {
     "code": "T386_1",
@@ -3674,10 +3754,10 @@
   {
     "code": "T420_1",
     "nameCht": "蓮花海濱大馬路/銀河-1",
-    "namePor": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+    "namePor": "AV. M. FLOR DE LÓTUS / GALAXY - 1",
     "parentCode": "T420",
-    "lat": 22.150965,
-    "lng": 113.550968
+    "lat": 22.149603,
+    "lng": 113.551383
   },
   {
     "code": "T421_1",
@@ -3873,11 +3953,11 @@
   },
   {
     "code": "C650_1",
-    "nameCht": "石排灣馬路",
-    "namePor": "EST. SEAK PAI VAN",
+    "nameCht": "石排灣馬路/擎天匯",
+    "namePor": "EST. SEAK PAI VAN / PRAIA PARK",
     "parentCode": "C650",
-    "lat": 22.131346,
-    "lng": 113.561596
+    "lat": 22.131395,
+    "lng": 113.560418
   },
   {
     "code": "C651_1",
@@ -4320,6 +4400,14 @@
     "lng": 113.588886
   },
   {
+    "code": "C700_1",
+    "nameCht": "仁德大馬路/護理學院",
+    "namePor": "AV. DA BENEVOLÊNCIA / INSTITUTO DE ENFERMAGEM",
+    "parentCode": "C700",
+    "lat": 22.13712,
+    "lng": 113.568701
+  },
+  {
     "code": "M800_8",
     "nameCht": "港珠澳大橋邊檢大樓",
     "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
@@ -4328,43 +4416,11 @@
     "lng": 113.574241
   },
   {
-    "code": "TEMP_10_1",
-    "nameCht": "提督馬路/雅廉訪臨時站",
-    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-    "parentCode": "TEMP_10",
-    "lat": 22.206811,
-    "lng": 113.545566
-  },
-  {
-    "code": "TEMP_10_3",
-    "nameCht": "提督馬路/雅廉訪臨時站",
-    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-    "parentCode": "TEMP_10",
-    "lat": 22.20548,
-    "lng": 113.544574
-  },
-  {
-    "code": "TEMP_10_2",
-    "nameCht": "提督馬路/雅廉訪臨時站",
-    "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-    "parentCode": "TEMP_10",
-    "lat": 22.205632,
-    "lng": 113.544756
-  },
-  {
     "code": "TEMP_12_1",
     "nameCht": "立法會前地臨時站",
     "namePor": "PARAGEM PROVISÓRIA DO PRAÇA DA ASSEMBLEIA LEGISLATIVA",
     "parentCode": "TEMP_12",
     "lat": 22.183713,
     "lng": 113.538151
-  },
-  {
-    "code": "TEMP_13_1",
-    "nameCht": "鏡湖護校臨時站",
-    "namePor": "NORDESTE DA TAIPA / TJOI LONG SEA VIEW",
-    "parentCode": "TEMP_13",
-    "lat": 22.137044,
-    "lng": 113.568702
   }
 ]

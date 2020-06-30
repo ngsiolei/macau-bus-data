@@ -63,12 +63,12 @@
             "seq": 5
           },
           {
-            "code": "TEMP_10_2",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.205632,
-            "lng": 113.544756,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 6
           },
           {
@@ -992,12 +992,12 @@
             "seq": 10
           },
           {
-            "code": "M172_3",
+            "code": "M172_17",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.188991,
+            "lng": 113.543618,
             "seq": 11
           },
           {
@@ -1141,12 +1141,12 @@
             "seq": 2
           },
           {
-            "code": "TEMP_10_2",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.205632,
-            "lng": 113.544756,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 3
           },
           {
@@ -1204,22 +1204,13 @@
             "seq": 9
           },
           {
-            "code": "M172_9",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
-            "seq": 10
-          },
-          {
             "code": "M69_2",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.189225,
             "lng": 113.544841,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M160_1",
@@ -1228,7 +1219,7 @@
             "parentCode": "M160",
             "lat": 22.190862,
             "lng": 113.546247,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M158_2",
@@ -1237,7 +1228,7 @@
             "parentCode": "M158",
             "lat": 22.191733,
             "lng": 113.547718,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M161_1",
@@ -1246,7 +1237,7 @@
             "parentCode": "M161",
             "lat": 22.192659,
             "lng": 113.550184,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M70_1",
@@ -1255,7 +1246,7 @@
             "parentCode": "M70",
             "lat": 22.193398,
             "lng": 113.551958,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M118_1",
@@ -1264,7 +1255,7 @@
             "parentCode": "M118",
             "lat": 22.195713,
             "lng": 113.553765,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M239_3",
@@ -1273,7 +1264,7 @@
             "parentCode": "M239",
             "lat": 22.197475,
             "lng": 113.557622,
-            "seq": 17
+            "seq": 16
           }
         ]
       },
@@ -1481,8 +1472,8 @@
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
+            "lat": 22.189399,
+            "lng": 113.543166,
             "seq": 5
           },
           {
@@ -1738,12 +1729,12 @@
             "seq": 33
           },
           {
-            "code": "M172_1",
+            "code": "M172_2",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189366,
+            "lng": 113.543589,
             "seq": 34
           },
           {
@@ -1869,12 +1860,12 @@
             "seq": 7
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 8
           }
         ]
@@ -1919,12 +1910,12 @@
             "seq": 2
           },
           {
-            "code": "TEMP_10_2",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.205632,
-            "lng": 113.544756,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 3
           },
           {
@@ -1982,12 +1973,12 @@
             "seq": 9
           },
           {
-            "code": "M172_4",
+            "code": "M172_6",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.1894,
-            "lng": 113.543391,
+            "lat": 22.189233,
+            "lng": 113.543428,
             "seq": 10
           },
           {
@@ -2077,12 +2068,12 @@
             "seq": 2
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 3
           },
           {
@@ -2334,12 +2325,12 @@
             "seq": 13
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 14
           },
           {
@@ -2555,12 +2546,12 @@
             "seq": 8
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 9
           },
           {
@@ -3362,12 +3353,12 @@
             "seq": 10
           },
           {
-            "code": "M172_4",
+            "code": "M172_9",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.1894,
-            "lng": 113.543391,
+            "lat": 22.189399,
+            "lng": 113.543166,
             "seq": 11
           },
           {
@@ -3425,12 +3416,12 @@
             "seq": 17
           },
           {
-            "code": "M172_1",
+            "code": "M172_4",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189445,
+            "lng": 113.543378,
             "seq": 18
           },
           {
@@ -3644,12 +3635,12 @@
             "seq": 2
           },
           {
-            "code": "M172_3",
+            "code": "M172_17",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.188991,
+            "lng": 113.543618,
             "seq": 3
           },
           {
@@ -3865,12 +3856,12 @@
             "seq": 6
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 7
           },
           {
@@ -3928,22 +3919,13 @@
             "seq": 13
           },
           {
-            "code": "M172_9",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
-            "seq": 14
-          },
-          {
             "code": "M69_2",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.189225,
             "lng": 113.544841,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M159_1",
@@ -3952,7 +3934,7 @@
             "parentCode": "M159",
             "lat": 22.190085,
             "lng": 113.546917,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M262_1",
@@ -3961,7 +3943,7 @@
             "parentCode": "M262",
             "lat": 22.187424,
             "lng": 113.548638,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M256_1",
@@ -3970,7 +3952,7 @@
             "parentCode": "M256",
             "lat": 22.18777,
             "lng": 113.554264,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M259_1",
@@ -3979,7 +3961,7 @@
             "parentCode": "M259",
             "lat": 22.189935,
             "lng": 113.55574,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M62_2",
@@ -3988,7 +3970,7 @@
             "parentCode": "M62",
             "lat": 22.196114,
             "lng": 113.555338,
-            "seq": 20
+            "seq": 19
           }
         ]
       },
@@ -4291,12 +4273,12 @@
             "seq": 6
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 7
           },
           {
@@ -4372,12 +4354,12 @@
             "seq": 15
           },
           {
-            "code": "M172_1",
+            "code": "M172_3",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189476,
+            "lng": 113.543557,
             "seq": 16
           },
           {
@@ -4593,12 +4575,12 @@
             "seq": 3
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 4
           },
           {
@@ -4656,12 +4638,12 @@
             "seq": 10
           },
           {
-            "code": "M172_3",
+            "code": "M172_4",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.189445,
+            "lng": 113.543378,
             "seq": 11
           },
           {
@@ -4931,12 +4913,12 @@
             "seq": 4
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 5
           },
           {
@@ -4994,12 +4976,12 @@
             "seq": 11
           },
           {
-            "code": "M172_3",
+            "code": "M172_5",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.189353,
+            "lng": 113.543401,
             "seq": 12
           },
           {
@@ -5420,22 +5402,13 @@
             "seq": 6
           },
           {
-            "code": "M172_9",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
-            "seq": 7
-          },
-          {
             "code": "M69_1",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.1892,
             "lng": 113.544779,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M160_1",
@@ -5444,7 +5417,7 @@
             "parentCode": "M160",
             "lat": 22.190862,
             "lng": 113.546247,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M158_1",
@@ -5453,7 +5426,7 @@
             "parentCode": "M158",
             "lat": 22.191715,
             "lng": 113.547667,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M161_1",
@@ -5462,7 +5435,7 @@
             "parentCode": "M161",
             "lat": 22.192659,
             "lng": 113.550184,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M70_1",
@@ -5471,7 +5444,7 @@
             "parentCode": "M70",
             "lat": 22.193398,
             "lng": 113.551958,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M118_2",
@@ -5480,7 +5453,7 @@
             "parentCode": "M118",
             "lat": 22.195739,
             "lng": 113.553782,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M53_1",
@@ -5489,7 +5462,7 @@
             "parentCode": "M53",
             "lat": 22.204693,
             "lng": 113.559912,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M35_1",
@@ -5498,7 +5471,7 @@
             "parentCode": "M35",
             "lat": 22.206843,
             "lng": 113.552252,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M28_1",
@@ -5507,7 +5480,7 @@
             "parentCode": "M28",
             "lat": 22.208041,
             "lng": 113.549766,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M11_1",
@@ -5516,7 +5489,7 @@
             "parentCode": "M11",
             "lat": 22.210161,
             "lng": 113.548326,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M8_2",
@@ -5525,7 +5498,7 @@
             "parentCode": "M8",
             "lat": 22.212793,
             "lng": 113.547591,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M1_2",
@@ -5534,7 +5507,7 @@
             "parentCode": "M1",
             "lat": 22.215002,
             "lng": 113.549331,
-            "seq": 19
+            "seq": 18
           }
         ]
       }
@@ -5632,12 +5605,12 @@
             "seq": 8
           },
           {
-            "code": "M172_1",
+            "code": "M172_2",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189366,
+            "lng": 113.543589,
             "seq": 9
           },
           {
@@ -5774,22 +5747,13 @@
             "seq": 6
           },
           {
-            "code": "M172_9",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
-            "seq": 7
-          },
-          {
             "code": "M69_1",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.1892,
             "lng": 113.544779,
-            "seq": 8
+            "seq": 7
           },
           {
             "code": "M160_1",
@@ -5798,7 +5762,7 @@
             "parentCode": "M160",
             "lat": 22.190862,
             "lng": 113.546247,
-            "seq": 9
+            "seq": 8
           },
           {
             "code": "M158_2",
@@ -5807,7 +5771,7 @@
             "parentCode": "M158",
             "lat": 22.191733,
             "lng": 113.547718,
-            "seq": 10
+            "seq": 9
           },
           {
             "code": "M253_1",
@@ -5816,7 +5780,7 @@
             "parentCode": "M253",
             "lat": 22.189136,
             "lng": 113.551093,
-            "seq": 11
+            "seq": 10
           },
           {
             "code": "M256_1",
@@ -5825,7 +5789,7 @@
             "parentCode": "M256",
             "lat": 22.18777,
             "lng": 113.554264,
-            "seq": 12
+            "seq": 11
           },
           {
             "code": "M259_1",
@@ -5834,7 +5798,7 @@
             "parentCode": "M259",
             "lat": 22.189935,
             "lng": 113.55574,
-            "seq": 13
+            "seq": 12
           },
           {
             "code": "M255_1",
@@ -5843,7 +5807,7 @@
             "parentCode": "M255",
             "lat": 22.195501,
             "lng": 113.554645,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M239_3",
@@ -5852,7 +5816,7 @@
             "parentCode": "M239",
             "lat": 22.197475,
             "lng": 113.557622,
-            "seq": 15
+            "seq": 14
           }
         ]
       }
@@ -6347,12 +6311,12 @@
             "seq": 6
           },
           {
-            "code": "M172_10",
+            "code": "M172_12",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189314,
-            "lng": 113.54305,
+            "lat": 22.189357,
+            "lng": 113.543053,
             "seq": 7
           },
           {
@@ -6572,12 +6536,12 @@
             "seq": 31
           },
           {
-            "code": "M172_1",
+            "code": "M172_2",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189366,
+            "lng": 113.543589,
             "seq": 32
           },
           {
@@ -6784,22 +6748,13 @@
             "seq": 12
           },
           {
-            "code": "M172_9",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
-            "seq": 13
-          },
-          {
             "code": "M69_1",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.1892,
             "lng": 113.544779,
-            "seq": 14
+            "seq": 13
           },
           {
             "code": "M159_1",
@@ -6808,7 +6763,7 @@
             "parentCode": "M159",
             "lat": 22.190085,
             "lng": 113.546917,
-            "seq": 15
+            "seq": 14
           },
           {
             "code": "M262_1",
@@ -6817,7 +6772,7 @@
             "parentCode": "M262",
             "lat": 22.187424,
             "lng": 113.548638,
-            "seq": 16
+            "seq": 15
           },
           {
             "code": "M256_1",
@@ -6826,7 +6781,7 @@
             "parentCode": "M256",
             "lat": 22.18777,
             "lng": 113.554264,
-            "seq": 17
+            "seq": 16
           },
           {
             "code": "M259_1",
@@ -6835,7 +6790,7 @@
             "parentCode": "M259",
             "lat": 22.189935,
             "lng": 113.55574,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M255_1",
@@ -6844,7 +6799,7 @@
             "parentCode": "M255",
             "lat": 22.195501,
             "lng": 113.554645,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M239_4",
@@ -6853,7 +6808,7 @@
             "parentCode": "M239",
             "lat": 22.197467,
             "lng": 113.557311,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M265_1",
@@ -6862,7 +6817,7 @@
             "parentCode": "M265",
             "lat": 22.194389,
             "lng": 113.555208,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M264_1",
@@ -6871,7 +6826,7 @@
             "parentCode": "M264",
             "lat": 22.189904,
             "lng": 113.556658,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M266_2",
@@ -6880,7 +6835,7 @@
             "parentCode": "M266",
             "lat": 22.186972,
             "lng": 113.556581,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "M257_1",
@@ -6889,7 +6844,7 @@
             "parentCode": "M257",
             "lat": 22.187596,
             "lng": 113.554219,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M249_1",
@@ -6898,7 +6853,7 @@
             "parentCode": "M249",
             "lat": 22.187587,
             "lng": 113.550964,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "M251_1",
@@ -6907,7 +6862,7 @@
             "parentCode": "M251",
             "lat": 22.188866,
             "lng": 113.550403,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "M263_1",
@@ -6916,7 +6871,7 @@
             "parentCode": "M263",
             "lat": 22.189172,
             "lng": 113.546269,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "M261_1",
@@ -6925,7 +6880,7 @@
             "parentCode": "M261",
             "lat": 22.191657,
             "lng": 113.542478,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "M144_2",
@@ -6934,7 +6889,7 @@
             "parentCode": "M144",
             "lat": 22.193753,
             "lng": 113.543366,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M76_1",
@@ -6943,7 +6898,7 @@
             "parentCode": "M76",
             "lat": 22.200022,
             "lng": 113.548169,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M84_2",
@@ -6952,7 +6907,7 @@
             "parentCode": "M84",
             "lat": 22.201626,
             "lng": 113.548379,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M92_1",
@@ -6961,7 +6916,7 @@
             "parentCode": "M92",
             "lat": 22.203206,
             "lng": 113.547304,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M39_1",
@@ -6970,7 +6925,7 @@
             "parentCode": "M39",
             "lat": 22.205907,
             "lng": 113.54958,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M28_1",
@@ -6979,7 +6934,7 @@
             "parentCode": "M28",
             "lat": 22.208041,
             "lng": 113.549766,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M227_1",
@@ -6988,7 +6943,7 @@
             "parentCode": "M227",
             "lat": 22.210639,
             "lng": 113.550798,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M244_1",
@@ -6997,7 +6952,7 @@
             "parentCode": "M244",
             "lat": 22.212304,
             "lng": 113.552077,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M214_2",
@@ -7006,7 +6961,7 @@
             "parentCode": "M214",
             "lat": 22.212767,
             "lng": 113.553525,
-            "seq": 37
+            "seq": 36
           }
         ]
       }
@@ -7796,12 +7751,12 @@
             "seq": 3
           },
           {
-            "code": "TEMP_10_2",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.205632,
-            "lng": 113.544756,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 4
           },
           {
@@ -8269,12 +8224,12 @@
             "seq": 26
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 27
           },
           {
@@ -9658,12 +9613,12 @@
             "seq": 6
           },
           {
-            "code": "M172_8",
+            "code": "M172_15",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
+            "lat": 22.189117,
+            "lng": 113.543074,
             "seq": 7
           },
           {
@@ -10223,12 +10178,12 @@
             "seq": 32
           },
           {
-            "code": "M172_1",
+            "code": "M172_2",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189366,
+            "lng": 113.543589,
             "seq": 33
           },
           {
@@ -10435,12 +10390,12 @@
             "seq": 12
           },
           {
-            "code": "M172_7",
+            "code": "M172_11",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189142,
+            "lng": 113.543325,
             "seq": 13
           },
           {
@@ -10597,22 +10552,13 @@
             "seq": 30
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 31
-          },
-          {
-            "code": "M69_1",
-            "nameCht": "葡京酒店",
-            "namePor": "HOTEL LISBOA",
-            "parentCode": "M69",
-            "lat": 22.1892,
-            "lng": 113.544779,
-            "seq": 32
           },
           {
             "code": "M160_1",
@@ -10621,7 +10567,7 @@
             "parentCode": "M160",
             "lat": 22.190862,
             "lng": 113.546247,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M144_2",
@@ -10630,7 +10576,7 @@
             "parentCode": "M144",
             "lat": 22.193753,
             "lng": 113.543366,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M76_1",
@@ -10639,7 +10585,7 @@
             "parentCode": "M76",
             "lat": 22.200022,
             "lng": 113.548169,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M84_2",
@@ -10648,7 +10594,7 @@
             "parentCode": "M84",
             "lat": 22.201626,
             "lng": 113.548379,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M92_1",
@@ -10657,7 +10603,7 @@
             "parentCode": "M92",
             "lat": 22.203206,
             "lng": 113.547304,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M39_1",
@@ -10666,7 +10612,7 @@
             "parentCode": "M39",
             "lat": 22.205907,
             "lng": 113.54958,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M28_1",
@@ -10675,7 +10621,7 @@
             "parentCode": "M28",
             "lat": 22.208041,
             "lng": 113.549766,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M228_1",
@@ -10684,7 +10630,7 @@
             "parentCode": "M228",
             "lat": 22.211525,
             "lng": 113.550242,
-            "seq": 40
+            "seq": 39
           }
         ]
       }
@@ -10872,12 +10818,12 @@
             "seq": 18
           },
           {
-            "code": "M172_3",
+            "code": "M172_5",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.189353,
+            "lng": 113.543401,
             "seq": 19
           },
           {
@@ -10944,22 +10890,13 @@
             "seq": 26
           },
           {
-            "code": "M172_9",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189198,
-            "lng": 113.5431,
-            "seq": 27
-          },
-          {
             "code": "M69_1",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.1892,
             "lng": 113.544779,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "M159_1",
@@ -10968,7 +10905,7 @@
             "parentCode": "M159",
             "lat": 22.190085,
             "lng": 113.546917,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M262_1",
@@ -10977,7 +10914,7 @@
             "parentCode": "M262",
             "lat": 22.187424,
             "lng": 113.548638,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M251_1",
@@ -10986,7 +10923,7 @@
             "parentCode": "M251",
             "lat": 22.188866,
             "lng": 113.550403,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M243_1",
@@ -10995,7 +10932,7 @@
             "parentCode": "M243",
             "lat": 22.192626,
             "lng": 113.548727,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M84_2",
@@ -11004,7 +10941,7 @@
             "parentCode": "M84",
             "lat": 22.201626,
             "lng": 113.548379,
-            "seq": 33
+            "seq": 32
           },
           {
             "code": "M99_1",
@@ -11013,7 +10950,7 @@
             "parentCode": "M99",
             "lat": 22.204919,
             "lng": 113.544681,
-            "seq": 34
+            "seq": 33
           },
           {
             "code": "M94_1",
@@ -11022,7 +10959,7 @@
             "parentCode": "M94",
             "lat": 22.206201,
             "lng": 113.543151,
-            "seq": 35
+            "seq": 34
           },
           {
             "code": "M19_1",
@@ -11031,7 +10968,7 @@
             "parentCode": "M19",
             "lat": 22.209335,
             "lng": 113.544792,
-            "seq": 36
+            "seq": 35
           },
           {
             "code": "M21_1",
@@ -11040,7 +10977,7 @@
             "parentCode": "M21",
             "lat": 22.210686,
             "lng": 113.543569,
-            "seq": 37
+            "seq": 36
           },
           {
             "code": "M273_1",
@@ -11049,7 +10986,7 @@
             "parentCode": "M273",
             "lat": 22.212433,
             "lng": 113.541201,
-            "seq": 38
+            "seq": 37
           },
           {
             "code": "M210_1",
@@ -11058,7 +10995,7 @@
             "parentCode": "M210",
             "lat": 22.213228,
             "lng": 113.537941,
-            "seq": 39
+            "seq": 38
           },
           {
             "code": "M267_1",
@@ -11067,7 +11004,7 @@
             "parentCode": "M267",
             "lat": 22.211594,
             "lng": 113.534823,
-            "seq": 40
+            "seq": 39
           },
           {
             "code": "M209_1",
@@ -11076,7 +11013,7 @@
             "parentCode": "M209",
             "lat": 22.209354,
             "lng": 113.536326,
-            "seq": 41
+            "seq": 40
           }
         ]
       }
@@ -11192,12 +11129,12 @@
             "seq": 10
           },
           {
-            "code": "M172_8",
+            "code": "M172_14",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
+            "lat": 22.189113,
+            "lng": 113.543174,
             "seq": 11
           },
           {
@@ -11478,22 +11415,13 @@
             "seq": 15
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 16
-          },
-          {
-            "code": "M69_1",
-            "nameCht": "葡京酒店",
-            "namePor": "HOTEL LISBOA",
-            "parentCode": "M69",
-            "lat": 22.1892,
-            "lng": 113.544779,
-            "seq": 17
           },
           {
             "code": "M160_1",
@@ -11502,7 +11430,7 @@
             "parentCode": "M160",
             "lat": 22.190862,
             "lng": 113.546247,
-            "seq": 18
+            "seq": 17
           },
           {
             "code": "M144_2",
@@ -11511,7 +11439,7 @@
             "parentCode": "M144",
             "lat": 22.193753,
             "lng": 113.543366,
-            "seq": 19
+            "seq": 18
           },
           {
             "code": "M76_2",
@@ -11520,7 +11448,7 @@
             "parentCode": "M76",
             "lat": 22.200173,
             "lng": 113.548284,
-            "seq": 20
+            "seq": 19
           },
           {
             "code": "M84_1",
@@ -11529,7 +11457,7 @@
             "parentCode": "M84",
             "lat": 22.201611,
             "lng": 113.548396,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M91_1",
@@ -11538,7 +11466,7 @@
             "parentCode": "M91",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M14_1",
@@ -11547,7 +11475,7 @@
             "parentCode": "M14",
             "lat": 22.207795,
             "lng": 113.546059,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "M8_1",
@@ -11556,7 +11484,7 @@
             "parentCode": "M8",
             "lat": 22.212753,
             "lng": 113.547588,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M1_12",
@@ -11565,7 +11493,7 @@
             "parentCode": "M1",
             "lat": 22.21503,
             "lng": 113.548874,
-            "seq": 25
+            "seq": 24
           }
         ]
       }
@@ -11582,13 +11510,13 @@
       }
     ],
     "code": "25AX",
-    "nameCht": "關閘 ↻ 蝴蝶谷大馬路",
-    "namePor": "PORTAS DO CERCO ↻ AV. VALE DAS BORBOLETAS",
+    "nameCht": "關閘 ⇌ 蝴蝶谷大馬路",
+    "namePor": "PORTAS DO CERCO ⇌ AV. VALE DAS BORBOLETAS",
     "directions": [
       {
         "code": "25AX",
-        "nameCht": "關閘 ↻ 蝴蝶谷大馬路",
-        "namePor": "PORTAS DO CERCO ↻ AV. VALE DAS BORBOLETAS",
+        "nameCht": "關閘 ⇀ 蝴蝶谷大馬路",
+        "namePor": "PORTAS DO CERCO ⇀ AV. VALE DAS BORBOLETAS",
         "stops": [
           {
             "code": "M9_2",
@@ -11609,12 +11537,12 @@
             "seq": 2
           },
           {
-            "code": "M172_8",
+            "code": "M172_14",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
+            "lat": 22.189113,
+            "lng": 113.543174,
             "seq": 3
           },
           {
@@ -11661,6 +11589,22 @@
             "lat": 22.128765,
             "lng": 113.562363,
             "seq": 8
+          }
+        ]
+      },
+      {
+        "code": "25AX",
+        "nameCht": "蝴蝶谷大馬路 ⇀ 關閘",
+        "namePor": "AV. VALE DAS BORBOLETAS ⇀ PORTAS DO CERCO",
+        "stops": [
+          {
+            "code": "C690_2",
+            "nameCht": "蝴蝶谷大馬路總站",
+            "namePor": "AV. VALE DAS BORBOLETAS / TERMINAL",
+            "parentCode": "C690",
+            "lat": 22.128765,
+            "lng": 113.562363,
+            "seq": 1
           },
           {
             "code": "C689_2",
@@ -11669,7 +11613,7 @@
             "parentCode": "C689",
             "lat": 22.129839,
             "lng": 113.562786,
-            "seq": 9
+            "seq": 2
           },
           {
             "code": "T376_2",
@@ -11678,7 +11622,7 @@
             "parentCode": "T376",
             "lat": 22.144787,
             "lng": 113.563508,
-            "seq": 10
+            "seq": 3
           },
           {
             "code": "T311_1",
@@ -11687,7 +11631,7 @@
             "parentCode": "T311",
             "lat": 22.157876,
             "lng": 113.559238,
-            "seq": 11
+            "seq": 4
           },
           {
             "code": "T308_1",
@@ -11696,16 +11640,16 @@
             "parentCode": "T308",
             "lat": 22.160619,
             "lng": 113.55664,
-            "seq": 12
+            "seq": 5
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
-            "seq": 13
+            "lat": 22.188935,
+            "lng": 113.543132,
+            "seq": 6
           },
           {
             "code": "M64_1",
@@ -11714,7 +11658,7 @@
             "parentCode": "M64",
             "lat": 22.206324,
             "lng": 113.557092,
-            "seq": 14
+            "seq": 7
           },
           {
             "code": "M9_2",
@@ -11723,12 +11667,12 @@
             "parentCode": "M9",
             "lat": 22.216083,
             "lng": 113.549919,
-            "seq": 15
+            "seq": 8
           }
         ]
       }
     ],
-    "type": "circular"
+    "type": "2-way"
   },
   {
     "agencies": [
@@ -11857,12 +11801,12 @@
             "seq": 12
           },
           {
-            "code": "M172_7",
+            "code": "M172_13",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189244,
+            "lng": 113.543076,
             "seq": 13
           },
           {
@@ -11965,12 +11909,12 @@
             "seq": 24
           },
           {
-            "code": "TEMP_13_1",
-            "nameCht": "鏡湖護校臨時站",
-            "namePor": "NORDESTE DA TAIPA / TJOI LONG SEA VIEW",
-            "parentCode": "TEMP_13",
-            "lat": 22.137044,
-            "lng": 113.568702,
+            "code": "C700_1",
+            "nameCht": "仁德大馬路/護理學院",
+            "namePor": "AV. DA BENEVOLÊNCIA / INSTITUTO DE ENFERMAGEM",
+            "parentCode": "C700",
+            "lat": 22.13712,
+            "lng": 113.568701,
             "seq": 25
           },
           {
@@ -11978,8 +11922,8 @@
             "nameCht": "蓮花路/蓮花圓形地-1",
             "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
             "parentCode": "T385",
-            "lat": 22.138477,
-            "lng": 113.564742,
+            "lat": 22.138407,
+            "lng": 113.567722,
             "seq": 26
           },
           {
@@ -12082,22 +12026,13 @@
             "seq": 37
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 38
-          },
-          {
-            "code": "M69_1",
-            "nameCht": "葡京酒店",
-            "namePor": "HOTEL LISBOA",
-            "parentCode": "M69",
-            "lat": 22.1892,
-            "lng": 113.544779,
-            "seq": 39
           },
           {
             "code": "M160_1",
@@ -12106,7 +12041,7 @@
             "parentCode": "M160",
             "lat": 22.190862,
             "lng": 113.546247,
-            "seq": 40
+            "seq": 39
           },
           {
             "code": "M158_1",
@@ -12115,7 +12050,7 @@
             "parentCode": "M158",
             "lat": 22.191715,
             "lng": 113.547667,
-            "seq": 41
+            "seq": 40
           },
           {
             "code": "M243_1",
@@ -12124,7 +12059,7 @@
             "parentCode": "M243",
             "lat": 22.192626,
             "lng": 113.548727,
-            "seq": 42
+            "seq": 41
           },
           {
             "code": "M157_1",
@@ -12133,7 +12068,7 @@
             "parentCode": "M157",
             "lat": 22.191928,
             "lng": 113.546722,
-            "seq": 43
+            "seq": 42
           },
           {
             "code": "M144_2",
@@ -12142,7 +12077,7 @@
             "parentCode": "M144",
             "lat": 22.193753,
             "lng": 113.543366,
-            "seq": 44
+            "seq": 43
           },
           {
             "code": "M76_2",
@@ -12151,7 +12086,7 @@
             "parentCode": "M76",
             "lat": 22.200173,
             "lng": 113.548284,
-            "seq": 45
+            "seq": 44
           },
           {
             "code": "M84_1",
@@ -12160,7 +12095,7 @@
             "parentCode": "M84",
             "lat": 22.201611,
             "lng": 113.548396,
-            "seq": 46
+            "seq": 45
           },
           {
             "code": "M91_1",
@@ -12169,7 +12104,7 @@
             "parentCode": "M91",
             "lat": 22.20363,
             "lng": 113.546144,
-            "seq": 47
+            "seq": 46
           },
           {
             "code": "M19_1",
@@ -12178,7 +12113,7 @@
             "parentCode": "M19",
             "lat": 22.209335,
             "lng": 113.544792,
-            "seq": 48
+            "seq": 47
           },
           {
             "code": "M4_2",
@@ -12187,7 +12122,7 @@
             "parentCode": "M4",
             "lat": 22.213638,
             "lng": 113.545251,
-            "seq": 49
+            "seq": 48
           },
           {
             "code": "M1_16",
@@ -12196,7 +12131,7 @@
             "parentCode": "M1",
             "lat": 22.214896,
             "lng": 113.548755,
-            "seq": 50
+            "seq": 49
           }
         ]
       }
@@ -12249,12 +12184,12 @@
             "seq": 3
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 4
           },
           {
@@ -12447,13 +12382,22 @@
             "seq": 25
           },
           {
+            "code": "T333_1",
+            "nameCht": "北安病毒核酸檢測站",
+            "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
+            "parentCode": "T333",
+            "lat": 22.164317,
+            "lng": 113.57293,
+            "seq": 26
+          },
+          {
             "code": "T345_5",
             "nameCht": "氹仔客運碼頭",
             "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.163065,
             "lng": 113.576323,
-            "seq": 26
+            "seq": 27
           },
           {
             "code": "T344_1",
@@ -12462,7 +12406,7 @@
             "parentCode": "T344",
             "lat": 22.16159,
             "lng": 113.573837,
-            "seq": 27
+            "seq": 28
           },
           {
             "code": "T356_1",
@@ -12471,7 +12415,7 @@
             "parentCode": "T356",
             "lat": 22.157695,
             "lng": 113.573802,
-            "seq": 28
+            "seq": 29
           },
           {
             "code": "T358_1",
@@ -12480,7 +12424,7 @@
             "parentCode": "T358",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 29
+            "seq": 30
           },
           {
             "code": "T373_1",
@@ -12489,7 +12433,7 @@
             "parentCode": "T373",
             "lat": 22.152082,
             "lng": 113.565112,
-            "seq": 30
+            "seq": 31
           },
           {
             "code": "T375_1",
@@ -12498,7 +12442,7 @@
             "parentCode": "T375",
             "lat": 22.149332,
             "lng": 113.563982,
-            "seq": 31
+            "seq": 32
           },
           {
             "code": "T379_1",
@@ -12507,7 +12451,7 @@
             "parentCode": "T379",
             "lat": 22.14382,
             "lng": 113.563717,
-            "seq": 32
+            "seq": 33
           },
           {
             "code": "T359_1",
@@ -12516,7 +12460,7 @@
             "parentCode": "T359",
             "lat": 22.140883,
             "lng": 113.563572,
-            "seq": 33
+            "seq": 34
           },
           {
             "code": "T355_1",
@@ -12525,7 +12469,7 @@
             "parentCode": "T355",
             "lat": 22.138927,
             "lng": 113.559728,
-            "seq": 34
+            "seq": 35
           },
           {
             "code": "C688_1",
@@ -12534,7 +12478,7 @@
             "parentCode": "C688",
             "lat": 22.12984,
             "lng": 113.563059,
-            "seq": 35
+            "seq": 36
           },
           {
             "code": "C691_1",
@@ -12543,7 +12487,7 @@
             "parentCode": "C691",
             "lat": 22.129378,
             "lng": 113.560984,
-            "seq": 36
+            "seq": 37
           },
           {
             "code": "C652_1",
@@ -12552,7 +12496,7 @@
             "parentCode": "C652",
             "lat": 22.128262,
             "lng": 113.558738,
-            "seq": 37
+            "seq": 38
           },
           {
             "code": "C655_1",
@@ -12561,7 +12505,7 @@
             "parentCode": "C655",
             "lat": 22.125432,
             "lng": 113.555331,
-            "seq": 38
+            "seq": 39
           },
           {
             "code": "C657_1",
@@ -12570,7 +12514,7 @@
             "parentCode": "C657",
             "lat": 22.120511,
             "lng": 113.5535,
-            "seq": 39
+            "seq": 40
           },
           {
             "code": "C659_1",
@@ -12579,7 +12523,7 @@
             "parentCode": "C659",
             "lat": 22.117795,
             "lng": 113.552048,
-            "seq": 40
+            "seq": 41
           }
         ]
       },
@@ -12954,12 +12898,12 @@
             "seq": 3
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 4
           },
           {
@@ -13017,12 +12961,12 @@
             "seq": 10
           },
           {
-            "code": "M172_8",
+            "code": "M172_15",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
+            "lat": 22.189117,
+            "lng": 113.543074,
             "seq": 11
           },
           {
@@ -13501,12 +13445,12 @@
             "seq": 26
           },
           {
-            "code": "M172_1",
+            "code": "M172_3",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189476,
+            "lng": 113.543557,
             "seq": 27
           },
           {
@@ -13889,12 +13833,12 @@
             "seq": 6
           },
           {
-            "code": "M172_7",
+            "code": "M172_11",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189142,
+            "lng": 113.543325,
             "seq": 7
           },
           {
@@ -14051,22 +13995,13 @@
             "seq": 24
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 25
-          },
-          {
-            "code": "M69_2",
-            "nameCht": "葡京酒店",
-            "namePor": "HOTEL LISBOA",
-            "parentCode": "M69",
-            "lat": 22.189225,
-            "lng": 113.544841,
-            "seq": 26
           },
           {
             "code": "M160_2",
@@ -14075,7 +14010,7 @@
             "parentCode": "M160",
             "lat": 22.190919,
             "lng": 113.546224,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "M158_2",
@@ -14084,7 +14019,7 @@
             "parentCode": "M158",
             "lat": 22.191733,
             "lng": 113.547718,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "M161_1",
@@ -14093,7 +14028,7 @@
             "parentCode": "M161",
             "lat": 22.192659,
             "lng": 113.550184,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M70_1",
@@ -14102,7 +14037,7 @@
             "parentCode": "M70",
             "lat": 22.193398,
             "lng": 113.551958,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M118_1",
@@ -14111,7 +14046,7 @@
             "parentCode": "M118",
             "lat": 22.195713,
             "lng": 113.553765,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M239_4",
@@ -14120,7 +14055,7 @@
             "parentCode": "M239",
             "lat": 22.197467,
             "lng": 113.557311,
-            "seq": 32
+            "seq": 31
           }
         ]
       }
@@ -14781,12 +14716,12 @@
             "seq": 23
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 24
           },
           {
@@ -15590,6 +15525,254 @@
   {
     "agencies": [
       {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
+    "code": "30X",
+    "nameCht": "關閘 ↻ 氹仔",
+    "namePor": "PORTAS DO CERCO ↻ TAIPA",
+    "directions": [
+      {
+        "code": "30X",
+        "nameCht": "關閘 ↻ 氹仔",
+        "namePor": "PORTAS DO CERCO ↻ TAIPA",
+        "stops": [
+          {
+            "code": "M9_2",
+            "nameCht": "關閘廣場",
+            "namePor": "PRAÇA DAS PORTAS DO CERCO",
+            "parentCode": "M9",
+            "lat": 22.216083,
+            "lng": 113.549919,
+            "seq": 1
+          },
+          {
+            "code": "T342_1",
+            "nameCht": "高勵雅馬路",
+            "namePor": "EST. ALM. M. CORREIA",
+            "parentCode": "T342",
+            "lat": 22.162291,
+            "lng": 113.561688,
+            "seq": 2
+          },
+          {
+            "code": "T409_1",
+            "nameCht": "湖畔公園",
+            "namePor": "JARDIM DO LAGO",
+            "parentCode": "T409",
+            "lat": 22.15874,
+            "lng": 113.562122,
+            "seq": 3
+          },
+          {
+            "code": "T313_1",
+            "nameCht": "氹仔茵景園",
+            "namePor": "EDF. GREENVILLE",
+            "parentCode": "T313",
+            "lat": 22.156125,
+            "lng": 113.55992,
+            "seq": 4
+          },
+          {
+            "code": "T367_1",
+            "nameCht": "望德聖母灣馬路/連貫公路",
+            "namePor": "EST. BAIA N. S. ESPERANÇA / ISTMO",
+            "parentCode": "T367",
+            "lat": 22.150481,
+            "lng": 113.562365,
+            "seq": 5
+          },
+          {
+            "code": "T365_1",
+            "nameCht": "排角/銀河",
+            "namePor": "PAI KOK / GALAXY",
+            "parentCode": "T365",
+            "lat": 22.150732,
+            "lng": 113.554647,
+            "seq": 6
+          },
+          {
+            "code": "T361_1",
+            "nameCht": "運動場/賽馬會",
+            "namePor": "ESTÁDIO / JOCKEY CLUB",
+            "parentCode": "T361",
+            "lat": 22.155425,
+            "lng": 113.552464,
+            "seq": 7
+          },
+          {
+            "code": "T350_1",
+            "nameCht": "廣東大馬路/馬會",
+            "namePor": "AV.KWONG TUNG / JOCKEY CLUB",
+            "parentCode": "T350",
+            "lat": 22.158005,
+            "lng": 113.549097,
+            "seq": 8
+          },
+          {
+            "code": "T353_1",
+            "nameCht": "廣東大馬路/濠尚",
+            "namePor": "AV. KWONG TUNG / NOVA GRAND",
+            "parentCode": "T353",
+            "lat": 22.159552,
+            "lng": 113.552428,
+            "seq": 9
+          },
+          {
+            "code": "T413_1",
+            "nameCht": "氹仔中央公園/哥英布拉街",
+            "namePor": "PARQUE CENTRAL DA TAIPA / RUA DE COIMBRA",
+            "parentCode": "T413",
+            "lat": 22.158897,
+            "lng": 113.555478,
+            "seq": 10
+          },
+          {
+            "code": "T308_1",
+            "nameCht": "氹仔電訊",
+            "namePor": "AV. SUN YAT SEN / CTM",
+            "parentCode": "T308",
+            "lat": 22.160619,
+            "lng": 113.55664,
+            "seq": 11
+          },
+          {
+            "code": "T300_1",
+            "nameCht": "史伯泰/盧廉若",
+            "namePor": "ESPARTEIRO / LOU LIM IEOK",
+            "parentCode": "T300",
+            "lat": 22.16266,
+            "lng": 113.552686,
+            "seq": 12
+          },
+          {
+            "code": "T330_1",
+            "nameCht": "蘇利安圓形地",
+            "namePor": "ROTUNDA LEONEL SOUSA",
+            "parentCode": "T330",
+            "lat": 22.1639,
+            "lng": 113.549802,
+            "seq": 13
+          },
+          {
+            "code": "M69_1",
+            "nameCht": "葡京酒店",
+            "namePor": "HOTEL LISBOA",
+            "parentCode": "M69",
+            "lat": 22.1892,
+            "lng": 113.544779,
+            "seq": 14
+          },
+          {
+            "code": "M160_2",
+            "nameCht": "十月一號前地",
+            "namePor": "PRACETA DE 1 DE OUTUBRO",
+            "parentCode": "M160",
+            "lat": 22.190919,
+            "lng": 113.546224,
+            "seq": 15
+          },
+          {
+            "code": "M158_1",
+            "nameCht": "北京街/假日酒店",
+            "namePor": "RUA DE PEQUIM / HOLIDAY INN",
+            "parentCode": "M158",
+            "lat": 22.191715,
+            "lng": 113.547667,
+            "seq": 16
+          },
+          {
+            "code": "M253_1",
+            "nameCht": "宋玉生廣場",
+            "namePor": "AL. DR. C. D’ASSUMPÇÃO",
+            "parentCode": "M253",
+            "lat": 22.189136,
+            "lng": 113.551093,
+            "seq": 17
+          },
+          {
+            "code": "M256_1",
+            "nameCht": "澳門文化中心",
+            "namePor": "CENTRO CULTURAL DE MACAU",
+            "parentCode": "M256",
+            "lat": 22.18777,
+            "lng": 113.554264,
+            "seq": 18
+          },
+          {
+            "code": "M259_1",
+            "nameCht": "孫逸仙大馬路/金沙",
+            "namePor": "AV. DR. SUN YAT-SEN / SANDS",
+            "parentCode": "M259",
+            "lat": 22.189935,
+            "lng": 113.55574,
+            "seq": 19
+          },
+          {
+            "code": "M242_1",
+            "nameCht": "友誼馬路/海港街",
+            "namePor": "AV. AMIZADE / R. TERMINAL MARÍTIMO",
+            "parentCode": "M242",
+            "lat": 22.196036,
+            "lng": 113.555625,
+            "seq": 20
+          },
+          {
+            "code": "M64_1",
+            "nameCht": "黑沙環新街/南華",
+            "namePor": "R. NOVA AREIA PRETA / NAM WA",
+            "parentCode": "M64",
+            "lat": 22.206324,
+            "lng": 113.557092,
+            "seq": 21
+          },
+          {
+            "code": "M206_2",
+            "nameCht": "黑沙環新街/建華",
+            "namePor": "R. NOVA AREIA PRETA / EDF. KIN WA",
+            "parentCode": "M206",
+            "lat": 22.208506,
+            "lng": 113.55447,
+            "seq": 22
+          },
+          {
+            "code": "M226_1",
+            "nameCht": "勞動節街/中葡職業技術學校",
+            "namePor": "R. 1 DE MAIO / ESCOLA LUSO-CHINESA TÉCNICO-PROFISSIONAL",
+            "parentCode": "M226",
+            "lat": 22.209815,
+            "lng": 113.554301,
+            "seq": 23
+          },
+          {
+            "code": "M236_1",
+            "nameCht": "黑沙環中街/黑沙環衛生中心",
+            "namePor": "R. CENTRAL DA AREIA PRETA / CENTRO DE SAÚDE DA AREIA PRETA",
+            "parentCode": "M236",
+            "lat": 22.211735,
+            "lng": 113.555045,
+            "seq": 24
+          },
+          {
+            "code": "M9_2",
+            "nameCht": "關閘廣場",
+            "namePor": "PRAÇA DAS PORTAS DO CERCO",
+            "parentCode": "M9",
+            "lat": 22.216083,
+            "lng": 113.549919,
+            "seq": 25
+          }
+        ]
+      }
+    ],
+    "type": "circular"
+  },
+  {
+    "agencies": [
+      {
         "nameCht": "新福利",
         "namePor": "TRANSMAC",
         "phone": "28271122",
@@ -15624,12 +15807,12 @@
             "seq": 2
           },
           {
-            "code": "TEMP_10_3",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.20548,
-            "lng": 113.544574,
+            "code": "M16_2",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206413,
+            "lng": 113.545328,
             "seq": 3
           },
           {
@@ -15705,12 +15888,12 @@
             "seq": 11
           },
           {
-            "code": "M172_3",
+            "code": "M172_5",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.189353,
+            "lng": 113.543401,
             "seq": 12
           },
           {
@@ -15777,22 +15960,13 @@
             "seq": 19
           },
           {
-            "code": "M172_10",
-            "nameCht": "亞馬喇前地",
-            "namePor": "PRAÇA FERREIRA AMARAL",
-            "parentCode": "M172",
-            "lat": 22.189314,
-            "lng": 113.54305,
-            "seq": 20
-          },
-          {
             "code": "M69_2",
             "nameCht": "葡京酒店",
             "namePor": "HOTEL LISBOA",
             "parentCode": "M69",
             "lat": 22.189225,
             "lng": 113.544841,
-            "seq": 21
+            "seq": 20
           },
           {
             "code": "M160_2",
@@ -15801,7 +15975,7 @@
             "parentCode": "M160",
             "lat": 22.190919,
             "lng": 113.546224,
-            "seq": 22
+            "seq": 21
           },
           {
             "code": "M158_2",
@@ -15810,7 +15984,7 @@
             "parentCode": "M158",
             "lat": 22.191733,
             "lng": 113.547718,
-            "seq": 23
+            "seq": 22
           },
           {
             "code": "M161_1",
@@ -15819,7 +15993,7 @@
             "parentCode": "M161",
             "lat": 22.192659,
             "lng": 113.550184,
-            "seq": 24
+            "seq": 23
           },
           {
             "code": "M70_1",
@@ -15828,7 +16002,7 @@
             "parentCode": "M70",
             "lat": 22.193398,
             "lng": 113.551958,
-            "seq": 25
+            "seq": 24
           },
           {
             "code": "M118_2",
@@ -15837,7 +16011,7 @@
             "parentCode": "M118",
             "lat": 22.195739,
             "lng": 113.553782,
-            "seq": 26
+            "seq": 25
           },
           {
             "code": "M66_1",
@@ -15846,7 +16020,7 @@
             "parentCode": "M66",
             "lat": 22.199732,
             "lng": 113.554654,
-            "seq": 27
+            "seq": 26
           },
           {
             "code": "M61_2",
@@ -15855,7 +16029,7 @@
             "parentCode": "M61",
             "lat": 22.200904,
             "lng": 113.550694,
-            "seq": 28
+            "seq": 27
           },
           {
             "code": "M84_2",
@@ -15864,7 +16038,7 @@
             "parentCode": "M84",
             "lat": 22.201626,
             "lng": 113.548379,
-            "seq": 29
+            "seq": 28
           },
           {
             "code": "M99_1",
@@ -15873,7 +16047,7 @@
             "parentCode": "M99",
             "lat": 22.204919,
             "lng": 113.544681,
-            "seq": 30
+            "seq": 29
           },
           {
             "code": "M94_1",
@@ -15882,7 +16056,7 @@
             "parentCode": "M94",
             "lat": 22.206201,
             "lng": 113.543151,
-            "seq": 31
+            "seq": 30
           },
           {
             "code": "M108_2",
@@ -15891,7 +16065,7 @@
             "parentCode": "M108",
             "lat": 22.207364,
             "lng": 113.540509,
-            "seq": 32
+            "seq": 31
           },
           {
             "code": "M26_3",
@@ -15900,7 +16074,7 @@
             "parentCode": "M26",
             "lat": 22.208736,
             "lng": 113.543404,
-            "seq": 33
+            "seq": 32
           }
         ]
       }
@@ -15944,12 +16118,12 @@
             "seq": 2
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 3
           },
           {
@@ -16007,12 +16181,12 @@
             "seq": 9
           },
           {
-            "code": "M172_7",
+            "code": "M172_11",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189142,
+            "lng": 113.543325,
             "seq": 10
           },
           {
@@ -16169,12 +16343,12 @@
             "seq": 27
           },
           {
-            "code": "M172_1",
+            "code": "M172_3",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189476,
+            "lng": 113.543557,
             "seq": 28
           },
           {
@@ -17073,13 +17247,22 @@
             "seq": 12
           },
           {
+            "code": "T333_1",
+            "nameCht": "北安病毒核酸檢測站",
+            "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
+            "parentCode": "T333",
+            "lat": 22.164317,
+            "lng": 113.57293,
+            "seq": 13
+          },
+          {
             "code": "T345_4",
             "nameCht": "氹仔客運碼頭",
             "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.163259,
             "lng": 113.576335,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "T344_1",
@@ -17088,7 +17271,7 @@
             "parentCode": "T344",
             "lat": 22.16159,
             "lng": 113.573837,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "T356_3",
@@ -17097,7 +17280,7 @@
             "parentCode": "T356",
             "lat": 22.157552,
             "lng": 113.573529,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "T358_1",
@@ -17106,7 +17289,7 @@
             "parentCode": "T358",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "T373_1",
@@ -17115,7 +17298,7 @@
             "parentCode": "T373",
             "lat": 22.152082,
             "lng": 113.565112,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T306_2",
@@ -17124,7 +17307,7 @@
             "parentCode": "T306",
             "lat": 22.153173,
             "lng": 113.563052,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "T314_2",
@@ -17133,7 +17316,7 @@
             "parentCode": "T314",
             "lat": 22.15639,
             "lng": 113.55987,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "T408_2",
@@ -17142,7 +17325,7 @@
             "parentCode": "T408",
             "lat": 22.159012,
             "lng": 113.56115,
-            "seq": 20
+            "seq": 21
           },
           {
             "code": "T311_2",
@@ -17151,7 +17334,7 @@
             "parentCode": "T311",
             "lat": 22.158056,
             "lng": 113.559067,
-            "seq": 21
+            "seq": 22
           },
           {
             "code": "T412_1",
@@ -17160,7 +17343,7 @@
             "parentCode": "T412",
             "lat": 22.158352,
             "lng": 113.55445,
-            "seq": 22
+            "seq": 23
           },
           {
             "code": "T352_1",
@@ -17169,7 +17352,7 @@
             "parentCode": "T352",
             "lat": 22.159539,
             "lng": 113.552623,
-            "seq": 23
+            "seq": 24
           },
           {
             "code": "T327_1",
@@ -17178,7 +17361,7 @@
             "parentCode": "T327",
             "lat": 22.156993,
             "lng": 113.549864,
-            "seq": 24
+            "seq": 25
           },
           {
             "code": "T326_1",
@@ -17187,7 +17370,7 @@
             "parentCode": "T326",
             "lat": 22.157003,
             "lng": 113.546126,
-            "seq": 25
+            "seq": 26
           },
           {
             "code": "T337_1",
@@ -17196,7 +17379,7 @@
             "parentCode": "T337",
             "lat": 22.158477,
             "lng": 113.542124,
-            "seq": 26
+            "seq": 27
           },
           {
             "code": "T334_1",
@@ -17205,7 +17388,7 @@
             "parentCode": "T334",
             "lat": 22.161139,
             "lng": 113.543801,
-            "seq": 27
+            "seq": 28
           },
           {
             "code": "T330_3",
@@ -17214,7 +17397,7 @@
             "parentCode": "T330",
             "lat": 22.164171,
             "lng": 113.547791,
-            "seq": 28
+            "seq": 29
           }
         ]
       }
@@ -17443,13 +17626,22 @@
         "namePor": "NAPE / RUA DE COIMBRA ↻ EDIFÍCIO DO LAGO",
         "stops": [
           {
-            "code": "M172_8",
+            "code": "M252_1",
+            "nameCht": "新口岸/科英布拉街",
+            "namePor": "NAPE / RUA DE COIMBRA",
+            "parentCode": "M252",
+            "lat": 22.188419,
+            "lng": 113.550113,
+            "seq": 1
+          },
+          {
+            "code": "M172_10",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
-            "seq": 1
+            "lat": 22.189194,
+            "lng": 113.543236,
+            "seq": 2
           },
           {
             "code": "T403_1",
@@ -17458,7 +17650,7 @@
             "parentCode": "T403",
             "lat": 22.162749,
             "lng": 113.553651,
-            "seq": 2
+            "seq": 3
           },
           {
             "code": "T304_1",
@@ -17467,7 +17659,7 @@
             "parentCode": "T304",
             "lat": 22.160685,
             "lng": 113.556702,
-            "seq": 3
+            "seq": 4
           },
           {
             "code": "T310_2",
@@ -17476,7 +17668,7 @@
             "parentCode": "T310",
             "lat": 22.158752,
             "lng": 113.558541,
-            "seq": 4
+            "seq": 5
           },
           {
             "code": "T408_10",
@@ -17485,7 +17677,7 @@
             "parentCode": "T408",
             "lat": 22.158776,
             "lng": 113.561366,
-            "seq": 5
+            "seq": 6
           },
           {
             "code": "T341_1",
@@ -17494,7 +17686,7 @@
             "parentCode": "T341",
             "lat": 22.161427,
             "lng": 113.560108,
-            "seq": 6
+            "seq": 7
           },
           {
             "code": "T432_1",
@@ -17503,7 +17695,7 @@
             "parentCode": "T432",
             "lat": 22.16379,
             "lng": 113.560896,
-            "seq": 7
+            "seq": 8
           },
           {
             "code": "T428_1",
@@ -17512,7 +17704,7 @@
             "parentCode": "T428",
             "lat": 22.165636,
             "lng": 113.558927,
-            "seq": 8
+            "seq": 9
           },
           {
             "code": "T307_1",
@@ -17521,7 +17713,7 @@
             "parentCode": "T307",
             "lat": 22.16258,
             "lng": 113.555013,
-            "seq": 9
+            "seq": 10
           },
           {
             "code": "T300_1",
@@ -17530,16 +17722,34 @@
             "parentCode": "T300",
             "lat": 22.16266,
             "lng": 113.552686,
-            "seq": 10
+            "seq": 11
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
-            "seq": 11
+            "lat": 22.188935,
+            "lng": 113.543132,
+            "seq": 12
+          },
+          {
+            "code": "M262_1",
+            "nameCht": "城市日大馬路/波爾圖街",
+            "namePor": "AV.24 DE JUNHO / R.DO.PORTO",
+            "parentCode": "M262",
+            "lat": 22.187424,
+            "lng": 113.548638,
+            "seq": 13
+          },
+          {
+            "code": "M252_1",
+            "nameCht": "新口岸/科英布拉街",
+            "namePor": "NAPE / RUA DE COIMBRA",
+            "parentCode": "M252",
+            "lat": 22.188419,
+            "lng": 113.550113,
+            "seq": 14
           }
         ]
       }
@@ -17574,12 +17784,12 @@
             "seq": 1
           },
           {
-            "code": "M172_3",
+            "code": "M172_8",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189271,
-            "lng": 113.543419,
+            "lat": 22.189434,
+            "lng": 113.543318,
             "seq": 2
           },
           {
@@ -17668,8 +17878,8 @@
             "nameCht": "蓮花路/蓮花圓形地-1",
             "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
             "parentCode": "T385",
-            "lat": 22.138477,
-            "lng": 113.564742,
+            "lat": 22.138407,
+            "lng": 113.567722,
             "seq": 12
           },
           {
@@ -17880,12 +18090,12 @@
             "seq": 35
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 36
           },
           {
@@ -17930,12 +18140,12 @@
             "seq": 1
           },
           {
-            "code": "M172_1",
+            "code": "M172_10",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189409,
-            "lng": 113.543577,
+            "lat": 22.189194,
+            "lng": 113.543236,
             "seq": 2
           },
           {
@@ -18083,12 +18293,12 @@
             "seq": 18
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 19
           },
           {
@@ -18292,7 +18502,7 @@
           },
           {
             "code": "M60_1",
-            "nameCht": "何賢紳士馬路/青蔥",
+            "nameCht": "何賢紳士馬路/青葱",
             "namePor": "AVENIDA DO COMENDADOR HO YIN / CHENG CHONG",
             "parentCode": "M60",
             "lat": 22.212067,
@@ -18363,13 +18573,22 @@
             "seq": 10
           },
           {
+            "code": "T333_1",
+            "nameCht": "北安病毒核酸檢測站",
+            "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
+            "parentCode": "T333",
+            "lat": 22.164317,
+            "lng": 113.57293,
+            "seq": 11
+          },
+          {
             "code": "T345_5",
             "nameCht": "氹仔客運碼頭",
             "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.163065,
             "lng": 113.576323,
-            "seq": 11
+            "seq": 12
           },
           {
             "code": "T344_1",
@@ -18378,7 +18597,7 @@
             "parentCode": "T344",
             "lat": 22.16159,
             "lng": 113.573837,
-            "seq": 12
+            "seq": 13
           },
           {
             "code": "T356_1",
@@ -18387,7 +18606,7 @@
             "parentCode": "T356",
             "lat": 22.157695,
             "lng": 113.573802,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "T358_1",
@@ -18396,7 +18615,7 @@
             "parentCode": "T358",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "T373_1",
@@ -18405,7 +18624,7 @@
             "parentCode": "T373",
             "lat": 22.152082,
             "lng": 113.565112,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "T367_1",
@@ -18414,7 +18633,7 @@
             "parentCode": "T367",
             "lat": 22.150481,
             "lng": 113.562365,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "T394_1",
@@ -18423,7 +18642,7 @@
             "parentCode": "T394",
             "lat": 22.148796,
             "lng": 113.5581,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T396_1",
@@ -18432,7 +18651,7 @@
             "parentCode": "T396",
             "lat": 22.144343,
             "lng": 113.557896,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "T377_1",
@@ -18441,7 +18660,7 @@
             "parentCode": "T377",
             "lat": 22.142641,
             "lng": 113.562097,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "T359_1",
@@ -18450,7 +18669,7 @@
             "parentCode": "T359",
             "lat": 22.140883,
             "lng": 113.563572,
-            "seq": 20
+            "seq": 21
           },
           {
             "code": "C688_2",
@@ -18459,7 +18678,7 @@
             "parentCode": "C688",
             "lat": 22.129626,
             "lng": 113.563061,
-            "seq": 21
+            "seq": 22
           },
           {
             "code": "C690_1",
@@ -18468,7 +18687,7 @@
             "parentCode": "C690",
             "lat": 22.128765,
             "lng": 113.56223,
-            "seq": 22
+            "seq": 23
           }
         ]
       },
@@ -18673,11 +18892,11 @@
           },
           {
             "code": "C650_1",
-            "nameCht": "石排灣馬路",
-            "namePor": "EST. SEAK PAI VAN",
+            "nameCht": "石排灣馬路/擎天匯",
+            "namePor": "EST. SEAK PAI VAN / PRAIA PARK",
             "parentCode": "C650",
-            "lat": 22.131346,
-            "lng": 113.561596,
+            "lat": 22.131395,
+            "lng": 113.560418,
             "seq": 3
           },
           {
@@ -18762,12 +18981,12 @@
             "seq": 12
           },
           {
-            "code": "M172_5",
+            "code": "M172_8",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189391,
-            "lng": 113.54333,
+            "lat": 22.189434,
+            "lng": 113.543318,
             "seq": 13
           },
           {
@@ -18791,10 +19010,10 @@
           {
             "code": "T420_1",
             "nameCht": "蓮花海濱大馬路/銀河-1",
-            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY - 1",
             "parentCode": "T420",
-            "lat": 22.150965,
-            "lng": 113.550968,
+            "lat": 22.149603,
+            "lng": 113.551383,
             "seq": 16
           },
           {
@@ -18894,11 +19113,11 @@
           },
           {
             "code": "C650_1",
-            "nameCht": "石排灣馬路",
-            "namePor": "EST. SEAK PAI VAN",
+            "nameCht": "石排灣馬路/擎天匯",
+            "namePor": "EST. SEAK PAI VAN / PRAIA PARK",
             "parentCode": "C650",
-            "lat": 22.131346,
-            "lng": 113.561596,
+            "lat": 22.131395,
+            "lng": 113.560418,
             "seq": 3
           },
           {
@@ -18994,10 +19213,10 @@
           {
             "code": "T420_1",
             "nameCht": "蓮花海濱大馬路/銀河-1",
-            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY - 1",
             "parentCode": "T420",
-            "lat": 22.150965,
-            "lng": 113.550968,
+            "lat": 22.149603,
+            "lng": 113.551383,
             "seq": 14
           },
           {
@@ -19389,12 +19608,12 @@
             "seq": 9
           },
           {
-            "code": "M172_6",
+            "code": "M172_7",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189253,
-            "lng": 113.543362,
+            "lat": 22.189331,
+            "lng": 113.543344,
             "seq": 10
           },
           {
@@ -19418,10 +19637,10 @@
           {
             "code": "T420_1",
             "nameCht": "蓮花海濱大馬路/銀河-1",
-            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY - 1",
             "parentCode": "T420",
-            "lat": 22.150965,
-            "lng": 113.550968,
+            "lat": 22.149603,
+            "lng": 113.551383,
             "seq": 13
           },
           {
@@ -19912,12 +20131,12 @@
             "seq": 9
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 10
           },
           {
@@ -19961,8 +20180,8 @@
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189331,
+            "lng": 113.543344,
             "seq": 15
           },
           {
@@ -19986,10 +20205,10 @@
           {
             "code": "T420_1",
             "nameCht": "蓮花海濱大馬路/銀河-1",
-            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY - 1",
             "parentCode": "T420",
-            "lat": 22.150965,
-            "lng": 113.550968,
+            "lat": 22.149603,
+            "lng": 113.551383,
             "seq": 18
           },
           {
@@ -20187,12 +20406,12 @@
             "seq": 11
           },
           {
-            "code": "M172_4",
+            "code": "M172_1",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.1894,
-            "lng": 113.543391,
+            "lat": 22.18925,
+            "lng": 113.543625,
             "seq": 12
           },
           {
@@ -20390,13 +20609,22 @@
             "seq": 9
           },
           {
+            "code": "T333_1",
+            "nameCht": "北安病毒核酸檢測站",
+            "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
+            "parentCode": "T333",
+            "lat": 22.164317,
+            "lng": 113.57293,
+            "seq": 10
+          },
+          {
             "code": "T345_2",
             "nameCht": "氹仔客運碼頭",
             "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.16319,
             "lng": 113.575854,
-            "seq": 10
+            "seq": 11
           },
           {
             "code": "T344_1",
@@ -20405,7 +20633,7 @@
             "parentCode": "T344",
             "lat": 22.16159,
             "lng": 113.573837,
-            "seq": 11
+            "seq": 12
           },
           {
             "code": "T356_2",
@@ -20414,7 +20642,7 @@
             "parentCode": "T356",
             "lat": 22.157669,
             "lng": 113.573754,
-            "seq": 12
+            "seq": 13
           },
           {
             "code": "T358_1",
@@ -20423,7 +20651,7 @@
             "parentCode": "T358",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "T373_1",
@@ -20432,7 +20660,7 @@
             "parentCode": "T373",
             "lat": 22.152082,
             "lng": 113.565112,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "T306_1",
@@ -20441,7 +20669,7 @@
             "parentCode": "T306",
             "lat": 22.153101,
             "lng": 113.563067,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "T314_2",
@@ -20450,7 +20678,7 @@
             "parentCode": "T314",
             "lat": 22.15639,
             "lng": 113.55987,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "T408_6",
@@ -20459,7 +20687,7 @@
             "parentCode": "T408",
             "lat": 22.158898,
             "lng": 113.561247,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T343_1",
@@ -20468,7 +20696,7 @@
             "parentCode": "T343",
             "lat": 22.162057,
             "lng": 113.561165,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "M239_1",
@@ -20477,7 +20705,7 @@
             "parentCode": "M239",
             "lat": 22.197568,
             "lng": 113.557591,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "M254_1",
@@ -20486,7 +20714,7 @@
             "parentCode": "M254",
             "lat": 22.194852,
             "lng": 113.554846,
-            "seq": 20
+            "seq": 21
           },
           {
             "code": "M64_1",
@@ -20495,7 +20723,7 @@
             "parentCode": "M64",
             "lat": 22.206324,
             "lng": 113.557092,
-            "seq": 21
+            "seq": 22
           },
           {
             "code": "M235_1",
@@ -20504,7 +20732,7 @@
             "parentCode": "M235",
             "lat": 22.208918,
             "lng": 113.557199,
-            "seq": 22
+            "seq": 23
           },
           {
             "code": "M247_1",
@@ -20513,7 +20741,7 @@
             "parentCode": "M247",
             "lat": 22.213373,
             "lng": 113.555824,
-            "seq": 23
+            "seq": 24
           },
           {
             "code": "M1_18",
@@ -20522,7 +20750,111 @@
             "parentCode": "M1",
             "lat": 22.214955,
             "lng": 113.548675,
-            "seq": 24
+            "seq": 25
+          }
+        ]
+      }
+    ],
+    "type": "circular"
+  },
+  {
+    "agencies": [
+      {
+        "nameCht": "新福利",
+        "namePor": "TRANSMAC",
+        "phone": "28271122",
+        "website": "http://www.transmac.com.mo/"
+      }
+    ],
+    "code": "AP1X",
+    "nameCht": "關閘 ↻ 澳門機場",
+    "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
+    "directions": [
+      {
+        "code": "AP1X",
+        "nameCht": "關閘 ↻ 澳門機場",
+        "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
+        "stops": [
+          {
+            "code": "M9_1",
+            "nameCht": "關閘廣場",
+            "namePor": "PRAÇA DAS PORTAS DO CERCO",
+            "parentCode": "M9",
+            "lat": 22.214866,
+            "lng": 113.549449,
+            "seq": 1
+          },
+          {
+            "code": "T316_1",
+            "nameCht": "北安大馬路/新城區",
+            "namePor": "EST. PAC ON / NOVOS ATERROS",
+            "parentCode": "T316",
+            "lat": 22.164759,
+            "lng": 113.566684,
+            "seq": 2
+          },
+          {
+            "code": "T354_1",
+            "nameCht": "北安出入境事務大樓",
+            "namePor": "EDIFÍCIO DE SERVIÇOS DE MIGRAÇÃO / PAC ON",
+            "parentCode": "T354",
+            "lat": 22.164034,
+            "lng": 113.570637,
+            "seq": 3
+          },
+          {
+            "code": "T356_2",
+            "nameCht": "澳門機場",
+            "namePor": "AEROPORTO DE MACAU",
+            "parentCode": "T356",
+            "lat": 22.157669,
+            "lng": 113.573754,
+            "seq": 4
+          },
+          {
+            "code": "T373_1",
+            "nameCht": "偉龍/科技大學",
+            "namePor": "WAI LONG / M.U.S.T.",
+            "parentCode": "T373",
+            "lat": 22.152082,
+            "lng": 113.565112,
+            "seq": 5
+          },
+          {
+            "code": "T314_2",
+            "nameCht": "信虹花園",
+            "namePor": "JARDIM LAMEIRAS",
+            "parentCode": "T314",
+            "lat": 22.15639,
+            "lng": 113.55987,
+            "seq": 6
+          },
+          {
+            "code": "T343_1",
+            "nameCht": "海灣花園/海城閣",
+            "namePor": "JARDIM HOI VAN / HOI CHENG",
+            "parentCode": "T343",
+            "lat": 22.162057,
+            "lng": 113.561165,
+            "seq": 7
+          },
+          {
+            "code": "M247_1",
+            "nameCht": "海上居",
+            "namePor": "LA MARINA",
+            "parentCode": "M247",
+            "lat": 22.213373,
+            "lng": 113.555824,
+            "seq": 8
+          },
+          {
+            "code": "M9_1",
+            "nameCht": "關閘廣場",
+            "namePor": "PRAÇA DAS PORTAS DO CERCO",
+            "parentCode": "M9",
+            "lat": 22.214866,
+            "lng": 113.549449,
+            "seq": 9
           }
         ]
       }
@@ -20611,12 +20943,12 @@
             "seq": 7
           },
           {
-            "code": "M172_4",
+            "code": "M172_9",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.1894,
-            "lng": 113.543391,
+            "lat": 22.189399,
+            "lng": 113.543166,
             "seq": 8
           },
           {
@@ -20923,12 +21255,12 @@
             "seq": 1
           },
           {
-            "code": "M172_7",
+            "code": "M172_13",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189244,
+            "lng": 113.543076,
             "seq": 2
           },
           {
@@ -21022,13 +21354,22 @@
             "seq": 12
           },
           {
+            "code": "T333_1",
+            "nameCht": "北安病毒核酸檢測站",
+            "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
+            "parentCode": "T333",
+            "lat": 22.164317,
+            "lng": 113.57293,
+            "seq": 13
+          },
+          {
             "code": "T345_6",
             "nameCht": "氹仔客運碼頭",
             "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
             "parentCode": "T345",
             "lat": 22.162777,
             "lng": 113.576252,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "T344_1",
@@ -21037,7 +21378,7 @@
             "parentCode": "T344",
             "lat": 22.16159,
             "lng": 113.573837,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "T356_3",
@@ -21046,7 +21387,7 @@
             "parentCode": "T356",
             "lat": 22.157552,
             "lng": 113.573529,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "T358_1",
@@ -21055,7 +21396,7 @@
             "parentCode": "T358",
             "lat": 22.154771,
             "lng": 113.567933,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "T373_1",
@@ -21064,7 +21405,7 @@
             "parentCode": "T373",
             "lat": 22.152082,
             "lng": 113.565112,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T367_1",
@@ -21073,7 +21414,7 @@
             "parentCode": "T367",
             "lat": 22.150481,
             "lng": 113.562365,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "T365_1",
@@ -21082,7 +21423,7 @@
             "parentCode": "T365",
             "lat": 22.150732,
             "lng": 113.554647,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "T361_1",
@@ -21091,7 +21432,7 @@
             "parentCode": "T361",
             "lat": 22.155425,
             "lng": 113.552464,
-            "seq": 20
+            "seq": 21
           },
           {
             "code": "T325_2",
@@ -21100,7 +21441,7 @@
             "parentCode": "T325",
             "lat": 22.155665,
             "lng": 113.554782,
-            "seq": 21
+            "seq": 22
           },
           {
             "code": "T339_2",
@@ -21109,7 +21450,7 @@
             "parentCode": "T339",
             "lat": 22.156135,
             "lng": 113.557226,
-            "seq": 22
+            "seq": 23
           },
           {
             "code": "T311_1",
@@ -21118,7 +21459,7 @@
             "parentCode": "T311",
             "lat": 22.157876,
             "lng": 113.559238,
-            "seq": 23
+            "seq": 24
           },
           {
             "code": "T308_1",
@@ -21127,7 +21468,7 @@
             "parentCode": "T308",
             "lat": 22.160619,
             "lng": 113.55664,
-            "seq": 24
+            "seq": 25
           },
           {
             "code": "T300_1",
@@ -21136,7 +21477,7 @@
             "parentCode": "T300",
             "lat": 22.16266,
             "lng": 113.552686,
-            "seq": 25
+            "seq": 26
           },
           {
             "code": "T330_1",
@@ -21145,16 +21486,16 @@
             "parentCode": "T330",
             "lat": 22.1639,
             "lng": 113.549802,
-            "seq": 26
+            "seq": 27
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
-            "seq": 27
+            "lat": 22.188935,
+            "lng": 113.543132,
+            "seq": 28
           },
           {
             "code": "M159_1",
@@ -21163,7 +21504,7 @@
             "parentCode": "M159",
             "lat": 22.190085,
             "lng": 113.546917,
-            "seq": 28
+            "seq": 29
           },
           {
             "code": "M262_1",
@@ -21172,7 +21513,7 @@
             "parentCode": "M262",
             "lat": 22.187424,
             "lng": 113.548638,
-            "seq": 29
+            "seq": 30
           }
         ]
       }
@@ -21207,12 +21548,12 @@
             "seq": 1
           },
           {
-            "code": "M172_10",
+            "code": "M172_12",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189314,
-            "lng": 113.54305,
+            "lat": 22.189357,
+            "lng": 113.543053,
             "seq": 2
           },
           {
@@ -21315,12 +21656,12 @@
             "seq": 13
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 14
           },
           {
@@ -21894,8 +22235,8 @@
             "nameCht": "蓮花路/蓮花圓形地-1",
             "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
             "parentCode": "T385",
-            "lat": 22.138477,
-            "lng": 113.564742,
+            "lat": 22.138407,
+            "lng": 113.567722,
             "seq": 9
           },
           {
@@ -22183,12 +22524,12 @@
             "seq": 8
           },
           {
-            "code": "M172_11",
+            "code": "M172_16",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.188908,
-            "lng": 113.543094,
+            "lat": 22.188935,
+            "lng": 113.543132,
             "seq": 9
           },
           {
@@ -22228,12 +22569,12 @@
             "seq": 13
           },
           {
-            "code": "M172_7",
+            "code": "M172_10",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189219,
-            "lng": 113.543198,
+            "lat": 22.189194,
+            "lng": 113.543236,
             "seq": 14
           },
           {
@@ -22440,12 +22781,12 @@
             "seq": 14
           },
           {
-            "code": "M172_2",
+            "code": "M172_3",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189284,
-            "lng": 113.543612,
+            "lat": 22.189476,
+            "lng": 113.543557,
             "seq": 15
           },
           {
@@ -22580,12 +22921,12 @@
             "seq": 3
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 4
           },
           {
@@ -22643,12 +22984,12 @@
             "seq": 10
           },
           {
-            "code": "M172_4",
+            "code": "M172_5",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.1894,
-            "lng": 113.543391,
+            "lat": 22.189353,
+            "lng": 113.543401,
             "seq": 11
           },
           {
@@ -22792,12 +23133,12 @@
             "seq": 3
           },
           {
-            "code": "TEMP_10_1",
-            "nameCht": "提督馬路/雅廉訪臨時站",
-            "namePor": "PARAGEM PROVISÓRIA AV. ALM. LACERDA / OUVIDOR ARRIAGA",
-            "parentCode": "TEMP_10",
-            "lat": 22.206811,
-            "lng": 113.545566,
+            "code": "M16_1",
+            "nameCht": "提督馬路/雅廉訪",
+            "namePor": "AV. ALM. LACERDA / OUVIDOR ARRIAGA",
+            "parentCode": "M16",
+            "lat": 22.206635,
+            "lng": 113.545461,
             "seq": 4
           },
           {
@@ -22873,12 +23214,12 @@
             "seq": 12
           },
           {
-            "code": "M172_8",
+            "code": "M172_11",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189333,
-            "lng": 113.543171,
+            "lat": 22.189142,
+            "lng": 113.543325,
             "seq": 13
           },
           {
@@ -23172,8 +23513,8 @@
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189284,
-            "lng": 113.543612,
+            "lat": 22.189366,
+            "lng": 113.543589,
             "seq": 17
           },
           {
@@ -23281,12 +23622,12 @@
         "namePor": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
         "stops": [
           {
-            "code": "M172_6",
+            "code": "M172_8",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189253,
-            "lng": 113.543362,
+            "lat": 22.189434,
+            "lng": 113.543318,
             "seq": 1
           },
           {
@@ -23686,12 +24027,12 @@
             "seq": 45
           },
           {
-            "code": "M172_6",
+            "code": "M172_8",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189253,
-            "lng": 113.543362,
+            "lat": 22.189434,
+            "lng": 113.543318,
             "seq": 46
           }
         ]
@@ -23802,12 +24143,12 @@
         "namePor": "PRAÇA FERREIRA AMARAL ↻ AV. VALE DAS BORBOLETAS",
         "stops": [
           {
-            "code": "M172_5",
+            "code": "M172_8",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189391,
-            "lng": 113.54333,
+            "lat": 22.189434,
+            "lng": 113.543318,
             "seq": 1
           },
           {
@@ -23968,8 +24309,8 @@
             "nameCht": "蓮花路/蓮花圓形地-1",
             "namePor": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
             "parentCode": "T385",
-            "lat": 22.138477,
-            "lng": 113.564742,
+            "lat": 22.138407,
+            "lng": 113.567722,
             "seq": 19
           },
           {
@@ -24126,12 +24467,12 @@
             "seq": 36
           },
           {
-            "code": "M172_5",
+            "code": "M172_8",
             "nameCht": "亞馬喇前地",
             "namePor": "PRAÇA FERREIRA AMARAL",
             "parentCode": "M172",
-            "lat": 22.189391,
-            "lng": 113.54333,
+            "lat": 22.189434,
+            "lng": 113.543318,
             "seq": 37
           }
         ]
@@ -24349,10 +24690,10 @@
           {
             "code": "T420_1",
             "nameCht": "蓮花海濱大馬路/銀河-1",
-            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+            "namePor": "AV. M. FLOR DE LÓTUS / GALAXY - 1",
             "parentCode": "T420",
-            "lat": 22.150965,
-            "lng": 113.550968,
+            "lat": 22.149603,
+            "lng": 113.551383,
             "seq": 22
           },
           {
