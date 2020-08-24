@@ -1032,20 +1032,20 @@
     "lng": 113.54682
   },
   {
-    "code": "M108_2",
+    "code": "M108_1",
     "nameCht": "筷子基社屋",
     "namePor": "HABITAÇÃO SOCIAL DO FAI CHI KEI",
     "parentCode": "M108",
-    "lat": 22.207364,
-    "lng": 113.540509
+    "lat": 22.207446,
+    "lng": 113.540814
   },
   {
     "code": "M108_3",
     "nameCht": "筷子基社屋",
     "namePor": "HABITAÇÃO SOCIAL DO FAI CHI KEI",
     "parentCode": "M108",
-    "lat": 22.207461,
-    "lng": 113.540869
+    "lat": 22.207619,
+    "lng": 113.541456
   },
   {
     "code": "M109_1",
@@ -1670,14 +1670,6 @@
     "parentCode": "M172",
     "lat": 22.189476,
     "lng": 113.543557
-  },
-  {
-    "code": "M172_4",
-    "nameCht": "亞馬喇前地",
-    "namePor": "PRAÇA FERREIRA AMARAL",
-    "parentCode": "M172",
-    "lat": 22.1894,
-    "lng": 113.543391
   },
   {
     "code": "M172_4",
@@ -3265,11 +3257,11 @@
   },
   {
     "code": "T355_1",
-    "nameCht": "路氹邊檢大樓-1",
-    "namePor": "POSTO FRONTEIRIÇO DE COTAI-1",
+    "nameCht": "蓮花路停車場",
+    "namePor": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS",
     "parentCode": "T355",
-    "lat": 22.138927,
-    "lng": 113.559728
+    "lat": 22.13892,
+    "lng": 113.560475
   },
   {
     "code": "T356_1",
@@ -3297,11 +3289,27 @@
   },
   {
     "code": "T357_1",
-    "nameCht": "路氹邊檢大樓-2",
-    "namePor": "POSTO FRONTEIRIÇO DE COTAI-2",
+    "nameCht": "蓮花大橋",
+    "namePor": "PONTE FLOR DE LÓTUS",
     "parentCode": "T357",
-    "lat": 22.138979,
-    "lng": 113.55962
+    "lat": 22.139301,
+    "lng": 113.561416
+  },
+  {
+    "code": "T357_2",
+    "nameCht": "蓮花大橋",
+    "namePor": "PONTE FLOR DE LÓTUS",
+    "parentCode": "T357",
+    "lat": 22.139275,
+    "lng": 113.561743
+  },
+  {
+    "code": "T357_3",
+    "nameCht": "蓮花大橋",
+    "namePor": "PONTE FLOR DE LÓTUS",
+    "parentCode": "T357",
+    "lat": 22.139238,
+    "lng": 113.562224
   },
   {
     "code": "T358_1",
@@ -3401,11 +3409,11 @@
   },
   {
     "code": "T372_1",
-    "nameCht": "路氹邊檢/新濠影匯",
-    "namePor": "POSTO FRONTEIRIÇO DE COTAI / STUDIO CITY",
+    "nameCht": "蓮花路/新濠影匯",
+    "namePor": "EST. F. DE LÓTUS / STUDIO CITY",
     "parentCode": "T372",
-    "lat": 22.139752,
-    "lng": 113.559952
+    "lat": 22.139735,
+    "lng": 113.559969
   },
   {
     "code": "T373_1",
@@ -3800,6 +3808,22 @@
     "lng": 113.552382
   },
   {
+    "code": "T426_1",
+    "nameCht": "澳大河隧/高爾夫俱樂部",
+    "namePor": "TÚNEL S. DA UM / CLUBE DE GOLFE",
+    "parentCode": "T426",
+    "lat": 22.134897,
+    "lng": 113.552531
+  },
+  {
+    "code": "T427_1",
+    "nameCht": "澳大河隧/西堤馬路",
+    "namePor": "TÚNEL S. DA UM / EST. DO DIQUE OESTE",
+    "parentCode": "T427",
+    "lat": 22.133949,
+    "lng": 113.552334
+  },
+  {
     "code": "T428_1",
     "nameCht": "聚龍明珠/榮苑",
     "namePor": "TJOI LONG SEA VIEW / BLOCO 1",
@@ -3950,6 +3974,30 @@
     "parentCode": "T559",
     "lat": 22.124183,
     "lng": 113.546231
+  },
+  {
+    "code": "T560_1",
+    "nameCht": "橫琴澳方口岸",
+    "namePor": "POSTO FRONTEIRIÇO MACAU - HENGQIN",
+    "parentCode": "T560",
+    "lat": 22.140789,
+    "lng": 113.546225
+  },
+  {
+    "code": "T560_2",
+    "nameCht": "橫琴澳方口岸",
+    "namePor": "POSTO FRONTEIRIÇO MACAU - HENGQIN",
+    "parentCode": "T560",
+    "lat": 22.140569,
+    "lng": 113.546232
+  },
+  {
+    "code": "T560_3",
+    "nameCht": "橫琴澳方口岸",
+    "namePor": "POSTO FRONTEIRIÇO MACAU - HENGQIN",
+    "parentCode": "T560",
+    "lat": 22.140545,
+    "lng": 113.545738
   },
   {
     "code": "C650_1",
@@ -4374,22 +4422,6 @@
     "parentCode": "C696",
     "lat": 22.13388,
     "lng": 113.578489
-  },
-  {
-    "code": "C697_1",
-    "nameCht": "九澳高頂燒烤公園",
-    "namePor": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
-    "parentCode": "C697",
-    "lat": 22.129429,
-    "lng": 113.575189
-  },
-  {
-    "code": "C698_1",
-    "nameCht": "九澳高頂馬路",
-    "namePor": "EST. DO ALTINHO DE KÁ-HÓ",
-    "parentCode": "C698",
-    "lat": 22.129411,
-    "lng": 113.575321
   },
   {
     "code": "C699_1",
