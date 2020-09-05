@@ -6116,6 +6116,137 @@
         "website": "http://www.tcm.com.mo/"
       }
     ],
+    "code": "10X",
+    "nameCht": "祐漢第一街 ⇀ 亞馬喇前地",
+    "namePor": "RUA 1 IAO HON ⇀ PRAÇA FERRIRA AMARAL",
+    "directions": [
+      {
+        "code": "10X",
+        "nameCht": "祐漢第一街 ⇀ 亞馬喇前地",
+        "namePor": "RUA 1 IAO HON ⇀ PRAÇA FERRIRA AMARAL",
+        "stops": [
+          {
+            "code": "M281_1",
+            "nameCht": "祐漢第一街",
+            "namePor": "RUA 1 IAO HON",
+            "parentCode": "M281",
+            "lat": 22.212101,
+            "lng": 113.549663,
+            "seq": 1
+          },
+          {
+            "code": "M29_1",
+            "nameCht": "慕拉士馬路",
+            "namePor": "AV. VENCESLAU DE MORAIS",
+            "parentCode": "M29",
+            "lat": 22.208519,
+            "lng": 113.550256,
+            "seq": 2
+          },
+          {
+            "code": "M36_2",
+            "nameCht": "慕拉士巷",
+            "namePor": "TRAV. VENC. MORAIS",
+            "parentCode": "M36",
+            "lat": 22.206551,
+            "lng": 113.55272,
+            "seq": 3
+          },
+          {
+            "code": "M48_1",
+            "nameCht": "慕拉士/飛通大廈",
+            "namePor": "VENCESLAU MORAIS / EDF.AIRWAY",
+            "parentCode": "M48",
+            "lat": 22.205172,
+            "lng": 113.554391,
+            "seq": 4
+          },
+          {
+            "code": "M52_1",
+            "nameCht": "漁翁街/勞工事務局",
+            "namePor": "RUA DOS PESCADORES / DSAL",
+            "parentCode": "M52",
+            "lat": 22.204754,
+            "lng": 113.559992,
+            "seq": 5
+          },
+          {
+            "code": "M239_2",
+            "nameCht": "外港碼頭",
+            "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+            "parentCode": "M239",
+            "lat": 22.197547,
+            "lng": 113.557349,
+            "seq": 6
+          },
+          {
+            "code": "M254_2",
+            "nameCht": "友誼馬路/行車天橋",
+            "namePor": "AV. AMIZADE / VIADUTO",
+            "parentCode": "M254",
+            "lat": 22.194779,
+            "lng": 113.554791,
+            "seq": 7
+          },
+          {
+            "code": "M241_1",
+            "nameCht": "金蓮花廣場",
+            "namePor": "A PRAÇA FLOR DE LÓTUS",
+            "parentCode": "M241",
+            "lat": 22.194511,
+            "lng": 113.552933,
+            "seq": 8
+          },
+          {
+            "code": "M71_1",
+            "nameCht": "廈門街 / 理工",
+            "namePor": "RUA DE XIAMEN / I.P.M.",
+            "parentCode": "M71",
+            "lat": 22.19312,
+            "lng": 113.551529,
+            "seq": 9
+          },
+          {
+            "code": "M155_1",
+            "nameCht": "東方拱門",
+            "namePor": "ARCO ORIENTE",
+            "parentCode": "M155",
+            "lat": 22.193858,
+            "lng": 113.549843,
+            "seq": 10
+          },
+          {
+            "code": "M157_2",
+            "nameCht": "治安警察局",
+            "namePor": "C. P. S. P.",
+            "parentCode": "M157",
+            "lat": 22.191864,
+            "lng": 113.546614,
+            "seq": 11
+          },
+          {
+            "code": "M172_9",
+            "nameCht": "亞馬喇前地",
+            "namePor": "PRAÇA FERREIRA AMARAL",
+            "parentCode": "M172",
+            "lat": 22.189399,
+            "lng": 113.543166,
+            "seq": 12
+          }
+        ]
+      }
+    ],
+    "type": "1-way"
+  },
+  {
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "11",
     "nameCht": "媽閣 ↻ 氹仔",
     "namePor": "BARRA ↻ TAIPA",
