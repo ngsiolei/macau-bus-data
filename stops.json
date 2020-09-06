@@ -3584,6 +3584,14 @@
     "lng": 113.568818
   },
   {
+    "code": "T401_1",
+    "nameCht": "雞勁馬路/孝思-1",
+    "namePor": "EST. DA PONTA DA CABRITA / HAU SI-1",
+    "parentCode": "T401",
+    "lat": 22.161734,
+    "lng": 113.565914
+  },
+  {
     "code": "T402_1",
     "nameCht": "泉澧花園",
     "namePor": "CHUN LAI GARDEN",
@@ -3689,11 +3697,11 @@
   },
   {
     "code": "T410_1",
-    "nameCht": "雞頸馬路/孝思",
-    "namePor": "ESTRADA DA PONTA DA CABRITA / HAU SI",
+    "nameCht": "雞頸馬路/孝思-2",
+    "namePor": "EST. DA PONTA DA CABRITA / HAU SI-2",
     "parentCode": "T410",
-    "lat": 22.160582,
-    "lng": 113.568737
+    "lat": 22.160584,
+    "lng": 113.568715
   },
   {
     "code": "T411_1",
@@ -3745,19 +3753,19 @@
   },
   {
     "code": "T418_1",
-    "nameCht": "輕軌車廠-1",
-    "namePor": "PARQUE DE MATERIAIS E OFICINA DO METRO LIGEIRO-1",
+    "nameCht": "機場大馬路/輕軌車廠",
+    "namePor": "AV. DO AEROPORTO / OFICINA DO METRO LIGEIRO",
     "parentCode": "T418",
-    "lat": 22.146696,
-    "lng": 113.574654
+    "lat": 22.148933,
+    "lng": 113.573188
   },
   {
     "code": "T419_1",
-    "nameCht": "輕軌車廠-2",
-    "namePor": "PARQUE DE MATERIAIS E OFICINA DO METRO LIGEIRO-2",
+    "nameCht": "機場大馬路/永利皇宮",
+    "namePor": "AV. DO AEROPORTO / WYNN PALACE",
     "parentCode": "T419",
-    "lat": 22.14649,
-    "lng": 113.574551
+    "lat": 22.150038,
+    "lng": 113.572234
   },
   {
     "code": "T420_1",
@@ -3862,6 +3870,22 @@
     "parentCode": "T432",
     "lat": 22.16379,
     "lng": 113.560896
+  },
+  {
+    "code": "T433_1",
+    "nameCht": "機場大馬路/航空圓形地",
+    "namePor": "AV. DO AEROPORTO / ROTUNDA DA AERONÁUTICA",
+    "parentCode": "T433",
+    "lat": 22.146682,
+    "lng": 113.574664
+  },
+  {
+    "code": "T434_1",
+    "nameCht": "機場大馬路/上葡京",
+    "namePor": "AV. DO AEROPORTO / GRAND LISBOA PALACE",
+    "parentCode": "T434",
+    "lat": 22.146476,
+    "lng": 113.574561
   },
   {
     "code": "T440_1",

@@ -17398,13 +17398,22 @@
             "seq": 5
           },
           {
-            "code": "T410_1",
-            "nameCht": "雞頸馬路/孝思",
-            "namePor": "ESTRADA DA PONTA DA CABRITA / HAU SI",
-            "parentCode": "T410",
-            "lat": 22.160582,
-            "lng": 113.568737,
+            "code": "T401_1",
+            "nameCht": "雞勁馬路/孝思-1",
+            "namePor": "EST. DA PONTA DA CABRITA / HAU SI-1",
+            "parentCode": "T401",
+            "lat": 22.161734,
+            "lng": 113.565914,
             "seq": 6
+          },
+          {
+            "code": "T410_1",
+            "nameCht": "雞頸馬路/孝思-2",
+            "namePor": "EST. DA PONTA DA CABRITA / HAU SI-2",
+            "parentCode": "T410",
+            "lat": 22.160584,
+            "lng": 113.568715,
+            "seq": 7
           },
           {
             "code": "T411_1",
@@ -17413,7 +17422,7 @@
             "parentCode": "T411",
             "lat": 22.159,
             "lng": 113.573716,
-            "seq": 7
+            "seq": 8
           },
           {
             "code": "T406_1",
@@ -17422,7 +17431,7 @@
             "parentCode": "T406",
             "lat": 22.154949,
             "lng": 113.567858,
-            "seq": 8
+            "seq": 9
           },
           {
             "code": "T322_1",
@@ -17431,7 +17440,7 @@
             "parentCode": "T322",
             "lat": 22.16225,
             "lng": 113.56951,
-            "seq": 9
+            "seq": 10
           },
           {
             "code": "T342_1",
@@ -17440,7 +17449,7 @@
             "parentCode": "T342",
             "lat": 22.162291,
             "lng": 113.561688,
-            "seq": 10
+            "seq": 11
           },
           {
             "code": "T341_1",
@@ -17449,7 +17458,7 @@
             "parentCode": "T341",
             "lat": 22.161427,
             "lng": 113.560108,
-            "seq": 11
+            "seq": 12
           },
           {
             "code": "T303_1",
@@ -17458,7 +17467,7 @@
             "parentCode": "T303",
             "lat": 22.163491,
             "lng": 113.559343,
-            "seq": 12
+            "seq": 13
           },
           {
             "code": "T305_1",
@@ -17467,7 +17476,7 @@
             "parentCode": "T305",
             "lat": 22.16385,
             "lng": 113.556383,
-            "seq": 13
+            "seq": 14
           },
           {
             "code": "T307_1",
@@ -17476,7 +17485,7 @@
             "parentCode": "T307",
             "lat": 22.16258,
             "lng": 113.555013,
-            "seq": 14
+            "seq": 15
           },
           {
             "code": "T352_1",
@@ -17485,7 +17494,7 @@
             "parentCode": "T352",
             "lat": 22.159539,
             "lng": 113.552623,
-            "seq": 15
+            "seq": 16
           },
           {
             "code": "T332_2",
@@ -17494,7 +17503,7 @@
             "parentCode": "T332",
             "lat": 22.157418,
             "lng": 113.549955,
-            "seq": 16
+            "seq": 17
           },
           {
             "code": "T325_3",
@@ -17503,7 +17512,7 @@
             "parentCode": "T325",
             "lat": 22.155539,
             "lng": 113.555067,
-            "seq": 17
+            "seq": 18
           },
           {
             "code": "T339_4",
@@ -17512,7 +17521,7 @@
             "parentCode": "T339",
             "lat": 22.156278,
             "lng": 113.557475,
-            "seq": 18
+            "seq": 19
           },
           {
             "code": "T368_1",
@@ -17521,7 +17530,7 @@
             "parentCode": "T368",
             "lat": 22.156537,
             "lng": 113.558845,
-            "seq": 19
+            "seq": 20
           },
           {
             "code": "T440_1",
@@ -17530,7 +17539,7 @@
             "parentCode": "T440",
             "lat": 22.154414,
             "lng": 113.557405,
-            "seq": 20
+            "seq": 21
           }
         ]
       }
@@ -18309,13 +18318,22 @@
             "seq": 3
           },
           {
-            "code": "T419_1",
-            "nameCht": "輕軌車廠-2",
-            "namePor": "PARQUE DE MATERIAIS E OFICINA DO METRO LIGEIRO-2",
-            "parentCode": "T419",
-            "lat": 22.14649,
-            "lng": 113.574551,
+            "code": "T434_1",
+            "nameCht": "機場大馬路/上葡京",
+            "namePor": "AV. DO AEROPORTO / GRAND LISBOA PALACE",
+            "parentCode": "T434",
+            "lat": 22.146476,
+            "lng": 113.574561,
             "seq": 4
+          },
+          {
+            "code": "T419_1",
+            "nameCht": "機場大馬路/永利皇宮",
+            "namePor": "AV. DO AEROPORTO / WYNN PALACE",
+            "parentCode": "T419",
+            "lat": 22.150038,
+            "lng": 113.572234,
+            "seq": 5
           },
           {
             "code": "T429_1",
@@ -18324,7 +18342,7 @@
             "parentCode": "T429",
             "lat": 22.153213,
             "lng": 113.570171,
-            "seq": 5
+            "seq": 6
           },
           {
             "code": "T317_1",
@@ -18333,7 +18351,7 @@
             "parentCode": "T317",
             "lat": 22.163378,
             "lng": 113.57106,
-            "seq": 6
+            "seq": 7
           },
           {
             "code": "M247_1",
@@ -18342,7 +18360,7 @@
             "parentCode": "M247",
             "lat": 22.213373,
             "lng": 113.555824,
-            "seq": 7
+            "seq": 8
           },
           {
             "code": "M9_1",
@@ -18351,7 +18369,7 @@
             "parentCode": "M9",
             "lat": 22.214866,
             "lng": 113.549449,
-            "seq": 8
+            "seq": 9
           },
           {
             "code": "T316_1",
@@ -18360,7 +18378,7 @@
             "parentCode": "T316",
             "lat": 22.164759,
             "lng": 113.566684,
-            "seq": 9
+            "seq": 10
           },
           {
             "code": "T417_1",
@@ -18369,16 +18387,25 @@
             "parentCode": "T417",
             "lat": 22.153166,
             "lng": 113.57041,
-            "seq": 10
+            "seq": 11
           },
           {
             "code": "T418_1",
-            "nameCht": "輕軌車廠-1",
-            "namePor": "PARQUE DE MATERIAIS E OFICINA DO METRO LIGEIRO-1",
+            "nameCht": "機場大馬路/輕軌車廠",
+            "namePor": "AV. DO AEROPORTO / OFICINA DO METRO LIGEIRO",
             "parentCode": "T418",
-            "lat": 22.146696,
-            "lng": 113.574654,
-            "seq": 11
+            "lat": 22.148933,
+            "lng": 113.573188,
+            "seq": 12
+          },
+          {
+            "code": "T433_1",
+            "nameCht": "機場大馬路/航空圓形地",
+            "namePor": "AV. DO AEROPORTO / ROTUNDA DA AERONÁUTICA",
+            "parentCode": "T433",
+            "lat": 22.146682,
+            "lng": 113.574664,
+            "seq": 13
           },
           {
             "code": "T348_1",
@@ -18387,7 +18414,7 @@
             "parentCode": "T348",
             "lat": 22.139605,
             "lng": 113.576523,
-            "seq": 12
+            "seq": 14
           },
           {
             "code": "C688_2",
@@ -18396,7 +18423,7 @@
             "parentCode": "C688",
             "lat": 22.129626,
             "lng": 113.563061,
-            "seq": 13
+            "seq": 15
           },
           {
             "code": "C690_3",
@@ -18405,7 +18432,7 @@
             "parentCode": "C690",
             "lat": 22.128765,
             "lng": 113.562497,
-            "seq": 14
+            "seq": 16
           }
         ]
       }
