@@ -360,6 +360,14 @@
     "lng": 113.543569
   },
   {
+    "code": "M21_2",
+    "nameCht": "青洲/嘉應花園",
+    "namePor": "CONS. BORJA / KA IENG",
+    "parentCode": "M21",
+    "lat": 22.210691,
+    "lng": 113.543528
+  },
+  {
     "code": "M22_1",
     "nameCht": "青洲/聖德蘭學校",
     "namePor": "CONS. BORJA / ESCOLA S. TERESA",
@@ -1134,6 +1142,14 @@
     "parentCode": "M119",
     "lat": 22.201657,
     "lng": 113.543029
+  },
+  {
+    "code": "M120_2",
+    "nameCht": "筷子基街/廣大中學",
+    "namePor": "RUA DE FÁI CHI KEI / ESCOLA KWONG TAI",
+    "parentCode": "M120",
+    "lat": 22.205932,
+    "lng": 113.539044
   },
   {
     "code": "M121_1",
@@ -4294,6 +4310,14 @@
     "parentCode": "C683",
     "lat": 22.131694,
     "lng": 113.558077
+  },
+  {
+    "code": "C684_1",
+    "nameCht": "聯生工業邨",
+    "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA",
+    "parentCode": "C684",
+    "lat": 22.126408,
+    "lng": 113.557275
   },
   {
     "code": "C685_1",
