@@ -1,4 +1,4 @@
-5X,0,07:00,09:30,10-12,weekdays
-5X,0,17:00,19:30,10-12,weekdays
+5X,0,07:00,09:30,5-10,weekdays
+5X,0,17:00,19:30,5-10,weekdays
 5X,0,,,,weekends
 5X,0,,,,holidays

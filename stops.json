@@ -2976,6 +2976,14 @@
     "lng": 113.546209
   },
   {
+    "code": "T326_6",
+    "nameCht": "柯維納馬路",
+    "namePor": "ESTRADA GOV. A. OLIVEIRA",
+    "parentCode": "T326",
+    "lat": 22.157122,
+    "lng": 113.546412
+  },
+  {
     "code": "T327_1",
     "nameCht": "賽馬會",
     "namePor": "JOCKEY CLUB",
@@ -4472,20 +4480,20 @@
     "lng": 113.578489
   },
   {
-    "code": "C699_1",
-    "nameCht": "九澳康復醫院",
-    "namePor": "HOSPITAL DE REABILITAÇÃO KÁ-HÓ",
-    "parentCode": "C699",
-    "lat": 22.131077,
-    "lng": 113.588886
-  },
-  {
     "code": "C700_1",
     "nameCht": "仁德大馬路/護理學院",
     "namePor": "AV. DA BENEVOLÊNCIA / INSTITUTO DE ENFERMAGEM",
     "parentCode": "C700",
     "lat": 22.13712,
     "lng": 113.568701
+  },
+  {
+    "code": "M800_7",
+    "nameCht": "港珠澳大橋邊檢大樓",
+    "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
+    "parentCode": "M800",
+    "lat": 22.201473,
+    "lng": 113.574388
   },
   {
     "code": "M800_8",
