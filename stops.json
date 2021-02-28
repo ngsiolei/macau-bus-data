@@ -156,24 +156,24 @@
     "nameCht": "關閘馬路",
     "namePor": "ISTMO F.AMARAL",
     "parentCode": "M7",
-    "lat": 22.212609,
-    "lng": 113.548614
+    "lat": 22.212787,
+    "lng": 113.54864
   },
   {
     "code": "M7_2",
     "nameCht": "關閘馬路",
     "namePor": "ISTMO F.AMARAL",
     "parentCode": "M7",
-    "lat": 22.212253,
-    "lng": 113.548562
+    "lat": 22.212566,
+    "lng": 113.548608
   },
   {
     "code": "M7_3",
     "nameCht": "關閘馬路",
     "namePor": "ISTMO F.AMARAL",
     "parentCode": "M7",
-    "lat": 22.212013,
-    "lng": 113.548523
+    "lat": 22.21231,
+    "lng": 113.54857
   },
   {
     "code": "M8_1",
@@ -1160,14 +1160,6 @@
     "lng": 113.542395
   },
   {
-    "code": "M122_1",
-    "nameCht": "新勝街",
-    "namePor": "R. TOMÁS VIEIRA",
-    "parentCode": "M122",
-    "lat": 22.198511,
-    "lng": 113.542296
-  },
-  {
     "code": "M123_1",
     "nameCht": "東南小學",
     "namePor": "ALM.COSTA CABRAL / ESC. TONG NAM",
@@ -1846,6 +1838,14 @@
     "parentCode": "M177",
     "lat": 22.180376,
     "lng": 113.537724
+  },
+  {
+    "code": "M178_1",
+    "nameCht": "立法會前地",
+    "namePor": "PRAÇA DA ASSEMBLEIA LEGISLATIVA",
+    "parentCode": "M178",
+    "lat": 22.182975,
+    "lng": 113.539296
   },
   {
     "code": "M179_1",
@@ -3473,11 +3473,11 @@
   },
   {
     "code": "T379_1",
-    "nameCht": "連貫公路/金沙城中心",
-    "namePor": "EST.DO ISTMO / SANDS COTAI CENTRAL",
+    "nameCht": "連貫公路/倫敦人",
+    "namePor": "EST.DO ISTMO / LONDONER",
     "parentCode": "T379",
-    "lat": 22.14382,
-    "lng": 113.563717
+    "lat": 22.143799,
+    "lng": 113.563716
   },
   {
     "code": "T385_1",
@@ -4480,11 +4480,11 @@
     "lng": 113.574241
   },
   {
-    "code": "TEMP_12_1",
-    "nameCht": "立法會前地臨時站",
-    "namePor": "PARAGEM PROVISÓRIA DO PRAÇA DA ASSEMBLEIA LEGISLATIVA",
-    "parentCode": "TEMP_12",
-    "lat": 22.183713,
-    "lng": 113.538151
+    "code": "TEMP_14_1",
+    "nameCht": "臨時站",
+    "namePor": "PARAGEM PROVISÓRIA",
+    "parentCode": "TEMP_14",
+    "lat": 22.198063,
+    "lng": 113.542702
   }
 ]
