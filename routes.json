@@ -1972,6 +1972,47 @@
         "website": "http://www.tcm.com.mo/"
       }
     ],
+    "code": "3BX",
+    "nameCht": "亞馬喇前地 ⇀ 關閘廣場",
+    "namePor": "PRAÇA DAS PORTAS DO CERCO ⇀ PRAÇA FERREIRA AMARAL",
+    "directions": [
+      {
+        "code": "3BX",
+        "nameCht": "亞馬喇前地 ⇀ 關閘廣場",
+        "namePor": "PRAÇA DAS PORTAS DO CERCO ⇀ PRAÇA FERREIRA AMARAL",
+        "stops": [
+          {
+            "code": "M172_6",
+            "nameCht": "亞馬喇前地",
+            "namePor": "PRAÇA FERREIRA AMARAL",
+            "parentCode": "M172",
+            "lat": 22.189233,
+            "lng": 113.543428,
+            "seq": 1
+          },
+          {
+            "code": "M9_1",
+            "nameCht": "關閘廣場",
+            "namePor": "PRAÇA DAS PORTAS DO CERCO",
+            "parentCode": "M9",
+            "lat": 22.214866,
+            "lng": 113.549449,
+            "seq": 2
+          }
+        ]
+      }
+    ],
+    "type": "1-way"
+  },
+  {
+    "agencies": [
+      {
+        "nameCht": "澳巴",
+        "namePor": "TCM",
+        "phone": "28850060",
+        "website": "http://www.tcm.com.mo/"
+      }
+    ],
     "code": "3X",
     "nameCht": "關閘 ↻ 亞馬喇前地",
     "namePor": "PORTAS DO CERCO ↻ PRAÇA FERRIRA AMARAL",
