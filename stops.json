@@ -145,11 +145,11 @@
   },
   {
     "code": "M6_1",
-    "nameCht": "鴨涌河變電站",
-    "namePor": "SUBESTAÇÃO CANAL DOS PATOS",
+    "nameCht": "青茂/鴨涌河變電站",
+    "namePor": "QINGMAO / SUBESTAÇÃO CANAL DOS PATOS",
     "parentCode": "M6",
-    "lat": 22.212603,
-    "lng": 113.540478
+    "lat": 22.212608,
+    "lng": 113.540464
   },
   {
     "code": "M7_1",
@@ -200,14 +200,6 @@
     "lng": 113.549449
   },
   {
-    "code": "M9_2",
-    "nameCht": "關閘廣場",
-    "namePor": "PRAÇA DAS PORTAS DO CERCO",
-    "parentCode": "M9",
-    "lat": 22.216083,
-    "lng": 113.549919
-  },
-  {
     "code": "M10_1",
     "nameCht": "台山街市",
     "namePor": "MERCADO TAMAG. BARBOSA",
@@ -238,6 +230,14 @@
     "parentCode": "M12",
     "lat": 22.210377,
     "lng": 113.546205
+  },
+  {
+    "code": "M13_1",
+    "nameCht": "李寶椿街",
+    "namePor": "RUA LEI POU CHON",
+    "parentCode": "M13",
+    "lat": 22.212209,
+    "lng": 113.54595
   },
   {
     "code": "M13_2",
@@ -472,12 +472,44 @@
     "lng": 113.545025
   },
   {
+    "code": "M32_2",
+    "nameCht": "望廈總站",
+    "namePor": "MONG HÁ / TERMINAL",
+    "parentCode": "M32",
+    "lat": 22.206958,
+    "lng": 113.551317
+  },
+  {
+    "code": "M32_4",
+    "nameCht": "望廈總站",
+    "namePor": "MONG HÁ / TERMINAL",
+    "parentCode": "M32",
+    "lat": 22.206889,
+    "lng": 113.551269
+  },
+  {
+    "code": "M33_1",
+    "nameCht": "俾利喇/望德樓",
+    "namePor": "XAVIER PEREIRA / EDF. MONG TAK",
+    "parentCode": "M33",
+    "lat": 22.207392,
+    "lng": 113.550903
+  },
+  {
     "code": "M35_1",
-    "nameCht": "慕拉士馬路/望廈",
-    "namePor": "VENC. MORAIS / MONG-HÁ",
+    "nameCht": "慕拉士馬路/望善樓",
+    "namePor": "VENC. MORAIS / EDF. MONG SIN",
     "parentCode": "M35",
-    "lat": 22.206843,
-    "lng": 113.552252
+    "lat": 22.206661,
+    "lng": 113.552476
+  },
+  {
+    "code": "M35_2",
+    "nameCht": "慕拉士馬路/望善樓",
+    "namePor": "VENC. MORAIS / EDF. MONG SIN",
+    "parentCode": "M35",
+    "lat": 22.206831,
+    "lng": 113.552267
   },
   {
     "code": "M36_1",
@@ -625,11 +657,11 @@
   },
   {
     "code": "M60_1",
-    "nameCht": "何賢紳士馬路/青葱",
-    "namePor": "AVENIDA DO COMENDADOR HO YIN / CHENG CHONG",
+    "nameCht": "青茂/何賢紳士馬路",
+    "namePor": "QINGMAO / AV. DO COMENDADOR HO YIN",
     "parentCode": "M60",
-    "lat": 22.212067,
-    "lng": 113.541862
+    "lat": 22.211438,
+    "lng": 113.5415
   },
   {
     "code": "M61_1",
@@ -689,11 +721,11 @@
   },
   {
     "code": "M65_1",
-    "nameCht": "何賢紳士馬路/青洲坊",
-    "namePor": "AVENIDA DO COMENDADOR HO YIN / BAIRRO DA ILHA VERDE",
+    "nameCht": "青茂/青洲坊",
+    "namePor": "QINGMAO / BAIRRO DA ILHA VERDE",
     "parentCode": "M65",
-    "lat": 22.211745,
-    "lng": 113.541911
+    "lat": 22.211733,
+    "lng": 113.541904
   },
   {
     "code": "M66_1",
@@ -702,6 +734,14 @@
     "parentCode": "M66",
     "lat": 22.199732,
     "lng": 113.554654
+  },
+  {
+    "code": "M67_1",
+    "nameCht": "青茂口岸",
+    "namePor": "POSTO FRONTEIRIÇO QINGMAO",
+    "parentCode": "M67",
+    "lat": 22.21326,
+    "lng": 113.54279
   },
   {
     "code": "M68_1",
@@ -1302,6 +1342,14 @@
     "parentCode": "M137",
     "lat": 22.194395,
     "lng": 113.53563
+  },
+  {
+    "code": "M137_2",
+    "nameCht": "內港客運碼頭",
+    "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO INTERIOR",
+    "parentCode": "M137",
+    "lat": 22.194738,
+    "lng": 113.535781
   },
   {
     "code": "M138_1",
@@ -1948,8 +1996,8 @@
     "nameCht": "下環街市",
     "namePor": "MERCADO DE S. LOURENÇO",
     "parentCode": "M189",
-    "lat": 22.191046,
-    "lng": 113.534799
+    "lat": 22.191196,
+    "lng": 113.534507
   },
   {
     "code": "M190_1",
@@ -2264,12 +2312,12 @@
     "lng": 113.550242
   },
   {
-    "code": "M229_3",
+    "code": "M229_1",
     "nameCht": "三角花園",
     "namePor": "JARDIM TRIANGULAR",
     "parentCode": "M229",
-    "lat": 22.210332,
-    "lng": 113.548266
+    "lat": 22.210594,
+    "lng": 113.548308
   },
   {
     "code": "M230_1",
@@ -2334,6 +2382,14 @@
     "parentCode": "M237",
     "lat": 22.198035,
     "lng": 113.544548
+  },
+  {
+    "code": "M238_1",
+    "nameCht": "黑沙環海邊馬路",
+    "namePor": "EST. MARGINAL DAAREIA PRETA",
+    "parentCode": "M238",
+    "lat": 22.207554,
+    "lng": 113.553553
   },
   {
     "code": "M239_1",
@@ -2424,6 +2480,14 @@
     "lng": 113.555824
   },
   {
+    "code": "M248_1",
+    "nameCht": "關閘東側上落客區",
+    "namePor": "ZONA P / PASSAGEIROS-ESTE P. DO CERCO",
+    "parentCode": "M248",
+    "lat": 22.215978,
+    "lng": 113.549825
+  },
+  {
     "code": "M249_1",
     "nameCht": "新口岸/馬德里街",
     "namePor": "NAPE / RUA DE MADRID",
@@ -2457,11 +2521,11 @@
   },
   {
     "code": "M253_1",
-    "nameCht": "宋玉生廣場",
-    "namePor": "AL. DR. C. D’ASSUMPÇÃO",
+    "nameCht": "宋玉生廣場/建興龍",
+    "namePor": "AL. DR. C. D’ASSUMPÇÃO / KIN HENG LONG",
     "parentCode": "M253",
-    "lat": 22.189136,
-    "lng": 113.551093
+    "lat": 22.189126,
+    "lng": 113.551097
   },
   {
     "code": "M254_1",
@@ -2502,6 +2566,14 @@
     "parentCode": "M257",
     "lat": 22.187596,
     "lng": 113.554219
+  },
+  {
+    "code": "M258_1",
+    "nameCht": "宋玉生廣場/東南亞",
+    "namePor": "AL. DR. C. D’ASSUMPÇÃO / TONG NAM AH",
+    "parentCode": "M258",
+    "lat": 22.188452,
+    "lng": 113.551385
   },
   {
     "code": "M259_1",
@@ -2617,11 +2689,11 @@
   },
   {
     "code": "M273_1",
-    "nameCht": "青葱大廈",
-    "namePor": "EDIFÍCIO CHENG CHONG",
+    "nameCht": "青茂/青葱大廈",
+    "namePor": "QINGMAO / EDIFÍCIO CHENG CHONG",
     "parentCode": "M273",
-    "lat": 22.212433,
-    "lng": 113.541201
+    "lat": 22.212434,
+    "lng": 113.541181
   },
   {
     "code": "M274_1",
@@ -3024,6 +3096,14 @@
     "lng": 113.547791
   },
   {
+    "code": "T331_1",
+    "nameCht": "美景花園",
+    "namePor": "EDF. MEI KENG GARDEN",
+    "parentCode": "T331",
+    "lat": 22.156639,
+    "lng": 113.553356
+  },
+  {
     "code": "T332_1",
     "nameCht": "南新花園",
     "namePor": "EDF. NAM SUN",
@@ -3228,16 +3308,16 @@
     "nameCht": "路環發電廠",
     "namePor": "CENTRAL TÉRMICA DE COLOANE",
     "parentCode": "T348",
-    "lat": 22.139605,
-    "lng": 113.576523
+    "lat": 22.138606,
+    "lng": 113.574511
   },
   {
     "code": "T349_1",
     "nameCht": "路環電廠圓形地",
     "namePor": "R. DA CENTRAL TÉRMICA DE COLOANE",
     "parentCode": "T349",
-    "lat": 22.139911,
-    "lng": 113.576517
+    "lat": 22.138757,
+    "lng": 113.574373
   },
   {
     "code": "T350_1",
@@ -3281,6 +3361,14 @@
   },
   {
     "code": "T355_1",
+    "nameCht": "蓮花路停車場",
+    "namePor": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS",
+    "parentCode": "T355",
+    "lat": 22.138898,
+    "lng": 113.560792
+  },
+  {
+    "code": "T355_2",
     "nameCht": "蓮花路停車場",
     "namePor": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS",
     "parentCode": "T355",
@@ -3364,6 +3452,14 @@
     "nameCht": "排角/銀河",
     "namePor": "PAI KOK / GALAXY",
     "parentCode": "T365",
+    "lat": 22.150551,
+    "lng": 113.555097
+  },
+  {
+    "code": "T365_2",
+    "nameCht": "排角/銀河",
+    "namePor": "PAI KOK / GALAXY",
+    "parentCode": "T365",
     "lat": 22.150732,
     "lng": 113.554647
   },
@@ -3422,6 +3518,14 @@
     "parentCode": "T373",
     "lat": 22.152082,
     "lng": 113.565112
+  },
+  {
+    "code": "T373_2",
+    "nameCht": "偉龍/科技大學",
+    "namePor": "WAI LONG / M.U.S.T.",
+    "parentCode": "T373",
+    "lat": 22.151707,
+    "lng": 113.564791
   },
   {
     "code": "T374_1",
@@ -3842,7 +3946,7 @@
   {
     "code": "T429_1",
     "nameCht": "機場大馬路/科大醫院",
-    "namePor": "WAI LONG / M.U.S.T.-HOSPITAL",
+    "namePor": "AV. DO AEROPORTO / M. U. S. T.-HOSPITAL",
     "parentCode": "T429",
     "lat": 22.153213,
     "lng": 113.570171
@@ -3881,11 +3985,27 @@
   },
   {
     "code": "T434_1",
-    "nameCht": "機場大馬路/上葡京",
+    "nameCht": "'機場大馬路/上葡京",
     "namePor": "AV. DO AEROPORTO / GRAND LISBOA PALACE",
     "parentCode": "T434",
-    "lat": 22.146476,
-    "lng": 113.574561
+    "lat": 22.144942,
+    "lng": 113.575578
+  },
+  {
+    "code": "T435_1",
+    "nameCht": "溜冰路/葡京人",
+    "namePor": "RUA DA PATINAGEM / LISBOETA",
+    "parentCode": "T435",
+    "lat": 22.141272,
+    "lng": 113.572295
+  },
+  {
+    "code": "T436_1",
+    "nameCht": "'溜冰路/東亞運體育館",
+    "namePor": "RUA DA PATINAGEM / N. D. DOS J. DA ÁSIA ORIENTAL",
+    "parentCode": "T436",
+    "lat": 22.138945,
+    "lng": 113.572159
   },
   {
     "code": "T440_1",
@@ -4460,8 +4580,8 @@
     "nameCht": "仁德大馬路/護理學院",
     "namePor": "AV. DA BENEVOLÊNCIA / INSTITUTO DE ENFERMAGEM",
     "parentCode": "C700",
-    "lat": 22.13712,
-    "lng": 113.568701
+    "lat": 22.13651,
+    "lng": 113.568476
   },
   {
     "code": "M800_7",

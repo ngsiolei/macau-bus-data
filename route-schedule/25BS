@@ -1,0 +1,5 @@
+25BS,0,06:30,09:00,8-13,weekdays
+25BS,0,17:00,19:00,8-13,weekdays
+25BS,0,06:30,09:00,8-13,weekends
+25BS,0,17:00,19:00,8-13,weekends
+25BS,0,,,,holidays
