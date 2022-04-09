@@ -344,6 +344,14 @@
     "lng": 113.543532
   },
   {
+    "code": "M20_5",
+    "nameCht": "青洲坊總站",
+    "namePor": "BAIRRO DA ILHA VERDE / TERMINAL",
+    "parentCode": "M20",
+    "lat": 22.21179,
+    "lng": 113.543513
+  },
+  {
     "code": "M20_6",
     "nameCht": "青洲坊總站",
     "namePor": "BAIRRO DA ILHA VERDE / TERMINAL",
@@ -3048,14 +3056,6 @@
     "lng": 113.546209
   },
   {
-    "code": "T326_6",
-    "nameCht": "柯維納馬路",
-    "namePor": "ESTRADA GOV. A. OLIVEIRA",
-    "parentCode": "T326",
-    "lat": 22.157122,
-    "lng": 113.546412
-  },
-  {
     "code": "T327_1",
     "nameCht": "賽馬會",
     "namePor": "JOCKEY CLUB",
@@ -3436,16 +3436,16 @@
     "nameCht": "望德聖母灣馬路/軍營",
     "namePor": "EST. BAIA N. S. ESPERANÇA / QUARTEL",
     "parentCode": "T364",
-    "lat": 22.150381,
-    "lng": 113.556049
+    "lat": 22.150767,
+    "lng": 113.55498
   },
   {
     "code": "T364_2",
     "nameCht": "望德聖母灣馬路/軍營",
     "namePor": "EST. BAIA N. S. ESPERANÇA / QUARTEL",
     "parentCode": "T364",
-    "lat": 22.150653,
-    "lng": 113.555278
+    "lat": 22.150659,
+    "lng": 113.555261
   },
   {
     "code": "T365_1",
@@ -3577,11 +3577,19 @@
   },
   {
     "code": "T379_1",
+    "nameCht": "連貫公路/巴黎人花園",
+    "namePor": "EST.DO ISTMO / LE JARDIN",
+    "parentCode": "T379",
+    "lat": 22.14381,
+    "lng": 113.563716
+  },
+  {
+    "code": "T380_1",
     "nameCht": "連貫公路/倫敦人",
     "namePor": "EST.DO ISTMO / LONDONER",
-    "parentCode": "T379",
-    "lat": 22.143799,
-    "lng": 113.563716
+    "parentCode": "T380",
+    "lat": 22.146191,
+    "lng": 113.56383
   },
   {
     "code": "T385_1",
@@ -3609,11 +3617,11 @@
   },
   {
     "code": "T388_1",
-    "nameCht": "東亞運/熱帶公園",
-    "namePor": "JOGOS DA ÁSIA ORIENTAL / JARDIM TROPICAL",
+    "nameCht": "東亞運/巴黎人花園",
+    "namePor": "JOGOS DA ÁSIA ORIENTAL / LE JARDIN",
     "parentCode": "T388",
-    "lat": 22.142945,
-    "lng": 113.568604
+    "lat": 22.142956,
+    "lng": 113.568605
   },
   {
     "code": "T389_1",
@@ -3668,8 +3676,8 @@
     "nameCht": "路氹西/銀河",
     "namePor": "COTAI OESTE / GALAXY",
     "parentCode": "T397",
-    "lat": 22.143437,
-    "lng": 113.557637
+    "lat": 22.144784,
+    "lng": 113.557704
   },
   {
     "code": "T399_1",
@@ -3689,7 +3697,7 @@
   },
   {
     "code": "T401_1",
-    "nameCht": "雞勁馬路/孝思-1",
+    "nameCht": "雞頸馬路/孝思-1",
     "namePor": "EST. DA PONTA DA CABRITA / HAU SI-1",
     "parentCode": "T401",
     "lat": 22.161734,
