@@ -777,19 +777,19 @@
   },
   {
     "code": "M70_1",
-    "nameCht": "理工學院",
-    "namePor": "INSTITUTO POLITÉCNICO",
+    "nameCht": "澳門理工大學",
+    "namePor": "UNIVERSIDADE POLITÉCNICA DE MACAU",
     "parentCode": "M70",
-    "lat": 22.193398,
-    "lng": 113.551958
+    "lat": 22.193406,
+    "lng": 113.551966
   },
   {
     "code": "M71_1",
-    "nameCht": "廈門街 / 理工",
-    "namePor": "RUA DE XIAMEN / I.P.M.",
+    "nameCht": "廈門街/澳門理工大學",
+    "namePor": "RUA DE XIAMEN / U.P.M.",
     "parentCode": "M71",
-    "lat": 22.19312,
-    "lng": 113.551529
+    "lat": 22.193117,
+    "lng": 113.551519
   },
   {
     "code": "M72_1",
@@ -968,14 +968,6 @@
     "lng": 113.543151
   },
   {
-    "code": "M95_1",
-    "nameCht": "沙梨頭北街/筷子基北灣",
-    "namePor": "RUA NORTE DO PATANE / BACIA NORTE DO PATANE",
-    "parentCode": "M95",
-    "lat": 22.208544,
-    "lng": 113.54186
-  },
-  {
     "code": "M95_2",
     "nameCht": "沙梨頭北街/筷子基北灣",
     "namePor": "RUA NORTE DO PATANE / BACIA NORTE DO PATANE",
@@ -1089,19 +1081,19 @@
   },
   {
     "code": "M108_1",
-    "nameCht": "筷子基社屋",
-    "namePor": "HABITAÇÃO SOCIAL DO FAI CHI KEI",
+    "nameCht": "俾若翰街/綠楊花園",
+    "namePor": "R. DO COMANDANTE JOÃO BELO / EDF. LOK YEUNG FA YUEN",
     "parentCode": "M108",
-    "lat": 22.207446,
-    "lng": 113.540814
+    "lat": 22.207449,
+    "lng": 113.540826
   },
   {
     "code": "M108_3",
-    "nameCht": "筷子基社屋",
-    "namePor": "HABITAÇÃO SOCIAL DO FAI CHI KEI",
+    "nameCht": "俾若翰街/綠楊花園",
+    "namePor": "R. DO COMANDANTE JOÃO BELO / EDF. LOK YEUNG FA YUEN",
     "parentCode": "M108",
-    "lat": 22.207619,
-    "lng": 113.541456
+    "lat": 22.207623,
+    "lng": 113.541469
   },
   {
     "code": "M109_1",
@@ -1385,7 +1377,7 @@
   },
   {
     "code": "M140_1",
-    "nameCht": "河邊新街/ 李道巷",
+    "nameCht": "河邊新街/李道巷",
     "namePor": "ALM. SERGIO / TRAV. LIDO",
     "parentCode": "M140",
     "lat": 22.192265,
@@ -1393,7 +1385,7 @@
   },
   {
     "code": "M140_2",
-    "nameCht": "河邊新街/ 李道巷",
+    "nameCht": "河邊新街/李道巷",
     "namePor": "ALM. SERGIO / TRAV. LIDO",
     "parentCode": "M140",
     "lat": 22.192307,
@@ -1537,7 +1529,7 @@
   },
   {
     "code": "M154_1",
-    "nameCht": "友誼馬路/ 海景花園",
+    "nameCht": "友誼馬路/海景花園",
     "namePor": "AV.AMIZADE / PRACETA DE MIRAMAR",
     "parentCode": "M154",
     "lat": 22.19214,
@@ -1968,6 +1960,14 @@
     "lng": 113.533293
   },
   {
+    "code": "M185_1",
+    "nameCht": "凱泉灣總站",
+    "namePor": "RIVIERA MACAU / TERMINAL",
+    "parentCode": "M185",
+    "lat": 22.190865,
+    "lng": 113.533086
+  },
+  {
     "code": "M185_2",
     "nameCht": "凱泉灣總站",
     "namePor": "RIVIERA MACAU / TERMINAL",
@@ -2190,6 +2190,14 @@
     "parentCode": "M211",
     "lat": 22.213351,
     "lng": 113.537704
+  },
+  {
+    "code": "M213_1",
+    "nameCht": "俾若翰街/快富樓",
+    "namePor": "R. DO COMANDANTE JOÃO BELO / EDF. FAI FU",
+    "parentCode": "M213",
+    "lat": 22.206768,
+    "lng": 113.538277
   },
   {
     "code": "M214_1",
@@ -3649,7 +3657,7 @@
   },
   {
     "code": "T394_1",
-    "nameCht": "新城大馬路 / 威尼斯人",
+    "nameCht": "新城大馬路/威尼斯人",
     "namePor": "AV. CIDADE NOVA / VENETIAN",
     "parentCode": "T394",
     "lat": 22.148796,
@@ -3657,7 +3665,7 @@
   },
   {
     "code": "T395_1",
-    "nameCht": "新城大馬路 / 銀河",
+    "nameCht": "新城大馬路/銀河",
     "namePor": "AV. CIDADE NOVA / GALAXY",
     "parentCode": "T395",
     "lat": 22.148813,
@@ -3800,6 +3808,14 @@
     "lng": 113.561366
   },
   {
+    "code": "T408_12",
+    "nameCht": "湖畔大廈",
+    "namePor": "EDIFÍCIO DO LAGO",
+    "parentCode": "T408",
+    "lat": 22.158573,
+    "lng": 113.561251
+  },
+  {
     "code": "T409_1",
     "nameCht": "湖畔公園",
     "namePor": "JARDIM DO LAGO",
@@ -3921,7 +3937,7 @@
   },
   {
     "code": "T425_1",
-    "nameCht": "海濱圓形地 / 西堤馬路",
+    "nameCht": "海濱圓形地/西堤馬路",
     "namePor": "ROTUNDA MARGINAL / EST. DO DIQUE OESTE",
     "parentCode": "T425",
     "lat": 22.141078,
@@ -4284,8 +4300,8 @@
     "nameCht": "竹灣馬路-1",
     "namePor": "EST. CHEOC VAN-1",
     "parentCode": "C666",
-    "lat": 22.114168,
-    "lng": 113.560143
+    "lat": 22.114545,
+    "lng": 113.561038
   },
   {
     "code": "C667_1",
@@ -4585,10 +4601,10 @@
   },
   {
     "code": "C700_1",
-    "nameCht": "仁德大馬路/護理學院",
-    "namePor": "AV. DA BENEVOLÊNCIA / INSTITUTO DE ENFERMAGEM",
+    "nameCht": "澳門鏡湖護理學院",
+    "namePor": "Instituto de Enfermagem Kiang Wu de Macau",
     "parentCode": "C700",
-    "lat": 22.13651,
+    "lat": 22.136499,
     "lng": 113.568476
   },
   {

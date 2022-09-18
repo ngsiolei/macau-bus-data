@@ -1,3 +1,6 @@
-71S,0,08:00,09:00,,weekdays
+71S,0,08:20,08:35,15,weekdays
 71S,0,,,,weekends
 71S,0,,,,holidays
+71S,1,07:45,09:15,15,weekdays
+71S,1,,,,weekends
+71S,1,,,,holidays

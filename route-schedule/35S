@@ -1,0 +1,5 @@
+35S,0,07:00,10:00,10-15,weekdays
+35S,0,15:00,20:00,10-15,weekdays
+35S,0,20:00,22:30,25-30,weekdays
+35S,0,,,,weekends
+35S,0,,,,holidays
