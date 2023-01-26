@@ -32,14 +32,6 @@
     "lng": 113.549034
   },
   {
-    "code": "M1_7",
-    "nameCht": "關閘總站",
-    "namePor": "PORTAS DO CERCO / TERMINAL",
-    "parentCode": "M1",
-    "lat": 22.215043,
-    "lng": 113.549062
-  },
-  {
     "code": "M1_9",
     "nameCht": "關閘總站",
     "namePor": "PORTAS DO CERCO / TERMINAL",
@@ -96,28 +88,44 @@
     "lng": 113.548675
   },
   {
-    "code": "M2_3",
+    "code": "M2_1",
     "nameCht": "東方明珠總站",
     "namePor": "PÉROLA ORIENTAL / TERMINAL",
     "parentCode": "M2",
-    "lat": 22.210564,
-    "lng": 113.556982
+    "lat": 22.210456,
+    "lng": 113.556993
   },
   {
     "code": "M3_1",
-    "nameCht": "媽閣總站",
-    "namePor": "BARRA / TERMINAL",
+    "nameCht": "媽閣交通樞紐",
+    "namePor": "CENTRO MODAL DE TRANSPORTES DA BARRA",
     "parentCode": "M3",
-    "lat": 22.185999,
-    "lng": 113.529679
+    "lat": 22.183887,
+    "lng": 113.530029
   },
   {
     "code": "M3_2",
-    "nameCht": "媽閣總站",
-    "namePor": "BARRA / TERMINAL",
+    "nameCht": "媽閣交通樞紐",
+    "namePor": "CENTRO MODAL DE TRANSPORTES DA BARRA",
     "parentCode": "M3",
-    "lat": 22.186065,
-    "lng": 113.529718
+    "lat": 22.184021,
+    "lng": 113.530042
+  },
+  {
+    "code": "M3_3",
+    "nameCht": "媽閣交通樞紐",
+    "namePor": "CENTRO MODAL DE TRANSPORTES DA BARRA",
+    "parentCode": "M3",
+    "lat": 22.184159,
+    "lng": 113.530055
+  },
+  {
+    "code": "M3_4",
+    "nameCht": "媽閣交通樞紐",
+    "namePor": "CENTRO MODAL DE TRANSPORTES DA BARRA",
+    "parentCode": "M3",
+    "lat": 22.18427,
+    "lng": 113.530066
   },
   {
     "code": "M4_1",
@@ -1968,14 +1976,6 @@
     "lng": 113.533086
   },
   {
-    "code": "M185_2",
-    "nameCht": "凱泉灣總站",
-    "namePor": "RIVIERA MACAU / TERMINAL",
-    "parentCode": "M185",
-    "lat": 22.190808,
-    "lng": 113.533116
-  },
-  {
     "code": "M186_2",
     "nameCht": "河邊新街/貨倉巷",
     "namePor": "ALM. SÉRGIO / TRV. DOS ARMAZÉNS",
@@ -2072,9 +2072,25 @@
     "lng": 113.530775
   },
   {
+    "code": "M198_1",
+    "nameCht": "西灣湖景大馬路/媽閣碼頭",
+    "namePor": "AV. PANORÂMICA DO LAGO SAI VAN / PONTE-CAIS DA BARRA",
+    "parentCode": "M198",
+    "lat": 22.186017,
+    "lng": 113.529688
+  },
+  {
+    "code": "M198_2",
+    "nameCht": "西灣湖景大馬路/媽閣碼頭",
+    "namePor": "AV. PANORÂMICA DO LAGO SAI VAN / PONTE-CAIS DA BARRA",
+    "parentCode": "M198",
+    "lat": 22.18608,
+    "lng": 113.529728
+  },
+  {
     "code": "M199_1",
     "nameCht": "南灣湖景大馬路",
-    "namePor": "AVENIDA PANORAMICA DO LAGO NAM VAN",
+    "namePor": "AVENIDA PANORÂMICA DO LAGO NAM VAN",
     "parentCode": "M199",
     "lat": 22.186805,
     "lng": 113.537922
@@ -3128,14 +3144,6 @@
     "lng": 113.549955
   },
   {
-    "code": "T333_1",
-    "nameCht": "北安病毒核酸檢測站",
-    "namePor": "POSTO DE TESTES VIRAIS DE ÁCIDO NUCLEICO / PAC ON",
-    "parentCode": "T333",
-    "lat": 22.164317,
-    "lng": 113.57293
-  },
-  {
     "code": "T334_1",
     "nameCht": "海洋花園/紫荊苑",
     "namePor": "JARDINS DO OCEANO / BAUHINA COURT",
@@ -3360,7 +3368,7 @@
     "lng": 113.552428
   },
   {
-    "code": "T354_1",
+    "code": "T354_2",
     "nameCht": "北安出入境事務大樓",
     "namePor": "EDIFÍCIO DE SERVIÇOS DE MIGRAÇÃO / PAC ON",
     "parentCode": "T354",
@@ -3418,7 +3426,7 @@
   {
     "code": "T359_1",
     "nameCht": "蓮花圓形地",
-    "namePor": "ROTUNDA FLOR DE LOTUS",
+    "namePor": "ROTUNDA FLOR DE LÓTUS",
     "parentCode": "T359",
     "lat": 22.140883,
     "lng": 113.563572
@@ -3438,6 +3446,22 @@
     "parentCode": "T361",
     "lat": 22.155425,
     "lng": 113.552464
+  },
+  {
+    "code": "T363_1",
+    "nameCht": "連貫公路/威尼斯人",
+    "namePor": "EST. DO ISTMO / VENETIAN",
+    "parentCode": "T363",
+    "lat": 22.149228,
+    "lng": 113.56373
+  },
+  {
+    "code": "T363_2",
+    "nameCht": "連貫公路/威尼斯人",
+    "namePor": "EST. DO ISTMO / VENETIAN",
+    "parentCode": "T363",
+    "lat": 22.149462,
+    "lng": 113.563742
   },
   {
     "code": "T364_1",
@@ -3598,6 +3622,14 @@
     "parentCode": "T380",
     "lat": 22.146191,
     "lng": 113.56383
+  },
+  {
+    "code": "T384_1",
+    "nameCht": "蓮花路/體育館馬路",
+    "namePor": "EST. F. DE LÓTUS / AV. DA NAVE DESPORTIVA",
+    "parentCode": "T384",
+    "lat": 22.138612,
+    "lng": 113.567497
   },
   {
     "code": "T385_1",
@@ -4009,7 +4041,7 @@
   },
   {
     "code": "T434_1",
-    "nameCht": "'機場大馬路/上葡京",
+    "nameCht": "機場大馬路/上葡京",
     "namePor": "AV. DO AEROPORTO / GRAND LISBOA PALACE",
     "parentCode": "T434",
     "lat": 22.144942,
@@ -4025,7 +4057,7 @@
   },
   {
     "code": "T436_1",
-    "nameCht": "'溜冰路/東亞運體育館",
+    "nameCht": "溜冰路/東亞運體育館",
     "namePor": "RUA DA PATINAGEM / N. D. DOS J. DA ÁSIA ORIENTAL",
     "parentCode": "T436",
     "lat": 22.138945,
@@ -4192,6 +4224,14 @@
     "lng": 113.558738
   },
   {
+    "code": "C653_1",
+    "nameCht": "金峰南岸/金譽峰",
+    "namePor": "ONE OASIS / MAHOGANY TOWER",
+    "parentCode": "C653",
+    "lat": 22.128164,
+    "lng": 113.558597
+  },
+  {
     "code": "C653_2",
     "nameCht": "金峰南岸/金譽峰",
     "namePor": "ONE OASIS / MAHOGANY TOWER",
@@ -4201,11 +4241,27 @@
   },
   {
     "code": "C654_1",
-    "nameCht": "聯生圓形地",
-    "namePor": "ROTUNDA DA CONCÓRDIA",
+    "nameCht": "聯生圓形地總站",
+    "namePor": "ROTUNDA DA CONCÓRDIA / TERMINAL",
     "parentCode": "C654",
-    "lat": 22.124849,
-    "lng": 113.554357
+    "lat": 22.125589,
+    "lng": 113.554964
+  },
+  {
+    "code": "C654_2",
+    "nameCht": "聯生圓形地總站",
+    "namePor": "ROTUNDA DA CONCÓRDIA / TERMINAL",
+    "parentCode": "C654",
+    "lat": 22.1257,
+    "lng": 113.554917
+  },
+  {
+    "code": "C654_3",
+    "nameCht": "聯生圓形地總站",
+    "namePor": "ROTUNDA DA CONCÓRDIA / TERMINAL",
+    "parentCode": "C654",
+    "lat": 22.125851,
+    "lng": 113.554931
   },
   {
     "code": "C655_1",
@@ -4324,8 +4380,16 @@
     "nameCht": "黑沙海灘",
     "namePor": "PRAIA DE HAC SÁ",
     "parentCode": "C669",
-    "lat": 22.11878,
-    "lng": 113.569353
+    "lat": 22.118268,
+    "lng": 113.569365
+  },
+  {
+    "code": "C669_2",
+    "nameCht": "黑沙海灘",
+    "namePor": "PRAIA DE HAC SÁ",
+    "parentCode": "C669",
+    "lat": 22.118717,
+    "lng": 113.569355
   },
   {
     "code": "C670_1",
@@ -4438,14 +4502,6 @@
     "parentCode": "C683",
     "lat": 22.131694,
     "lng": 113.558077
-  },
-  {
-    "code": "C684_1",
-    "nameCht": "聯生工業邨",
-    "namePor": "PARQUE INDUSTRIAL DA CONCÓRDIA",
-    "parentCode": "C684",
-    "lat": 22.126408,
-    "lng": 113.557275
   },
   {
     "code": "C685_1",
